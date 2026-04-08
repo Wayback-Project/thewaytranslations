@@ -1,0 +1,67 @@
+{
+  "generatedAtUtc": "2026-04-08 15:35:47 UTC",
+  "rows": [
+    {
+      "path": "original-documents/genesis_restorative_translation.txt",
+      "lines": 1634,
+      "YHWH": 168,
+      "Elohim": 225,
+      "God": 0,
+      "LORD": 0,
+      "Cosmic Parent": 0,
+      "Father": 0,
+      "repent*": 0,
+      "relent*": 0,
+      "turn back*": 0,
+      "Wisdom": 0,
+      "Ruach": 3,
+      "Ruach she": 1
+    },
+    {
+      "path": "original-documents/exodus_to_ecclesiastes_restorative_translation.txt",
+      "lines": 17247,
+      "YHWH": 4512,
+      "Elohim": 2055,
+      "God": 0,
+      "LORD": 0,
+      "Cosmic Parent": 1,
+      "Father": 0,
+      "repent*": 0,
+      "relent*": 9,
+      "turn back*": 14,
+      "Wisdom": 11,
+      "Ruach": 27,
+      "Ruach she": 0
+    },
+    {
+      "path": "original-documents/rest_of_old_testament_restorative_translation.txt",
+      "lines": 6123,
+      "YHWH": 2160,
+      "Elohim": 411,
+      "God": 0,
+      "LORD": 0,
+      "Cosmic Parent": 6,
+      "Father": 0,
+      "repent*": 0,
+      "relent*": 17,
+      "turn back*": 5,
+      "Wisdom": 0,
+      "Ruach": 0,
+      "Ruach she": 0
+    }
+  ],
+  "patterns": [
+    "YHWH",
+    "Elohim",
+    "God",
+    "LORD",
+    "Cosmic Parent",
+    "Father",
+    "repent*",
+    "relent*",
+    "turn back*",
+    "Wisdom",
+    "Ruach",
+    "Ruach she"
+  ]
+}
