@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>The Way Translation Export Tools</title>
+    <style>
+      body { font-family: Arial, sans-serif; margin: 2rem; line-height: 1.4; }
+      h1 { margin-bottom: 0.25rem; }
+      .muted { color: #555; margin-top: 0; }
+      .panel { border: 1px solid #ddd; border-radius: 8px; padding: 1rem; margin: 1rem 0; }
+      button { margin: 0.25rem 0.5rem 0.25rem 0; padding: 0.6rem 1rem; cursor: pointer; }
+      #log { background: #f7f7f7; border: 1px solid #ddd; border-radius: 6px; padding: 0.75rem; white-space: pre-wrap; min-height: 120px; }
+      code { background: #f2f2f2; padding: 0.05rem 0.25rem; border-radius: 3px; }
+    </style>
+  </head>
+  <body>
+    <h1>The Way Translation — Export Tools</h1>
+    <p class="muted">Browser-only JavaScript tools for TXT ➜ JSON, TXT ➜ eBook text, JSON ➜ normalized JSON, and book-folder ZIP export.</p>
+
+    <div class="panel">
+      <h2>1) Load Source Files</h2>
+      <p>Preferred: serve this repo in a local web server so the app can auto-read <code>working-documents/*.txt</code>. If auto-read fails, pick the files manually:</p>
+      <input id="fileInput" type="file" multiple accept=".txt,.json" />
+      <button id="loadKnown">Load Known TXT Files Automatically</button>
+    </div>
+
+    <div class="panel">
+      <h2>2) Run Exports</h2>
+      <button id="exportJsonBtn">Export Publishing JSON (single file)</button>
+      <button id="exportEbookBtn">Export eBook Plain Text (single file)</button>
+      <button id="exportZipBtn">Export Book Folders ZIP (eBook text)</button>
+      <button id="convertJsonBtn">Convert Uploaded JSON ➜ Publishing JSON</button>
+    </div>
+
+    <div class="panel">
+      <h2>Log</h2>
+      <div id="log">Ready.</div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/jszip@3.10.1/dist/jszip.min.js"></script>
+    <script src="./script.js"></script>
+  </body>
+</html>
