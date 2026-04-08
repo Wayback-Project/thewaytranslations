@@ -1,14 +1,14 @@
 (function () {
   const KNOWN_TXT_FILES = [
-    '../../working-documents/genesis_restorative_translation.txt',
-    '../../working-documents/exodus_to_ecclesiastes_restorative_translation.txt',
-    '../../working-documents/rest_of_old_testament_restorative_translation.txt',
-    '../../working-documents/matthew_restorative_translation.txt',
-    '../../working-documents/mark_restorative_translation.txt',
-    '../../working-documents/luke_restorative_translation.txt',
-    '../../working-documents/john_restorative_translation.txt',
-    '../../working-documents/acts_restorative_translation.txt',
-    '../../working-documents/rest_of_new_testament_restorative_translation.txt'
+    '../../original-documents/genesis_restorative_translation.txt',
+    '../../original-documents/exodus_to_ecclesiastes_restorative_translation.txt',
+    '../../original-documents/rest_of_old_testament_restorative_translation.txt',
+    '../../original-documents/matthew_restorative_translation.txt',
+    '../../original-documents/mark_restorative_translation.txt',
+    '../../original-documents/luke_restorative_translation.txt',
+    '../../original-documents/john_restorative_translation.txt',
+    '../../original-documents/acts_restorative_translation.txt',
+    '../../original-documents/rest_of_new_testament_restorative_translation.txt'
   ];
 
   const state = {

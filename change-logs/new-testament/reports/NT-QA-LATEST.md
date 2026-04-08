@@ -1,6 +1,6 @@
 # NT QA Latest (Local, No-DB)
 
-Generated: 2026-04-08 12:03:45 UTC
+Generated: 2026-04-08 12:18:01 UTC
 
 | Group | Lines | reign of the heavens | turn back | Yeshua | Elohim | Ruach | rope | camel | Lord | assembly | church |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|

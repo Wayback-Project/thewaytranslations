@@ -3,6 +3,14 @@
 > **This is a new project and several areas still need to be addressed.**
 > What is here now is a starting point, and we welcome feedback, review, and collaboration as the project evolves.
 
+## Current Version (Primary Link)
+
+- Current EPUB: `current-form-documents/the-way-current.epub`
+
+## Initial generation note
+
+The initial repository draft was generated with AI (Codex GPT-5.3 profile) and is being iteratively reviewed and corrected through editor-guided workflow.
+
 ## Project Purpose
 
 This repository is building a restorative Bible translation workflow that keeps source-language texture visible in English while producing practical export formats for publishing and distribution.
@@ -18,8 +26,9 @@ Key commitments:
 - for later writings with strong Greek textual grounding (for example, Pauline material), acknowledge that shift and use Greek-critical evidence as primary while still documenting Aramaic comparators
 
 The repository currently includes:
-- source working text files
-- generated publication artifacts
+- source text files in `original-documents/`
+- current active outputs in `current-form-documents/`
+- timestamped output history in `rendered-documents-history/`
 - a browser-based export/conversion tool
 - a translation skill prompt (`skill/SKILL.md`) that defines translation behavior
 
@@ -42,7 +51,7 @@ It is effectively the project’s translation policy and style guide for how pas
 This project currently uses a simple transaction flow from source text to generated outputs:
 
 1. **Source Input Transaction**
-   - Human-curated `.txt` source files are placed in `working-documents/`.
+   - Human-curated `.txt` source files are placed in `original-documents/`.
    - Files are organized in large canonical groupings (Torah/history/NT chunks, etc.) for manageable editing.
 
 2. **Parsing & Normalization Transaction**
@@ -54,8 +63,10 @@ This project currently uses a simple transaction flow from source text to genera
    - Plain-text eBook export (`way-translation-ebook.txt` shape).
    - Book/chapter folder ZIP export for distribution pipelines.
 
-4. **Generated Artifact Transaction**
-   - Outputs are written into `generated-documents/` (single-file exports and per-book/chapter files).
+4. **Render + Current Transaction**
+   - The newest active render is written to `current-form-documents/` (current canonical output, EPUB-first).
+   - Before replacing current output, the previous current output is copied into `rendered-documents-history/<UTC timestamp>/`.
+   - Each history write is logged in `rendered-documents-history/LOG.md`.
 
 This transaction model is intentionally lightweight right now and is expected to mature with validation, provenance tracking, and automated checks.
 
@@ -65,7 +76,7 @@ This transaction model is intentionally lightweight right now and is expected to
 - Contains `SKILL.md`, the translation behavior specification.
 - Why: keeps the translation rules explicit, reusable, and reviewable.
 
-### `working-documents/`
+### `original-documents/`
 - Human-editable source translation text files.
 - Why: this is the active drafting workspace before structured export.
 
@@ -75,13 +86,24 @@ This transaction model is intentionally lightweight right now and is expected to
 - `tools/scripts/script.js`: parsing, merge, normalization, and export logic.
 - Why: gives a simple no-build, local workflow for contributors.
 
-### `generated-documents/`
-- Generated outputs for downstream use.
-- Includes:
-  - consolidated publishing JSON
-  - consolidated eBook plain text
-  - per-book/per-chapter text layout under `generated-documents/books/`
-- Why: separates generated artifacts from editable source drafts.
+### `current-form-documents/`
+- Current active output set.
+- Current policy: keep the latest whole-project EPUB here.
+- Why: one stable location for the latest canonical render.
+
+### `rendered-documents-history/`
+- Timestamped history of prior renders.
+- Each snapshot lives under UTC folder names like `YYYY-MM-DD_HHMMUTC/`.
+- Includes `README.md` and `LOG.md` to track what changed and why.
+- Why: preserves historical render traceability without requiring a database.
+
+## Render Workflow (Required)
+
+1. Edit source text in `original-documents/`.
+2. Produce/update current render in `current-form-documents/`.
+3. Before replacing current render, archive prior current render to `rendered-documents-history/<UTC timestamp>/`.
+4. Append snapshot entry to `rendered-documents-history/LOG.md`.
+5. Keep `current-form-documents/the-way-current.epub` as the primary user-facing artifact.
 
 ## Current Execution Framework
 
@@ -109,7 +131,7 @@ Some high-value next steps:
 - automated validation of verse ordering and completeness
 - repeatable CLI build/export pipeline (in addition to browser tools)
 - provenance metadata (source version, generator version, date, commit)
-- QA checks for formatting drift across working documents
+- QA checks for formatting drift across original documents
 - contributor workflow hardening (templates, checks, review conventions)
 
 ## Collaboration Instructions (Standard)
@@ -124,7 +146,7 @@ We welcome constructive collaboration. To keep contributions clean and reviewabl
    - Include before/after examples when changing parsing or output format behavior.
 
 3. **Preserve source integrity**
-   - Do not silently rewrite large sections of `working-documents/` without documenting why.
+   - Do not silently rewrite large sections of `original-documents/` without documenting why.
    - Keep naming/format conventions consistent (`Book Chapter`, `Verse. text`).
 
 4. **Document behavior changes**

@@ -5,5 +5,5 @@
 - Change: Added this book to NT logging framework and assigned track `Greek-priority acknowledged`.
 - Rationale: Enforce explicit discernment and reproducible review path.
 - Source track: Greek-priority acknowledged
-- Impacted files: working-documents/rest_of_new_testament_restorative_translation.txt, change-logs/new-testament/INDEX.md
+- Impacted files: original-documents/rest_of_new_testament_restorative_translation.txt, change-logs/new-testament/INDEX.md
 - Reviewer status: complete (pass 1)

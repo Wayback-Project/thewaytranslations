@@ -8,12 +8,12 @@ OUT_MD = ROOT / 'change-logs/new-testament/reports/NT-QA-LATEST.md'
 OUT_JSON = ROOT / 'change-logs/new-testament/reports/NT-QA-LATEST.json'
 
 FILES = [
-    ('Matthew', ROOT / 'working-documents/matthew_restorative_translation.txt'),
-    ('Mark', ROOT / 'working-documents/mark_restorative_translation.txt'),
-    ('Luke', ROOT / 'working-documents/luke_restorative_translation.txt'),
-    ('John', ROOT / 'working-documents/john_restorative_translation.txt'),
-    ('Acts', ROOT / 'working-documents/acts_restorative_translation.txt'),
-    ('RestOfNT', ROOT / 'working-documents/rest_of_new_testament_restorative_translation.txt'),
+    ('Matthew', ROOT / 'original-documents/matthew_restorative_translation.txt'),
+    ('Mark', ROOT / 'original-documents/mark_restorative_translation.txt'),
+    ('Luke', ROOT / 'original-documents/luke_restorative_translation.txt'),
+    ('John', ROOT / 'original-documents/john_restorative_translation.txt'),
+    ('Acts', ROOT / 'original-documents/acts_restorative_translation.txt'),
+    ('RestOfNT', ROOT / 'original-documents/rest_of_new_testament_restorative_translation.txt'),
 ]
 
 TERMS = [

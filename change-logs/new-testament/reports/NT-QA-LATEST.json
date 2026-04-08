@@ -1,9 +1,9 @@
 {
-  "generatedAtUtc": "2026-04-08 12:03:45 UTC",
+  "generatedAtUtc": "2026-04-08 12:18:01 UTC",
   "rows": [
     {
       "bookGroup": "Matthew",
-      "path": "working-documents/matthew_restorative_translation.txt",
+      "path": "original-documents/matthew_restorative_translation.txt",
       "lines": 1126,
       "termCounts": {
         "reign of the heavens": 32,
@@ -20,7 +20,7 @@
     },
     {
       "bookGroup": "Mark",
-      "path": "working-documents/mark_restorative_translation.txt",
+      "path": "original-documents/mark_restorative_translation.txt",
       "lines": 709,
       "termCounts": {
         "reign of the heavens": 0,
@@ -37,7 +37,7 @@
     },
     {
       "bookGroup": "Luke",
-      "path": "working-documents/luke_restorative_translation.txt",
+      "path": "original-documents/luke_restorative_translation.txt",
       "lines": 1198,
       "termCounts": {
         "reign of the heavens": 0,
@@ -54,7 +54,7 @@
     },
     {
       "bookGroup": "John",
-      "path": "working-documents/john_restorative_translation.txt",
+      "path": "original-documents/john_restorative_translation.txt",
       "lines": 920,
       "termCounts": {
         "reign of the heavens": 0,
@@ -71,7 +71,7 @@
     },
     {
       "bookGroup": "Acts",
-      "path": "working-documents/acts_restorative_translation.txt",
+      "path": "original-documents/acts_restorative_translation.txt",
       "lines": 1062,
       "termCounts": {
         "reign of the heavens": 0,
@@ -88,7 +88,7 @@
     },
     {
       "bookGroup": "RestOfNT",
-      "path": "working-documents/rest_of_new_testament_restorative_translation.txt",
+      "path": "original-documents/rest_of_new_testament_restorative_translation.txt",
       "lines": 3476,
       "termCounts": {
         "reign of the heavens": 0,
