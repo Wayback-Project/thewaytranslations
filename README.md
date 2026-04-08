@@ -47,6 +47,9 @@ To make the approach immediately understandable, these are major active shifts i
 6. **Transparent change governance**
    - ongoing edits documented in `editor-notes/` and `change-logs/` with rationale and timestamps.
 
+7. **Terminology harmonization in active pass**
+   - NT spiritual-language alignment now uses `reigning presence` (instead of `kingdom`) and `community/assembly` (instead of `church`) in active corpus scope.
+
 The repository currently includes:
 - source text files in `original-documents/`
 - current active outputs in `current-form-documents/`
@@ -155,6 +158,7 @@ For intent and exact search over the corpus, use the SurrealDB workflow:
 - Guide: `tools/surreal-search/README.md`
 - OpenClaw skill guide: `skills/openclaw-surreal-search/SKILL.md`
 - Test results: `change-logs/new-testament/reports/SURREAL-SEARCH-TEST-RESULTS-2026-04-08.md`
+- Connection key template: `tools/surreal-search/.env.example`
 
 This solves the practical problem of quickly answering questions like:
 - "show 50 verses with Elohim"
