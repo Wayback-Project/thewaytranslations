@@ -84,7 +84,8 @@ This transaction model is intentionally lightweight right now and is expected to
 - Browser-based utility for loading source files and exporting transformed artifacts.
 - `tools/scripts/index.html`: UI shell.
 - `tools/scripts/script.js`: parsing, merge, normalization, and export logic.
-- Why: gives a simple no-build, local workflow for contributors.
+- `tools/surreal-search/`: SurrealDB graph+vector+temporal search workflow.
+- Why: gives a simple no-build workflow for exports and a fast local search stack for large-corpus retrieval.
 
 ### `current-form-documents/`
 - Current active output set.
@@ -124,6 +125,27 @@ python3 tools/local/nt_changelog_report.py
 This writes:
 - `change-logs/new-testament/reports/NT-QA-LATEST.md`
 - `change-logs/new-testament/reports/NT-QA-LATEST.json`
+
+## Surreal Search (Fast Local Retrieval)
+
+For intent and exact search over the corpus, use the SurrealDB workflow:
+
+- Guide: `tools/surreal-search/README.md`
+- OpenClaw skill guide: `skills/openclaw-surreal-search/SKILL.md`
+- Test results: `change-logs/new-testament/reports/SURREAL-SEARCH-TEST-RESULTS-2026-04-08.md`
+
+This solves the practical problem of quickly answering questions like:
+- "show 50 verses with Elohim"
+- "where is YHWH used without Elohim"
+- "who was the disciple who did X, and where"
+
+Quick demo commands:
+
+```bash
+npm --prefix tools/surreal-search run ingest
+npm --prefix tools/surreal-search run demo
+npm --prefix tools/surreal-search run query -- "who was the disciple who denied and wept"
+```
 
 ## Current Gaps / Areas to Address Next
 

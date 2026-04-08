@@ -1,3 +1,5 @@
 .DS_Store
 npm_modules/
 /.DS_Store
+.surreal/
+tools/surreal-search/node_modules/

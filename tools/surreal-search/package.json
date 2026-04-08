@@ -1,0 +1,13 @@
+{
+  "name": "way-surreal-search",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "ingest": "node ingest.mjs",
+    "query": "node query.mjs",
+    "demo": "node demo.mjs"
+  },
+  "dependencies": {
+    "surrealdb": "^2.0.3"
+  }
+}
