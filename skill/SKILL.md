@@ -535,9 +535,11 @@ These additions are active for Way One workflow:
 - Apply Aramaic resonance foreground where it improves lived hearing.
 - Allow controlled translation+resonance dual output (base first, resonance second when used).
 - Use "Living Creative Vibration" (no slash variants) for John 1 active-expression terminology.
+- Normalize divine-title "Father" to "Cosmic Parent" in rollout scope, while preserving human-kinship uses (e.g., Father Abraham).
 - Keep community practice usability in mind (chant/prayer-friendly supplemental lines).
 - Do not apply multi-layer free expansion mode (#1) as default.
 - Open debate before adopting full meditative-expansion-first mode (#2).
+- Defer Pauline-and-later NT Father-term final policy to issue review before full-corpus replacement.
 
 ---
 
