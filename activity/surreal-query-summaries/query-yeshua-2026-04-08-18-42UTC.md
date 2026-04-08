@@ -1,0 +1,943 @@
+# Surreal Query Summary — Yeshua Count
+
+- Run time: 2026-04-08 18:42:23.867 UTC
+- Query: occurrences of "Yeshua" (case-insensitive substring in verse text)
+- Total matches: **933**
+
+## Verse references
+- 1 Corinthians 1:1
+- 1 Corinthians 1:10
+- 1 Corinthians 1:2
+- 1 Corinthians 1:3
+- 1 Corinthians 1:30
+- 1 Corinthians 1:4
+- 1 Corinthians 1:7
+- 1 Corinthians 1:8
+- 1 Corinthians 1:9
+- 1 Corinthians 11:23
+- 1 Corinthians 12:3
+- 1 Corinthians 15:31
+- 1 Corinthians 15:57
+- 1 Corinthians 16:22
+- 1 Corinthians 16:23
+- 1 Corinthians 16:24
+- 1 Corinthians 2:2
+- 1 Corinthians 3:11
+- 1 Corinthians 4:15
+- 1 Corinthians 5:4
+- 1 Corinthians 5:5
+- 1 Corinthians 6:11
+- 1 Corinthians 8:6
+- 1 Corinthians 9:1
+- 1 John 1:3
+- 1 John 1:7
+- 1 John 2:1
+- 1 John 2:22
+- 1 John 3:23
+- 1 John 4:15
+- 1 John 4:2
+- 1 John 4:3
+- 1 John 5:1
+- 1 John 5:20
+- 1 John 5:5
+- 1 John 5:6
+- 1 Peter 1:1
+- 1 Peter 1:13
+- 1 Peter 1:2
+- 1 Peter 1:3
+- 1 Peter 1:7
+- 1 Peter 2:5
+- 1 Peter 3:21
+- 1 Peter 4:11
+- 1 Peter 5:10
+- 1 Peter 5:14
+- 1 Thessalonians 1:1
+- 1 Thessalonians 1:10
+- 1 Thessalonians 1:3
+- 1 Thessalonians 2:14
+- 1 Thessalonians 2:15
+- 1 Thessalonians 2:19
+- 1 Thessalonians 3:11
+- 1 Thessalonians 3:13
+- 1 Thessalonians 4:1
+- 1 Thessalonians 4:14
+- 1 Thessalonians 4:2
+- 1 Thessalonians 5:18
+- 1 Thessalonians 5:23
+- 1 Thessalonians 5:28
+- 1 Thessalonians 5:9
+- 1 Timothy 1:1
+- 1 Timothy 1:12
+- 1 Timothy 1:14
+- 1 Timothy 1:15
+- 1 Timothy 1:16
+- 1 Timothy 1:2
+- 1 Timothy 2:5
+- 1 Timothy 3:13
+- 1 Timothy 4:6
+- 1 Timothy 5:21
+- 1 Timothy 6:13
+- 1 Timothy 6:14
+- 1 Timothy 6:3
+- 2 Corinthians 1:1
+- 2 Corinthians 1:14
+- 2 Corinthians 1:19
+- 2 Corinthians 1:2
+- 2 Corinthians 1:3
+- 2 Corinthians 11:31
+- 2 Corinthians 11:4
+- 2 Corinthians 13:14
+- 2 Corinthians 13:5
+- 2 Corinthians 4:10
+- 2 Corinthians 4:11
+- 2 Corinthians 4:14
+- 2 Corinthians 4:5
+- 2 Corinthians 4:6
+- 2 Corinthians 5:18
+- 2 Corinthians 8:9
+- 2 John 1:3
+- 2 John 1:7
+- 2 Peter 1:1
+- 2 Peter 1:11
+- 2 Peter 1:14
+- 2 Peter 1:16
+- 2 Peter 1:2
+- 2 Peter 1:8
+- 2 Peter 2:20
+- 2 Peter 3:18
+- 2 Thessalonians 1:1
+- 2 Thessalonians 1:12
+- 2 Thessalonians 1:2
+- 2 Thessalonians 1:7
+- 2 Thessalonians 1:8
+- 2 Thessalonians 2:1
+- 2 Thessalonians 2:14
+- 2 Thessalonians 2:16
+- 2 Thessalonians 3:12
+- 2 Thessalonians 3:18
+- 2 Thessalonians 3:6
+- 2 Timothy 1:1
+- 2 Timothy 1:10
+- 2 Timothy 1:13
+- 2 Timothy 1:2
+- 2 Timothy 1:9
+- 2 Timothy 2:1
+- 2 Timothy 2:10
+- 2 Timothy 2:3
+- 2 Timothy 2:8
+- 2 Timothy 3:12
+- 2 Timothy 3:15
+- 2 Timothy 4:1
+- 2 Timothy 4:22
+- Acts 1:1
+- Acts 1:11
+- Acts 1:14
+- Acts 1:16
+- Acts 1:21
+- Acts 10:36
+- Acts 10:38
+- Acts 10:48
+- Acts 11:17
+- Acts 11:20
+- Acts 13:33
+- Acts 13:6
+- Acts 15:11
+- Acts 15:26
+- Acts 16:18
+- Acts 16:31
+- Acts 17:18
+- Acts 17:3
+- Acts 17:7
+- Acts 18:25
+- Acts 18:28
+- Acts 18:5
+- Acts 19:10
+- Acts 19:13
+- Acts 19:15
+- Acts 19:17
+- Acts 19:4
+- Acts 19:5
+- Acts 2:22
+- Acts 2:32
+- Acts 2:36
+- Acts 2:38
+- Acts 20:21
+- Acts 20:24
+- Acts 20:35
+- Acts 21:13
+- Acts 22:8
+- Acts 24:24
+- Acts 25:19
+- Acts 26:15
+- Acts 26:9
+- Acts 28:23
+- Acts 28:31
+- Acts 3:13
+- Acts 3:20
+- Acts 3:26
+- Acts 3:6
+- Acts 4:10
+- Acts 4:13
+- Acts 4:18
+- Acts 4:2
+- Acts 4:27
+- Acts 4:30
+- Acts 4:33
+- Acts 5:30
+- Acts 5:40
+- Acts 5:41
+- Acts 5:42
+- Acts 6:14
+- Acts 7:55
+- Acts 7:59
+- Acts 8:12
+- Acts 8:16
+- Acts 8:35
+- Acts 9:27
+- Acts 9:34
+- Acts 9:5
+- Colossians 1:1
+- Colossians 1:2
+- Colossians 1:28
+- Colossians 1:3
+- Colossians 1:4
+- Colossians 2:6
+- Colossians 3:17
+- Colossians 4:11
+- Ephesians 1:1
+- Ephesians 1:15
+- Ephesians 1:17
+- Ephesians 1:2
+- Ephesians 1:3
+- Ephesians 1:5
+- Ephesians 2:10
+- Ephesians 2:13
+- Ephesians 2:20
+- Ephesians 2:6
+- Ephesians 2:7
+- Ephesians 3:1
+- Ephesians 3:11
+- Ephesians 3:14
+- Ephesians 3:21
+- Ephesians 3:6
+- Ephesians 3:9
+- Ephesians 4:21
+- Ephesians 5:20
+- Ephesians 6:23
+- Ephesians 6:24
+- Galatians 1:1
+- Galatians 1:12
+- Galatians 1:3
+- Galatians 2:16
+- Galatians 2:4
+- Galatians 3:1
+- Galatians 3:14
+- Galatians 3:22
+- Galatians 3:26
+- Galatians 3:28
+- Galatians 4:14
+- Galatians 5:6
+- Galatians 6:14
+- Galatians 6:15
+- Galatians 6:17
+- Galatians 6:18
+- Hebrews 10:10
+- Hebrews 10:19
+- Hebrews 12:2
+- Hebrews 12:24
+- Hebrews 13:12
+- Hebrews 13:20
+- Hebrews 13:21
+- Hebrews 13:8
+- Hebrews 2:9
+- Hebrews 3:1
+- Hebrews 4:14
+- Hebrews 6:20
+- Hebrews 7:22
+- James 1:1
+- James 2:1
+- John 1:17
+- John 1:29
+- John 1:36
+- John 1:37
+- John 1:38
+- John 1:42
+- John 1:43
+- John 1:45
+- John 1:47
+- John 1:48
+- John 1:50
+- John 10:23
+- John 10:25
+- John 10:32
+- John 10:34
+- John 10:6
+- John 10:7
+- John 11:13
+- John 11:14
+- John 11:17
+- John 11:20
+- John 11:21
+- John 11:23
+- John 11:25
+- John 11:30
+- John 11:32
+- John 11:33
+- John 11:35
+- John 11:38
+- John 11:39
+- John 11:4
+- John 11:40
+- John 11:41
+- John 11:44
+- John 11:45
+- John 11:46
+- John 11:5
+- John 11:51
+- John 11:54
+- John 11:56
+- John 11:9
+- John 12:1
+- John 12:11
+- John 12:12
+- John 12:14
+- John 12:16
+- John 12:21
+- John 12:22
+- John 12:23
+- John 12:3
+- John 12:30
+- John 12:35
+- John 12:36
+- John 12:44
+- John 12:7
+- John 12:9
+- John 13:1
+- John 13:10
+- John 13:21
+- John 13:23
+- John 13:25
+- John 13:26
+- John 13:27
+- John 13:29
+- John 13:3
+- John 13:31
+- John 13:36
+- John 13:38
+- John 13:7
+- John 13:8
+- John 14:23
+- John 14:6
+- John 14:9
+- John 16:19
+- John 16:31
+- John 17:1
+- John 17:3
+- John 18:1
+- John 18:11
+- John 18:12
+- John 18:15
+- John 18:19
+- John 18:2
+- John 18:20
+- John 18:22
+- John 18:23
+- John 18:28
+- John 18:32
+- John 18:33
+- John 18:34
+- John 18:36
+- John 18:37
+- John 18:4
+- John 18:5
+- John 18:7
+- John 18:8
+- John 19:1
+- John 19:11
+- John 19:13
+- John 19:16
+- John 19:18
+- John 19:20
+- John 19:23
+- John 19:25
+- John 19:26
+- John 19:28
+- John 19:30
+- John 19:33
+- John 19:38
+- John 19:39
+- John 19:40
+- John 19:42
+- John 19:5
+- John 19:9
+- John 2:1
+- John 2:11
+- John 2:13
+- John 2:19
+- John 2:2
+- John 2:22
+- John 2:24
+- John 2:3
+- John 2:4
+- John 2:7
+- John 20:12
+- John 20:14
+- John 20:15
+- John 20:16
+- John 20:17
+- John 20:19
+- John 20:2
+- John 20:21
+- John 20:24
+- John 20:26
+- John 20:29
+- John 20:30
+- John 20:31
+- John 21:1
+- John 21:10
+- John 21:12
+- John 21:13
+- John 21:14
+- John 21:15
+- John 21:17
+- John 21:20
+- John 21:21
+- John 21:22
+- John 21:23
+- John 21:25
+- John 21:4
+- John 21:5
+- John 21:7
+- John 3:10
+- John 3:22
+- John 3:3
+- John 3:5
+- John 4:1
+- John 4:10
+- John 4:13
+- John 4:16
+- John 4:17
+- John 4:2
+- John 4:21
+- John 4:26
+- John 4:34
+- John 4:44
+- John 4:46
+- John 4:47
+- John 4:48
+- John 4:50
+- John 4:53
+- John 4:54
+- John 4:6
+- John 4:7
+- John 5:1
+- John 5:13
+- John 5:14
+- John 5:15
+- John 5:16
+- John 5:17
+- John 5:19
+- John 5:6
+- John 5:8
+- John 6:1
+- John 6:10
+- John 6:11
+- John 6:14
+- John 6:15
+- John 6:17
+- John 6:19
+- John 6:22
+- John 6:24
+- John 6:26
+- John 6:29
+- John 6:3
+- John 6:32
+- John 6:35
+- John 6:42
+- John 6:43
+- John 6:5
+- John 6:53
+- John 6:61
+- John 6:64
+- John 6:67
+- John 6:70
+- John 7:1
+- John 7:14
+- John 7:16
+- John 7:21
+- John 7:28
+- John 7:33
+- John 7:37
+- John 7:39
+- John 7:6
+- John 8:1
+- John 8:10
+- John 8:11
+- John 8:12
+- John 8:14
+- John 8:19
+- John 8:20
+- John 8:21
+- John 8:25
+- John 8:28
+- John 8:31
+- John 8:34
+- John 8:39
+- John 8:42
+- John 8:49
+- John 8:54
+- John 8:58
+- John 8:59
+- John 8:6
+- John 8:9
+- John 9:11
+- John 9:14
+- John 9:3
+- John 9:35
+- John 9:37
+- John 9:39
+- John 9:41
+- Jude 1:1
+- Jude 1:17
+- Jude 1:21
+- Jude 1:4
+- Luke 1:31
+- Luke 10:21
+- Luke 10:29
+- Luke 10:30
+- Luke 10:37
+- Luke 10:39
+- Luke 10:41
+- Luke 13:12
+- Luke 13:14
+- Luke 13:2
+- Luke 14:3
+- Luke 17:13
+- Luke 17:16
+- Luke 17:17
+- Luke 18:16
+- Luke 18:19
+- Luke 18:22
+- Luke 18:24
+- Luke 18:37
+- Luke 18:38
+- Luke 18:40
+- Luke 18:42
+- Luke 19:3
+- Luke 19:35
+- Luke 19:5
+- Luke 19:9
+- Luke 2:21
+- Luke 2:27
+- Luke 2:43
+- Luke 2:52
+- Luke 20:34
+- Luke 20:8
+- Luke 21:37
+- Luke 22:47
+- Luke 22:48
+- Luke 22:51
+- Luke 22:52
+- Luke 22:57
+- Luke 22:63
+- Luke 23:20
+- Luke 23:25
+- Luke 23:26
+- Luke 23:28
+- Luke 23:34
+- Luke 23:42
+- Luke 23:43
+- Luke 23:46
+- Luke 23:52
+- Luke 23:8
+- Luke 24:15
+- Luke 24:19
+- Luke 24:3
+- Luke 24:36
+- Luke 3:21
+- Luke 3:23
+- Luke 4:1
+- Luke 4:12
+- Luke 4:14
+- Luke 4:34
+- Luke 4:35
+- Luke 4:4
+- Luke 4:8
+- Luke 5:10
+- Luke 5:12
+- Luke 5:18
+- Luke 5:19
+- Luke 5:22
+- Luke 5:31
+- Luke 5:8
+- Luke 6:11
+- Luke 6:3
+- Luke 6:9
+- Luke 7:19
+- Luke 7:22
+- Luke 7:3
+- Luke 7:4
+- Luke 7:40
+- Luke 7:6
+- Luke 7:9
+- Luke 8:27
+- Luke 8:28
+- Luke 8:29
+- Luke 8:30
+- Luke 8:35
+- Luke 8:38
+- Luke 8:39
+- Luke 8:40
+- Luke 8:41
+- Luke 8:45
+- Luke 8:46
+- Luke 8:50
+- Luke 9:33
+- Luke 9:36
+- Luke 9:41
+- Luke 9:42
+- Luke 9:43
+- Luke 9:47
+- Luke 9:50
+- Luke 9:58
+- Luke 9:60
+- Luke 9:62
+- Mark 1:1
+- Mark 1:14
+- Mark 1:17
+- Mark 1:24
+- Mark 1:25
+- Mark 1:45
+- Mark 1:9
+- Mark 10:14
+- Mark 10:18
+- Mark 10:21
+- Mark 10:23
+- Mark 10:24
+- Mark 10:27
+- Mark 10:29
+- Mark 10:32
+- Mark 10:38
+- Mark 10:39
+- Mark 10:42
+- Mark 10:47
+- Mark 10:49
+- Mark 10:5
+- Mark 10:50
+- Mark 10:51
+- Mark 10:52
+- Mark 11:11
+- Mark 11:14
+- Mark 11:15
+- Mark 11:22
+- Mark 11:29
+- Mark 11:33
+- Mark 11:6
+- Mark 11:7
+- Mark 12:17
+- Mark 12:24
+- Mark 12:29
+- Mark 12:34
+- Mark 12:35
+- Mark 12:41
+- Mark 13:2
+- Mark 13:5
+- Mark 14:18
+- Mark 14:22
+- Mark 14:27
+- Mark 14:30
+- Mark 14:48
+- Mark 14:53
+- Mark 14:55
+- Mark 14:6
+- Mark 14:60
+- Mark 14:62
+- Mark 14:67
+- Mark 14:72
+- Mark 15:1
+- Mark 15:15
+- Mark 15:34
+- Mark 15:37
+- Mark 15:43
+- Mark 15:5
+- Mark 16:19
+- Mark 16:6
+- Mark 2:15
+- Mark 2:17
+- Mark 2:19
+- Mark 2:5
+- Mark 2:8
+- Mark 3:7
+- Mark 5:13
+- Mark 5:15
+- Mark 5:20
+- Mark 5:21
+- Mark 5:27
+- Mark 5:30
+- Mark 5:36
+- Mark 5:6
+- Mark 5:7
+- Mark 6:30
+- Mark 6:34
+- Mark 6:4
+- Mark 7:27
+- Mark 8:1
+- Mark 8:17
+- Mark 8:27
+- Mark 9:2
+- Mark 9:23
+- Mark 9:25
+- Mark 9:27
+- Mark 9:39
+- Mark 9:4
+- Mark 9:5
+- Mark 9:8
+- Matthew 1:1
+- Matthew 1:16
+- Matthew 1:18
+- Matthew 1:21
+- Matthew 1:25
+- Matthew 10:5
+- Matthew 11:1
+- Matthew 11:25
+- Matthew 11:4
+- Matthew 11:7
+- Matthew 12:1
+- Matthew 12:15
+- Matthew 12:25
+- Matthew 13:1
+- Matthew 13:34
+- Matthew 13:36
+- Matthew 13:51
+- Matthew 13:53
+- Matthew 13:57
+- Matthew 14:1
+- Matthew 14:12
+- Matthew 14:13
+- Matthew 14:14
+- Matthew 14:16
+- Matthew 14:22
+- Matthew 14:25
+- Matthew 14:27
+- Matthew 14:29
+- Matthew 14:31
+- Matthew 15:1
+- Matthew 15:16
+- Matthew 15:21
+- Matthew 15:28
+- Matthew 15:29
+- Matthew 15:32
+- Matthew 15:34
+- Matthew 16:13
+- Matthew 16:17
+- Matthew 16:20
+- Matthew 16:21
+- Matthew 16:24
+- Matthew 16:6
+- Matthew 16:8
+- Matthew 17:1
+- Matthew 17:11
+- Matthew 17:17
+- Matthew 17:18
+- Matthew 17:19
+- Matthew 17:22
+- Matthew 17:25
+- Matthew 17:26
+- Matthew 17:4
+- Matthew 17:7
+- Matthew 17:8
+- Matthew 17:9
+- Matthew 18:1
+- Matthew 18:2
+- Matthew 18:22
+- Matthew 19:1
+- Matthew 19:14
+- Matthew 19:18
+- Matthew 19:21
+- Matthew 19:23
+- Matthew 19:26
+- Matthew 19:28
+- Matthew 2:1
+- Matthew 20:17
+- Matthew 20:22
+- Matthew 20:25
+- Matthew 20:30
+- Matthew 20:32
+- Matthew 20:34
+- Matthew 21:1
+- Matthew 21:11
+- Matthew 21:12
+- Matthew 21:16
+- Matthew 21:21
+- Matthew 21:24
+- Matthew 21:27
+- Matthew 21:31
+- Matthew 21:42
+- Matthew 21:6
+- Matthew 22:1
+- Matthew 22:18
+- Matthew 22:29
+- Matthew 22:37
+- Matthew 22:41
+- Matthew 23:1
+- Matthew 24:1
+- Matthew 24:4
+- Matthew 26:1
+- Matthew 26:10
+- Matthew 26:17
+- Matthew 26:19
+- Matthew 26:26
+- Matthew 26:31
+- Matthew 26:34
+- Matthew 26:36
+- Matthew 26:4
+- Matthew 26:49
+- Matthew 26:50
+- Matthew 26:51
+- Matthew 26:52
+- Matthew 26:55
+- Matthew 26:57
+- Matthew 26:59
+- Matthew 26:6
+- Matthew 26:63
+- Matthew 26:64
+- Matthew 26:69
+- Matthew 26:71
+- Matthew 26:75
+- Matthew 27:1
+- Matthew 27:11
+- Matthew 27:17
+- Matthew 27:20
+- Matthew 27:22
+- Matthew 27:26
+- Matthew 27:27
+- Matthew 27:3
+- Matthew 27:46
+- Matthew 27:50
+- Matthew 27:54
+- Matthew 27:55
+- Matthew 27:57
+- Matthew 27:58
+- Matthew 28:10
+- Matthew 28:16
+- Matthew 28:18
+- Matthew 28:5
+- Matthew 28:9
+- Matthew 3:13
+- Matthew 3:15
+- Matthew 3:16
+- Matthew 4:1
+- Matthew 4:10
+- Matthew 4:12
+- Matthew 4:17
+- Matthew 4:23
+- Matthew 4:7
+- Matthew 7:28
+- Matthew 8:10
+- Matthew 8:13
+- Matthew 8:14
+- Matthew 8:18
+- Matthew 8:20
+- Matthew 8:22
+- Matthew 8:29
+- Matthew 8:3
+- Matthew 8:34
+- Matthew 8:4
+- Matthew 8:7
+- Matthew 9:10
+- Matthew 9:12
+- Matthew 9:15
+- Matthew 9:19
+- Matthew 9:2
+- Matthew 9:22
+- Matthew 9:23
+- Matthew 9:27
+- Matthew 9:28
+- Matthew 9:30
+- Matthew 9:35
+- Matthew 9:4
+- Matthew 9:9
+- Philemon 1:1
+- Philemon 1:23
+- Philemon 1:25
+- Philemon 1:3
+- Philemon 1:5
+- Philemon 1:6
+- Philemon 1:9
+- Philippians 1:1
+- Philippians 1:11
+- Philippians 1:19
+- Philippians 1:2
+- Philippians 1:26
+- Philippians 1:6
+- Philippians 1:8
+- Philippians 2:10
+- Philippians 2:11
+- Philippians 2:19
+- Philippians 2:21
+- Philippians 2:5
+- Philippians 3:12
+- Philippians 3:14
+- Philippians 3:20
+- Philippians 3:3
+- Philippians 3:8
+- Philippians 4:19
+- Philippians 4:21
+- Philippians 4:23
+- Philippians 4:7
+- Revelation 1:1
+- Revelation 1:2
+- Revelation 1:5
+- Revelation 1:9
+- Revelation 12:17
+- Revelation 14:12
+- Revelation 14:4
+- Revelation 17:6
+- Revelation 19:10
+- Revelation 20:4
+- Revelation 22:16
+- Revelation 22:20
+- Revelation 22:21
+- Romans 1:1
+- Romans 1:4
+- Romans 1:6
+- Romans 1:7
+- Romans 1:8
+- Romans 10:9
+- Romans 13:14
+- Romans 14:14
+- Romans 14:23
+- Romans 15:16
+- Romans 15:17
+- Romans 15:30
+- Romans 15:5
+- Romans 15:6
+- Romans 16:18
+- Romans 16:20
+- Romans 16:24
+- Romans 16:3
+- Romans 2:16
+- Romans 3:22
+- Romans 3:24
+- Romans 3:26
+- Romans 4:24
+- Romans 5:1
+- Romans 5:11
+- Romans 5:15
+- Romans 5:17
+- Romans 5:21
+- Romans 6:11
+- Romans 6:23
+- Romans 6:3
+- Romans 7:25
+- Romans 8:1
+- Romans 8:11
+- Romans 8:2
+- Romans 8:39
+- Titus 1:1
+- Titus 1:4
+- Titus 2:13
+- Titus 3:6
+
+## Issues encountered in this run
+- None during this query execution.

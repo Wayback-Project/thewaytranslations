@@ -193,6 +193,7 @@ the bot opens the right drawer immediately and returns answers fast with verse r
 2. Run ingest once to index verses into searchable records.
 3. Use query/lookup scripts for fast retrieval.
 4. Return answer with refs/snippets so user can verify.
+5. Save each notable query run in `activity/surreal-query-summaries/` for transparency.
 
 ### Example bot command flow
 
@@ -208,6 +209,18 @@ npm --prefix tools/surreal-search run lookup -- term elohim
 npm --prefix tools/surreal-search run lookup -- person Noah
 npm --prefix tools/surreal-search run lookup -- theme spirit_ruach
 ```
+
+### Query activity logging (required for transparency)
+
+- Save notable query outputs under: `activity/surreal-query-summaries/`
+- For each run, write:
+  - one human-readable summary (`.md`)
+  - one machine-readable artifact (`.json`)
+- Include:
+  - query text
+  - total count
+  - returned references
+  - issues encountered (or `none`)
 
 ## Current Gaps / Areas to Address Next
 
