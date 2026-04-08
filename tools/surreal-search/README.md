@@ -46,6 +46,12 @@ npm --prefix tools/surreal-search run ingest
 ```bash
 npm --prefix tools/surreal-search run demo
 npm --prefix tools/surreal-search run query -- "who was the disciple who denied and wept"
+npm --prefix tools/surreal-search run lookup -- term elohim
+npm --prefix tools/surreal-search run lookup -- person Noah
+npm --prefix tools/surreal-search run lookup -- person Solomon
+npm --prefix tools/surreal-search run lookup -- theme wisdom_hokmah
+npm --prefix tools/surreal-search run lookup -- theme feminine_markers
+npm --prefix tools/surreal-search run lookup -- term vibration
 ```
 
 ## OpenClaw instructions
@@ -64,15 +70,23 @@ Use these commands via OpenClaw `exec` in repo root:
 4. Demo pack:
 - `npm --prefix tools/surreal-search run demo`
 
+5. Fast exact lookup (term/person/theme):
+- `npm --prefix tools/surreal-search run lookup -- term elohim`
+- `npm --prefix tools/surreal-search run lookup -- person Adam`
+- `npm --prefix tools/surreal-search run lookup -- theme spirit_ruach`
+
 ## Data model (current)
 
 - `verse`: `ref`, `book`, `chapter`, `verse`, `text`, `corpus`, `t_order`, `embedding`
-- `person`: entity records (seeded from known disciple names)
+- extra fields on `verse`: `people`, `themes`, and boolean term flags (`hasYHWH`, `hasElohim`, `hasCosmicParent`, `hasLivingCreativeVibration`, `hasRuachOrSpirit`, `hasWisdom`)
+- `person`: entity records (main biblical figures seeded during ingest)
 - `mentions`: relation table for entity-to-verse links
 
 ## Test results (current run)
 
 - Ingested verses: **30,980**
+- Index summary file: `change-logs/new-testament/reports/SURREAL-INDEX-SUMMARY-LATEST.json`
+- Includes theme counts for divine names, spirit/ruach, wisdom, vibration, turn-back, and feminine markers.
 - Demo tests passed:
   - 50 Elohim verses returned quickly
   - 20 YHWH-only sample verses returned

@@ -11,7 +11,7 @@ Use this skill when asked to:
 - run intent/semantic-like lookup with graph context
 - answer "who did X, where?" questions quickly
 
-This skill is built for `Wayback-Project/thewaytranslations` but is intentionally reusable for any large text corpus.
+This skill is built for `Wayback-Project/thewaytranslations` (this repository) and also serves as an example blueprint reusable for any large text corpus.
 
 ## What problem this solves
 

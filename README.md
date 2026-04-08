@@ -25,6 +25,28 @@ Key commitments:
 - **hard rule: do not remove text from the project corpus**
 - for later writings with strong Greek textual grounding (for example, Pauline material), acknowledge that shift and use Greek-critical evidence as primary while still documenting Aramaic comparators
 
+## Biggest translation updates at a glance
+
+To make the approach immediately understandable, these are major active shifts in this repository:
+
+1. **Repentance language restoration**
+   - many `repent*` renderings normalized contextually to `turn back` (human return) or `relent` (divine relenting).
+
+2. **Divine-title language shift in active rollout zones**
+   - divine-title `Father` normalized to `Cosmic Parent` in defined scope, while preserving human kinship references (for example, `Father Abraham`).
+
+3. **John 1 terminology update**
+   - `Living Creative Vibration` used as the active-expression term in current project profile.
+
+4. **Aramaic resonance + source-control dual method**
+   - source-near base line remains primary; resonance expansions are tracked and documented, not silently substituted.
+
+5. **Name distinction preservation**
+   - avoids flattening distinct divine-name streams (`YHWH`, `Elohim`, etc.) into one generic label.
+
+6. **Transparent change governance**
+   - ongoing edits documented in `editor-notes/` and `change-logs/` with rationale and timestamps.
+
 The repository currently includes:
 - source text files in `original-documents/`
 - current active outputs in `current-form-documents/`
@@ -145,6 +167,9 @@ Quick demo commands:
 npm --prefix tools/surreal-search run ingest
 npm --prefix tools/surreal-search run demo
 npm --prefix tools/surreal-search run query -- "who was the disciple who denied and wept"
+npm --prefix tools/surreal-search run lookup -- person Solomon
+npm --prefix tools/surreal-search run lookup -- theme feminine_markers
+npm --prefix tools/surreal-search run lookup -- term vibration
 ```
 
 ## Current Gaps / Areas to Address Next

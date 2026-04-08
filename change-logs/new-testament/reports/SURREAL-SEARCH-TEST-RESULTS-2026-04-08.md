@@ -21,6 +21,17 @@
 
 ## Query tests
 
+### Index summary snapshot
+- Total verses indexed: 30,980
+- Theme counts from ingest summary:
+  - divine_names: 8,314
+  - spirit_ruach: 590
+  - word_expression: 702
+  - wisdom_hokmah: 214
+  - turn_back: 101
+  - vibration: 5
+
+
 ### Test A — exact lexical sample: Elohim
 - Command: `npm --prefix tools/surreal-search run demo`
 - Result: returned 50 Elohim verses (sample output shown in terminal).
@@ -44,8 +55,23 @@
 3. Pure cheap embeddings were weak for intent quality; hybrid lexical+semantic reranking performs better for this demo setup.
 4. Keeping refs/snippets in output is essential for transparent verification.
 
+## Additional tests after people/theme expansion
+
+### Test E — feminine marker theme
+- Command: `npm --prefix tools/surreal-search run lookup -- theme feminine_markers`
+- Result: 50 rows returned immediately (sample includes women/feminine references and wisdom-adjacent lines).
+
+### Test F — major people lookup (Solomon)
+- Command: `npm --prefix tools/surreal-search run lookup -- person Solomon`
+- Result: 50 rows returned (highly usable for rapid narrative location).
+
+### Test G — vibration lookup
+- Command: `npm --prefix tools/surreal-search run lookup -- term vibration`
+- Result: 5 rows returned (John 1:1-4, 1:14), confirming term-specific indexing.
+
 ## Next improvements
 
 1. Swap hash embeddings with model embeddings for better semantic relevance.
-2. Expand entity extraction beyond disciple names.
+2. Expand entity extraction to full canonical person list + alias map.
 3. Add benchmark script for latency + top-k relevance scoring against a fixed query set.
+4. Add dedicated feminine-force curated index (manual verified subset) for higher precision audience demos.
