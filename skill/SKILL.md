@@ -37,22 +37,22 @@ When the user gives a Bible verse or passage, the skill should:
 Default output:
 - return only the translated passage unless the user asks for notes
 
-## Source Priority
+## Source Priority (Way One profile override)
 
-Use the source language of the passage:
-- Hebrew Bible / Tanakh: Hebrew
-- Aramaic passages in the Hebrew Bible: Aramaic
-- New Testament: earliest recoverable Greek text
+For this project, use the following source-priority policy:
 
-For New Testament sayings of Yeshua:
-- translate from the Greek text
-- hear it through Jewish and Aramaic speech-world context
-- restore probable Semitic idiom where warranted
-- do not invent certainty about unattested Aramaic originals
+- Hebrew Bible / Tanakh: Hebrew first (with Aramaic where the source is Aramaic)
+- New Testament (general Way One posture): Aramaic/Peshitta-informed primacy orientation for restoration decisions, especially in sayings and passages shaped by Semitic speech texture
+- New Testament later writings with strong Greek manuscript grounding (notably Pauline and other late-book segments): Greek-critical evidence may be primary, but differences with Aramaic witnesses should still be documented
 
-Textual basis:
-- Hebrew Bible: Masoretic Text first, checked against Dead Sea Scrolls, Septuagint, Samaritan Pentateuch, Peshitta, and other early witnesses when relevant
-- New Testament: earliest recoverable critical Greek text, with early versional evidence and Semitic idiom considered secondarily
+Hard guardrails:
+- do not claim speculative reconstructions as certainty
+- do not remove text/books from the working corpus
+- when witnesses diverge, record the decision and rationale in editor notes
+
+Textual basis in practice:
+- Hebrew Bible: Masoretic Text with DSS/LXX/Samaritan/Peshitta checks as relevant
+- NT mixed policy: Aramaic-primacy restoration stance + Greek-critical acknowledgement by book/segment where appropriate
 
 ## Core Translation Philosophy
 
@@ -444,12 +444,11 @@ Examples:
 
 Do not rationalize away difficult sayings through later legends or softeners.
 
-## Camel / Needle Rule
+## Camel / Needle Rule (Way One direction)
 
-Preserve “camel” unless strong textual evidence demands otherwise.
-Do not insert the “needle gate” explanation into translation.
-Do not replace camel with rope as though that were certain.
-Preserve the impossible hyperbole.
+In this project profile, prefer the rope-oriented Aramaic reading where editorial policy calls for it.
+Do not insert the “needle gate” explanation.
+When used, document the choice and rationale in editor notes so readers can see why it differs from mainstream camel renderings.
 
 ## John 1 / Logos Rule
 

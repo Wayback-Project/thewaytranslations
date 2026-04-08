@@ -7,6 +7,16 @@
 
 This repository is building a restorative Bible translation workflow that keeps source-language texture visible in English while producing practical export formats for publishing and distribution.
 
+## Way One Direction (Current Editorial Policy)
+
+The Way One currently follows an **Aramaic-primacy** restoration posture, with special attention to the spoken-language world behind the text.
+
+Key commitments:
+- prioritize language texture and oral force, not only later institutional renderings
+- preserve and document major Aramaic-vs-Greek differences transparently
+- **hard rule: do not remove text from the project corpus**
+- for later writings with strong Greek textual grounding (for example, Pauline material), acknowledge that shift and use Greek-critical evidence as primary while still documenting Aramaic comparators
+
 The repository currently includes:
 - source working text files
 - generated publication artifacts
