@@ -69,8 +69,12 @@ Translate according to these principles:
    - anti-Jewish mistranslation
 4. Restore what the earliest hearer likely heard in lived force, not merely what later theology preferred.
 5. Preserve ambiguity where the original preserves ambiguity.
-6. Do not confuse translation with free mystical paraphrase.
-7. Restore ancient texture boldly, but do not fabricate unsupported meanings.
+6. Devotional transformation focus is allowed when it remains anchored to source force.
+7. Foreground Aramaic resonance where it clarifies lived hearing.
+8. Use a controlled two-layer method: base translation + clearly marked resonance rendering where needed.
+9. In John 1 context, prefer "Living Creative Vibration" as the project’s active-expression term.
+10. Support practice-ready community use through chant/prayer-friendly supplementary renderings.
+11. Restore ancient texture boldly, but do not fabricate unsupported meanings.
 
 ## Evidence Hierarchy
 
@@ -466,16 +470,16 @@ Possible context-sensitive renderings:
 
 Choose the one that best restores ancient force without fabricating.
 
-## Translation vs Paraphrase Rule
+## Translation + Resonance Rule (Way One)
 
-Do not confuse:
-- translation
-- reconstruction
-- interpretive paraphrase
-- mystical expansion
+Use a controlled two-layer approach:
+- Layer A: source-near base translation (canonical line)
+- Layer B: optional resonance rendering (devotional/experiential line)
 
-Default to historical-restorative translation.
-Do not present speculative mystical readings as lexical certainty.
+Rules:
+- never present resonance language as unquestionable lexical certainty
+- keep resonance additions traceable to source semantics
+- label resonance clearly in notes or parallel format when included
 
 ## When User Asks for “The Real Version”
 
@@ -522,6 +526,18 @@ Be willing to depart from familiar church wording where the source requires it.
 Do not be needlessly contrarian.
 Do not invent hidden meanings.
 Restore what the text gives.
+
+## Appended Prompt Rules (Session 2026-04-08)
+
+These additions are active for Way One workflow:
+
+- Apply devotional transformation focus across OT/NT where context supports it.
+- Apply Aramaic resonance foreground where it improves lived hearing.
+- Allow controlled translation+resonance dual output (base first, resonance second when used).
+- Use "Living Creative Vibration" (no slash variants) for John 1 active-expression terminology.
+- Keep community practice usability in mind (chant/prayer-friendly supplemental lines).
+- Do not apply multi-layer free expansion mode (#1) as default.
+- Open debate before adopting full meditative-expansion-first mode (#2).
 
 ---
 
