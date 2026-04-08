@@ -28,13 +28,40 @@ With this workflow, assistants can:
 - `change-logs/` (results and audit notes)
 - `editor-notes/` (reflection/proposed-rules/research records)
 
-## Install + run
+## Install + run (copy-paste)
 
-1. Start SurrealDB server locally
-2. Run ingest script
-3. Run demo/query scripts
+From any project root:
 
-(Commands are in `tools/surreal-search/README.md`.)
+1. Install SurrealDB binary (Ubuntu example):
+```bash
+mkdir -p ~/.local/bin
+curl -fL https://github.com/surrealdb/surrealdb/releases/download/v2.3.10/surreal-v2.3.10.linux-amd64.tgz -o /tmp/surreal.tgz
+tar -xzf /tmp/surreal.tgz -C /tmp
+install -m 755 /tmp/surreal ~/.local/bin/surreal
+~/.local/bin/surreal version
+```
+
+2. Start local DB:
+```bash
+~/.local/bin/surreal start --user root --pass root --bind 127.0.0.1:8000 file:.surreal/way.db
+```
+
+3. Install search scripts and ingest:
+```bash
+npm --prefix tools/surreal-search install
+npm --prefix tools/surreal-search run ingest
+```
+
+4. Query:
+```bash
+npm --prefix tools/surreal-search run demo
+npm --prefix tools/surreal-search run query -- "who was the disciple who denied and wept"
+npm --prefix tools/surreal-search run lookup -- term elohim
+npm --prefix tools/surreal-search run lookup -- person Noah
+npm --prefix tools/surreal-search run lookup -- theme feminine_markers
+```
+
+(Repo-specific details live in `tools/surreal-search/README.md`.)
 
 ## OpenClaw usage pattern
 
@@ -76,3 +103,13 @@ Replace parser in ingest script:
 - add graph edges between entities and chunks
 
 The rest of the querying approach remains the same.
+
+## Help a user "create a Surreal" quickly (bot playbook)
+
+When a user says "set up Surreal for my project":
+1. Create `tools/surreal-search/` with `package.json`, `ingest`, `query`, `demo`, `lookup` scripts.
+2. Add `.gitignore` entries for `.surreal/` and `node_modules` in that tool folder.
+3. Add one README section with 4 commands: start, ingest, demo, lookup.
+4. Run one ingest and one demo query to prove it works.
+5. Save test output under `change-logs/.../SURREAL-SEARCH-TEST-RESULTS-<date>.md`.
+6. Open/append an issue if query quality is weak and list next improvements.

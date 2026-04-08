@@ -172,6 +172,43 @@ npm --prefix tools/surreal-search run lookup -- theme feminine_markers
 npm --prefix tools/surreal-search run lookup -- term vibration
 ```
 
+### Explain like I’m 10 (bots + users)
+
+Imagine the Bible is a giant library with 30,000 tiny cards.
+
+- Without Surreal: a bot has to re-read huge files every time you ask a question.
+- With Surreal: we build a smart index first, like labeled drawers.
+
+So when you ask:
+- "show 50 Elohim verses"
+- "where is vibration used"
+- "show feminine markers"
+- "where does Solomon appear"
+
+the bot opens the right drawer immediately and returns answers fast with verse references.
+
+### How bots use Surreal in OpenClaw
+
+1. Start Surreal DB server (local file-based DB).
+2. Run ingest once to index verses into searchable records.
+3. Use query/lookup scripts for fast retrieval.
+4. Return answer with refs/snippets so user can verify.
+
+### Example bot command flow
+
+```bash
+# 1) start DB
+~/.local/bin/surreal start --user root --pass root --bind 127.0.0.1:8000 file:.surreal/way.db
+
+# 2) build index
+npm --prefix tools/surreal-search run ingest
+
+# 3) ask direct lookup questions
+npm --prefix tools/surreal-search run lookup -- term elohim
+npm --prefix tools/surreal-search run lookup -- person Noah
+npm --prefix tools/surreal-search run lookup -- theme spirit_ruach
+```
+
 ## Current Gaps / Areas to Address Next
 
 Some high-value next steps:
