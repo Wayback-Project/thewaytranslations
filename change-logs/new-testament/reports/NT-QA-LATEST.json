@@ -1,0 +1,119 @@
+{
+  "generatedAtUtc": "2026-04-08 12:03:45 UTC",
+  "rows": [
+    {
+      "bookGroup": "Matthew",
+      "path": "working-documents/matthew_restorative_translation.txt",
+      "lines": 1126,
+      "termCounts": {
+        "reign of the heavens": 32,
+        "turn back": 3,
+        "Yeshua": 167,
+        "Elohim": 57,
+        "Ruach": 7,
+        "rope": 0,
+        "camel": 3,
+        "Lord": 58,
+        "assembly": 3,
+        "church": 0
+      }
+    },
+    {
+      "bookGroup": "Mark",
+      "path": "working-documents/mark_restorative_translation.txt",
+      "lines": 709,
+      "termCounts": {
+        "reign of the heavens": 0,
+        "turn back": 2,
+        "Yeshua": 94,
+        "Elohim": 51,
+        "Ruach": 4,
+        "rope": 0,
+        "camel": 2,
+        "Lord": 16,
+        "assembly": 0,
+        "church": 0
+      }
+    },
+    {
+      "bookGroup": "Luke",
+      "path": "working-documents/luke_restorative_translation.txt",
+      "lines": 1198,
+      "termCounts": {
+        "reign of the heavens": 0,
+        "turn back": 6,
+        "Yeshua": 104,
+        "Elohim": 124,
+        "Ruach": 14,
+        "rope": 5,
+        "camel": 1,
+        "Lord": 89,
+        "assembly": 1,
+        "church": 0
+      }
+    },
+    {
+      "bookGroup": "John",
+      "path": "working-documents/john_restorative_translation.txt",
+      "lines": 920,
+      "termCounts": {
+        "reign of the heavens": 0,
+        "turn back": 0,
+        "Yeshua": 252,
+        "Elohim": 82,
+        "Ruach": 8,
+        "rope": 0,
+        "camel": 0,
+        "Lord": 44,
+        "assembly": 0,
+        "church": 0
+      }
+    },
+    {
+      "bookGroup": "Acts",
+      "path": "working-documents/acts_restorative_translation.txt",
+      "lines": 1062,
+      "termCounts": {
+        "reign of the heavens": 0,
+        "turn back": 2,
+        "Yeshua": 68,
+        "Elohim": 168,
+        "Ruach": 43,
+        "rope": 2,
+        "camel": 0,
+        "Lord": 104,
+        "assembly": 23,
+        "church": 0
+      }
+    },
+    {
+      "bookGroup": "RestOfNT",
+      "path": "working-documents/rest_of_new_testament_restorative_translation.txt",
+      "lines": 3476,
+      "termCounts": {
+        "reign of the heavens": 0,
+        "turn back": 13,
+        "Yeshua": 291,
+        "Elohim": 861,
+        "Ruach": 28,
+        "rope": 5,
+        "camel": 0,
+        "Lord": 364,
+        "assembly": 55,
+        "church": 0
+      }
+    }
+  ],
+  "terms": [
+    "reign of the heavens",
+    "turn back",
+    "Yeshua",
+    "Elohim",
+    "Ruach",
+    "rope",
+    "camel",
+    "Lord",
+    "assembly",
+    "church"
+  ]
+}

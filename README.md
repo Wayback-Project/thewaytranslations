@@ -83,6 +83,26 @@ This transaction model is intentionally lightweight right now and is expected to
   - per-book/per-chapter text layout under `generated-documents/books/`
 - Why: separates generated artifacts from editable source drafts.
 
+## Current Execution Framework
+
+The project now uses a local, no-database documentation workflow for translation-change governance:
+
+- `editor-notes/research/STRATEGY-LAMSA-PRIMACY-TOP-50.md` (top 50 focus strategy)
+- `change-logs/new-testament/INDEX.md` (NT coverage and status)
+- `change-logs/new-testament/books/*.md` (book-level log trail)
+- `change-logs/new-testament/reports/NT-QA-LATEST.md` (generated QA table)
+- `tools/local/nt_changelog_report.py` (local report generator)
+
+Run locally:
+
+```bash
+python3 tools/local/nt_changelog_report.py
+```
+
+This writes:
+- `change-logs/new-testament/reports/NT-QA-LATEST.md`
+- `change-logs/new-testament/reports/NT-QA-LATEST.json`
+
 ## Current Gaps / Areas to Address Next
 
 Some high-value next steps:
