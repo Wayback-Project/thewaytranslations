@@ -41,7 +41,17 @@ npm --prefix tools/surreal-search install
 npm --prefix tools/surreal-search run ingest
 ```
 
-### 3.5) Connection/config keys (where they live)
+### 3.5) Index key map file (the "keys" Mike asked about)
+
+After each ingest run, this file is regenerated:
+- `change-logs/new-testament/reports/SURREAL-INDEX-SUMMARY-LATEST.json`
+
+What it does:
+- shows total indexed verse count
+- shows theme counts
+- gives bots a quick map of searchable categories
+
+### 3.6) Connection environment settings
 
 - Example config file: `tools/surreal-search/.env.example`
 - Variables used by scripts:
@@ -50,8 +60,6 @@ npm --prefix tools/surreal-search run ingest
   - `SURREAL_DB`
   - `SURREAL_USER`
   - `SURREAL_PASS`
-
-You can export these in your shell or load via your preferred env loader.
 
 ### 4) Run examples
 

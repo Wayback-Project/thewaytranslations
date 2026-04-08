@@ -158,7 +158,7 @@ For intent and exact search over the corpus, use the SurrealDB workflow:
 - Guide: `tools/surreal-search/README.md`
 - OpenClaw skill guide: `skills/openclaw-surreal-search/SKILL.md`
 - Test results: `change-logs/new-testament/reports/SURREAL-SEARCH-TEST-RESULTS-2026-04-08.md`
-- Connection key template: `tools/surreal-search/.env.example`
+- Surreal index summary map file: `change-logs/new-testament/reports/SURREAL-INDEX-SUMMARY-LATEST.json`
 
 This solves the practical problem of quickly answering questions like:
 - "show 50 verses with Elohim"
@@ -213,6 +213,27 @@ npm --prefix tools/surreal-search run lookup -- term elohim
 npm --prefix tools/surreal-search run lookup -- person Noah
 npm --prefix tools/surreal-search run lookup -- theme spirit_ruach
 ```
+
+### Surreal index map files (the "keys" to retrieval)
+
+When we say "index keys" in this project, we mean the generated map/artifact files that summarize what Surreal indexed (not passwords).
+
+Main artifact:
+- `change-logs/new-testament/reports/SURREAL-INDEX-SUMMARY-LATEST.json`
+
+What it contains:
+- total indexed verse count
+- theme counts (for example: `divine_names`, `spirit_ruach`, `wisdom_hokmah`, `vibration`, `feminine_markers`)
+
+How updates work:
+1. run ingest (`npm --prefix tools/surreal-search run ingest`)
+2. verse index in Surreal is rebuilt
+3. summary map file is regenerated/overwritten with latest counts
+
+Why this matters:
+- gives a fast sanity-check that indexing worked
+- gives bots a quick "what categories exist" snapshot
+- keeps indexing transparent for contributors and viewers
 
 ### Query activity logging (required for transparency)
 
