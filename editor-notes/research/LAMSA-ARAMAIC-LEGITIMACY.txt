@@ -1,0 +1,143 @@
+Title: LAMSA / PESHITTA LEGITIMACY DEBATE — HISTORICAL BREAKDOWN + WORKING COMPARISON FOR THE WAY
+Created: 2026-04-08 UTC
+Status: Working research draft (editor use)
+
+============================================================
+1) WHY THIS FILE EXISTS
+============================================================
+This file summarizes the debate around George M. Lamsa and claims that the New Testament was originally written in Aramaic (as preserved in the Peshitta), then compares major Lamsa-associated translation differences with current The Way handling.
+
+============================================================
+2) HISTORICAL BREAKDOWN (SHORT TIMELINE)
+============================================================
+- 1892-1975: George M. Lamsa, an Assyrian from the Church of the East tradition, later immigrates to the US and publishes Aramaic-based works.
+- 1933/1940/1957 period: Lamsa publishes major English translations and commentary from "Ancient Eastern" (Peshitta-based) text.
+- Core Lamsa claim: NT was first written in Aramaic, Greek came later.
+- Mainstream scholarship response: Greek NT manuscripts are earlier and primary for NT text-critical reconstruction; Peshitta NT is generally treated as a Syriac translation witness (important, but secondary for NT origins).
+- Ongoing modern status:
+  - Lamsa remains influential in some church circles and Aramaic-primacist communities.
+  - Most academic textual critics do not accept full Aramaic primacy.
+
+============================================================
+3) WHAT IS / IS NOT INCLUDED IN CLASSIC PESHITTA TRADITION
+============================================================
+Frequently noted canonical issue:
+- Early/standard Syriac Peshitta NT tradition did not originally include:
+  - 2 Peter
+  - 2 John
+  - 3 John
+  - Jude
+  - Revelation
+- These are associated with later Syriac tradition additions (for example via Harklean stream in later centuries).
+
+Implication for legitimacy debate:
+- This is one reason critics argue the Peshitta NT reflects a developed translation/canonical history, not an untouched first-century autograph stream.
+
+============================================================
+4) MAIN DEBATE LINES (PRO/CON)
+============================================================
+A) Pro-Lamsa / Aramaic-primacy line:
+- Jesus and earliest movement were in an Aramaic speech world.
+- Some sayings feel more natural in Semitic idiom.
+- Peshitta can preserve Semitic texture that some Greek-to-English traditions flatten.
+
+B) Mainstream critical line:
+- Earliest strongest NT manuscript base is Greek.
+- Syriac Peshitta is a major ancient version, but typically later than earliest Greek witnesses.
+- Syriac dialect history matters: classical Syriac is not identical to first-century Galilean/Judean Aramaic.
+- Some Lamsa lexical proposals are viewed as overextended.
+
+C) Practical middle position (useful for The Way):
+- Keep Greek critical text primary for NT base text.
+- Use Semitic context and early versions (including Peshitta) as interpretive/variant support.
+- Do not claim certainty where evidence is mixed.
+
+============================================================
+5) TOP 15 FREQUENTLY CITED LAMSA-ADJACENT LANGUAGE DIFFERENCES
+AND HOW THE WAY HANDLES THEM
+============================================================
+Important: Some items below are broad "Lamsa-adjacent" issues from Aramaic-primacy circles, not all unique to Lamsa alone.
+
+1) Matthew 19:24 — camel vs rope
+- Lamsa side: argues rope reading possibility from Aramaic confusion.
+- The Way handling: keep CAMEL by default (impossible hyperbole preserved), no forced rope substitution.
+
+2) Cross saying ("Eli, Eli...") in Matthew 27:46 / Mark 15:34
+- Lamsa side: proposes alternatives like "for this I was spared".
+- The Way handling: do not present speculative reconstruction as secure lexical certainty; preserve strongest evidence path.
+
+3) NT source-language priority
+- Lamsa side: Aramaic NT original.
+- The Way handling: NT base translation from earliest recoverable Greek text, with Semitic hearing context.
+
+4) Divine name replacement (YHWH -> LORD)
+- Lamsa-adjacent concern: Western flattening of Semitic name texture.
+- The Way handling: preserve divine name distinctions (YHWH, Elohim, etc.) where source supports.
+
+5) Kingdom vs reign/rule
+- Lamsa-adjacent concern: static institutional language vs Semitic dynamism.
+- The Way handling: often prefer reign/ruling presence for malkut/basileia contextually.
+
+6) Repent vs return/turn back
+- Lamsa-adjacent concern: doctrinal penance language can flatten Semitic call.
+- The Way handling: prefer turn back/return where context supports.
+
+7) Torah/nomos as instruction vs legal code only
+- Lamsa-adjacent concern: legal Latinized flattening.
+- The Way handling: do not reduce to law automatically; render instruction/guidance when stronger.
+
+8) Ekklesia as assembly vs "church"
+- Lamsa-adjacent concern: later institution language imported backward.
+- The Way handling: avoid automatic church where assembly/community is more accurate.
+
+9) Sheol/Hades/Gehenna/Tartarus collapsed into "hell"
+- Lamsa-adjacent concern: multiple terms collapsed.
+- The Way handling: keep distinctions explicit.
+
+10) Ruach/Pneuma flattening
+- Lamsa-adjacent concern: loss of breath/wind/life force nuance.
+- The Way handling: preserve layered breath/wind/animating-presence sense where defensible.
+
+11) "Word" (Logos) as static doctrinal label
+- Lamsa-adjacent concern: overly abstract doctrinal translation.
+- The Way handling: render as active utterance/self-expression where context justifies, with care.
+
+12) Almah in Isaiah 7:14 (young woman vs virgin)
+- Lamsa-adjacent concern: later doctrinal back-reading into Hebrew.
+- The Way handling: Hebrew almah rendered as young woman/maiden unless source demands otherwise.
+
+13) Nephesh/Psyche as "soul" only
+- Lamsa-adjacent concern: dualistic translation bias.
+- The Way handling: often life/self/living being/person depending on context.
+
+14) Adelphoi as "brothers" only
+- Lamsa-adjacent concern: gender flattening in mixed-audience contexts.
+- The Way handling: brothers and sisters when context indicates mixed community.
+
+15) Cultural idiom smoothing (Semitic hyperbole)
+- Lamsa-adjacent concern: sayings de-idiomatized in later English.
+- The Way handling: preserve Semitic paradox/hyperbole force while staying textually defensible.
+
+============================================================
+6) WHAT THIS MEANS FOR THE WAY (CURRENT WORKING POSITION)
+============================================================
+- We can learn from Lamsa's challenge to over-Greco-Latinized English tradition.
+- We should not inherit Aramaic-primacy certainty claims without stronger textual evidence.
+- For NT, we keep Greek critical base text and use Semitic context + early versions as supporting witnesses.
+- Our guardrail: restoration, not speculation.
+
+============================================================
+7) OPEN QUESTIONS FOR FUTURE RESEARCH FILES
+============================================================
+- Build verse-by-verse matrix for passages where Lamsa diverges strongly from major critical-text translations.
+- Separate lexical gains (good Semitic restoration) from overreach claims (weak evidence).
+- Compare Lamsa with modern Syriac scholarship and critical editions of Syriac witnesses.
+
+============================================================
+8) SOURCE NOTES (INITIAL)
+============================================================
+- Wikipedia summary pages consulted for initial orientation:
+  - George M. Lamsa
+  - Peshitta
+- This file is not final scholarship; it is an editorial research scaffold.
+- Next pass should add direct primary/academic references (Metzger, Brock, Syriac textual studies, critical apparatus references).

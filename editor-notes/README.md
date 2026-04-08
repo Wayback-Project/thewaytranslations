@@ -23,13 +23,23 @@ Use this area to track:
    - Use for "what feels off," improvement ideas, textual concerns, and style tensions.
    - Keep entries dated so evolution over time is visible.
 
+4. **research/**
+   - Subject-based research files (primarily `.txt`) for historical, linguistic, and textual investigations.
+   - One file per subject/topic (for example: `LAMSA-ARAMAIC-LEGITIMACY.txt`).
+   - Include source notes, key claims, debate summaries, and implications for The Way translation decisions.
+
 ## File/entry format (recommended)
 
-Use one markdown file per month per folder, for example:
+Use one markdown file per month for discussion-note folders, for example:
 
 - `inspirations/2026-04.md`
 - `proposed-rules/2026-04.md`
 - `reflections/2026-04.md`
+
+For research, use subject-based `.txt` files, for example:
+
+- `research/LAMSA-ARAMAIC-LEGITIMACY.txt`
+- `research/ISAIAH-7-14-ALMAH-STUDY.txt`
 
 Append new entries at the top with this structure:
 
