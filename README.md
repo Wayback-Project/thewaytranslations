@@ -25,6 +25,21 @@ Key commitments:
 - **hard rule: do not remove text from the project corpus**
 - for later writings with strong Greek textual grounding (for example, Pauline material), acknowledge that shift and use Greek-critical evidence as primary while still documenting Aramaic comparators
 
+
+## Yeshua-Sayings Restoration Check
+
+The Way Translation gives highest editorial priority to the spoken teachings of Yeshua in Matthew, Mark, Luke, and John. In those passages, the current checker workflow reviews inherited church-language defaults against the project's Aramaic/Semitic restoration posture before leaving them in the main text.
+
+Recent anchor examples include:
+- **Matthew 4:17** keeps Yeshua's summons as “Turn back,” emphasizing return, coming home, and realignment rather than shame or penance.
+- **Matthew 5:48** uses “become whole,” emphasizing mature, complete, all-inclusive love rather than impossible flawlessness.
+- **Matthew 6:13 / Luke 11:4** now keep both dimensions of danger in view: rescue from what has gone sour or corrupt, with room for an outside evil power where the context requires it.
+- **Luke 14:26** follows the video-script sense of *sana*: not emotional hatred, cruelty, or contempt, but setting aside / loving less by comparison / placing even the deepest attachments behind the Way Yeshua is calling people into.
+- **John 16:24** preserves the video-script “set your trap” image: asking in Yeshua's name means intentionally creating a receiving space in the same vibration he carries, not adding a magic prayer password.
+- **John 14–16** treats “ask in my name” as intentional seeking from within Yeshua's living authority, presence, atmosphere, and vibration.
+
+This does not mean every Greek theological term is forced into an expanded Aramaic-style paraphrase. The main text should remain readable, with stronger interpretive expansions used where the project's editorial notes support them and with footnotes or editor notes preserving debated meanings when needed.
+
 ## Biggest translation updates at a glance
 
 To make the approach immediately understandable, these are major active shifts in this repository:
