@@ -6,7 +6,7 @@
 
 The Way Version is a contemporary English Bible translation that retains selected Hebrew and Aramaic forms of biblical names and terms in the running text. Readers will encounter forms such as **Yeshua, Yochanan, Ya’akov, Yosef, Maryam, Dawid, Avraham, YHWH, Elohim**, and **Ruach**.
 
-The project is intended for readers interested in the Bible, the history of biblical names, and the languages and settings in which the texts developed. Familiar English forms such as Jesus, John, James, Mary, and David reflect their normal transmission through several languages and remain useful in English. The Way Version uses selected earlier-language forms to make that history more visible.
+The project is intended for readers interested in the Bible, the history of biblical names, and the languages and settings in which the texts developed. Familiar English forms such as Jesus, John, James, Mary, and David reflect their normal transmission through several languages and remain useful in English. The Way Version uses selected earlier-language forms to make that history more visible. Beyond personal names, the translation also examines whether familiar English wording preserves the contextual range of terms involving turning and returning, active rule or reign, breath/wind/spirit, community address, and human references that are not gender-specific in the source.
 
 This repository is the public editorial and release workspace for the translation. It contains the current EPUB, editable source documents, historical renders, methodology, research notes, and change records.
 
@@ -34,6 +34,20 @@ Transliteration is an editorial practice, not a claim that one exact ancient pro
 | God | Elohim | Retained where the Hebrew term itself is relevant to the edition |
 | Spirit / breath / wind | Ruach | Rendered according to context, with the source term retained in selected passages |
 
+### Other words in context
+
+These examples describe questions the project evaluates, not automatic substitutions. Each rendering depends on the passage, textual witness, grammar, and historical setting. For the New Testament, Greek evidence remains primary while Aramaic and other Semitic comparators are consulted where they are historically relevant.
+
+| Forms considered | English renderings considered | Contextual question |
+|---|---|---|
+| Hebrew *shuv*; Aramaic *tub*; Greek *metanoeo* | turn back, return, repent | Does the passage emphasize a practical change of direction, an inner response, or both? |
+| Hebrew *malkut*; Aramaic *malkutha*; Greek *basileia* | reign, rule, kingdom | Is the text emphasizing a realm, or the activity and presence of ruling? |
+| Hebrew *ruach*; Aramaic *ruha*; Greek *pneuma* | breath, wind, spirit, Ruach | Which sense best fits the passage, and does its grammar carry meaningful gender or imagery? |
+| Hebrew *torah*; Greek *nomos* | Torah, instruction, guidance, law | Is the term naming Torah, teaching, or a legal requirement in that context? |
+| Greek *adelphoi* | brothers, brothers and sisters, fellow believers | Is a mixed community being addressed rather than men alone? |
+| Greek *anthropos / aner* | human or person / man or husband | Does the source use a general human term or a specifically male term? |
+| *Sheol / Hades / Gehenna / Tartarus* | retained distinctly or translated by context | Does a single English label conceal different terms, settings, or images? |
+
 ### Examples from the current edition
 
 | Reference | Example rendering | What it illustrates |
@@ -42,7 +56,9 @@ Transliteration is an editorial practice, not a claim that one exact ancient pro
 | Luke 1:26–31 | Gavriel, Elohim, Yosef, Dawid, Maryam, and Yeshua | Several names and a divine title within one passage |
 | Genesis 1:1–2 | Elohim creates; the Ruach of Elohim hovers over the waters | Distinct Hebrew terms in context |
 | Psalm 23:1 | “YHWH is my shepherd: I shall lack nothing.” | The consonantal Hebrew divine name in the text |
-| Matthew 4:17 | “Turn back, for the reign of the heavens has drawn near.” | A contextual translation choice documented by the project |
+| Matthew 4:17 | “Turn back, for the reign of the heavens has drawn near.” | Turning language and active reign expressed in context |
+| Acts 1:16 | “Brothers and sisters…” | A mixed-community address reflected in English |
+| Matthew 5:13 | “trodden under the feet of people” | A general human term not automatically rendered as male |
 
 See more comparisons and begin reading at [TheWayVersion.com](https://thewayversion.com).
 
