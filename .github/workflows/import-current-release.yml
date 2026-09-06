@@ -1,0 +1,53 @@
+name: Import current Way EPUB release
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'tools/local/import_current_release.py'
+      - '.github/workflows/import-current-release.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: import-current-way-release
+  cancel-in-progress: false
+
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 1
+
+      - name: Import verified EPUB and synchronize sources
+        run: python3 tools/local/import_current_release.py
+
+      - name: Validate canonical EPUB
+        run: |
+          python3 - <<'PY'
+          import hashlib
+          import zipfile
+          from pathlib import Path
+          path = Path("current-form-documents/the-way-current.epub")
+          expected = "dbd8cace51a0e726a2d910622af995d490ee4f24f76eb7efcd0e5a1756c1119e"
+          actual = hashlib.sha256(path.read_bytes()).hexdigest()
+          assert actual == expected, (expected, actual)
+          with zipfile.ZipFile(path) as epub:
+              assert epub.testzip() is None
+          print(f"{path}: valid, SHA-256 {actual}")
+          PY
+
+      - name: Commit release transaction
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add current-form-documents original-documents rendered-documents-history change-logs/reports
+          if ! git diff --cached --quiet; then
+            git commit -m "Import September 2026 Way EPUB release"
+            git push origin HEAD:main
+          fi
