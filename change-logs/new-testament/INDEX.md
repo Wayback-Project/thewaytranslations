@@ -60,3 +60,11 @@ python3 tools/local/nt_changelog_report.py
 Outputs:
 - `change-logs/new-testament/reports/NT-QA-LATEST.md`
 - `change-logs/new-testament/reports/NT-QA-LATEST.json`
+
+## September 2026 terminology pass
+
+- Status: complete.
+- Decision: `Satanas`/Semitic-title occurrences use **the Adversary**; `diabolos` occurrences use **the Slanderer**; `daimonion` remains **demon**.
+- Report: `reports/NT-ADVERSARY-SLANDERER-PASS-2026-09-06.md`
+- Machine audit: `../reports/ADVERSARY-SLANDERER-AUDIT-LATEST.json`
+- Current EPUB SHA-256: `dbd8cace51a0e726a2d910622af995d490ee4f24f76eb7efcd0e5a1756c1119e`
