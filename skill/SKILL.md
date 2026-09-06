@@ -435,6 +435,16 @@ Rules:
 - flesh, mortal human condition
 - do not force “sinful nature” unless context clearly requires
 
+29. satan / ha-satan / Satanas and diabolos
+Rules:
+- Hebrew satan / ha-satan and Greek Satanas: render contextually as adversary; use “the Adversary” for the personal cosmic accuser/opponent
+- Greek diabolos: render contextually as slanderer; use “the Slanderer” for the personal cosmic referent
+- generic diabolos remains generic (for example, “a slanderer”)
+- daimonion remains demon and must not be conflated with either title
+- do not present Satan or ha-Satan as a disclosed personal birth name
+- preserve both terms when a passage uses both (for example, Revelation 12:9 and 20:2)
+- document deviations in editor notes
+
 ## Semitic Hyperbole Rule
 
 Preserve the force of Semitic exaggeration, paradox, and contrast.

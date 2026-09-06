@@ -25,7 +25,13 @@ for path in [
 PY
 ```
 
-## Source updates waiting for EPUB refresh
+## September 2026 refresh status
+
+The verified whole-Bible EPUB was refreshed from the application release and synchronized back into the editable source documents. The current artifact must have SHA-256 `dbd8cace51a0e726a2d910622af995d490ee4f24f76eb7efcd0e5a1756c1119e`.
+
+The refresh includes the July 2026 Yeshua-sayings work listed below and the accepted source-sensitive terminology rule: `satan` / `ha-satan` / `Satanas` → **the Adversary**; `diabolos` → **the Slanderer**; `daimonion` remains **demon**.
+
+## Changes included in the refreshed EPUB
 
 The July 2026 Yeshua-sayings pass changed the source text and documentation only. The next EPUB refresh should include these source changes, especially:
 
