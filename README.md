@@ -1,308 +1,99 @@
-# The Way Translation (Early Project)
+# The Way Version
 
-> **This is a new project and several areas still need to be addressed.**
-> What is here now is a starting point, and we welcome feedback, review, and collaboration as the project evolves.
+> **Read now:** [Open the free web reader](https://thewayversion.com/app)  
+> **Learn more:** [TheWayVersion.com](https://thewayversion.com)  
+> **Download:** [Current whole-Bible EPUB](current-form-documents/the-way-current.epub)
 
-## Current Version (Primary Link)
+The Way Version is the Bible with original names brought back into view. It keeps the Scripture people know while retaining names and source-language terms closer to the forms heard in their own time: **Yeshua, Yochanan, Ya’akov, Yosef, Maryam, Dawid, Avraham, YHWH, Elohim, Ruach**, and more.
 
-- Current EPUB: `current-form-documents/the-way-current.epub`
+This repository is the public editorial and release workspace behind the translation. It contains the current EPUB, editable source documents, historical renders, translation methodology, research notes, and change records.
 
-## Initial generation note
+## What readers will notice
 
-The initial repository draft was generated with AI (Codex GPT-5.3 profile) and is being iteratively reviewed and corrected through editor-guided workflow.
+- **Original names remain visible.** Familiar later English forms do not automatically replace the names carried by the text.
+- **Divine names and titles stay distinct.** Terms such as **YHWH**, **Elohim**, and **Ruach** are not flattened into one generic label.
+- **Ancient meanings guide English choices.** Terms including *torah*, *shalom*, *chesed*, *metanoeo*, *basileia*, *Sheol*, *Hades*, and *Gehenna* are rendered according to context instead of inherited one-word conventions.
+- **The spoken world of Yeshua matters.** Gospel passages receive special attention to their Semitic setting, oral force, imagery, and patterns of thought.
+- **Readability still matters.** The goal is clear contemporary English with ancient texture—not obscurity for its own sake.
+- **Editorial decisions are traceable.** Meaningful changes are documented with rationale, source track, affected references, and review status.
 
-## Project Purpose
+### A few examples
 
-This repository is building a restorative Bible translation workflow that keeps source-language texture visible in English while producing practical export formats for publishing and distribution.
+| Reference | The Way Version direction |
+|---|---|
+| Matthew 1:1 | Yeshua the Messiah, son of Dawid, son of Avraham |
+| Luke 1:26–31 | Gavriel, Elohim, Yosef, Dawid, Maryam, and Yeshua remain visible |
+| Genesis 1:1–2 | Elohim creates; the Ruach of Elohim hovers over the waters |
+| Psalm 23:1 | “YHWH is my shepherd: I shall lack nothing.” |
+| Matthew 4:17 | “Turn back, for the reign of the heavens has drawn near.” |
 
-## Way One Direction (Current Editorial Policy)
+See more comparisons and begin reading at [TheWayVersion.com](https://thewayversion.com).
 
-The Way One currently follows an **Aramaic-primacy** restoration posture, with special attention to the spoken-language world behind the text.
+## Current release
 
-Key commitments:
-- prioritize language texture and oral force, not only later institutional renderings
-- preserve and document major Aramaic-vs-Greek differences transparently
-- **hard rule: do not remove text from the project corpus**
-- for later writings with strong Greek textual grounding (for example, Pauline material), acknowledge that shift and use Greek-critical evidence as primary while still documenting Aramaic comparators
+The canonical whole-Bible release is [current-form-documents/the-way-current.epub](current-form-documents/the-way-current.epub).
 
+| Item | Current value |
+|---|---|
+| Coverage | 66 books / 1,189 chapters |
+| EPUB SHA-256 | `dbd8cace51a0e726a2d910622af995d490ee4f24f76eb7efcd0e5a1756c1119e` |
+| Browser reader | [thewayversion.com/app](https://thewayversion.com/app) |
+| Website | [thewayversion.com](https://thewayversion.com) |
+| Mobile | Native mobile applications are in development |
 
-## Yeshua-Sayings Restoration Check
+The browser reader is mobile-first and provides search, continuous reading, bookmarks, multi-verse highlights, notes, sharing, typography controls, and reading themes. The EPUB works with Kindle, Apple Books, tablets, phones, and most e-readers.
 
-The Way Translation gives highest editorial priority to the spoken teachings of Yeshua in Matthew, Mark, Luke, and John. In those passages, the current checker workflow reviews inherited church-language defaults against the project's Aramaic/Semitic restoration posture before leaving them in the main text.
+## Translation approach
 
-Recent anchor examples include:
-- **Matthew 4:17** keeps Yeshua's summons as “Turn back,” emphasizing return, coming home, and realignment rather than shame or penance.
-- **Matthew 5:48** uses “become whole,” emphasizing mature, complete, all-inclusive love rather than impossible flawlessness.
-- **Matthew 6:13 / Luke 11:4** now keep both dimensions of danger in view: rescue from what has gone sour or corrupt, with room for an outside evil power where the context requires it.
-- **Luke 14:26** follows the video-script sense of *sana*: not emotional hatred, cruelty, or contempt, but setting aside / loving less by comparison / placing even the deepest attachments behind the Way Yeshua is calling people into.
-- **John 16:24** preserves the video-script “set your trap” image: asking in Yeshua's name means intentionally creating a receiving space in the same vibration he carries, not adding a magic prayer password.
-- **John 14–16** treats “ask in my name” as intentional seeking from within Yeshua's living authority, presence, atmosphere, and vibration.
+The project follows a historical-restorative method:
 
-This does not mean every Greek theological term is forced into an expanded Aramaic-style paraphrase. The main text should remain readable, with stronger interpretive expansions used where the project's editorial notes support them and with footnotes or editor notes preserving debated meanings when needed.
+1. Start with the earliest recoverable source-language evidence.
+2. Give the Hebrew Bible priority in Hebrew, with Aramaic where the source is Aramaic.
+3. Give the sayings of Yeshua special attention to their Aramaic/Semitic setting while checking the Greek textual witness.
+4. Use Greek-critical evidence as primary where later New Testament writings have strong Greek grounding, while documenting relevant Semitic comparisons.
+5. Preserve distinctions, grammatical force, ambiguity, social context, and ancient imagery when supported by the text.
+6. Keep source-near translation separate from optional devotional or resonance language.
+7. Record significant decisions instead of silently rewriting the corpus.
 
-## Biggest translation updates at a glance
+The complete working specification is in [skill/SKILL.md](skill/SKILL.md). This is an active translation project, and difficult or debated choices remain open to documented review.
 
-To make the approach immediately understandable, these are major active shifts in this repository:
+## Repository map
 
-1. **Repentance language restoration**
-   - many `repent*` renderings normalized contextually to `turn back` (human return) or `relent` (divine relenting).
+| Location | Purpose |
+|---|---|
+| `current-form-documents/` | Current canonical EPUB and release information |
+| `original-documents/` | Human-editable Scripture source files |
+| `rendered-documents-history/` | Timestamped archives of earlier rendered editions |
+| `change-logs/` | Dated book-level changes, reports, and QA records |
+| `editor-notes/` | Research, reflections, inspirations, and proposed rules |
+| `skill/` | Historical-restorative translation behavior and terminology policy |
+| `tools/` | Import, export, audit, and search utilities |
+| `activity/` | Saved query activity for transparent research workflows |
 
-2. **Divine-title language shift in active rollout zones**
-   - divine-title `Father` normalized to `Cosmic Parent` in defined scope, while preserving human kinship references (for example, `Father Abraham`).
+## Release workflow
 
-3. **John 1 terminology update**
-   - `Living Creative Vibration` used as the active-expression term in current project profile.
+1. Translation work is maintained in `original-documents/`.
+2. Meaningful editorial changes are recorded in `editor-notes/` and `change-logs/`.
+3. The prior current EPUB is archived under a UTC-stamped folder in `rendered-documents-history/`.
+4. The new render becomes `current-form-documents/the-way-current.epub`.
+5. The EPUB container, checksum, book count, chapter count, and terminology audits are validated.
+6. `rendered-documents-history/LOG.md` records the release transaction.
 
-4. **Aramaic resonance + source-control dual method**
-   - source-near base line remains primary; resonance expansions are tracked and documented, not silently substituted.
+## Collaboration
 
-5. **Name distinction preservation**
-   - avoids flattening distinct divine-name streams (`YHWH`, `Elohim`, etc.) into one generic label.
+Thoughtful review is welcome. For substantial translation or structural changes, open an issue describing the proposed scope, evidence, and rationale. Keep pull requests focused, preserve verse ordering and source integrity, and update the corresponding methodology or change record.
 
-6. **Transparent change governance**
-   - ongoing edits documented in `editor-notes/` and `change-logs/` with rationale and timestamps.
+The initial repository framework was created with AI assistance and is continually reviewed and corrected through an editor-directed workflow. AI output is not treated as authority; decisions are expected to remain text-based, reviewable, and documented.
 
-7. **Terminology harmonization in active pass**
-   - NT spiritual-language alignment now uses `reigning presence` (instead of `kingdom`) and `community/assembly` (instead of `church`) in active corpus scope.
+## Copyright and quotation
 
-8. **Adversary/Slanderer source distinction**
-   - Hebrew `satan` / `ha-satan` and Greek `Satanas` use `the Adversary` for the personal title.
-   - Greek `diabolos` uses `the Slanderer`; demon terminology remains distinct.
-   - The decision and verse audit are recorded in `editor-notes/research/ADVERSARY-SLANDERER-TERMINOLOGY-2026-09-06.md`.
+The Way Version Scripture text and EPUB are copyright © 2026 **The Way Partners LLC**. All rights reserved.
 
-The repository currently includes:
-- source text files in `original-documents/`
-- current active outputs in `current-form-documents/`
-- timestamped output history in `rendered-documents-history/`
-- a browser-based export/conversion tool
-- a translation skill prompt (`skill/SKILL.md`) that defines translation behavior
+Quotation of up to 500 verses is welcomed in books, ebooks, websites, social media, sermons, teaching materials, podcasts, video, and other print, digital, or audio works when the requirements in [COPYRIGHT.md](COPYRIGHT.md) are followed. Attribution is required. Uses beyond the standard quotation allowance require advance written permission from [hello@twpventures.com](mailto:hello@twpventures.com).
 
-## What the Prompt (`skill/SKILL.md`) Does
+Public access to this repository does not place the translation in the public domain or automatically license the Scripture text, EPUB, branding, or software beyond the permissions expressly stated in [COPYRIGHT.md](COPYRIGHT.md).
 
-The `skill/SKILL.md` file defines a **Historical-Restorative Bible Translator** behavior.
+---
 
-In short, it tells the translator to:
-- prioritize earliest recoverable source-language meaning
-- preserve names and distinctions (for example, divine names)
-- avoid flattening ancient terms into later doctrinal/legalized defaults
-- preserve meaningful gender and social context when textually supported
-- output clear but ancient-feeling English
-- keep speculative interpretation separate from secure translation evidence
-
-It is effectively the project’s translation policy and style guide for how passages should be rendered.
-
-## Translation Workflow Transactions
-
-This project currently uses a simple transaction flow from source text to generated outputs:
-
-1. **Source Input Transaction**
-   - Human-curated `.txt` source files are placed in `original-documents/`.
-   - Files are organized in large canonical groupings (Torah/history/NT chunks, etc.) for manageable editing.
-
-2. **Parsing & Normalization Transaction**
-   - `tools/scripts/script.js` parses lines in `Book Chapter` + `Verse. text` format.
-   - Book/chapter/verse content is normalized and merged into a consistent in-memory structure.
-
-3. **Export Transaction(s)**
-   - Publishing JSON export (`way-translation-publishing.json` shape).
-   - Plain-text eBook export (`way-translation-ebook.txt` shape).
-   - Book/chapter folder ZIP export for distribution pipelines.
-
-4. **Render + Current Transaction**
-   - The newest active render is written to `current-form-documents/` (current canonical output, EPUB-first).
-   - Before replacing current output, the previous current output is copied into `rendered-documents-history/<UTC timestamp>/`.
-   - Each history write is logged in `rendered-documents-history/LOG.md`.
-
-This transaction model is intentionally lightweight right now and is expected to mature with validation, provenance tracking, and automated checks.
-
-## Repository Structure (What’s in Each Folder and Why)
-
-### `skill/`
-- Contains `SKILL.md`, the translation behavior specification.
-- Why: keeps the translation rules explicit, reusable, and reviewable.
-
-### `original-documents/`
-- Human-editable source translation text files.
-- Why: this is the active drafting workspace before structured export.
-
-### `tools/`
-- Browser-based utility for loading source files and exporting transformed artifacts.
-- `tools/scripts/index.html`: UI shell.
-- `tools/scripts/script.js`: parsing, merge, normalization, and export logic.
-- `tools/surreal-search/`: SurrealDB graph+vector+temporal search workflow.
-- Why: gives a simple no-build workflow for exports and a fast local search stack for large-corpus retrieval.
-
-### `current-form-documents/`
-- Current active output set.
-- Current policy: keep the latest whole-project EPUB here.
-- Why: one stable location for the latest canonical render.
-
-### `rendered-documents-history/`
-- Timestamped history of prior renders.
-- Each snapshot lives under UTC folder names like `YYYY-MM-DD_HHMMUTC/`.
-- Includes `README.md` and `LOG.md` to track what changed and why.
-- Why: preserves historical render traceability without requiring a database.
-
-## Render Workflow (Required)
-
-1. Edit source text in `original-documents/`.
-2. Produce/update current render in `current-form-documents/`.
-3. Before replacing current render, archive prior current render to `rendered-documents-history/<UTC timestamp>/`.
-4. Append snapshot entry to `rendered-documents-history/LOG.md`.
-5. Keep `current-form-documents/the-way-current.epub` as the primary user-facing artifact.
-
-## Current Execution Framework
-
-The project now uses a local, no-database documentation workflow for translation-change governance:
-
-- `editor-notes/research/STRATEGY-LAMSA-PRIMACY-TOP-50.md` (top 50 focus strategy)
-- `change-logs/new-testament/INDEX.md` (NT coverage and status)
-- `change-logs/new-testament/books/*.md` (book-level log trail)
-- `change-logs/new-testament/reports/NT-QA-LATEST.md` (generated QA table)
-- `tools/local/nt_changelog_report.py` (local report generator)
-
-Run locally:
-
-```bash
-python3 tools/local/nt_changelog_report.py
-```
-
-This writes:
-- `change-logs/new-testament/reports/NT-QA-LATEST.md`
-- `change-logs/new-testament/reports/NT-QA-LATEST.json`
-
-## Surreal Search (Fast Local Retrieval)
-
-For intent and exact search over the corpus, use the SurrealDB workflow:
-
-- Guide: `tools/surreal-search/README.md`
-- OpenClaw skill guide: `skills/openclaw-surreal-search/SKILL.md`
-- Test results: `change-logs/new-testament/reports/SURREAL-SEARCH-TEST-RESULTS-2026-04-08.md`
-- Surreal index summary map file: `change-logs/new-testament/reports/SURREAL-INDEX-SUMMARY-LATEST.json`
-
-This solves the practical problem of quickly answering questions like:
-- "show 50 verses with Elohim"
-- "where is YHWH used without Elohim"
-- "who was the disciple who did X, and where"
-
-Quick demo commands:
-
-```bash
-npm --prefix tools/surreal-search run ingest
-npm --prefix tools/surreal-search run demo
-npm --prefix tools/surreal-search run query -- "who was the disciple who denied and wept"
-npm --prefix tools/surreal-search run lookup -- person Solomon
-npm --prefix tools/surreal-search run lookup -- theme feminine_markers
-npm --prefix tools/surreal-search run lookup -- term vibration
-```
-
-### Explain like I’m 10 (bots + users)
-
-Imagine the Bible is a giant library with 30,000 tiny cards.
-
-- Without Surreal: a bot has to re-read huge files every time you ask a question.
-- With Surreal: we build a smart index first, like labeled drawers.
-
-So when you ask:
-- "show 50 Elohim verses"
-- "where is vibration used"
-- "show feminine markers"
-- "where does Solomon appear"
-
-the bot opens the right drawer immediately and returns answers fast with verse references.
-
-### How bots use Surreal in OpenClaw
-
-1. Start Surreal DB server (local file-based DB).
-2. Run ingest once to index verses into searchable records.
-3. Use query/lookup scripts for fast retrieval.
-4. Return answer with refs/snippets so user can verify.
-5. Save each notable query run in `activity/surreal-query-summaries/` for transparency.
-
-### Example bot command flow
-
-```bash
-# 1) start DB
-~/.local/bin/surreal start --user root --pass root --bind 127.0.0.1:8000 file:.surreal/way.db
-
-# 2) build index
-npm --prefix tools/surreal-search run ingest
-
-# 3) ask direct lookup questions
-npm --prefix tools/surreal-search run lookup -- term elohim
-npm --prefix tools/surreal-search run lookup -- person Noah
-npm --prefix tools/surreal-search run lookup -- theme spirit_ruach
-```
-
-### Surreal index map files (the "keys" to retrieval)
-
-When we say "index keys" in this project, we mean the generated map/artifact files that summarize what Surreal indexed (not passwords).
-
-Main artifact:
-- `change-logs/new-testament/reports/SURREAL-INDEX-SUMMARY-LATEST.json`
-
-What it contains:
-- total indexed verse count
-- theme counts (for example: `divine_names`, `spirit_ruach`, `wisdom_hokmah`, `vibration`, `feminine_markers`)
-
-How updates work:
-1. run ingest (`npm --prefix tools/surreal-search run ingest`)
-2. verse index in Surreal is rebuilt
-3. summary map file is regenerated/overwritten with latest counts
-
-Why this matters:
-- gives a fast sanity-check that indexing worked
-- gives bots a quick "what categories exist" snapshot
-- keeps indexing transparent for contributors and viewers
-
-### Query activity logging (required for transparency)
-
-- Save notable query outputs under: `activity/surreal-query-summaries/`
-- For each run, write:
-  - one human-readable summary (`.md`)
-  - one machine-readable artifact (`.json`)
-- Include:
-  - query text
-  - total count
-  - returned references
-  - issues encountered (or `none`)
-
-## Current Gaps / Areas to Address Next
-
-Some high-value next steps:
-- automated validation of verse ordering and completeness
-- repeatable CLI build/export pipeline (in addition to browser tools)
-- provenance metadata (source version, generator version, date, commit)
-- QA checks for formatting drift across original documents
-- contributor workflow hardening (templates, checks, review conventions)
-
-## Collaboration Instructions (Standard)
-
-We welcome constructive collaboration. To keep contributions clean and reviewable, please follow this baseline:
-
-1. **Discuss first for major changes**
-   - Open an issue describing goals, scope, and rationale before large structural updates.
-
-2. **Keep PRs focused**
-   - One logical change per pull request.
-   - Include before/after examples when changing parsing or output format behavior.
-
-3. **Preserve source integrity**
-   - Do not silently rewrite large sections of `original-documents/` without documenting why.
-   - Keep naming/format conventions consistent (`Book Chapter`, `Verse. text`).
-
-4. **Document behavior changes**
-   - If you change translation-policy behavior, update `skill/SKILL.md` and describe the reason in the PR.
-   - If you change export shapes, document the new schema and migration impact.
-
-5. **Review expectations**
-   - Be respectful and evidence-based in feedback.
-   - Prioritize textual accuracy, reproducibility, and clarity over personal preference.
-
-6. **Commit hygiene**
-   - Use clear commit messages.
-   - Avoid committing temporary files or unrelated formatting churn.
-
-## Feedback
-
-If you want to collaborate, suggest improvements, or challenge assumptions, please open an issue or PR. Early feedback is especially valuable while the project architecture and standards are still forming.
+Published by **The Way Partners LLC**  
+[TheWayVersion.com](https://thewayversion.com) · [hello@twpventures.com](mailto:hello@twpventures.com)
