@@ -65,6 +65,11 @@ To make the approach immediately understandable, these are major active shifts i
 7. **Terminology harmonization in active pass**
    - NT spiritual-language alignment now uses `reigning presence` (instead of `kingdom`) and `community/assembly` (instead of `church`) in active corpus scope.
 
+8. **Adversary/Slanderer source distinction**
+   - Hebrew `satan` / `ha-satan` and Greek `Satanas` use `the Adversary` for the personal title.
+   - Greek `diabolos` uses `the Slanderer`; demon terminology remains distinct.
+   - The decision and verse audit are recorded in `editor-notes/research/ADVERSARY-SLANDERER-TERMINOLOGY-2026-09-06.md`.
+
 The repository currently includes:
 - source text files in `original-documents/`
 - current active outputs in `current-form-documents/`
