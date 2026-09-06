@@ -18,18 +18,22 @@ This folder holds the current canonical reading edition of **The Way Version**.
 
 The current EPUB is the same verified Scripture release used by the browser reader and mobile application project. It is suitable for Kindle, Apple Books, tablets, phones, and most EPUB-compatible e-readers.
 
-## What this edition represents
+## About this edition
 
-The Way Version is the Bible with original names brought back into view. The current edition reflects the project’s wider historical-restorative work, including:
+The Way Version is a contemporary English Bible translation that retains selected Hebrew and Aramaic forms of biblical names and terms. The current edition includes:
 
 - names such as **Yeshua, Yochanan, Ya’akov, Yosef, Maryam, Dawid**, and **Avraham**;
-- distinct divine-language forms such as **YHWH, Elohim**, and **Ruach**;
+- source-language forms such as **YHWH, Elohim**, and **Ruach**, used according to context and the editorial decisions of this edition;
 - contextual treatment of terms such as *torah*, *shalom*, *chesed*, *metanoeo*, *basileia*, *Sheol*, *Hades*, and *Gehenna*;
-- attention to Semitic speech, imagery, hyperbole, and oral force in the sayings of Yeshua;
-- clearer contemporary English while retaining source-language texture;
-- documented source distinctions rather than automatic reliance on inherited church terminology.
+- attention to the literary, linguistic, and historical setting of each passage;
+- readable contemporary English with selected source-language details;
+- documented reasoning for substantial translation and terminology decisions.
 
-The edition includes many accumulated translation and editorial passes. No single recent terminology decision defines the release. Detailed reasoning belongs in `editor-notes/` and `change-logs/`, where it can be examined without turning this release page into a one-topic announcement.
+Familiar English biblical names reflect their normal transmission through several languages and remain useful in English. The transliterations in this edition are intended to make earlier-language forms visible. They are editorial choices and do not claim that one exact ancient pronunciation can always be recovered.
+
+Greek textual witnesses provide the primary textual basis for the New Testament. Aramaic and other Semitic evidence is considered when it helps clarify historical setting, speech patterns, or possible background, with uncertainty noted where the evidence does not support a firm conclusion.
+
+Detailed reasoning and revision records are available in `../editor-notes/` and `../change-logs/`.
 
 ## Reading and applications
 

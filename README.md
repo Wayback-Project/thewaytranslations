@@ -4,28 +4,45 @@
 > **Learn more:** [TheWayVersion.com](https://thewayversion.com)  
 > **Download:** [Current whole-Bible EPUB](current-form-documents/the-way-current.epub)
 
-The Way Version is the Bible with original names brought back into view. It keeps the Scripture people know while retaining names and source-language terms closer to the forms heard in their own time: **Yeshua, Yochanan, Ya’akov, Yosef, Maryam, Dawid, Avraham, YHWH, Elohim, Ruach**, and more.
+The Way Version is a contemporary English Bible translation that retains selected Hebrew and Aramaic forms of biblical names and terms in the running text. Readers will encounter forms such as **Yeshua, Yochanan, Ya’akov, Yosef, Maryam, Dawid, Avraham, YHWH, Elohim**, and **Ruach**.
 
-This repository is the public editorial and release workspace behind the translation. It contains the current EPUB, editable source documents, historical renders, translation methodology, research notes, and change records.
+The project is intended for readers interested in the Bible, the history of biblical names, and the languages and settings in which the texts developed. Familiar English forms such as Jesus, John, James, Mary, and David reflect their normal transmission through several languages and remain useful in English. The Way Version uses selected earlier-language forms to make that history more visible.
 
-## What readers will notice
+This repository is the public editorial and release workspace for the translation. It contains the current EPUB, editable source documents, historical renders, methodology, research notes, and change records.
 
-- **Original names remain visible.** Familiar later English forms do not automatically replace the names carried by the text.
-- **Divine names and titles stay distinct.** Terms such as **YHWH**, **Elohim**, and **Ruach** are not flattened into one generic label.
-- **Ancient meanings guide English choices.** Terms including *torah*, *shalom*, *chesed*, *metanoeo*, *basileia*, *Sheol*, *Hades*, and *Gehenna* are rendered according to context instead of inherited one-word conventions.
-- **The spoken world of Yeshua matters.** Gospel passages receive special attention to their Semitic setting, oral force, imagery, and patterns of thought.
-- **Readability still matters.** The goal is clear contemporary English with ancient texture—not obscurity for its own sake.
-- **Editorial decisions are traceable.** Meaningful changes are documented with rationale, source track, affected references, and review status.
+## At a glance
 
-### A few examples
+- **Names appear in the text.** Selected Hebrew and Aramaic forms are retained where they help readers notice the linguistic and historical setting.
+- **Divine names and terms are identified carefully.** **YHWH**, **Elohim**, and **Ruach** represent different source-language forms and are used according to the editorial decisions of the current edition.
+- **Translation choices consider context.** Terms including *torah*, *shalom*, *chesed*, *metanoeo*, *basileia*, *Sheol*, *Hades*, and *Gehenna* are evaluated in their literary, linguistic, and historical settings.
+- **New Testament language is handled with appropriate limits.** Greek textual witnesses provide the primary textual basis. Aramaic and other Semitic evidence is considered when it helps explain the historical setting, speech patterns, or possible background of a passage.
+- **The English remains readable.** Source-language details are retained selectively so that the translation can still be read continuously.
+- **Significant decisions are documented.** Change records describe the rationale, sources, affected references, and review status of substantial revisions.
 
-| Reference | The Way Version direction |
-|---|---|
-| Matthew 1:1 | Yeshua the Messiah, son of Dawid, son of Avraham |
-| Luke 1:26–31 | Gavriel, Elohim, Yosef, Dawid, Maryam, and Yeshua remain visible |
-| Genesis 1:1–2 | Elohim creates; the Ruach of Elohim hovers over the waters |
-| Psalm 23:1 | “YHWH is my shepherd: I shall lack nothing.” |
-| Matthew 4:17 | “Turn back, for the reign of the heavens has drawn near.” |
+## Names and terminology
+
+Transliteration is an editorial practice, not a claim that one exact ancient pronunciation can always be recovered. Biblical names passed through Hebrew, Aramaic, Greek, Latin, and later languages, and more than one responsible spelling may be possible.
+
+| Familiar English form | Form used in the current edition | Context |
+|---|---|---|
+| Jesus | Yeshua | A Hebrew and Aramaic form associated with the name |
+| John | Yochanan | A Hebrew form of the name |
+| James / Jacob | Ya’akov | A Hebrew form underlying both conventional English renderings |
+| Mary | Maryam | A Semitic form associated with the name |
+| David | Dawid | A transliteration of the Hebrew name |
+| LORD | YHWH | The four Hebrew consonants of the divine name; its exact ancient pronunciation is uncertain |
+| God | Elohim | Retained where the Hebrew term itself is relevant to the edition |
+| Spirit / breath / wind | Ruach | Rendered according to context, with the source term retained in selected passages |
+
+### Examples from the current edition
+
+| Reference | Example rendering | What it illustrates |
+|---|---|---|
+| Matthew 1:1 | Yeshua the Messiah, son of Dawid, son of Avraham | Personal names retained in Semitic forms |
+| Luke 1:26–31 | Gavriel, Elohim, Yosef, Dawid, Maryam, and Yeshua | Several names and a divine title within one passage |
+| Genesis 1:1–2 | Elohim creates; the Ruach of Elohim hovers over the waters | Distinct Hebrew terms in context |
+| Psalm 23:1 | “YHWH is my shepherd: I shall lack nothing.” | The consonantal Hebrew divine name in the text |
+| Matthew 4:17 | “Turn back, for the reign of the heavens has drawn near.” | A contextual translation choice documented by the project |
 
 See more comparisons and begin reading at [TheWayVersion.com](https://thewayversion.com).
 
@@ -43,17 +60,18 @@ The canonical whole-Bible release is [current-form-documents/the-way-current.epu
 
 The browser reader is mobile-first and provides search, continuous reading, bookmarks, multi-verse highlights, notes, sharing, typography controls, and reading themes. The EPUB works with Kindle, Apple Books, tablets, phones, and most e-readers.
 
-## Translation approach
+## Editorial approach
 
-The project follows a historical-restorative method:
+The project uses a historical and text-based method:
 
-1. Start with the earliest recoverable source-language evidence.
-2. Give the Hebrew Bible priority in Hebrew, with Aramaic where the source is Aramaic.
-3. Give the sayings of Yeshua special attention to their Aramaic/Semitic setting while checking the Greek textual witness.
-4. Use Greek-critical evidence as primary where later New Testament writings have strong Greek grounding, while documenting relevant Semitic comparisons.
-5. Preserve distinctions, grammatical force, ambiguity, social context, and ancient imagery when supported by the text.
-6. Keep source-near translation separate from optional devotional or resonance language.
-7. Record significant decisions instead of silently rewriting the corpus.
+1. Begin with the relevant textual witnesses and source languages for each passage.
+2. Use Hebrew and Aramaic evidence for the Hebrew Bible according to the language of the source text.
+3. Use Greek textual witnesses as the primary basis for the New Testament while consulting Semitic context and comparators where historically relevant.
+4. Distinguish what the surviving text says from proposals about historical speech, later interpretation, or reconstructed wording.
+5. Preserve meaningful ambiguity, grammatical force, social context, and imagery when the evidence supports doing so.
+6. Present debated decisions with appropriate qualification and record plausible alternatives when they materially affect the translation.
+7. Keep source-near translation separate from optional devotional or resonance language.
+8. Record significant decisions so that revisions can be reviewed rather than silently introduced.
 
 The complete working specification is in [skill/SKILL.md](skill/SKILL.md). This is an active translation project, and difficult or debated choices remain open to documented review.
 
@@ -66,7 +84,7 @@ The complete working specification is in [skill/SKILL.md](skill/SKILL.md). This 
 | `rendered-documents-history/` | Timestamped archives of earlier rendered editions |
 | `change-logs/` | Dated book-level changes, reports, and QA records |
 | `editor-notes/` | Research, reflections, inspirations, and proposed rules |
-| `skill/` | Historical-restorative translation behavior and terminology policy |
+| `skill/` | Translation methodology and terminology policy |
 | `tools/` | Import, export, audit, and search utilities |
 | `activity/` | Saved query activity for transparent research workflows |
 
@@ -83,7 +101,7 @@ The complete working specification is in [skill/SKILL.md](skill/SKILL.md). This 
 
 Thoughtful review is welcome. For substantial translation or structural changes, open an issue describing the proposed scope, evidence, and rationale. Keep pull requests focused, preserve verse ordering and source integrity, and update the corresponding methodology or change record.
 
-The initial repository framework was created with AI assistance and is continually reviewed and corrected through an editor-directed workflow. AI output is not treated as authority; decisions are expected to remain text-based, reviewable, and documented.
+The initial repository framework was created with AI assistance and is continually reviewed and corrected through an editor-directed workflow. AI output is not treated as authority; decisions are expected to remain evidence-based, reviewable, and documented.
 
 ## Copyright and quotation
 
