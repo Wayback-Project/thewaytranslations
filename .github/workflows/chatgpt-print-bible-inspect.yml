@@ -1,0 +1,43 @@
+name: ChatGPT Print Bible Inspect
+
+on:
+  push:
+    branches:
+      - chatgpt/print-bible-build-20260907
+
+permissions:
+  contents: read
+
+jobs:
+  inspect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Inspect current EPUB
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p inspection
+          python - <<'PY'
+          from pathlib import Path
+          from zipfile import ZipFile
+          epub = Path('current-form-documents/the-way-current.epub')
+          with ZipFile(epub) as z:
+              names = z.namelist()
+              Path('inspection/contents.txt').write_text('\n'.join(names), encoding='utf-8')
+              wanted = []
+              for n in names:
+                  low=n.lower()
+                  if low.endswith('genesis.xhtml') or low.endswith('psalms.xhtml') or low.endswith('.css') or low.endswith('.opf'):
+                      wanted.append(n)
+              for n in wanted:
+                  out = Path('inspection') / Path(n).name
+                  out.write_bytes(z.read(n))
+          print('EPUB members:', len(names))
+          print('Inspection files:', [p.name for p in Path('inspection').iterdir()])
+          PY
+      - uses: actions/upload-artifact@v4
+        with:
+          name: epub-inspection
+          path: inspection/
+          if-no-files-found: error
