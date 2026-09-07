@@ -1,0 +1,25 @@
+name: Export canonical EPUB blob
+
+on:
+  push:
+    branches:
+      - chatgpt/print-bible-build-20260907
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Verify canonical mirror identity
+        run: |
+          test "$(git hash-object 'current-form-documents/the-way-current.epub')" = "250c4d2c56773408c7d17fbbb521d286db76a871"
+          sha256sum 'current-form-documents/the-way-current.epub'
+      - uses: actions/upload-artifact@v4
+        with:
+          name: canonical-netlify-epub-blob
+          path: current-form-documents/the-way-current.epub
+          if-no-files-found: error
