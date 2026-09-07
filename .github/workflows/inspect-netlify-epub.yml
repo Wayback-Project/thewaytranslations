@@ -1,0 +1,43 @@
+name: Inspect canonical Netlify EPUB
+
+on:
+  push:
+    branches:
+      - chatgpt/print-bible-build-20260907
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  inspect:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clone canonical Netlify project
+        run: git clone --depth 1 --branch netlify https://github.com/drafthead/waywebsitenetlify.git /tmp/waynetlify
+      - name: Inspect EPUB
+        run: |
+          python - <<'PY'
+          from zipfile import ZipFile
+          from pathlib import Path
+          import re
+          from lxml import etree
+          p=Path('/tmp/waynetlify/media/The Way Version.epub')
+          print('EPUB:',p,'bytes=',p.stat().st_size)
+          with ZipFile(p) as z:
+              names=z.namelist()
+              print('FILES',len(names))
+              for n in names[:160]: print('ZIP',n)
+              c=etree.fromstring(z.read('META-INF/container.xml'))
+              ns={'c':'urn:oasis:names:tc:opendocument:xmlns:container'}
+              opf=c.xpath('string(//c:rootfile/@full-path)',namespaces=ns)
+              print('OPF',opf)
+              print(z.read(opf).decode('utf-8')[:30000])
+              base=str(Path(opf).parent)
+              # dump beginnings of likely xhtml/html content
+              htmls=[n for n in names if n.lower().endswith(('.xhtml','.html','.htm'))]
+              for n in htmls[:25]:
+                  print('\n---HTML',n,'---')
+                  s=z.read(n).decode('utf-8','replace')
+                  print(s[:8000])
+          PY
