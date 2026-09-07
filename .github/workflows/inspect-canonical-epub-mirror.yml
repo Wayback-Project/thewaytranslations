@@ -1,0 +1,45 @@
+name: Inspect canonical EPUB mirror
+
+on:
+  push:
+    branches:
+      - chatgpt/print-bible-build-20260907
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  inspect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Inspect byte-identical EPUB blob
+        run: |
+          echo "Git blob SHA: $(git hash-object 'current-form-documents/the-way-current.epub')"
+          sha256sum 'current-form-documents/the-way-current.epub'
+          python - <<'PY'
+          from zipfile import ZipFile
+          from pathlib import Path
+          from xml.etree import ElementTree as ET
+          p=Path('current-form-documents/the-way-current.epub')
+          print('EPUB bytes', p.stat().st_size)
+          with ZipFile(p) as z:
+              names=z.namelist()
+              print('FILES',len(names))
+              for n in names[:180]: print('ZIP',n)
+              root=ET.fromstring(z.read('META-INF/container.xml'))
+              opf=None
+              for el in root.iter():
+                  if el.tag.endswith('rootfile'):
+                      opf=el.attrib.get('full-path'); break
+              print('OPF_PATH',opf)
+              opf_text=z.read(opf).decode('utf-8','replace')
+              print('---OPF---')
+              print(opf_text[:30000])
+              htmls=[n for n in names if n.lower().endswith(('.xhtml','.html','.htm'))]
+              print('HTML_COUNT',len(htmls))
+              for n in htmls[:30]:
+                  print('\n---HTML',n,'---')
+                  print(z.read(n).decode('utf-8','replace')[:10000])
+          PY
