@@ -18,6 +18,7 @@ jobs:
         run: |
           set -euo pipefail
           mkdir -p inspection
+          cp current-form-documents/the-way-current.epub inspection/the-way-current.epub
           python - <<'PY'
           from pathlib import Path
           from zipfile import ZipFile
