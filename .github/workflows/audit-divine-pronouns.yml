@@ -1,0 +1,29 @@
+name: Audit divine pronoun consistency
+
+on:
+  pull_request:
+    branches: [main]
+    paths:
+      - 'original-documents/**'
+      - 'current-form-documents/the-way-current.epub'
+      - 'tools/local/audit_divine_pronouns.py'
+      - '.github/workflows/audit-divine-pronouns.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Audit masculine-pronoun candidates and legacy angle markers
+        run: python3 tools/local/audit_divine_pronouns.py
+
+      - name: Upload audit inventory
+        uses: actions/upload-artifact@v4
+        with:
+          name: divine-pronoun-audit
+          path: audit-output/
+          if-no-files-found: error
