@@ -27,3 +27,12 @@ jobs:
           name: divine-pronoun-audit
           path: audit-output/
           if-no-files-found: error
+
+      - name: Upload canonical source snapshot
+        uses: actions/upload-artifact@v4
+        with:
+          name: canonical-source-snapshot
+          path: |
+            original-documents/
+            current-form-documents/the-way-current.epub
+          if-no-files-found: error
