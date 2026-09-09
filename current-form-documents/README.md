@@ -12,11 +12,11 @@ This folder holds the current canonical reading edition of **The Way Version**.
 |---|---|
 | Artifact | [`the-way-current.epub`](the-way-current.epub) |
 | Coverage | 66 books / 1,189 chapters |
-| SHA-256 | `dbd8cace51a0e726a2d910622af995d490ee4f24f76eb7efcd0e5a1756c1119e` |
+| SHA-256 | `04722fbaeb2b5394df83a4a4c9056a7edc6dfe4f00b0d4ccc8630880bb69eb15` |
 | Verified | September 2026 |
-| Previous release | Archived under `rendered-documents-history/2026-09-06_0636UTC/` |
+| Previous release | Archived under `rendered-documents-history/2026-09-09_1230UTC/` |
 
-The current EPUB is the same verified Scripture release used by the browser reader and mobile application project. It is suitable for Kindle, Apple Books, tablets, phones, and most EPUB-compatible e-readers.
+This EPUB contains the first reviewed Acts consistency changes. The whole-Bible pronoun review remains in progress; see the [release notes](../editor-notes/consistency/2026-09-09-acts.md). Website and application copies are verified separately when synchronized. It is suitable for Kindle, Apple Books, tablets, phones, and most EPUB-compatible e-readers.
 
 ## About this edition
 

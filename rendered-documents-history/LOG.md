@@ -7,3 +7,4 @@
 | 2026-04-08_1536UTC | rendered-documents-history/2026-04-08_1536UTC/ | the-way-current.epub | pre-OT-audit-refresh snapshot before updating current EPUB |
 | 2026-04-08_1540UTC | rendered-documents-history/2026-04-08_1540UTC/ | the-way-current.epub | pre-NT-first5-compliance-refresh snapshot before updating current EPUB |
 | 2026-09-06_0636UTC | rendered-documents-history/2026-09-06_0636UTC/ | the-way-current.epub (SHA-256 `8a8e8cb712d02fc8dfa29cc656aa274baabe83705c74731a2245cb4d22e759d9`) | pre-September-2026 canonical snapshot archived before importing the verified Adversary/Slanderer release |
+| 2026-09-09_1230UTC | rendered-documents-history/2026-09-09_1230UTC/ | the-way-current.epub (SHA-256 `dbf21a649f486867eb64734c45ebe827a1a3cafa175bef79bd756667e8facd97`) | Archive the Introduction-free canonical artifact before the first Acts consistency pass; 41 reviewed verses changed, wider review pending. |

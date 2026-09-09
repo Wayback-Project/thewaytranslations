@@ -64,12 +64,12 @@ See more comparisons and begin reading at [TheWayVersion.com](https://thewayvers
 
 ## Current release
 
-The canonical whole-Bible release is [current-form-documents/the-way-current.epub](current-form-documents/the-way-current.epub).
+The canonical whole-Bible release is [current-form-documents/the-way-current.epub](current-form-documents/the-way-current.epub). The latest [consistency notes](editor-notes/consistency/2026-09-09-acts.md) document a first reviewed pass in Acts; the wider review is ongoing.
 
 | Item | Current value |
 |---|---|
 | Coverage | 66 books / 1,189 chapters |
-| EPUB SHA-256 | `dbd8cace51a0e726a2d910622af995d490ee4f24f76eb7efcd0e5a1756c1119e` |
+| EPUB SHA-256 | `04722fbaeb2b5394df83a4a4c9056a7edc6dfe4f00b0d4ccc8630880bb69eb15` |
 | Browser reader | [thewayversion.com/app](https://thewayversion.com/app) |
 | Website | [thewayversion.com](https://thewayversion.com) |
 | Mobile | Native mobile applications are in development |
