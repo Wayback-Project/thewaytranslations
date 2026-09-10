@@ -64,12 +64,12 @@ See more comparisons and begin reading at [TheWayVersion.com](https://thewayvers
 
 ## Current release
 
-The canonical whole-Bible release is [current-form-documents/the-way-current.epub](current-form-documents/the-way-current.epub). The latest [consistency notes](editor-notes/consistency/2026-09-09-acts.md) document a first reviewed pass in Acts; the wider review is ongoing.
+The canonical whole-Bible release is [current-form-documents/the-way-current.epub](current-form-documents/the-way-current.epub). The latest [consistency notes](editor-notes/consistency/2026-09-10-whole-bible-divine-pronouns.md) document the completed whole-Bible divine-pronoun consistency update.
 
 | Item | Current value |
 |---|---|
 | Coverage | 66 books / 1,189 chapters |
-| EPUB SHA-256 | `04722fbaeb2b5394df83a4a4c9056a7edc6dfe4f00b0d4ccc8630880bb69eb15` |
+| EPUB SHA-256 | `71a0b125ed27706bd4318d075d53e249388ed5a36fdc5f0a2d754a8e0ea1ada5` |
 | Browser reader | [thewayversion.com/app](https://thewayversion.com/app) |
 | Website | [thewayversion.com](https://thewayversion.com) |
 | Mobile | Native mobile applications are in development |
@@ -96,7 +96,7 @@ The complete working specification is in [skill/SKILL.md](skill/SKILL.md). This 
 | Location | Purpose |
 |---|---|
 | `current-form-documents/` | Current canonical EPUB and release information |
-| `original-documents/` | Human-editable Scripture source files |
+| `original-documents/` | Older working Scripture source files retained for history/reconciliation; they do not supersede the current-form EPUB |
 | `rendered-documents-history/` | Timestamped archives of earlier rendered editions |
 | `change-logs/` | Dated book-level changes, reports, and QA records |
 | `editor-notes/` | Research, reflections, inspirations, and proposed rules |
@@ -106,12 +106,12 @@ The complete working specification is in [skill/SKILL.md](skill/SKILL.md). This 
 
 ## Release workflow
 
-1. Translation work is maintained in `original-documents/`.
+1. The authoritative electronic reading edition is `current-form-documents/the-way-current.epub` unless a later editor-directed reconciliation explicitly supersedes it.
 2. Meaningful editorial changes are recorded in `editor-notes/` and `change-logs/`.
 3. The prior current EPUB is archived under a UTC-stamped folder in `rendered-documents-history/`.
-4. The new render becomes `current-form-documents/the-way-current.epub`.
-5. The EPUB container, checksum, book count, chapter count, and terminology audits are validated.
-6. `rendered-documents-history/LOG.md` records the release transaction.
+4. The reviewed replacement becomes `current-form-documents/the-way-current.epub`.
+5. The EPUB container, checksum, 66-book/1,189-chapter coverage, verse inventory, links, and terminology are validated.
+6. `rendered-documents-history/LOG.md` records the release transaction; downstream reader copies are synchronized from this exact artifact.
 
 ## Collaboration
 

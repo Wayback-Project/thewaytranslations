@@ -1,41 +1,29 @@
 # EPUB Refresh Instructions
 
-Binary EPUB files are intentionally not updated in normal pull requests, because the repository review flow cannot display binary EPUB diffs reliably.
+## Canonical electronic authority
 
-When a binary-capable editor or release process is ready to refresh the current outputs after source-text changes:
+By editor direction for the September 2026 release line, `current-form-documents/the-way-current.epub` is the authoritative electronic reading edition. The files under `original-documents/` are older working sources and must not be used to overwrite the current-form EPUB unless a later explicit reconciliation decision says otherwise.
 
-1. Start from the text sources in `original-documents/`.
-2. Rebuild both current EPUB artifacts:
-   - `current-form-documents/the-way-current.epub`
-   - `current-form-documents/newtestament.epub`
-3. Before replacing the current EPUBs, archive the existing files under `rendered-documents-history/<YYYY-MM-DD_HHMMUTC>/`.
-4. Append a row to `rendered-documents-history/LOG.md` describing the archive snapshot and refresh reason.
-5. Validate the EPUB zip containers, for example:
+There is one current whole-Bible artifact in this directory: `the-way-current.epub`. Older instructions referring to a separate `newtestament.epub` are obsolete.
 
-```bash
-python3 - <<'PY'
-import zipfile
-for path in [
-    'current-form-documents/the-way-current.epub',
-    'current-form-documents/newtestament.epub',
-]:
-    with zipfile.ZipFile(path) as epub:
-        assert epub.testzip() is None, path
-        print(f'{path}: OK')
-PY
-```
+## Release procedure
 
-## September 2026 refresh status
+1. Begin from the current canonical EPUB.
+2. Make only editor-approved changes and maintain an exact before/after ledger.
+3. Archive the prior EPUB under `rendered-documents-history/<YYYY-MM-DD_HHMMUTC>/` before replacement.
+4. Validate ZIP integrity, `mimetype` placement/compression, 66 canonical books, 1,189 chapters, verse inventory, XML, internal links/anchors, and terminology/formatting checks.
+5. Record the actual SHA-256 of the finished binary in this directory's README and the repository README.
+6. Append the archive transaction to `rendered-documents-history/LOG.md`.
+7. Synchronize downstream readers from the exact finished EPUB; do not maintain a separate hand-edited Bible text in the reader.
 
-The verified whole-Bible EPUB was refreshed from the application release and synchronized back into the editable source documents. The current artifact must have SHA-256 `04722fbaeb2b5394df83a4a4c9056a7edc6dfe4f00b0d4ccc8630880bb69eb15`.
+## 2026-09-10 consistency release
 
-The refresh includes the July 2026 Yeshua-sayings work listed below and the accepted source-sensitive terminology rule: `satan` / `ha-satan` / `Satanas` → **the Adversary**; `diabolos` → **the Slanderer**; `daimonion` remains **demon**.
+The completed whole-Bible divine-pronoun consistency release contains **1126** reviewed verse-level edits. Canonical SHA-256: `71a0b125ed27706bd4318d075d53e249388ed5a36fdc5f0a2d754a8e0ea1ada5`. See `../editor-notes/consistency/2026-09-10-whole-bible-divine-pronouns.md` and `../change-logs/reports/2026-09-10-whole-bible-divine-pronoun-consistency.json`.
 
-## Changes included in the refreshed EPUB
+The prior canonical artifact (SHA-256 `04722fbaeb2b5394df83a4a4c9056a7edc6dfe4f00b0d4ccc8630880bb69eb15`) is archived at `../rendered-documents-history/2026-09-10_0352UTC/the-way-current.epub`.
 
-The July 2026 Yeshua-sayings pass changed the source text and documentation only. The next EPUB refresh should include these source changes, especially:
+Current `<<` / `>>` formatting artifact count in the canonical EPUB is **0**.
 
-- Matthew 6:13 and Luke 11:4: trial too great / sour and corrupt rescue language.
-- Luke 14:26: `sana` as placing family and life behind the Way rather than literal hatred.
-- John 16:24: “set your trap” in the vibration Yeshua carries, preserving the video-script receiving-space metaphor.
-- John 14–16, Matthew 7, and Mark 11: intentional seeking / living-name language.
+## Existing terminology carried forward
+
+The September 2026 release line also carries forward the accepted source-sensitive terminology rule: `satan` / `ha-satan` / `Satanas` → **the Adversary**; `diabolos` → **the Slanderer**; `daimonion` remains **demon**. Earlier Yeshua-sayings work already present in the current-form EPUB is preserved unchanged except where a verse is listed in the exact consistency ledger.

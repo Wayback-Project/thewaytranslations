@@ -1,0 +1,15 @@
+{
+  "sha256": "71a0b125ed27706bd4318d075d53e249388ed5a36fdc5f0a2d754a8e0ea1ada5",
+  "previous_sha256": "04722fbaeb2b5394df83a4a4c9056a7edc6dfe4f00b0d4ccc8630880bb69eb15",
+  "change_count": 1126,
+  "canonical_books": 66,
+  "chapters": 1189,
+  "verse_occurrences": 31102,
+  "unique_references": 31101,
+  "xml_errors": 0,
+  "broken_internal_links": 0,
+  "angle_marker_artifacts": 0,
+  "changed_book_xhtml_members": 51,
+  "mimetype_first_uncompressed": true,
+  "archive": "rendered-documents-history/2026-09-10_0352UTC/the-way-current.epub"
+}
