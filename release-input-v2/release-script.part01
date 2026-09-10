@@ -1,0 +1,110 @@
+#!/usr/bin/env python3
+from __future__ import annotations
+import base64, gzip, hashlib, html, json, posixpath, re, shutil, sys, zipfile
+from pathlib import Path
+import xml.etree.ElementTree as ET
+
+ROOT = Path(__file__).resolve().parents[2]
+EPUB = ROOT / 'current-form-documents' / 'the-way-current.epub'
+EXPECTED_BASE_SHA = '04722fbaeb2b5394df83a4a4c9056a7edc6dfe4f00b0d4ccc8630880bb69eb15'
+ARCHIVE_STAMP = '2026-09-10_0352UTC'
+ARCHIVE = ROOT / 'rendered-documents-history' / ARCHIVE_STAMP / 'the-way-current.epub'
+PAYLOAD_DIR = ROOT / 'release-input-v2'
+CHANGELOG = ROOT / 'change-logs' / 'reports' / '2026-09-10-whole-bible-divine-pronoun-consistency.json'
+EDITOR_NOTE = ROOT / 'editor-notes' / 'consistency' / '2026-09-10-whole-bible-divine-pronouns.md'
+QA_REPORT = ROOT / 'change-logs' / 'reports' / '2026-09-10-whole-bible-divine-pronoun-qa.json'
+
+BOOKS = [
+'Genesis','Exodus','Leviticus','Numbers','Deuteronomy','Joshua','Judges','Ruth','1 Samuel','2 Samuel','1 Kings','2 Kings','1 Chronicles','2 Chronicles','Ezra','Nehemiah','Esther','Job','Psalms','Proverbs','Ecclesiastes','Song of Solomon','Isaiah','Jeremiah','Lamentations','Ezekiel','Daniel','Hosea','Joel','Amos','Obadiah','Jonah','Micah','Nahum','Habakkuk','Zephaniah','Haggai','Zechariah','Malachi','Matthew','Mark','Luke','John','Acts','Romans','1 Corinthians','2 Corinthians','Galatians','Ephesians','Philippians','Colossians','1 Thessalonians','2 Thessalonians','1 Timothy','2 Timothy','Titus','Philemon','Hebrews','James','1 Peter','2 Peter','1 John','2 John','3 John','Jude','Revelation']
+BOOK_ORDER = {b:i for i,b in enumerate(BOOKS)}
+UNRESOLVED = [
+('Acts 5:32','“His witnesses” has a referent/textual-basis question already carried from the Acts review.'),
+('Acts 13:35','Citation speaker and psalm literary voice should not be silently collapsed.'),
+('Acts 20:28','Assembly/Master/God/blood referents require separate textual review.'),
+('Exodus 34:28','Speaker/reference transition makes the masculine pronoun insufficiently certain for this mechanical consistency pass.'),
+('Numbers 24:8','The pronoun can reasonably refer to Israel rather than Elohim.'),
+('Psalm 110:5–7','Royal/Messianic/divine referents are poetically and textually disputed; left unchanged.'),
+('Ezekiel 2:2','Ruach and speaking-voice transition is not resolved silently.'),
+('Romans 15:10','Quotation/speaker referent is not changed by this pass.'),
+('Hebrews 1:3','God/Son language crosses referents; masculine pronouns referring to Yeshua are explicitly outside scope.'),
+]
+
+NS = {'h':'http://www.w3.org/1999/xhtml'}
+
+def sha256(path: Path) -> str:
+    return hashlib.sha256(path.read_bytes()).hexdigest()
+
+def load_payload():
+    parts = sorted(PAYLOAD_DIR.glob('after-map.part*'))
+    if not parts: raise SystemExit('release payload parts missing')
+    b64 = ''.join(p.read_text(encoding='ascii').strip() for p in parts)
+    raw = gzip.decompress(base64.b64decode(b64))
+    return json.loads(raw.decode('utf-8'))
+
+def extract_epub(path: Path):
+    bookfile={}; verse={}; chapters=0; occurrences=[]; ids_by_file={}; hrefs=[]; angle=[]; xml_errors=[]; all_members=set()
+    with zipfile.ZipFile(path) as z:
+        all_members=set(z.namelist())
+        for name in z.namelist():
+            if not name.lower().endswith(('.xhtml','.html','.htm','.opf','.ncx')): continue
+            data=z.read(name)
+            if b'<<' in data or b'>>' in data: angle.append(name)
+            try: root=ET.fromstring(data)
+            except Exception as e:
+                xml_errors.append({'file':name,'error':str(e)}); continue
+            ids_by_file[name]={e.attrib.get('id') for e in root.iter() if e.attrib.get('id')}
+            for e in root.iter():
+                href=e.attrib.get('href')
+                if href: hrefs.append((name,href))
+            if not (name.startswith('OEBPS/Text/') and name.endswith('.xhtml')): continue
+            book=None; ch=None
+            for e in root.iter():
+                tag=e.tag.rsplit('}',1)[-1]
+                t=''.join(e.itertext()).strip(); idv=e.attrib.get('id','')
+                if tag=='h1' and t in BOOK_ORDER:
+                    book=t; bookfile[book]=name
+                elif book and idv.startswith('ch-'):
+                    m=re.search(r'(\d+)\s*$',t)
+                    if m: ch=int(m.group(1)); chapters+=1
+                elif book and ch and tag=='p':
+                    m=re.match(r'^(\d+)\.\s*(.*)$',t,re.S)
+                    if m:
+                        ref=f'{book} {ch}:{int(m.group(1))}'
+                        occurrences.append(ref); verse[ref]=m.group(2)
+        broken=[]
+        for source,href in hrefs:
+            if href.startswith(('http:','https:','mailto:','data:','javascript:')): continue
+            target,sep,frag=href.partition('#')
+            if not target: dest=source
+            else: dest=posixpath.normpath(posixpath.join(posixpath.dirname(source),target))
+            if dest not in all_members:
+                broken.append({'source':source,'href':href,'reason':'missing file'}); continue
+            if frag and frag not in ids_by_file.get(dest,set()):
+                broken.append({'source':source,'href':href,'reason':'missing anchor'})
+    return {'bookfile':bookfile,'verse':verse,'chapters':chapters,'occurrences':occurrences,'angle':angle,'xml_errors':xml_errors,'broken':broken}
+
+def apply_release(after_map):
+    if sha256(EPUB)!=EXPECTED_BASE_SHA:
+        raise SystemExit(f'Unexpected canonical baseline SHA: {sha256(EPUB)}')
+    before_state=extract_epub(EPUB)
+    missing_books=[b for b in BOOKS if b not in before_state['bookfile']]
+    if missing_books: raise SystemExit(f'Missing canonical books: {missing_books}')
+    if len(before_state['bookfile'])!=66: raise SystemExit(f'Canonical book count !=66: {len(before_state["bookfile"])}')
+    if before_state['chapters']!=1189: raise SystemExit(f'Baseline chapter count !=1189: {before_state["chapters"]}')
+    if len(before_state['occurrences'])!=31102 or len(set(before_state['occurrences']))!=31101:
+        raise SystemExit('Baseline verse inventory mismatch')
+    if before_state['angle']: raise SystemExit(f'Legacy angle markers in baseline: {before_state["angle"]}')
+
+    ARCHIVE.parent.mkdir(parents=True,exist_ok=True)
+    shutil.copy2(EPUB,ARCHIVE)
+    if sha256(ARCHIVE)!=EXPECTED_BASE_SHA: raise SystemExit('Archive SHA mismatch')
+
+    changes=[]; mods={}
+    for ref,meta in after_map.items():
+        before=before_state['verse'].get(ref)
+        if before is None: raise SystemExit(f'Missing reference in EPUB: {ref}')
+        after=meta['after']
+        if before==after: raise SystemExit(f'No-op ledger entry: {ref}')
+        book=ref.rsplit(' ',1)[0]; cv=ref.rsplit(' ',1)[1]; v=int(cv.split(':')[1]); member=before_state['bookfile'][book]
+        mods.setdefault(member,[]).append((v,before,after,ref))
+        changes.append({'reference':ref,'original_phrase':before,'replacement_phrase':after,'divine_title_used':meta.get('divine_titles_used',[]),'basis':meta
