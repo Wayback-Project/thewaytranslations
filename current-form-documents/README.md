@@ -12,11 +12,11 @@ This folder holds the current canonical reading edition of **The Way Version**.
 |---|---|
 | Artifact | [`the-way-current.epub`](the-way-current.epub) |
 | Coverage | 66 books / 1,189 chapters |
-| SHA-256 | `04722fbaeb2b5394df83a4a4c9056a7edc6dfe4f00b0d4ccc8630880bb69eb15` |
+| SHA-256 | `71a0b125ed27706bd4318d075d53e249388ed5a36fdc5f0a2d754a8e0ea1ada5` |
 | Verified | September 2026 |
-| Previous release | Archived under `rendered-documents-history/2026-09-09_1230UTC/` |
+| Previous release | Archived under `rendered-documents-history/2026-09-10_0352UTC/` |
 
-This EPUB contains the first reviewed Acts consistency changes. The whole-Bible pronoun review remains in progress; see the [release notes](../editor-notes/consistency/2026-09-09-acts.md). Website and application copies are verified separately when synchronized. It is suitable for Kindle, Apple Books, tablets, phones, and most EPUB-compatible e-readers.
+This EPUB contains the completed whole-Bible divine-pronoun consistency update (1126 reviewed verse-level edits); see the [release notes](../editor-notes/consistency/2026-09-10-whole-bible-divine-pronouns.md). Website and application copies are verified separately when synchronized. It is suitable for Kindle, Apple Books, tablets, phones, and most EPUB-compatible e-readers.
 
 ## About this edition
 
@@ -43,7 +43,7 @@ Native mobile applications are in development. The EPUB remains the portable, of
 
 ## How current releases are maintained
 
-1. Editable Scripture is maintained in `../original-documents/`.
+1. By current editor direction, the authoritative electronic reading edition is `the-way-current.epub`; `../original-documents/` contains older working sources and must not overwrite this artifact without an explicit reconciliation decision.
 2. Translation decisions and research are recorded in `../editor-notes/` and `../change-logs/`.
 3. Before this current EPUB is replaced, the prior artifact is copied to `../rendered-documents-history/<UTC timestamp>/`.
 4. The replacement EPUB is checked for container integrity, canonical book/chapter coverage, and its recorded checksum.
