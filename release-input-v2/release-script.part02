@@ -1,0 +1,99 @@
+.get('basis','context-first editorial review')})
+
+    tmp=EPUB.with_suffix('.epub.tmp')
+    with zipfile.ZipFile(EPUB) as zin, zipfile.ZipFile(tmp,'w') as zout:
+        for info in zin.infolist():
+            data=zin.read(info.filename)
+            if info.filename in mods:
+                s=data.decode('utf-8')
+                for v,before,after,ref in mods[info.filename]:
+                    needle=f'>{v}. {html.escape(before,quote=False)}</'
+                    repl=f'>{v}. {html.escape(after,quote=False)}</'
+                    count=s.count(needle)
+                    if count!=1: raise SystemExit(f'Raw verse match count {count} for {ref}')
+                    s=s.replace(needle,repl,1)
+                data=s.encode('utf-8')
+            zout.writestr(info,data)
+    tmp.replace(EPUB)
+
+    after_state=extract_epub(EPUB)
+    with zipfile.ZipFile(EPUB) as z:
+        infos=z.infolist(); bad=z.testzip()
+        mime_ok=bool(infos and infos[0].filename=='mimetype' and infos[0].compress_type==zipfile.ZIP_STORED)
+    if bad: raise SystemExit(f'Bad ZIP member: {bad}')
+    if not mime_ok: raise SystemExit('EPUB mimetype is not first/uncompressed')
+    if set(after_state['bookfile'])!=set(BOOKS): raise SystemExit('Final canonical book set mismatch')
+    if after_state['chapters']!=1189: raise SystemExit(f'Final chapter count {after_state["chapters"]}')
+    if after_state['occurrences']!=before_state['occurrences']: raise SystemExit('Verse occurrence inventory changed')
+    if after_state['xml_errors']: raise SystemExit(f'XML errors: {after_state["xml_errors"][:3]}')
+    if after_state['broken']: raise SystemExit(f'Broken links: {after_state["broken"][:3]}')
+    if after_state['angle']: raise SystemExit(f'Legacy angle markers: {after_state["angle"]}')
+    mismatch=[c['reference'] for c in changes if after_state['verse'].get(c['reference'])!=c['replacement_phrase']]
+    if mismatch: raise SystemExit(f'Ledger mismatches after build: {mismatch[:5]}')
+
+    changed_members=[]
+    with zipfile.ZipFile(ARCHIVE) as a, zipfile.ZipFile(EPUB) as b:
+        if a.namelist()!=b.namelist(): raise SystemExit('EPUB member inventory changed')
+        for n in a.namelist():
+            if a.read(n)!=b.read(n): changed_members.append(n)
+    if set(changed_members)!=set(mods):
+        raise SystemExit(f'Unexpected changed members: {set(changed_members)^set(mods)}')
+
+    final_sha=sha256(EPUB)
+    changes.sort(key=lambda c:(BOOK_ORDER[c['reference'].rsplit(' ',1)[0]],int(c['reference'].rsplit(' ',1)[1].split(':')[0]),int(c['reference'].rsplit(':',1)[1])))
+    CHANGELOG.parent.mkdir(parents=True,exist_ok=True)
+    CHANGELOG.write_text(json.dumps({'release':'2026-09-10 divine-pronoun consistency','authority':'current-form-documents/the-way-current.epub','previous_sha256':EXPECTED_BASE_SHA,'sha256':final_sha,'change_count':len(changes),'affected_book_count':len(mods),'changes':changes},ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+    qa={'sha256':final_sha,'previous_sha256':EXPECTED_BASE_SHA,'change_count':len(changes),'canonical_books':len(after_state['bookfile']),'chapters':after_state['chapters'],'verse_occurrences':len(after_state['occurrences']),'unique_references':len(set(after_state['occurrences'])),'xml_errors':0,'broken_internal_links':0,'angle_marker_artifacts':0,'changed_book_xhtml_members':len(changed_members),'mimetype_first_uncompressed':mime_ok,'archive':str(ARCHIVE.relative_to(ROOT))}
+    QA_REPORT.write_text(json.dumps(qa,indent=2)+'\n',encoding='utf-8')
+    return final_sha,changes,qa
+
+def update_docs(final_sha,changes,qa):
+    count=len(changes); affected=qa['changed_book_xhtml_members']
+    EDITOR_NOTE.parent.mkdir(parents=True,exist_ok=True)
+    unresolved='\n'.join(f'- **{ref}** — {reason}' for ref,reason in UNRESOLVED)
+    note=f'''# Whole-Bible divine-pronoun consistency update — 2026-09-10
+
+## Authority and scope
+
+By editor direction, `current-form-documents/the-way-current.epub` is the authoritative electronic reading edition for this release. The older `original-documents/` files were **not** used to overwrite the current-form text. The supplied Edition 1.0 print PDF was used as a cross-check/reference only; it was not imported wholesale.
+
+This is a **consistency update**, not a translation rewrite. Masculine pronouns were changed only when the immediate context made the referent unmistakably divine (YHWH, Elohim, God, Cosmic Parent, Ruach, or an already-established divine title). Human pronouns, pronouns referring to Yeshua or another named character, and uncertain/debated/poetic speaker transitions were retained. No `they`, `she`, or `it` substitutions were introduced for the divine referent, and no editorial comments were inserted into Scripture.
+
+## Result
+
+- Verse-level edits actually made: **{count}**
+- Affected canonical books: **{affected}**
+- Canonical EPUB SHA-256: `{final_sha}`
+- Previous canonical EPUB SHA-256: `{EXPECTED_BASE_SHA}`
+- Exact before/after ledger: `change-logs/reports/2026-09-10-whole-bible-divine-pronoun-consistency.json`
+- QA report: `change-logs/reports/2026-09-10-whole-bible-divine-pronoun-qa.json`
+- Prior EPUB archived at: `rendered-documents-history/{ARCHIVE_STAMP}/the-way-current.epub`
+
+The Git diff plus the exact before/after ledger is the repository-equivalent change tracking for the binary EPUB release.
+
+## Open editorial review — intentionally unchanged
+
+{unresolved}
+
+These are not failures of the consistency pass; they are cases where the supplied rule requires uncertainty to be preserved rather than silently resolved.
+
+## Release QA
+
+- EPUB ZIP integrity: pass; `mimetype` is first and uncompressed.
+- Canonical coverage: **66 books / 1,189 chapters**.
+- Verse inventory preserved: **31,102 occurrences / 31,101 unique references**. The pre-existing duplicate Genesis 24:4 remains untouched because it is outside this consistency task.
+- XML parse errors: **0**.
+- Broken internal links/anchors: **0**.
+- Current `<<` / `>>` artifacts: **0**.
+- Only the **{affected} affected canonical book XHTML members** changed inside the EPUB; all other EPUB members are byte-identical to the archived previous release.
+
+## Reader synchronization
+
+Website/e-reader synchronization is a separate downstream release transaction. The website must ingest this exact canonical EPUB and its `/app/version.json` SHA must match `{final_sha}` before synchronization is considered verified.
+'''
+    EDITOR_NOTE.write_text(note,encoding='utf-8')
+
+    root=ROOT/'README.md'; s=root.read_text(encoding='utf-8')
+    s=re.sub(r'The latest \[consistency notes\]\([^\n]+?\) document a first reviewed pass in Acts; the wider review is ongoing\.', 'The latest [consistency notes](editor-notes/consistency/2026-09-10-whole-bible-divine-pronouns.md) document the completed whole-Bible divine-pronoun consistency update.', s)
+    s=re.sub(r'\| EPUB SHA-256 \| `[^`]+` \|',f'| EPUB SHA-256 | `{final_sha}` |',s)
+    s=s.replace('| `original-documents/` | Human-editable Scripture source fil
