@@ -1,0 +1,43 @@
+name: Publish divine pronoun consistency release
+
+on:
+  push:
+    branches:
+      - consistency/divine-pronouns-whole-bible-2026-09-09
+    paths:
+      - 'release-input-v2/**'
+      - '.github/workflows/release-divine-pronoun-consistency.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    if: ${{ github.actor != 'github-actions[bot]' }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: consistency/divine-pronouns-whole-bible-2026-09-09
+          fetch-depth: 0
+
+      - name: Reconstruct release script
+        run: |
+          cat release-input-v2/release-script.part* > tools/local/release_divine_pronouns.py
+          python3 -m py_compile tools/local/release_divine_pronouns.py
+
+      - name: Build and validate canonical current-form release
+        run: python3 tools/local/release_divine_pronouns.py
+
+      - name: Commit validated consistency release
+        run: |
+          rm -rf release-input-v2
+          rm -f .github/workflows/audit-divine-pronouns.yml
+          rm -f .github/workflows/release-divine-pronoun-consistency.yml
+          rm -f tools/local/audit_divine_pronouns.py
+          rm -f tools/local/release_divine_pronouns.py
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "consistency: publish whole-Bible divine pronoun release"
+          git push origin HEAD:consistency/divine-pronouns-whole-bible-2026-09-09
