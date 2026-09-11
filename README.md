@@ -64,12 +64,12 @@ See more comparisons and begin reading at [TheWayVersion.com](https://thewayvers
 
 ## Current release
 
-The canonical whole-Bible release is [current-form-documents/the-way-current.epub](current-form-documents/the-way-current.epub). The latest [consistency notes](editor-notes/consistency/2026-09-10-whole-bible-divine-pronouns.md) document the completed whole-Bible divine-pronoun consistency update.
+The canonical whole-Bible release is [current-form-documents/the-way-current.epub](current-form-documents/the-way-current.epub). The latest [consistency notes](editor-notes/consistency/2026-09-11-original-name-consistency.md) document the original-name consistency and Genesis narrative wording update; the completed whole-Bible divine-pronoun update remains part of this same canonical artifact.
 
 | Item | Current value |
 |---|---|
 | Coverage | 66 books / 1,189 chapters |
-| EPUB SHA-256 | `71a0b125ed27706bd4318d075d53e249388ed5a36fdc5f0a2d754a8e0ea1ada5` |
+| EPUB SHA-256 | `8c41b165e7714730a4139ccee13c00b3c6e149af1e8ee5f00d4b8d5191bd5328` |
 | Browser reader | [thewayversion.com/app](https://thewayversion.com/app) |
 | Website | [thewayversion.com](https://thewayversion.com) |
 | Mobile | Native mobile applications are in development |

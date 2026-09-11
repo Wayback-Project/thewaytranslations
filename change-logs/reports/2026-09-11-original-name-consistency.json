@@ -14,44 +14,371 @@
     ]
   },
   "changes": [
-    {"reference":"Genesis 2:20","before":"The person gave names to all livestock, and to the birds of the heavens, and to every animal of the field; but for the human there was not found a helper comparable to the human.","after":"The man gave names to all livestock, and to the birds of the heavens, and to every animal of the field; but for the human there was not found a helper comparable to the human."},
-    {"reference":"Genesis 2:23","before":"The human said, “This time—bone from my bones and flesh from my flesh! She shall be called Woman, because out of Man she was taken.”","after":"The man said, “This time—bone from my bones and flesh from my flesh! She shall be called Woman, because out of Man she was taken.”"},
-    {"reference":"Genesis 2:25","before":"The human and his wife were both naked, and they were not ashamed.","after":"The man and his wife were both naked, and they were not ashamed."},
-    {"reference":"Genesis 3:8","before":"They heard the voice of YHWH Elohim walking in the garden in the wind of the day, and the human and his woman hid themselves from the face of YHWH Elohim among the trees of the garden.","after":"They heard the voice of YHWH Elohim walking in the garden in the wind of the day, and the man and his wife hid themselves from the face of YHWH Elohim among the trees of the garden."},
-    {"reference":"Genesis 3:9","before":"YHWH Elohim called to the human, and said to the human, “Where are you?”","after":"YHWH Elohim called to the man, and said, “Where are you?”"},
-    {"reference":"Genesis 3:10","before":"The person said, “I heard your voice in the garden, and I was afraid, because I was naked; so I hid myself.”","after":"The man said, “I heard your voice in the garden, and I was afraid, because I was naked; so I hid myself.”"},
-    {"reference":"Genesis 3:12","before":"The person said, “The woman whom you gave to be with me, she gave me fruit from the tree, and I ate it.”","after":"The man said, “The woman whom you gave to be with me, she gave me fruit from the tree, and I ate it.”"},
-    {"reference":"Genesis 3:20","before":"The human called his woman’s name Havvah, because she became the mother of all the living.","after":"The man named his wife Havvah, because she became the mother of all the living."},
-    {"reference":"Genesis 3:22","before":"YHWH Elohim said, “Look, the human has become like one of us, knowing good and brokenness. Now, lest the human reach out a hand, and also take of the tree of life, and eat, and live forever—”","after":"YHWH Elohim said, “Look, the man has become like one of us, knowing good and brokenness. Now, lest the man reach out a hand, and also take of the tree of life, and eat, and live forever—”"},
-    {"reference":"Genesis 3:23","before":"Therefore YHWH Elohim sent the human out from the garden of Eden, to till the ground from which the human was taken.","after":"Therefore YHWH Elohim sent the man out from the garden of Eden, to till the ground from which the man was taken."},
-    {"reference":"Genesis 3:24","before":"So YHWH Elohim drove out the human; and YHWH Elohim placed cherubim at the east of the garden of Eden, and a flaming sword which turned every way, to guard the way to the tree of life.","after":"So YHWH Elohim drove out the man; and YHWH Elohim placed cherubim at the east of the garden of Eden, and a flaming sword which turned every way, to guard the way to the tree of life."},
-    {"reference":"Genesis 4:1","before":"The human knew Havvah his wife. She conceived, and gave birth to Cain, and said, “I have gotten a person with YHWH’s help.”","after":"Adam knew Havvah his wife. She conceived, and gave birth to Qayin, and said, “I have gotten a person with YHWH’s help.”"},
-    {"reference":"Genesis 4:2","before":"Again she gave birth, to Cain’s brother Abel. Abel was a keeper of sheep, but Cain was a tiller of the ground.","after":"Again she gave birth, to Qayin’s brother Hevel. Hevel was a keeper of sheep, but Qayin was a tiller of the ground."},
-    {"reference":"Genesis 4:3","before":"As time passed, Cain brought an offering to YHWH from the fruit of the ground.","after":"As time passed, Qayin brought an offering to YHWH from the fruit of the ground."},
-    {"reference":"Genesis 4:4","before":"Abel also brought some of the firstborn of his flock and of its fat. YHWH respected Abel and his offering,","after":"Hevel also brought some of the firstborn of his flock and of its fat. YHWH respected Hevel and his offering,"},
-    {"reference":"Genesis 4:5","before":"but YHWH didn’t respect Cain and his offering. Cain was very angry, and the expression on his face fell.","after":"but YHWH didn’t respect Qayin and his offering. Qayin was very angry, and the expression on his face fell."},
-    {"reference":"Genesis 4:6","before":"YHWH said to Cain, “Why are you angry? Why has the expression of your face fallen?","after":"YHWH said to Qayin, “Why are you angry? Why has the expression of your face fallen?"},
-    {"reference":"Genesis 4:8","before":"Cain said to Abel, his brother, “Let’s go into the field.” While they were in the field, Cain rose up against Abel, his brother, and killed him.","after":"Qayin said to Hevel, his brother, “Let’s go into the field.” While they were in the field, Qayin rose up against Hevel, his brother, and killed him."},
-    {"reference":"Genesis 4:9","before":"YHWH said to Cain, “Where is Abel, your brother?” He said, “I don’t know. Am I my brother’s keeper?”","after":"YHWH said to Qayin, “Where is Hevel, your brother?” He said, “I don’t know. Am I my brother’s keeper?”"},
-    {"reference":"Genesis 4:13","before":"Cain said to YHWH, “My punishment is greater than I can bear.","after":"Qayin said to YHWH, “My punishment is greater than I can bear."},
-    {"reference":"Genesis 4:15","before":"YHWH said to him, “Therefore whoever slays Cain, vengeance will be taken on him sevenfold.” YHWH appointed a sign for Cain, so that anyone finding him would not strike him.","after":"YHWH said to him, “Therefore whoever slays Qayin, vengeance will be taken on him sevenfold.” YHWH appointed a sign for Qayin, so that anyone finding him would not strike him."},
-    {"reference":"Genesis 4:16","before":"Cain left YHWH’s presence, and lived in the land of Nod, east of Eden.","after":"Qayin left YHWH’s presence, and lived in the land of Nod, east of Eden."},
-    {"reference":"Genesis 4:17","before":"Cain knew his wife. She conceived, and gave birth to Enoch. He built a city, and named the city after the name of his son, Enoch.","after":"Qayin knew his wife. She conceived, and gave birth to Chanokh. He built a city, and named the city after the name of his son, Chanokh."},
-    {"reference":"Genesis 4:18","before":"Irad was born to Enoch. Irad became the father of Mehujael. Mehujael became the father of Methushael. Methushael became the father of Lamech.","after":"Irad was born to Chanokh. Irad became the father of Mehujael. Mehujael became the father of Methushael. Methushael became the father of Lamech."},
-    {"reference":"Genesis 4:24","before":"If Cain will be avenged seven times, truly Lamech seventy-seven times.”","after":"If Qayin will be avenged seven times, truly Lamech seventy-seven times.”"},
-    {"reference":"Genesis 4:25","before":"Adam knew his wife again. She gave birth to a son, and named him Seth, saying, “for Elohim has given me another child instead of Abel, for Cain killed him.”","after":"Adam knew his wife again. She gave birth to a son, and named him Seth, saying, “for Elohim has given me another child instead of Hevel, for Qayin killed him.”"},
-    {"reference":"Genesis 5:18","before":"Jared lived one hundred sixty-two years, then became the father of Enoch.","after":"Jared lived one hundred sixty-two years, then became the father of Chanokh."},
-    {"reference":"Genesis 5:19","before":"Jared lived after he became the father of Enoch eight hundred years, and became the father of other sons and daughters.","after":"Jared lived after he became the father of Chanokh eight hundred years, and became the father of other sons and daughters."},
-    {"reference":"Genesis 5:21","before":"Enoch lived sixty-five years, then became the father of Methuselah.","after":"Chanokh lived sixty-five years, then became the father of Methuselah."},
-    {"reference":"Genesis 5:22","before":"After Methuselah’s birth, Enoch walked with Elohim for three hundred years, and became the father of more sons and daughters.","after":"After Methuselah’s birth, Chanokh walked with Elohim for three hundred years, and became the father of more sons and daughters."},
-    {"reference":"Genesis 5:23","before":"All the days of Enoch were three hundred sixty-five years.","after":"All the days of Chanokh were three hundred sixty-five years."},
-    {"reference":"Genesis 5:24","before":"Enoch walked with Elohim, and he was not found, for Elohim took him.","after":"Chanokh walked with Elohim, and he was not found, for Elohim took him."},
-    {"reference":"1 Chronicles 1:3","before":"Enoch, Methuselah, Lamech,","after":"Chanokh, Methuselah, Lamech,"},
-    {"reference":"1 Chronicles 1:4","before":"Noah, Shem, Ham, and Japheth.","after":"Noach, Shem, Ham, and Japheth."},
-    {"reference":"Isaiah 54:9","before":"For this is [as] the waters of Noah to me; for as I have sworn that the waters of Noah shall no more go over the earth, so have I sworn that I will not be angry with you, nor rebuke you.","after":"For this is [as] the waters of Noach to me; for as I have sworn that the waters of Noach shall no more go over the earth, so have I sworn that I will not be angry with you, nor rebuke you."},
-    {"reference":"Ezekiel 14:14","before":"though these three men, Noah, Dani'el, and Job, were in it, they should deliver but their own souls by their righteousness, says YHWH God.","after":"though these three men, Noach, Dani'el, and Job, were in it, they should deliver but their own souls by their righteousness, says YHWH God."},
-    {"reference":"Ezekiel 14:20","before":"though Noah, Dani'el, and Job, were in it, as I live, says YHWH God, they should deliver neither son nor daughter; they should but deliver their own souls by their righteousness.","after":"though Noach, Dani'el, and Job, were in it, as I live, says YHWH God, they should deliver neither son nor daughter; they should but deliver their own souls by their righteousness."},
-    {"reference":"1 Timothy 2:13","before":"For Adam was first formed, then Eve.","after":"For Adam was first formed, then Havvah."},
-    {"reference":"2 Corinthians 11:3","before":"But I am afraid that somehow, as the serpent deceived Eve in his craftiness, so your minds might be corrupted from the simplicity that is in Messiah.","after":"But I am afraid that somehow, as the serpent deceived Havvah in his craftiness, so your minds might be corrupted from the simplicity that is in Messiah."}
+    {
+      "reference": "Genesis 2:20",
+      "before": "The person gave names to all livestock, and to the birds of the heavens, and to every animal of the field; but for the human there was not found a helper comparable to the human.",
+      "after": "The man gave names to all livestock, and to the birds of the heavens, and to every animal of the field; but for the human there was not found a helper comparable to the human."
+    },
+    {
+      "reference": "Genesis 2:23",
+      "before": "The human said, “This time—bone from my bones and flesh from my flesh! She shall be called Woman, because out of Man she was taken.”",
+      "after": "The man said, “This time—bone from my bones and flesh from my flesh! She shall be called Woman, because out of Man she was taken.”"
+    },
+    {
+      "reference": "Genesis 2:25",
+      "before": "The human and his wife were both naked, and they were not ashamed.",
+      "after": "The man and his wife were both naked, and they were not ashamed."
+    },
+    {
+      "reference": "Genesis 3:8",
+      "before": "They heard the voice of YHWH Elohim walking in the garden in the wind of the day, and the human and his woman hid themselves from the face of YHWH Elohim among the trees of the garden.",
+      "after": "They heard the voice of YHWH Elohim walking in the garden in the wind of the day, and the man and his wife hid themselves from the face of YHWH Elohim among the trees of the garden."
+    },
+    {
+      "reference": "Genesis 3:9",
+      "before": "YHWH Elohim called to the human, and said to the human, “Where are you?”",
+      "after": "YHWH Elohim called to the man, and said, “Where are you?”"
+    },
+    {
+      "reference": "Genesis 3:10",
+      "before": "The person said, “I heard your voice in the garden, and I was afraid, because I was naked; so I hid myself.”",
+      "after": "The man said, “I heard your voice in the garden, and I was afraid, because I was naked; so I hid myself.”"
+    },
+    {
+      "reference": "Genesis 3:12",
+      "before": "The person said, “The woman whom you gave to be with me, she gave me fruit from the tree, and I ate it.”",
+      "after": "The man said, “The woman whom you gave to be with me, she gave me fruit from the tree, and I ate it.”"
+    },
+    {
+      "reference": "Genesis 3:20",
+      "before": "The human called his woman’s name Havvah, because she became the mother of all the living.",
+      "after": "The man named his wife Havvah, because she became the mother of all the living."
+    },
+    {
+      "reference": "Genesis 3:22",
+      "before": "YHWH Elohim said, “Look, the human has become like one of us, knowing good and brokenness. Now, lest the human reach out a hand, and also take of the tree of life, and eat, and live forever—”",
+      "after": "YHWH Elohim said, “Look, the man has become like one of us, knowing good and brokenness. Now, lest the man reach out a hand, and also take of the tree of life, and eat, and live forever—”"
+    },
+    {
+      "reference": "Genesis 3:23",
+      "before": "Therefore YHWH Elohim sent the human out from the garden of Eden, to till the ground from which the human was taken.",
+      "after": "Therefore YHWH Elohim sent the man out from the garden of Eden, to till the ground from which the man was taken."
+    },
+    {
+      "reference": "Genesis 3:24",
+      "before": "So YHWH Elohim drove out the human; and YHWH Elohim placed cherubim at the east of the garden of Eden, and a flaming sword which turned every way, to guard the way to the tree of life.",
+      "after": "So YHWH Elohim drove out the man; and YHWH Elohim placed cherubim at the east of the garden of Eden, and a flaming sword which turned every way, to guard the way to the tree of life."
+    },
+    {
+      "reference": "Genesis 4:1",
+      "before": "The human knew Havvah his wife. She conceived, and gave birth to Cain, and said, “I have gotten a person with YHWH’s help.”",
+      "after": "Adam knew Havvah his wife. She conceived, and gave birth to Qayin, and said, “I have gotten a person with YHWH’s help.”"
+    },
+    {
+      "reference": "Genesis 4:2",
+      "before": "Again she gave birth, to Cain’s brother Abel. Abel was a keeper of sheep, but Cain was a tiller of the ground.",
+      "after": "Again she gave birth, to Qayin’s brother Hevel. Hevel was a keeper of sheep, but Qayin was a tiller of the ground."
+    },
+    {
+      "reference": "Genesis 4:3",
+      "before": "As time passed, Cain brought an offering to YHWH from the fruit of the ground.",
+      "after": "As time passed, Qayin brought an offering to YHWH from the fruit of the ground."
+    },
+    {
+      "reference": "Genesis 4:4",
+      "before": "Abel also brought some of the firstborn of his flock and of its fat. YHWH respected Abel and his offering,",
+      "after": "Hevel also brought some of the firstborn of his flock and of its fat. YHWH respected Hevel and his offering,"
+    },
+    {
+      "reference": "Genesis 4:5",
+      "before": "but YHWH didn’t respect Cain and his offering. Cain was very angry, and the expression on his face fell.",
+      "after": "but YHWH didn’t respect Qayin and his offering. Qayin was very angry, and the expression on his face fell."
+    },
+    {
+      "reference": "Genesis 4:6",
+      "before": "YHWH said to Cain, “Why are you angry? Why has the expression of your face fallen?",
+      "after": "YHWH said to Qayin, “Why are you angry? Why has the expression of your face fallen?"
+    },
+    {
+      "reference": "Genesis 4:8",
+      "before": "Cain said to Abel, his brother, “Let’s go into the field.” While they were in the field, Cain rose up against Abel, his brother, and killed him.",
+      "after": "Qayin said to Hevel, his brother, “Let’s go into the field.” While they were in the field, Qayin rose up against Hevel, his brother, and killed him."
+    },
+    {
+      "reference": "Genesis 4:9",
+      "before": "YHWH said to Cain, “Where is Abel, your brother?” He said, “I don’t know. Am I my brother’s keeper?”",
+      "after": "YHWH said to Qayin, “Where is Hevel, your brother?” He said, “I don’t know. Am I my brother’s keeper?”"
+    },
+    {
+      "reference": "Genesis 4:13",
+      "before": "Cain said to YHWH, “My punishment is greater than I can bear.",
+      "after": "Qayin said to YHWH, “My punishment is greater than I can bear."
+    },
+    {
+      "reference": "Genesis 4:15",
+      "before": "YHWH said to him, “Therefore whoever slays Cain, vengeance will be taken on him sevenfold.” YHWH appointed a sign for Cain, so that anyone finding him would not strike him.",
+      "after": "YHWH said to him, “Therefore whoever slays Qayin, vengeance will be taken on him sevenfold.” YHWH appointed a sign for Qayin, so that anyone finding him would not strike him."
+    },
+    {
+      "reference": "Genesis 4:16",
+      "before": "Cain left YHWH’s presence, and lived in the land of Nod, east of Eden.",
+      "after": "Qayin left YHWH’s presence, and lived in the land of Nod, east of Eden."
+    },
+    {
+      "reference": "Genesis 4:17",
+      "before": "Cain knew his wife. She conceived, and gave birth to Enoch. He built a city, and named the city after the name of his son, Enoch.",
+      "after": "Qayin knew his wife. She conceived, and gave birth to Chanokh. He built a city, and named the city after the name of his son, Chanokh."
+    },
+    {
+      "reference": "Genesis 4:18",
+      "before": "Irad was born to Enoch. Irad became the father of Mehujael. Mehujael became the father of Methushael. Methushael became the father of Lamech.",
+      "after": "Irad was born to Chanokh. Irad became the father of Mehujael. Mehujael became the father of Methushael. Methushael became the father of Lamech."
+    },
+    {
+      "reference": "Genesis 4:24",
+      "before": "If Cain will be avenged seven times, truly Lamech seventy-seven times.”",
+      "after": "If Qayin will be avenged seven times, truly Lamech seventy-seven times.”"
+    },
+    {
+      "reference": "Genesis 4:25",
+      "before": "Adam knew his wife again. She gave birth to a son, and named him Seth, saying, “for Elohim has given me another child instead of Abel, for Cain killed him.”",
+      "after": "Adam knew his wife again. She gave birth to a son, and named him Seth, saying, “for Elohim has given me another child instead of Hevel, for Qayin killed him.”"
+    },
+    {
+      "reference": "Genesis 5:18",
+      "before": "Jared lived one hundred sixty-two years, then became the father of Enoch.",
+      "after": "Jared lived one hundred sixty-two years, then became the father of Chanokh."
+    },
+    {
+      "reference": "Genesis 5:19",
+      "before": "Jared lived after he became the father of Enoch eight hundred years, and became the father of other sons and daughters.",
+      "after": "Jared lived after he became the father of Chanokh eight hundred years, and became the father of other sons and daughters."
+    },
+    {
+      "reference": "Genesis 5:21",
+      "before": "Enoch lived sixty-five years, then became the father of Methuselah.",
+      "after": "Chanokh lived sixty-five years, then became the father of Methuselah."
+    },
+    {
+      "reference": "Genesis 5:22",
+      "before": "After Methuselah’s birth, Enoch walked with Elohim for three hundred years, and became the father of more sons and daughters.",
+      "after": "After Methuselah’s birth, Chanokh walked with Elohim for three hundred years, and became the father of more sons and daughters."
+    },
+    {
+      "reference": "Genesis 5:23",
+      "before": "All the days of Enoch were three hundred sixty-five years.",
+      "after": "All the days of Chanokh were three hundred sixty-five years."
+    },
+    {
+      "reference": "Genesis 5:24",
+      "before": "Enoch walked with Elohim, and he was not found, for Elohim took him.",
+      "after": "Chanokh walked with Elohim, and he was not found, for Elohim took him."
+    },
+    {
+      "reference": "1 Chronicles 1:3",
+      "before": "Enoch, Methuselah, Lamech,",
+      "after": "Chanokh, Methuselah, Lamech,"
+    },
+    {
+      "reference": "1 Chronicles 1:4",
+      "before": "Noah, Shem, Ham, and Japheth.",
+      "after": "Noach, Shem, Ham, and Japheth."
+    },
+    {
+      "reference": "Isaiah 54:9",
+      "before": "For this is [as] the waters of Noah to me; for as I have sworn that the waters of Noah shall no more go over the earth, so have I sworn that I will not be angry with you, nor rebuke you.",
+      "after": "For this is [as] the waters of Noach to me; for as I have sworn that the waters of Noach shall no more go over the earth, so have I sworn that I will not be angry with you, nor rebuke you."
+    },
+    {
+      "reference": "Ezekiel 14:14",
+      "before": "though these three men, Noah, Dani'el, and Job, were in it, they should deliver but their own souls by their righteousness, says YHWH God.",
+      "after": "though these three men, Noach, Dani'el, and Job, were in it, they should deliver but their own souls by their righteousness, says YHWH God."
+    },
+    {
+      "reference": "Ezekiel 14:20",
+      "before": "though Noah, Dani'el, and Job, were in it, as I live, says YHWH God, they should deliver neither son nor daughter; they should but deliver their own souls by their righteousness.",
+      "after": "though Noach, Dani'el, and Job, were in it, as I live, says YHWH God, they should deliver neither son nor daughter; they should but deliver their own souls by their righteousness."
+    },
+    {
+      "reference": "1 Timothy 2:13",
+      "before": "For Adam was first formed, then Eve.",
+      "after": "For Adam was first formed, then Havvah."
+    },
+    {
+      "reference": "2 Corinthians 11:3",
+      "before": "But I am afraid that somehow, as the serpent deceived Eve in his craftiness, so your minds might be corrupted from the simplicity that is in Messiah.",
+      "after": "But I am afraid that somehow, as the serpent deceived Havvah in his craftiness, so your minds might be corrupted from the simplicity that is in Messiah."
+    }
+  ],
+  "released_epub_sha256": "8c41b165e7714730a4139ccee13c00b3c6e149af1e8ee5f00d4b8d5191bd5328",
+  "archive_path": "rendered-documents-history/2026-09-11_0559UTC/the-way-current.epub",
+  "qa": {
+    "applied_changes": 39,
+    "affected_book_members": 6,
+    "book_count": 66,
+    "chapter_count": 1189,
+    "zip_crc": "pass",
+    "xml_parse": "pass",
+    "internal_links": "pass",
+    "angle_markers": "0",
+    "preserved_collisions": "pass"
+  },
+  "applied": [
+    {
+      "reference": "Genesis 2:20",
+      "member": "OEBPS/Text/genesis.xhtml"
+    },
+    {
+      "reference": "Genesis 2:23",
+      "member": "OEBPS/Text/genesis.xhtml"
+    },
+    {
+      "reference": "Genesis 2:25",
+      "member": "OEBPS/Text/genesis.xhtml"
+    },
+    {
+      "reference": "Genesis 3:8",
+      "member": "OEBPS/Text/genesis.xhtml"
+    },
+    {
+      "reference": "Genesis 3:9",
+      "member": "OEBPS/Text/genesis.xhtml"
+    },
+    {
+      "reference": "Genesis 3:10",
+      "member": "OEBPS/Text/genesis.xhtml"
+    },
+    {
+      "reference": "Genesis 3:12",
+      "member": "OEBPS/Text/genesis.xhtml"
+    },
+    {
+      "reference": "Genesis 3:20",
+      "member": "OEBPS/Text/genesis.xhtml"
+    },
+    {
+      "reference": "Genesis 3:22",
+      "member": "OEBPS/Text/genesis.xhtml"
+    },
+    {
+      "reference": "Genesis 3:23",
+      "member": "OEBPS/Text/genesis.xhtml"
+    },
+    {
+      "reference": "Genesis 3:24",
+      "member": "OEBPS/Text/genesis.xhtml"
+    },
+    {
+      "reference": "Genesis 4:1",
+      "member": "OEBPS/Text/genesis.xhtml"
+    },
+    {
+      "reference": "Genesis 4:2",
+      "member": "OEBPS/Text/genesis.xhtml"
+    },
+    {
+      "reference": "Genesis 4:3",
+      "member": "OEBPS/Text/genesis.xhtml"
+    },
+    {
+      "reference": "Genesis 4:4",
+      "member": "OEBPS/Text/genesis.xhtml"
+    },
+    {
+      "reference": "Genesis 4:5",
+      "member": "OEBPS/Text/genesis.xhtml"
+    },
+    {
+      "reference": "Genesis 4:6",
+      "member": "OEBPS/Text/genesis.xhtml"
+    },
+    {
+      "reference": "Genesis 4:8",
+      "member": "OEBPS/Text/genesis.xhtml"
+    },
+    {
+      "reference": "Genesis 4:9",
+      "member": "OEBPS/Text/genesis.xhtml"
+    },
+    {
+      "reference": "Genesis 4:13",
+      "member": "OEBPS/Text/genesis.xhtml"
+    },
+    {
+      "reference": "Genesis 4:15",
+      "member": "OEBPS/Text/genesis.xhtml"
+    },
+    {
+      "reference": "Genesis 4:16",
+      "member": "OEBPS/Text/genesis.xhtml"
+    },
+    {
+      "reference": "Genesis 4:17",
+      "member": "OEBPS/Text/genesis.xhtml"
+    },
+    {
+      "reference": "Genesis 4:18",
+      "member": "OEBPS/Text/genesis.xhtml"
+    },
+    {
+      "reference": "Genesis 4:24",
+      "member": "OEBPS/Text/genesis.xhtml"
+    },
+    {
+      "reference": "Genesis 4:25",
+      "member": "OEBPS/Text/genesis.xhtml"
+    },
+    {
+      "reference": "Genesis 5:18",
+      "member": "OEBPS/Text/genesis.xhtml"
+    },
+    {
+      "reference": "Genesis 5:19",
+      "member": "OEBPS/Text/genesis.xhtml"
+    },
+    {
+      "reference": "Genesis 5:21",
+      "member": "OEBPS/Text/genesis.xhtml"
+    },
+    {
+      "reference": "Genesis 5:22",
+      "member": "OEBPS/Text/genesis.xhtml"
+    },
+    {
+      "reference": "Genesis 5:23",
+      "member": "OEBPS/Text/genesis.xhtml"
+    },
+    {
+      "reference": "Genesis 5:24",
+      "member": "OEBPS/Text/genesis.xhtml"
+    },
+    {
+      "reference": "1 Chronicles 1:3",
+      "member": "OEBPS/Text/1-chronicles.xhtml"
+    },
+    {
+      "reference": "1 Chronicles 1:4",
+      "member": "OEBPS/Text/1-chronicles.xhtml"
+    },
+    {
+      "reference": "Isaiah 54:9",
+      "member": "OEBPS/Text/isaiah.xhtml"
+    },
+    {
+      "reference": "Ezekiel 14:14",
+      "member": "OEBPS/Text/ezekiel.xhtml"
+    },
+    {
+      "reference": "Ezekiel 14:20",
+      "member": "OEBPS/Text/ezekiel.xhtml"
+    },
+    {
+      "reference": "1 Timothy 2:13",
+      "member": "OEBPS/Text/1-timothy.xhtml"
+    },
+    {
+      "reference": "2 Corinthians 11:3",
+      "member": "OEBPS/Text/2-corinthians.xhtml"
+    }
   ]
 }
