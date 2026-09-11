@@ -18,22 +18,6 @@ jobs:
         with:
           ref: consistency/original-names-genesis-2026-09-11
           fetch-depth: 1
-      - name: Inspect target verse markup
-        run: |
-          python3 - <<'PY'
-          import zipfile
-          from pathlib import Path
-          p=Path('current-form-documents/the-way-current.epub')
-          with zipfile.ZipFile(p) as z:
-            for n in z.namelist():
-              if not n.lower().endswith(('.xhtml','.html','.htm')): continue
-              raw=z.read(n).decode('utf-8','ignore')
-              needle='gave names to all livestock'
-              if needle in raw:
-                i=raw.index(needle)
-                print('MEMBER',n)
-                print(raw[max(0,i-700):i+900])
-          PY
       - name: Compile release builder
         run: python3 -m py_compile tools/local/release_original_names.py
       - name: Build and validate canonical EPUB
