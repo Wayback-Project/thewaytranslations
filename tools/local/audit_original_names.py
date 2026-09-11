@@ -54,7 +54,7 @@ def main() -> None:
                 if re.fullmatch(r"[1-3]?\s*[A-Za-z][A-Za-z '\-]+\s+\d+", p):
                     current_chapter = p
                     continue
-                if not re.match(r"^\d+\.\s", p):
+                if not re.match(r"^\d+\.\s*", p):
                     continue
                 for t in TOKENS:
                     counts[t] += len(re.findall(rf"(?<![A-Za-z]){re.escape(t)}(?![A-Za-z])", p, flags=re.I if t in {"human","person","man","woman"} else 0))
@@ -77,11 +77,7 @@ def main() -> None:
     ]
     for traditional, restored in PAIRS:
         lines.append(f"| {traditional} | {restored} | {counts[traditional]} | {counts[restored]} |")
-    lines += [
-        "",
-        "## Genesis 2–5 context",
-        "",
-    ]
+    lines += ["", "## Genesis 2–5 context", ""]
     last = None
     for chapter, verse in genesis_2_5:
         if chapter != last:
