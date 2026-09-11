@@ -26,7 +26,8 @@ def visible(inner: str) -> str:
     return html.unescape(re.sub(r'<[^>]+>', '', inner)).replace('\u00a0',' ').strip()
 
 def replace_one(member_text: str, verse_no: str, before: str, after: str):
-    pat=re.compile(r'(<p\b[^>]*>)(.*?)(</p>)', re.I|re.S)
+    # The canonical EPUB serializes XHTML with an html: namespace prefix.
+    pat=re.compile(r'(<(?:[A-Za-z_][\w.-]*:)?p\b[^>]*>)(.*?)(</(?:[A-Za-z_][\w.-]*:)?p>)', re.I|re.S)
     matches=[]
     for m in pat.finditer(member_text):
         text=visible(m.group(2))
@@ -75,7 +76,6 @@ def main():
             raise RuntimeError(f'{ref}: expected exactly one EPUB paragraph match, got {found}')
         applied.append({'reference':ref,'member':found[0]})
 
-    # Ensure exactly the intended plain-text before/after changes are represented.
     corpus='\n'.join(visible(d.decode('utf-8','ignore')) for n,d in edited.items() if n.lower().endswith(('.xhtml','.html','.htm')))
     for c in changes:
         if c['after'] not in corpus: raise RuntimeError(f"after text absent: {c['reference']}")
@@ -87,7 +87,6 @@ def main():
     for token in preserved:
         if token not in corpus: raise RuntimeError(f'preserved collision missing: {token}')
 
-    # Write EPUB while preserving member order/compression metadata and EPUB mimetype rule.
     fd,tmpname=tempfile.mkstemp(suffix='.epub',dir=str(EPUB.parent)); os.close(fd); tmp=Path(tmpname)
     try:
         with zipfile.ZipFile(tmp,'w') as zout:
