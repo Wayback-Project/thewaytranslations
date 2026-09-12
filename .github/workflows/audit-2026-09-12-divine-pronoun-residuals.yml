@@ -7,6 +7,7 @@ on:
     paths:
       - tools/local/audit_divine_pronoun_residuals_2026_09_12.py
       - tools/local/audit_divine_pronoun_high_confidence_2026_09_12.py
+      - tools/local/audit_divine_pronoun_ruach_2026_09_12.py
       - tools/local/split_divine_pronoun_triage_2026_09_12.py
       - .github/workflows/audit-2026-09-12-divine-pronoun-residuals.yml
   workflow_dispatch:
@@ -26,6 +27,7 @@ jobs:
         run: |
           python3 tools/local/audit_divine_pronoun_residuals_2026_09_12.py
           python3 tools/local/audit_divine_pronoun_high_confidence_2026_09_12.py
+          python3 tools/local/audit_divine_pronoun_ruach_2026_09_12.py
           python3 tools/local/split_divine_pronoun_triage_2026_09_12.py
       - name: Commit audit reports
         run: |
@@ -34,8 +36,10 @@ jobs:
           git add \
             change-logs/reports/2026-09-12-divine-pronoun-residual-audit.json \
             change-logs/reports/2026-09-12-divine-pronoun-high-confidence-triage.json \
+            change-logs/reports/2026-09-12-divine-pronoun-ruach-audit.json \
             editor-notes/consistency/2026-09-12-divine-pronoun-residual-audit.md \
             editor-notes/consistency/2026-09-12-divine-pronoun-high-confidence-triage.md \
+            editor-notes/consistency/2026-09-12-divine-pronoun-ruach-audit.md \
             editor-notes/consistency/divine-pronoun-triage-2026-09-12
           if ! git diff --cached --quiet; then
             git commit -m "Audit residual divine masculine pronouns"
