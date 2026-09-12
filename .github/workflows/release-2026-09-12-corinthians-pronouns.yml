@@ -1,0 +1,39 @@
+name: Release 2026-09-12 1 Corinthians pronoun cleanup
+
+on:
+  push:
+    branches:
+      - release/2026-09-12-corinthians-pronouns
+    paths:
+      - tools/local/release_2026_09_12_corinthians_pronouns.py
+      - .github/workflows/release-2026-09-12-corinthians-pronouns.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: release-2026-09-12-corinthians-pronouns
+  cancel-in-progress: false
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: release/2026-09-12-corinthians-pronouns
+          fetch-depth: 1
+
+      - name: Apply canonical EPUB edits and QA
+        run: python3 tools/local/release_2026_09_12_corinthians_pronouns.py
+
+      - name: Commit generated release artifacts
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add current-form-documents original-documents rendered-documents-history change-logs editor-notes README.md
+          if ! git diff --cached --quiet; then
+            git commit -m "release: clean up 1 Corinthians divine pronouns"
+            git push origin HEAD:release/2026-09-12-corinthians-pronouns
+          fi
