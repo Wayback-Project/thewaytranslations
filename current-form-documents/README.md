@@ -12,11 +12,11 @@ This folder holds the current canonical reading edition of **The Way Version**.
 |---|---|
 | Artifact | [`the-way-current.epub`](the-way-current.epub) |
 | Coverage | 66 books / 1,189 chapters |
-| SHA-256 | `fb14e9bdf84c1eef9a67c135ae7c42edf070e3f39ea4b8a265fa4a4a9dc1129a` |
+| SHA-256 | `85666f0bbc81d21139fadbd9ae5defe42908f3e0e3754e2298980245c8db4833` |
 | Verified | September 2026 |
-| Previous release | Archived under `rendered-documents-history/2026-09-12_0944UTC/` |
+| Previous release | Archived under `rendered-documents-history/2026-09-12_1630UTC/` |
 
-This EPUB includes the completed whole-Bible divine-pronoun consistency update, the 2026-09-11 original-name / Genesis narrative consistency update (39 reviewed verse-level edits), and the 2026-09-12 1 Corinthians divine-pronoun residual cleanup (4 reviewed verse-level edits), plus the 2026-09-12 high-priority original-name restoration release; see the [latest release notes](../editor-notes/consistency/2026-09-11-original-name-consistency.md). Website and application copies are verified separately when synchronized. It is suitable for Kindle, Apple Books, tablets, phones, and most EPUB-compatible e-readers.
+This EPUB includes the completed whole-Bible divine-pronoun consistency update, the 2026-09-11 original-name / Genesis narrative consistency update (39 reviewed verse-level edits), and the 2026-09-12 1 Corinthians divine-pronoun residual cleanup (4 reviewed verse-level edits), plus the 2026-09-12 high-priority original-name restoration release and crucifixion-inscription alignment (4 reviewed verse-level edits); see the [latest release notes](../editor-notes/consistency/2026-09-11-original-name-consistency.md). Website and application copies are verified separately when synchronized. It is suitable for Kindle, Apple Books, tablets, phones, and most EPUB-compatible e-readers.
 
 ## About this edition
 

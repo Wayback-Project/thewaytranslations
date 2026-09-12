@@ -1,0 +1,73 @@
+{
+  "release": "2026-09-12 crucifixion inscription original-name alignment",
+  "prior_epub_sha256": "fb14e9bdf84c1eef9a67c135ae7c42edf070e3f39ea4b8a265fa4a4a9dc1129a",
+  "released_epub_sha256": "85666f0bbc81d21139fadbd9ae5defe42908f3e0e3754e2298980245c8db4833",
+  "archive_path": "rendered-documents-history/2026-09-12_1630UTC/the-way-current.epub",
+  "change_count": 4,
+  "changes": [
+    {
+      "reference": "Matthew 27:37",
+      "before": "They set up over his head the accusation against him written, \"THIS IS JESUS, THE KING OF THE JEWS.\"",
+      "after": "They set up over his head the accusation against him written, \"THIS IS YESHUA, THE KING OF THE JUDEANS.\"",
+      "reason": "Restore the released Yeshua form and keep the Passion-context Ioudaioi rendering consistent as Judeans.",
+      "source": "original-documents/matthew_restorative_translation.txt"
+    },
+    {
+      "reference": "Mark 15:26",
+      "before": "The superscription of his accusation was written over him, \"THE KING OF THE JEWS.\"",
+      "after": "The superscription of his accusation was written over him, \"THE KING OF THE JUDEANS.\"",
+      "reason": "Keep the inscription ethnonym aligned with the edition’s established Judeans rendering for Ioudaioi in the Passion context.",
+      "source": "original-documents/mark_restorative_translation.txt"
+    },
+    {
+      "reference": "Luke 23:38",
+      "before": "An inscription was also written over him in letters of Greek, Latin, and Hebrew: \"THIS IS THE KING OF THE JEWS.\"",
+      "after": "An inscription was also written over him in letters of Greek, Latin, and Hebrew: \"THIS IS THE KING OF THE JUDEANS.\"",
+      "reason": "Keep the inscription ethnonym aligned with the edition’s established Judeans rendering for Ioudaioi in the Passion context.",
+      "source": "original-documents/luke_restorative_translation.txt"
+    },
+    {
+      "reference": "John 19:19",
+      "before": "Pilatus wrote a title also, and put it on the cross. There was written, \"JESUS OF NAZARETH, THE KING OF THE JEWS.\"",
+      "after": "Pilatus wrote a title also, and put it on the cross. There was written, \"YESHUA OF NATZERET, THE KING OF THE JUDEANS.\"",
+      "reason": "Restore released Yeshua and Natzeret forms and keep Ioudaioi aligned as Judeans. John 19:20 says the title was written in Hebrew, Latin, and Greek, so the English text does not invent one exclusive Aramaic reconstruction.",
+      "source": "original-documents/john_restorative_translation.txt"
+    }
+  ],
+  "applied": [
+    {
+      "reference": "Matthew 27:37",
+      "member": "OEBPS/Text/matthew.xhtml"
+    },
+    {
+      "reference": "Mark 15:26",
+      "member": "OEBPS/Text/mark.xhtml"
+    },
+    {
+      "reference": "Luke 23:38",
+      "member": "OEBPS/Text/luke.xhtml"
+    },
+    {
+      "reference": "John 19:19",
+      "member": "OEBPS/Text/john.xhtml"
+    }
+  ],
+  "finalNameAudit": {
+    "releasedChecks": 69,
+    "staleReleasedNameHitCount": 0,
+    "legacyInscriptionHitCount": 0
+  },
+  "qa": {
+    "book_count": 66,
+    "chapter_count": 1189,
+    "zip_crc": "pass",
+    "xml_parse": "pass",
+    "internal_links": "pass",
+    "changed_book_members": [
+      "OEBPS/Text/john.xhtml",
+      "OEBPS/Text/luke.xhtml",
+      "OEBPS/Text/mark.xhtml",
+      "OEBPS/Text/matthew.xhtml"
+    ]
+  }
+}
