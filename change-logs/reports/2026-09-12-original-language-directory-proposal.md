@@ -55,6 +55,14 @@ Examples stored in the manifest include:
 - Sedom/Sodom — `ܣܕܘܡ`
 - Amora/Gomorrah — `ܥܡܘܪܐ`
 
+## Reader-trial correction carried into the text-version handoff
+
+The web-reader glossary trial surfaced one identity correction that must also be present in the human text-version update document:
+
+- **Acts 1:23, 26 — `Mattityah` → familiar/traditional English alias `Matthias`.**
+- Do **not** identify this Acts 1 person as `Mattithiah` or `Mattathias`; those names refer to different traditional identity/form conventions.
+- The Way Version Scripture wording `Mattityah` is **not** being changed by this proposal. This is an alias/metadata and handoff correction so the text-version review and downstream reader directory stay aligned.
+
 ## Diagnostic tool behavior
 
 `tools/local/audit_proposed_original_names.py` is diagnostic only. It:
