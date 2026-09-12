@@ -98,6 +98,9 @@ These do **not** require Scripture wording changes merely to add reader guidance
 | Shoshana | Susanna | shoh-shah-NAH |
 | Yair | Jair / Jairus | yah-EER |
 | Shalem | Salem | shah-LEM |
+| Mattityah | Matthias | maht-tee-YAH |
+
+**Acts 1 alias correction for the text-version handoff:** Acts 1:23 and Acts 1:26 use `Mattityah` for the apostle chosen to replace Yehuda/Judas. The familiar/traditional English alias for this identity is **Matthias**. Do **not** map this Acts 1 identity to *Mattithiah* or *Mattathias*. This is an alias/metadata correction for the reader and text-version update sheet; the Scripture form `Mattityah` itself is not changed by this note.
 
 ## Additional high-priority consistency backlog
 
