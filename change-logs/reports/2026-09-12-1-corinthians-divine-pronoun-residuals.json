@@ -1,0 +1,67 @@
+{
+  "release": "2026-09-12 1 Corinthians divine-pronoun residuals",
+  "prior_epub_sha256": "8c41b165e7714730a4139ccee13c00b3c6e149af1e8ee5f00d4b8d5191bd5328",
+  "released_epub_sha256": "73c3bc73d2da91fed507ee7dd6e1db72f4640847c664cdc4666f4ad065faff50",
+  "archive_path": "rendered-documents-history/2026-09-12_0932UTC/the-way-current.epub",
+  "change_count": 4,
+  "changes": [
+    {
+      "reference": "1 Corinthians 1:30",
+      "before": "But of him, you are in Messiah Yeshua, who was made to us wisdom from God, and righteousness and sanctification, and redemption:",
+      "after": "It is from God that you are in Messiah Yeshua, who was made to us wisdom from God, and righteousness and sanctification, and redemption:",
+      "reason": "The masculine pronoun refers to God; repeat the divine referent naturally rather than gendering God."
+    },
+    {
+      "reference": "1 Corinthians 2:9",
+      "before": "But as it is written, \"Things which an eye didn't see, and an ear didn't hear, which didn't enter into the human heart, these God has prepared for those who love him.\"",
+      "after": "But as it is written, \"Things which an eye didn't see, and an ear didn't hear, which didn't enter into the human heart, these God has prepared for those who love God.\"",
+      "reason": "The final pronoun refers to God; repeat God explicitly."
+    },
+    {
+      "reference": "1 Corinthians 8:6",
+      "before": "yet to us there is one God, the Cosmic Parent, of whom are all things, and we for him; and one Master, Yeshua the Messiah, through whom are all things, and we live through him.",
+      "after": "yet to us there is one God, the Cosmic Parent, of whom are all things, and for whom we live; and one Master, Yeshua the Messiah, through whom are all things, and we live through him.",
+      "reason": "Remove the masculine pronoun referring to the Cosmic Parent by natural rephrasing; retain the final him because it refers to Yeshua."
+    },
+    {
+      "reference": "1 Corinthians 9:10",
+      "before": "or does he say it assuredly for our sake? Yes, it was written for our sake, because the one who plows ought to plow in hope, and the one who threshes in hope should partake of their hope.",
+      "after": "or does God say it assuredly for our sake? Yes, it was written for our sake, because the one who plows ought to plow in hope, and the one who threshes in hope should partake of their hope.",
+      "reason": "The immediate antecedent is God in verse 9; repeat God explicitly."
+    }
+  ],
+  "applied": [
+    {
+      "reference": "1 Corinthians 1:30",
+      "member": "OEBPS/Text/1-corinthians.xhtml"
+    },
+    {
+      "reference": "1 Corinthians 2:9",
+      "member": "OEBPS/Text/1-corinthians.xhtml"
+    },
+    {
+      "reference": "1 Corinthians 8:6",
+      "member": "OEBPS/Text/1-corinthians.xhtml"
+    },
+    {
+      "reference": "1 Corinthians 9:10",
+      "member": "OEBPS/Text/1-corinthians.xhtml"
+    }
+  ],
+  "manual_review_retained": [
+    "1 Corinthians 3:19",
+    "1 Corinthians 6:16",
+    "1 Corinthians 10:22",
+    "1 Corinthians 15:27-28"
+  ],
+  "qa": {
+    "book_count": 66,
+    "chapter_count": 1189,
+    "zip_crc": "pass",
+    "xml_parse": "pass",
+    "internal_links": "pass",
+    "changed_book_members": [
+      "OEBPS/Text/1-corinthians.xhtml"
+    ]
+  }
+}
