@@ -1,0 +1,52 @@
+{
+  "schemaVersion": "1.0.0-proposal",
+  "date": "2026-09-12",
+  "status": "proposed-only-no-scripture-changes",
+  "purpose": "Machine-readable editorial proposal directory for locating, reviewing, and later applying approved original-name/place restorations. This file is diagnostic/planning metadata and is not authorization to rewrite Scripture.",
+  "canonicalArtifact": "current-form-documents/the-way-current.epub",
+  "languagePolicy": {
+    "hebrewBible": "Use Hebrew native-script forms by default; use Aramaic when the underlying biblical source passage itself is Aramaic.",
+    "newTestamentGeneral": "Preserve Greek and Aramaic/Peshitta witness forms where relevant. Later Greek-grounded writings may use Greek as the primary witness under the existing project source-priority policy.",
+    "yeshuaSpeech": {
+      "preferredOriginalLanguage": "Aramaic",
+      "preferredWitnessLabel": "Aramaic/Peshitta textual witness",
+      "script": "Syriac",
+      "rule": "For metadata attached to words, names, or places occurring inside direct speech attributed to Yeshua, prefer an attested Aramaic/Peshitta native-script form when one is available. Preserve Greek/Hebrew witness forms as additional evidence rather than deleting them.",
+      "historicalCaution": "The Syriac/Peshitta form is a textual witness used by this project policy; do not label it as certain verbatim first-century Galilean orthography or pronunciation.",
+      "examples": [
+        {
+          "reference": "Matthew 4:17",
+          "entityId": "yeshua",
+          "native": "ܝܫܘܥ"
+        },
+        {
+          "reference": "Matthew 10:15",
+          "entityId": "sodom",
+          "native": "ܣܕܘܡ"
+        },
+        {
+          "reference": "Matthew 10:15",
+          "entityId": "gomorrah",
+          "native": "ܥܡܘܪܐ"
+        }
+      ]
+    },
+    "releaseRule": "Every native form and proposed display form must be re-verified against the relevant source witness during the exact reference-level editorial review before any canonical replacement release."
+  },
+  "scriptContract": {
+    "scanCurrentForms": "A diagnostic finder may scan currentForms as exact token/phrase candidates in the canonical EPUB.",
+    "neverAutoReplace": "No script may automatically replace a hit solely because it matches currentForms.",
+    "requiredBeforeAfterLedger": "For every intended change, generate reference, current verse text, proposed verse text, identity, native forms, scope decision, and exception status for human review.",
+    "bookTitleGuard": "Book headings/titles are excluded unless a separate book-title decision is approved.",
+    "collisionGuard": "Ambiguous strings, identities, compounds, demonyms, and ordinary-word collisions require reference-level classification.",
+    "yeshuaSpeechLanguageHook": "If future verse metadata identifies speaker=Yeshua, set preferred original-language display/source metadata to the Aramaic/Peshitta native form when available."
+  },
+  "files": [
+    "priority-people.json",
+    "priority-places.json",
+    "beth-beit-places.json",
+    "reader-guide-only.json",
+    "consistency-backlog.json"
+  ],
+  "entryCount": 69
+}
