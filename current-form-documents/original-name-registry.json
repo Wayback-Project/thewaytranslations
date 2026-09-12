@@ -1,0 +1,2325 @@
+{
+  "schemaVersion": "1.0.0",
+  "releaseDate": "2026-09-12",
+  "canonicalEpubSha256": "fb14e9bdf84c1eef9a67c135ae7c42edf070e3f39ea4b8a265fa4a4a9dc1129a",
+  "priorCanonicalEpubSha256": "73c3bc73d2da91fed507ee7dd6e1db72f4640847c664cdc4666f4ad065faff50",
+  "policy": {
+    "bookTitlesChanged": false,
+    "generatedReadersMayRewriteScripture": false,
+    "aliasesAreReaderMetadata": true,
+    "releasedEntries": 63,
+    "guideOnlyEntries": 7,
+    "alreadyCompleteAtRelease": [
+      "yeshua",
+      "babylon",
+      "nazareth"
+    ]
+  },
+  "entries": [
+    {
+      "id": "abiathar",
+      "term": "Evyatar",
+      "traditionalAliases": [
+        "Abiathar"
+      ],
+      "category": "person",
+      "pronunciationDisplay": "ev-yah-TAR",
+      "nativeForms": [
+        {
+          "language": "Hebrew",
+          "script": "Hebrew",
+          "native": "אביתר",
+          "transliteration": "Evyatar",
+          "witness": "Masoretic Hebrew",
+          "verificationStatus": "reviewed-form"
+        }
+      ],
+      "originalLanguagePreference": {
+        "default": "Hebrew",
+        "whenInsideYeshuaSpeech": null
+      },
+      "exampleReferences": [
+        "1 Samuel 22:20",
+        "2 Samuel 15:24",
+        "1 Kings 2:26"
+      ],
+      "editorialStatus": "released",
+      "scopeNotes": ""
+    },
+    {
+      "id": "abijah",
+      "term": "Aviyah",
+      "traditionalAliases": [
+        "Abijah"
+      ],
+      "category": "person",
+      "pronunciationDisplay": "ah-vee-YAH",
+      "nativeForms": [
+        {
+          "language": "Hebrew",
+          "script": "Hebrew",
+          "native": "אביה",
+          "transliteration": "Aviyah",
+          "witness": "Masoretic Hebrew",
+          "verificationStatus": "reviewed-form"
+        }
+      ],
+      "originalLanguagePreference": {
+        "default": "Hebrew",
+        "whenInsideYeshuaSpeech": null
+      },
+      "exampleReferences": [
+        "1 Kings 14:1",
+        "1 Chronicles 3:10",
+        "2 Chronicles 13:1"
+      ],
+      "editorialStatus": "released",
+      "scopeNotes": "Person references only; book/title labels are not automatic targets."
+    },
+    {
+      "id": "abishai",
+      "term": "Avishai",
+      "traditionalAliases": [
+        "Abishai"
+      ],
+      "category": "person",
+      "pronunciationDisplay": "ah-vee-SHY",
+      "nativeForms": [
+        {
+          "language": "Hebrew",
+          "script": "Hebrew",
+          "native": "אבישי",
+          "transliteration": "Avishai",
+          "witness": "Masoretic Hebrew",
+          "verificationStatus": "reviewed-form"
+        }
+      ],
+      "originalLanguagePreference": {
+        "default": "Hebrew",
+        "whenInsideYeshuaSpeech": null
+      },
+      "exampleReferences": [
+        "1 Samuel 26:6",
+        "2 Samuel 10:10",
+        "2 Samuel 21:17"
+      ],
+      "editorialStatus": "released",
+      "scopeNotes": ""
+    },
+    {
+      "id": "abram",
+      "term": "Avram",
+      "traditionalAliases": [
+        "Abram"
+      ],
+      "category": "person",
+      "pronunciationDisplay": "ahv-RAHM",
+      "nativeForms": [
+        {
+          "language": "Hebrew",
+          "script": "Hebrew",
+          "native": "אברם",
+          "transliteration": "Avram",
+          "witness": "Masoretic Hebrew",
+          "verificationStatus": "reviewed-form"
+        }
+      ],
+      "originalLanguagePreference": {
+        "default": "Hebrew",
+        "whenInsideYeshuaSpeech": null
+      },
+      "exampleReferences": [
+        "Genesis 11:26",
+        "Genesis 12:1",
+        "Genesis 17:5"
+      ],
+      "editorialStatus": "released",
+      "scopeNotes": "Only the pre-renaming patriarchal name before Genesis 17:5 should be Avram; do not replace Abraham/Avraham after the divine renaming."
+    },
+    {
+      "id": "adonijah",
+      "term": "Adoniyahu",
+      "traditionalAliases": [
+        "Adonijah"
+      ],
+      "category": "person",
+      "pronunciationDisplay": "ah-do-nee-YAH-hoo",
+      "nativeForms": [
+        {
+          "language": "Hebrew",
+          "script": "Hebrew",
+          "native": "אדניהו",
+          "transliteration": "Adoniyahu",
+          "witness": "Masoretic Hebrew",
+          "verificationStatus": "reviewed-form"
+        }
+      ],
+      "originalLanguagePreference": {
+        "default": "Hebrew",
+        "whenInsideYeshuaSpeech": null
+      },
+      "exampleReferences": [
+        "2 Samuel 3:4",
+        "1 Kings 1:5",
+        "1 Kings 2:13"
+      ],
+      "editorialStatus": "released",
+      "scopeNotes": "Multiple biblical people share this name; audit each identity before replacement."
+    },
+    {
+      "id": "amminadab",
+      "term": "Amminadav",
+      "traditionalAliases": [
+        "Amminadab"
+      ],
+      "category": "person",
+      "pronunciationDisplay": "ah-mee-nah-DAHV",
+      "nativeForms": [
+        {
+          "language": "Hebrew",
+          "script": "Hebrew",
+          "native": "עמינדב",
+          "transliteration": "Amminadav",
+          "witness": "Masoretic Hebrew",
+          "verificationStatus": "reviewed-form"
+        },
+        {
+          "language": "Greek",
+          "script": "Greek",
+          "native": "Ἀμιναδάβ",
+          "transliteration": "Aminadab",
+          "witness": "Greek NT textual form",
+          "verificationStatus": "reviewed-form"
+        }
+      ],
+      "originalLanguagePreference": {
+        "default": "Hebrew",
+        "whenInsideYeshuaSpeech": null
+      },
+      "exampleReferences": [
+        "Exodus 6:23",
+        "Ruth 4:19-20",
+        "Matthew 1:4"
+      ],
+      "editorialStatus": "released",
+      "scopeNotes": ""
+    },
+    {
+      "id": "aquila",
+      "term": "Akylas",
+      "traditionalAliases": [
+        "Aquila"
+      ],
+      "category": "person",
+      "pronunciationDisplay": "ah-KOO-lahs",
+      "nativeForms": [
+        {
+          "language": "Greek",
+          "script": "Greek",
+          "native": "Ἀκύλας",
+          "transliteration": "Akylas",
+          "witness": "Greek NT textual form",
+          "verificationStatus": "reviewed-form"
+        }
+      ],
+      "originalLanguagePreference": {
+        "default": "Greek",
+        "whenInsideYeshuaSpeech": null
+      },
+      "exampleReferences": [
+        "Acts 18:2",
+        "Acts 18:18",
+        "Romans 16:3"
+      ],
+      "editorialStatus": "released",
+      "scopeNotes": ""
+    },
+    {
+      "id": "ashkelon",
+      "term": "Ashqelon",
+      "traditionalAliases": [
+        "Ashkelon"
+      ],
+      "category": "place",
+      "pronunciationDisplay": "ash-keh-LONE",
+      "nativeForms": [
+        {
+          "language": "Hebrew",
+          "script": "Hebrew",
+          "native": "אשקלון",
+          "transliteration": "Ashqelon",
+          "witness": "Masoretic Hebrew",
+          "verificationStatus": "reviewed-form"
+        }
+      ],
+      "originalLanguagePreference": {
+        "default": "Hebrew",
+        "whenInsideYeshuaSpeech": null
+      },
+      "exampleReferences": [
+        "Judges 1:18",
+        "1 Samuel 6:17",
+        "Zephaniah 2:4"
+      ],
+      "editorialStatus": "released",
+      "scopeNotes": "Editorially decide whether q is worth the visible spelling change before release."
+    },
+    {
+      "id": "atroth-beth-yoav",
+      "term": "Atrot Beit Yoav",
+      "traditionalAliases": [
+        "Atroth Beth Yoav"
+      ],
+      "category": "place",
+      "pronunciationDisplay": "ah-TROTE bayt yoh-AHV",
+      "nativeForms": [
+        {
+          "language": "Hebrew",
+          "script": "Hebrew",
+          "native": "עטרות בית יואב",
+          "transliteration": "Atrot Beit Yoav",
+          "witness": "Masoretic Hebrew",
+          "verificationStatus": "reviewed-form"
+        }
+      ],
+      "originalLanguagePreference": {
+        "default": "Hebrew",
+        "whenInsideYeshuaSpeech": null
+      },
+      "exampleReferences": [
+        "1 Chronicles 2:54"
+      ],
+      "editorialStatus": "released",
+      "scopeNotes": "Audit only the full proper-name phrase. Never replace the substring 'Beth' globally."
+    },
+    {
+      "id": "babylon",
+      "term": "Bavel",
+      "traditionalAliases": [
+        "Babylon"
+      ],
+      "category": "place",
+      "pronunciationDisplay": "bah-VEL",
+      "nativeForms": [
+        {
+          "language": "Hebrew",
+          "script": "Hebrew",
+          "native": "בבל",
+          "transliteration": "Bavel",
+          "witness": "Masoretic Hebrew",
+          "verificationStatus": "reviewed-form"
+        },
+        {
+          "language": "Greek",
+          "script": "Greek",
+          "native": "Βαβυλών",
+          "transliteration": "Babylōn",
+          "witness": "Greek NT textual form",
+          "verificationStatus": "reviewed-form"
+        }
+      ],
+      "originalLanguagePreference": {
+        "default": "Hebrew",
+        "whenInsideYeshuaSpeech": null
+      },
+      "exampleReferences": [
+        "2 Kings 24:1",
+        "Daniel 1:1",
+        "Matthew 1:11"
+      ],
+      "editorialStatus": "released",
+      "scopeNotes": "Consistency backlog: find literal traditional-form remnants and review each reference before replacement."
+    },
+    {
+      "id": "beth-arabah",
+      "term": "Beit HaAravah",
+      "traditionalAliases": [
+        "Beth Arabah"
+      ],
+      "category": "place",
+      "pronunciationDisplay": "bayt hah-ah-rah-VAH",
+      "nativeForms": [
+        {
+          "language": "Hebrew",
+          "script": "Hebrew",
+          "native": "בית הערבה",
+          "transliteration": "Beit HaAravah",
+          "witness": "Masoretic Hebrew",
+          "verificationStatus": "reviewed-form"
+        }
+      ],
+      "originalLanguagePreference": {
+        "default": "Hebrew",
+        "whenInsideYeshuaSpeech": null
+      },
+      "exampleReferences": [
+        "Joshua 15:6",
+        "Joshua 18:22"
+      ],
+      "editorialStatus": "released",
+      "scopeNotes": "Audit only the full proper-name phrase. Never replace the substring 'Beth' globally."
+    },
+    {
+      "id": "beth-arbel",
+      "term": "Beit Arbel",
+      "traditionalAliases": [
+        "Beth Arbel"
+      ],
+      "category": "place",
+      "pronunciationDisplay": "bayt ar-BEL",
+      "nativeForms": [
+        {
+          "language": "Hebrew",
+          "script": "Hebrew",
+          "native": "בית ארבאל",
+          "transliteration": "Beit Arbel",
+          "witness": "Masoretic Hebrew",
+          "verificationStatus": "reviewed-form"
+        }
+      ],
+      "originalLanguagePreference": {
+        "default": "Hebrew",
+        "whenInsideYeshuaSpeech": null
+      },
+      "exampleReferences": [
+        "Hosea 10:14"
+      ],
+      "editorialStatus": "released",
+      "scopeNotes": "Audit only the full proper-name phrase. Never replace the substring 'Beth' globally."
+    },
+    {
+      "id": "beth-aven",
+      "term": "Beit Aven",
+      "traditionalAliases": [
+        "Beth Aven"
+      ],
+      "category": "place",
+      "pronunciationDisplay": "bayt AH-ven",
+      "nativeForms": [
+        {
+          "language": "Hebrew",
+          "script": "Hebrew",
+          "native": "בית און",
+          "transliteration": "Beit Aven",
+          "witness": "Masoretic Hebrew",
+          "verificationStatus": "reviewed-form"
+        }
+      ],
+      "originalLanguagePreference": {
+        "default": "Hebrew",
+        "whenInsideYeshuaSpeech": null
+      },
+      "exampleReferences": [
+        "Joshua 7:2",
+        "Hosea 10:5"
+      ],
+      "editorialStatus": "released",
+      "scopeNotes": "Audit only the full proper-name phrase. Never replace the substring 'Beth' globally."
+    },
+    {
+      "id": "beth-biri",
+      "term": "Beit Biri",
+      "traditionalAliases": [
+        "Beth Biri"
+      ],
+      "category": "place",
+      "pronunciationDisplay": "bayt bee-REE",
+      "nativeForms": [
+        {
+          "language": "Hebrew",
+          "script": "Hebrew",
+          "native": "בית בראי",
+          "transliteration": "Beit Biri",
+          "witness": "Masoretic Hebrew",
+          "verificationStatus": "reviewed-form"
+        }
+      ],
+      "originalLanguagePreference": {
+        "default": "Hebrew",
+        "whenInsideYeshuaSpeech": null
+      },
+      "exampleReferences": [
+        "1 Chronicles 4:31"
+      ],
+      "editorialStatus": "released",
+      "scopeNotes": "Audit only the full proper-name phrase. Never replace the substring 'Beth' globally."
+    },
+    {
+      "id": "beth-dagon",
+      "term": "Beit Dagon",
+      "traditionalAliases": [
+        "Beth Dagon"
+      ],
+      "category": "place",
+      "pronunciationDisplay": "bayt dah-GONE",
+      "nativeForms": [
+        {
+          "language": "Hebrew",
+          "script": "Hebrew",
+          "native": "בית דגון",
+          "transliteration": "Beit Dagon",
+          "witness": "Masoretic Hebrew",
+          "verificationStatus": "reviewed-form"
+        }
+      ],
+      "originalLanguagePreference": {
+        "default": "Hebrew",
+        "whenInsideYeshuaSpeech": null
+      },
+      "exampleReferences": [
+        "Joshua 15:41",
+        "Joshua 19:27"
+      ],
+      "editorialStatus": "released",
+      "scopeNotes": "Audit only the full proper-name phrase. Never replace the substring 'Beth' globally."
+    },
+    {
+      "id": "beth-gader",
+      "term": "Beit Gader",
+      "traditionalAliases": [
+        "Beth Gader"
+      ],
+      "category": "place",
+      "pronunciationDisplay": "bayt gah-DER",
+      "nativeForms": [
+        {
+          "language": "Hebrew",
+          "script": "Hebrew",
+          "native": "בית גדר",
+          "transliteration": "Beit Gader",
+          "witness": "Masoretic Hebrew",
+          "verificationStatus": "reviewed-form"
+        }
+      ],
+      "originalLanguagePreference": {
+        "default": "Hebrew",
+        "whenInsideYeshuaSpeech": null
+      },
+      "exampleReferences": [
+        "1 Chronicles 2:51"
+      ],
+      "editorialStatus": "released",
+      "scopeNotes": "Audit only the full proper-name phrase. Never replace the substring 'Beth' globally."
+    },
+    {
+      "id": "beth-horon",
+      "term": "Beit Horon",
+      "traditionalAliases": [
+        "Beth Horon"
+      ],
+      "category": "place",
+      "pronunciationDisplay": "bayt kho-RONE",
+      "nativeForms": [
+        {
+          "language": "Hebrew",
+          "script": "Hebrew",
+          "native": "בית חורון",
+          "transliteration": "Beit Horon",
+          "witness": "Masoretic Hebrew",
+          "verificationStatus": "reviewed-form"
+        }
+      ],
+      "originalLanguagePreference": {
+        "default": "Hebrew",
+        "whenInsideYeshuaSpeech": null
+      },
+      "exampleReferences": [
+        "Joshua 10:10",
+        "2 Chronicles 8:5"
+      ],
+      "editorialStatus": "released",
+      "scopeNotes": "Audit only the full proper-name phrase. Never replace the substring 'Beth' globally."
+    },
+    {
+      "id": "beth-jeshimoth",
+      "term": "Beit HaYeshimot",
+      "traditionalAliases": [
+        "Beth Jeshimoth"
+      ],
+      "category": "place",
+      "pronunciationDisplay": "bayt hah-yeh-shee-MOTE",
+      "nativeForms": [
+        {
+          "language": "Hebrew",
+          "script": "Hebrew",
+          "native": "בית הישימות",
+          "transliteration": "Beit HaYeshimot",
+          "witness": "Masoretic Hebrew",
+          "verificationStatus": "reviewed-form"
+        }
+      ],
+      "originalLanguagePreference": {
+        "default": "Hebrew",
+        "whenInsideYeshuaSpeech": null
+      },
+      "exampleReferences": [
+        "Numbers 33:49",
+        "Joshua 12:3"
+      ],
+      "editorialStatus": "released",
+      "scopeNotes": "Audit only the full proper-name phrase. Never replace the substring 'Beth' globally."
+    },
+    {
+      "id": "beth-kar",
+      "term": "Beit Kar",
+      "traditionalAliases": [
+        "Beth Kar"
+      ],
+      "category": "place",
+      "pronunciationDisplay": "bayt KAR",
+      "nativeForms": [
+        {
+          "language": "Hebrew",
+          "script": "Hebrew",
+          "native": "בית כר",
+          "transliteration": "Beit Kar",
+          "witness": "Masoretic Hebrew",
+          "verificationStatus": "reviewed-form"
+        }
+      ],
+      "originalLanguagePreference": {
+        "default": "Hebrew",
+        "whenInsideYeshuaSpeech": null
+      },
+      "exampleReferences": [
+        "1 Samuel 7:11"
+      ],
+      "editorialStatus": "released",
+      "scopeNotes": "Audit only the full proper-name phrase. Never replace the substring 'Beth' globally."
+    },
+    {
+      "id": "beth-lebaoth",
+      "term": "Beit Lebaot",
+      "traditionalAliases": [
+        "Beth Lebaoth"
+      ],
+      "category": "place",
+      "pronunciationDisplay": "bayt leh-bah-OTE",
+      "nativeForms": [
+        {
+          "language": "Hebrew",
+          "script": "Hebrew",
+          "native": "בית לבאות",
+          "transliteration": "Beit Lebaot",
+          "witness": "Masoretic Hebrew",
+          "verificationStatus": "reviewed-form"
+        }
+      ],
+      "originalLanguagePreference": {
+        "default": "Hebrew",
+        "whenInsideYeshuaSpeech": null
+      },
+      "exampleReferences": [
+        "Joshua 19:6"
+      ],
+      "editorialStatus": "released",
+      "scopeNotes": "Audit only the full proper-name phrase. Never replace the substring 'Beth' globally."
+    },
+    {
+      "id": "beth-marcaboth",
+      "term": "Beit Markavot",
+      "traditionalAliases": [
+        "Beth Marcaboth"
+      ],
+      "category": "place",
+      "pronunciationDisplay": "bayt mar-kah-VOTE",
+      "nativeForms": [
+        {
+          "language": "Hebrew",
+          "script": "Hebrew",
+          "native": "בית המרכבות",
+          "transliteration": "Beit Markavot",
+          "witness": "Masoretic Hebrew",
+          "verificationStatus": "reviewed-form"
+        }
+      ],
+      "originalLanguagePreference": {
+        "default": "Hebrew",
+        "whenInsideYeshuaSpeech": null
+      },
+      "exampleReferences": [
+        "Joshua 19:5",
+        "1 Chronicles 4:31"
+      ],
+      "editorialStatus": "released",
+      "scopeNotes": "Audit only the full proper-name phrase. Never replace the substring 'Beth' globally."
+    },
+    {
+      "id": "beth-nimrah",
+      "term": "Beit Nimrah",
+      "traditionalAliases": [
+        "Beth Nimrah"
+      ],
+      "category": "place",
+      "pronunciationDisplay": "bayt neem-RAH",
+      "nativeForms": [
+        {
+          "language": "Hebrew",
+          "script": "Hebrew",
+          "native": "בית נמרה",
+          "transliteration": "Beit Nimrah",
+          "witness": "Masoretic Hebrew",
+          "verificationStatus": "reviewed-form"
+        }
+      ],
+      "originalLanguagePreference": {
+        "default": "Hebrew",
+        "whenInsideYeshuaSpeech": null
+      },
+      "exampleReferences": [
+        "Numbers 32:36",
+        "Joshua 13:27"
+      ],
+      "editorialStatus": "released",
+      "scopeNotes": "Audit only the full proper-name phrase. Never replace the substring 'Beth' globally."
+    },
+    {
+      "id": "beth-peor",
+      "term": "Beit Peor",
+      "traditionalAliases": [
+        "Beth Peor"
+      ],
+      "category": "place",
+      "pronunciationDisplay": "bayt peh-ORE",
+      "nativeForms": [
+        {
+          "language": "Hebrew",
+          "script": "Hebrew",
+          "native": "בית פעור",
+          "transliteration": "Beit Peor",
+          "witness": "Masoretic Hebrew",
+          "verificationStatus": "reviewed-form"
+        }
+      ],
+      "originalLanguagePreference": {
+        "default": "Hebrew",
+        "whenInsideYeshuaSpeech": null
+      },
+      "exampleReferences": [
+        "Deuteronomy 3:29",
+        "Joshua 13:20"
+      ],
+      "editorialStatus": "released",
+      "scopeNotes": "Audit only the full proper-name phrase. Never replace the substring 'Beth' globally."
+    },
+    {
+      "id": "beth-rapha",
+      "term": "Beit Rapha",
+      "traditionalAliases": [
+        "Beth Rapha"
+      ],
+      "category": "place",
+      "pronunciationDisplay": "bayt rah-FAH",
+      "nativeForms": [
+        {
+          "language": "Hebrew",
+          "script": "Hebrew",
+          "native": "בית רפא",
+          "transliteration": "Beit Rapha",
+          "witness": "Masoretic Hebrew",
+          "verificationStatus": "reviewed-form"
+        }
+      ],
+      "originalLanguagePreference": {
+        "default": "Hebrew",
+        "whenInsideYeshuaSpeech": null
+      },
+      "exampleReferences": [
+        "1 Chronicles 4:12"
+      ],
+      "editorialStatus": "released",
+      "scopeNotes": "Audit only the full proper-name phrase. Never replace the substring 'Beth' globally."
+    },
+    {
+      "id": "beth-shan",
+      "term": "Beit She'an",
+      "traditionalAliases": [
+        "Beth Shan"
+      ],
+      "category": "place",
+      "pronunciationDisplay": "bayt sheh-AHN",
+      "nativeForms": [
+        {
+          "language": "Hebrew",
+          "script": "Hebrew",
+          "native": "בית שאן",
+          "transliteration": "Beit She'an",
+          "witness": "Masoretic Hebrew",
+          "verificationStatus": "reviewed-form"
+        }
+      ],
+      "originalLanguagePreference": {
+        "default": "Hebrew",
+        "whenInsideYeshuaSpeech": null
+      },
+      "exampleReferences": [
+        "1 Samuel 31:10",
+        "2 Samuel 21:12"
+      ],
+      "editorialStatus": "released",
+      "scopeNotes": "Audit only the full proper-name phrase. Never replace the substring 'Beth' globally."
+    },
+    {
+      "id": "beth-shean",
+      "term": "Beit She'an",
+      "traditionalAliases": [
+        "Beth Shean"
+      ],
+      "category": "place",
+      "pronunciationDisplay": "bayt sheh-AHN",
+      "nativeForms": [
+        {
+          "language": "Hebrew",
+          "script": "Hebrew",
+          "native": "בית שאן",
+          "transliteration": "Beit She'an",
+          "witness": "Masoretic Hebrew",
+          "verificationStatus": "reviewed-form"
+        }
+      ],
+      "originalLanguagePreference": {
+        "default": "Hebrew",
+        "whenInsideYeshuaSpeech": null
+      },
+      "exampleReferences": [
+        "Joshua 17:11",
+        "1 Samuel 31:10"
+      ],
+      "editorialStatus": "released",
+      "scopeNotes": "Audit only the full proper-name phrase. Never replace the substring 'Beth' globally."
+    },
+    {
+      "id": "beth-shemesh",
+      "term": "Beit Shemesh",
+      "traditionalAliases": [
+        "Beth Shemesh"
+      ],
+      "category": "place",
+      "pronunciationDisplay": "bayt SHEH-mesh",
+      "nativeForms": [
+        {
+          "language": "Hebrew",
+          "script": "Hebrew",
+          "native": "בית שמש",
+          "transliteration": "Beit Shemesh",
+          "witness": "Masoretic Hebrew",
+          "verificationStatus": "reviewed-form"
+        }
+      ],
+      "originalLanguagePreference": {
+        "default": "Hebrew",
+        "whenInsideYeshuaSpeech": null
+      },
+      "exampleReferences": [
+        "Joshua 15:10",
+        "1 Samuel 6:12"
+      ],
+      "editorialStatus": "released",
+      "scopeNotes": "Audit only the full proper-name phrase. Never replace the substring 'Beth' globally."
+    },
+    {
+      "id": "beth-tappuah",
+      "term": "Beit Tappuach",
+      "traditionalAliases": [
+        "Beth Tappuah"
+      ],
+      "category": "place",
+      "pronunciationDisplay": "bayt tah-POO-akh",
+      "nativeForms": [
+        {
+          "language": "Hebrew",
+          "script": "Hebrew",
+          "native": "בית תפוח",
+          "transliteration": "Beit Tappuach",
+          "witness": "Masoretic Hebrew",
+          "verificationStatus": "reviewed-form"
+        }
+      ],
+      "originalLanguagePreference": {
+        "default": "Hebrew",
+        "whenInsideYeshuaSpeech": null
+      },
+      "exampleReferences": [
+        "Joshua 15:53"
+      ],
+      "editorialStatus": "released",
+      "scopeNotes": "Audit only the full proper-name phrase. Never replace the substring 'Beth' globally."
+    },
+    {
+      "id": "caesarea",
+      "term": "Kaisareia",
+      "traditionalAliases": [
+        "Caesarea"
+      ],
+      "category": "place",
+      "pronunciationDisplay": "kai-sar-AY-ah",
+      "nativeForms": [
+        {
+          "language": "Greek",
+          "script": "Greek",
+          "native": "Καισάρεια",
+          "transliteration": "Kaisareia",
+          "witness": "Greek NT textual form",
+          "verificationStatus": "reviewed-form"
+        }
+      ],
+      "originalLanguagePreference": {
+        "default": "Greek",
+        "whenInsideYeshuaSpeech": null
+      },
+      "exampleReferences": [
+        "Acts 8:40",
+        "Acts 10:1",
+        "Acts 21:8"
+      ],
+      "editorialStatus": "released",
+      "scopeNotes": ""
+    },
+    {
+      "id": "canaan",
+      "term": "Kena'an",
+      "traditionalAliases": [
+        "Canaan"
+      ],
+      "category": "place",
+      "pronunciationDisplay": "keh-nah-AHN",
+      "nativeForms": [
+        {
+          "language": "Hebrew",
+          "script": "Hebrew",
+          "native": "כנען",
+          "transliteration": "Kena'an",
+          "witness": "Masoretic Hebrew",
+          "verificationStatus": "reviewed-form"
+        },
+        {
+          "language": "Greek",
+          "script": "Greek",
+          "native": "Χανάαν",
+          "transliteration": "Chanaan",
+          "witness": "Greek NT textual form",
+          "verificationStatus": "reviewed-form"
+        }
+      ],
+      "originalLanguagePreference": {
+        "default": "Hebrew",
+        "whenInsideYeshuaSpeech": null
+      },
+      "exampleReferences": [
+        "Genesis 12:5",
+        "Exodus 6:4",
+        "Acts 7:11"
+      ],
+      "editorialStatus": "released",
+      "scopeNotes": "Final display spelling Kena'an vs Kna'an remains an editorial choice. Derivatives such as Canaanite require a separate morphology rule."
+    },
+    {
+      "id": "colossae",
+      "term": "Kolosai",
+      "traditionalAliases": [
+        "Colossae"
+      ],
+      "category": "place",
+      "pronunciationDisplay": "koh-loh-SAI",
+      "nativeForms": [
+        {
+          "language": "Greek",
+          "script": "Greek",
+          "native": "Κολοσσαί",
+          "transliteration": "Kolossai",
+          "witness": "Greek NT textual form",
+          "verificationStatus": "reviewed-form"
+        }
+      ],
+      "originalLanguagePreference": {
+        "default": "Greek",
+        "whenInsideYeshuaSpeech": null
+      },
+      "exampleReferences": [
+        "Colossians 1:2"
+      ],
+      "editorialStatus": "released",
+      "scopeNotes": ""
+    },
+    {
+      "id": "gomorrah",
+      "term": "Amora",
+      "traditionalAliases": [
+        "Gomorrah"
+      ],
+      "category": "place",
+      "pronunciationDisplay": "ah-moh-RAH",
+      "nativeForms": [
+        {
+          "language": "Hebrew",
+          "script": "Hebrew",
+          "native": "עמרה",
+          "transliteration": "Amora",
+          "witness": "Masoretic Hebrew",
+          "verificationStatus": "reviewed-form"
+        },
+        {
+          "language": "Greek",
+          "script": "Greek",
+          "native": "Γόμορρα",
+          "transliteration": "Gomorra",
+          "witness": "Greek NT textual form",
+          "verificationStatus": "reviewed-form"
+        },
+        {
+          "language": "Aramaic",
+          "script": "Syriac",
+          "native": "ܥܡܘܪܐ",
+          "transliteration": "Amora",
+          "witness": "Aramaic/Peshitta textual witness",
+          "verificationStatus": "verify-before-release"
+        }
+      ],
+      "originalLanguagePreference": {
+        "default": "Hebrew",
+        "whenInsideYeshuaSpeech": "Aramaic/Peshitta witness"
+      },
+      "exampleReferences": [
+        "Genesis 14:2",
+        "Genesis 19:24",
+        "Matthew 10:15"
+      ],
+      "editorialStatus": "released",
+      "scopeNotes": "For Gospel sayings attributed to Yeshua, original-language metadata prefers the Aramaic/Peshitta witness."
+    },
+    {
+      "id": "hananyah",
+      "term": "Hananyah",
+      "traditionalAliases": [
+        "Ananias"
+      ],
+      "category": "person",
+      "pronunciationDisplay": "hah-nahn-YAH",
+      "nativeForms": [
+        {
+          "language": "Hebrew",
+          "script": "Hebrew",
+          "native": "חנניה",
+          "transliteration": "Hananyah",
+          "witness": "Masoretic Hebrew",
+          "verificationStatus": "reviewed-form"
+        },
+        {
+          "language": "Greek",
+          "script": "Greek",
+          "native": "Ἁνανίας",
+          "transliteration": "Hananias",
+          "witness": "Greek NT textual form",
+          "verificationStatus": "reviewed-form"
+        }
+      ],
+      "originalLanguagePreference": {
+        "default": "Hebrew",
+        "whenInsideYeshuaSpeech": null
+      },
+      "exampleReferences": [
+        "Daniel 1:6",
+        "Acts 5:1"
+      ],
+      "editorialStatus": "guide-only",
+      "scopeNotes": "Identity/source track must distinguish Hebrew Bible Hananyah from NT Ananias forms."
+    },
+    {
+      "id": "hezron",
+      "term": "Chetzron",
+      "traditionalAliases": [
+        "Hezron"
+      ],
+      "category": "person",
+      "pronunciationDisplay": "khets-RONE",
+      "nativeForms": [
+        {
+          "language": "Hebrew",
+          "script": "Hebrew",
+          "native": "חצרון",
+          "transliteration": "Chetzron",
+          "witness": "Masoretic Hebrew",
+          "verificationStatus": "reviewed-form"
+        }
+      ],
+      "originalLanguagePreference": {
+        "default": "Hebrew",
+        "whenInsideYeshuaSpeech": null
+      },
+      "exampleReferences": [
+        "Genesis 46:12",
+        "Ruth 4:18",
+        "Matthew 1:3"
+      ],
+      "editorialStatus": "released",
+      "scopeNotes": "Consistency backlog: find literal traditional-form remnants and review each reference before replacement."
+    },
+    {
+      "id": "hosea",
+      "term": "Hoshea",
+      "traditionalAliases": [
+        "Hosea"
+      ],
+      "category": "person",
+      "pronunciationDisplay": "hoh-SHAY-ah",
+      "nativeForms": [
+        {
+          "language": "Hebrew",
+          "script": "Hebrew",
+          "native": "הושע",
+          "transliteration": "Hoshea",
+          "witness": "Masoretic Hebrew",
+          "verificationStatus": "reviewed-form"
+        },
+        {
+          "language": "Greek",
+          "script": "Greek",
+          "native": "Ὡσηέ",
+          "transliteration": "Hōsēe",
+          "witness": "Greek NT textual form",
+          "verificationStatus": "reviewed-form"
+        }
+      ],
+      "originalLanguagePreference": {
+        "default": "Hebrew",
+        "whenInsideYeshuaSpeech": null
+      },
+      "exampleReferences": [
+        "Hosea 1:1",
+        "Romans 9:25"
+      ],
+      "editorialStatus": "released",
+      "scopeNotes": "Person references only unless a separate book-title policy is approved."
+    },
+    {
+      "id": "ishmael",
+      "term": "Yishmael",
+      "traditionalAliases": [
+        "Ishmael"
+      ],
+      "category": "person",
+      "pronunciationDisplay": "yish-mah-EL",
+      "nativeForms": [
+        {
+          "language": "Hebrew",
+          "script": "Hebrew",
+          "native": "ישמעאל",
+          "transliteration": "Yishma'el",
+          "witness": "Masoretic Hebrew",
+          "verificationStatus": "reviewed-form"
+        }
+      ],
+      "originalLanguagePreference": {
+        "default": "Hebrew",
+        "whenInsideYeshuaSpeech": null
+      },
+      "exampleReferences": [
+        "Genesis 16:11",
+        "Genesis 17:18",
+        "Genesis 21:17"
+      ],
+      "editorialStatus": "released",
+      "scopeNotes": ""
+    },
+    {
+      "id": "jeconiah",
+      "term": "Yekhonyahu",
+      "traditionalAliases": [
+        "Jeconiah"
+      ],
+      "category": "person",
+      "pronunciationDisplay": "yeh-khon-YAH-hoo",
+      "nativeForms": [
+        {
+          "language": "Hebrew",
+          "script": "Hebrew",
+          "native": "יכניהו",
+          "transliteration": "Yekhonyahu",
+          "witness": "Masoretic Hebrew",
+          "verificationStatus": "reviewed-form"
+        },
+        {
+          "language": "Greek",
+          "script": "Greek",
+          "native": "Ἰεχονίας",
+          "transliteration": "Iechonias",
+          "witness": "Greek NT textual form",
+          "verificationStatus": "reviewed-form"
+        }
+      ],
+      "originalLanguagePreference": {
+        "default": "Hebrew",
+        "whenInsideYeshuaSpeech": null
+      },
+      "exampleReferences": [
+        "1 Chronicles 3:16",
+        "Jeremiah 24:1",
+        "Matthew 1:11"
+      ],
+      "editorialStatus": "released",
+      "scopeNotes": "Consistency backlog: find literal traditional-form remnants and review each reference before replacement."
+    },
+    {
+      "id": "jehoash",
+      "term": "Yoash",
+      "traditionalAliases": [
+        "Jehoash"
+      ],
+      "category": "person",
+      "pronunciationDisplay": "yoh-AHSH",
+      "nativeForms": [
+        {
+          "language": "Hebrew",
+          "script": "Hebrew",
+          "native": "יואש",
+          "transliteration": "Yoash",
+          "witness": "Masoretic Hebrew",
+          "verificationStatus": "reviewed-form"
+        }
+      ],
+      "originalLanguagePreference": {
+        "default": "Hebrew",
+        "whenInsideYeshuaSpeech": null
+      },
+      "exampleReferences": [
+        "2 Kings 11:21",
+        "2 Kings 12:1",
+        "2 Chronicles 24:1"
+      ],
+      "editorialStatus": "released",
+      "scopeNotes": "Also audit Joash/Jehoash variants by identity; never conflate distinct kings without reference review."
+    },
+    {
+      "id": "jethro",
+      "term": "Yitro",
+      "traditionalAliases": [
+        "Jethro"
+      ],
+      "category": "person",
+      "pronunciationDisplay": "YIT-roh",
+      "nativeForms": [
+        {
+          "language": "Hebrew",
+          "script": "Hebrew",
+          "native": "יתרו",
+          "transliteration": "Yitro",
+          "witness": "Masoretic Hebrew",
+          "verificationStatus": "reviewed-form"
+        }
+      ],
+      "originalLanguagePreference": {
+        "default": "Hebrew",
+        "whenInsideYeshuaSpeech": null
+      },
+      "exampleReferences": [
+        "Exodus 3:1",
+        "Exodus 4:18",
+        "Exodus 18:1"
+      ],
+      "editorialStatus": "released",
+      "scopeNotes": ""
+    },
+    {
+      "id": "jonah",
+      "term": "Yonah",
+      "traditionalAliases": [
+        "Jonah"
+      ],
+      "category": "person",
+      "pronunciationDisplay": "yoh-NAH",
+      "nativeForms": [
+        {
+          "language": "Hebrew",
+          "script": "Hebrew",
+          "native": "יונה",
+          "transliteration": "Yonah",
+          "witness": "Masoretic Hebrew",
+          "verificationStatus": "reviewed-form"
+        },
+        {
+          "language": "Greek",
+          "script": "Greek",
+          "native": "Ἰωνᾶς",
+          "transliteration": "Iōnas",
+          "witness": "Greek NT textual form",
+          "verificationStatus": "reviewed-form"
+        }
+      ],
+      "originalLanguagePreference": {
+        "default": "Hebrew",
+        "whenInsideYeshuaSpeech": null
+      },
+      "exampleReferences": [
+        "2 Kings 14:25",
+        "Jonah 1:1",
+        "Matthew 12:39"
+      ],
+      "editorialStatus": "released",
+      "scopeNotes": "Person references only unless a separate book-title policy is approved."
+    },
+    {
+      "id": "joram-jehoram",
+      "term": "Yoram",
+      "traditionalAliases": [
+        "Joram",
+        "Jehoram"
+      ],
+      "category": "person",
+      "pronunciationDisplay": "yoh-RAHM",
+      "nativeForms": [
+        {
+          "language": "Hebrew",
+          "script": "Hebrew",
+          "native": "יהורם",
+          "transliteration": "Yehoram/Yoram",
+          "witness": "Masoretic Hebrew",
+          "verificationStatus": "reviewed-form"
+        },
+        {
+          "language": "Greek",
+          "script": "Greek",
+          "native": "Ἰωράμ",
+          "transliteration": "Iōram",
+          "witness": "Greek NT textual form",
+          "verificationStatus": "reviewed-form"
+        }
+      ],
+      "originalLanguagePreference": {
+        "default": "Hebrew",
+        "whenInsideYeshuaSpeech": null
+      },
+      "exampleReferences": [
+        "1 Kings 22:50",
+        "2 Kings 8:16",
+        "Matthew 1:8"
+      ],
+      "editorialStatus": "released",
+      "scopeNotes": "Consistency backlog: find literal traditional-form remnants and review each reference before replacement."
+    },
+    {
+      "id": "jotham",
+      "term": "Yotam",
+      "traditionalAliases": [
+        "Jotham"
+      ],
+      "category": "person",
+      "pronunciationDisplay": "yoh-TAHM",
+      "nativeForms": [
+        {
+          "language": "Hebrew",
+          "script": "Hebrew",
+          "native": "יותם",
+          "transliteration": "Yotam",
+          "witness": "Masoretic Hebrew",
+          "verificationStatus": "reviewed-form"
+        }
+      ],
+      "originalLanguagePreference": {
+        "default": "Hebrew",
+        "whenInsideYeshuaSpeech": null
+      },
+      "exampleReferences": [
+        "2 Kings 15:32",
+        "2 Chronicles 27:1",
+        "Matthew 1:9"
+      ],
+      "editorialStatus": "released",
+      "scopeNotes": "Consistency backlog: find literal traditional-form remnants and review each reference before replacement."
+    },
+    {
+      "id": "laban",
+      "term": "Lavan",
+      "traditionalAliases": [
+        "Laban"
+      ],
+      "category": "person",
+      "pronunciationDisplay": "lah-VAHN",
+      "nativeForms": [
+        {
+          "language": "Hebrew",
+          "script": "Hebrew",
+          "native": "לבן",
+          "transliteration": "Lavan",
+          "witness": "Masoretic Hebrew",
+          "verificationStatus": "reviewed-form"
+        }
+      ],
+      "originalLanguagePreference": {
+        "default": "Hebrew",
+        "whenInsideYeshuaSpeech": null
+      },
+      "exampleReferences": [
+        "Genesis 24:29",
+        "Genesis 29:5",
+        "Genesis 31:1"
+      ],
+      "editorialStatus": "released",
+      "scopeNotes": ""
+    },
+    {
+      "id": "luke-person",
+      "term": "Lukas",
+      "traditionalAliases": [
+        "Luke",
+        "Loukas"
+      ],
+      "category": "person",
+      "pronunciationDisplay": "LOO-kahs",
+      "nativeForms": [
+        {
+          "language": "Greek",
+          "script": "Greek",
+          "native": "Λουκᾶς",
+          "transliteration": "Loukas",
+          "witness": "Greek NT textual form",
+          "verificationStatus": "reviewed-form"
+        }
+      ],
+      "originalLanguagePreference": {
+        "default": "Greek",
+        "whenInsideYeshuaSpeech": null
+      },
+      "exampleReferences": [
+        "Colossians 4:14",
+        "2 Timothy 4:11",
+        "Philemon 1:24"
+      ],
+      "editorialStatus": "released",
+      "scopeNotes": "Person references only. Do not change the book title 'Luke' without a separate approved book-title decision."
+    },
+    {
+      "id": "mattityah-matthias",
+      "category": "person",
+      "term": "Mattityah",
+      "traditionalAliases": [
+        "Matthias"
+      ],
+      "pronunciationDisplay": "maht-tee-YAH",
+      "editorialStatus": "guide-only",
+      "notes": "Acts 1:23 and Acts 1:26 identity; familiar alias is Matthias, not Mattithiah or Mattathias.",
+      "exampleReferences": [
+        "Acts 1:23",
+        "Acts 1:26"
+      ]
+    },
+    {
+      "id": "melchizedek",
+      "term": "Malki-Tzedek",
+      "traditionalAliases": [
+        "Melchizedek"
+      ],
+      "category": "person",
+      "pronunciationDisplay": "mahl-kee TSEH-dek",
+      "nativeForms": [
+        {
+          "language": "Hebrew",
+          "script": "Hebrew",
+          "native": "מלכי־צדק",
+          "transliteration": "Malki-Tzedek",
+          "witness": "Masoretic Hebrew",
+          "verificationStatus": "reviewed-form"
+        },
+        {
+          "language": "Greek",
+          "script": "Greek",
+          "native": "Μελχισέδεκ",
+          "transliteration": "Melchisedek",
+          "witness": "Greek NT textual form",
+          "verificationStatus": "reviewed-form"
+        }
+      ],
+      "originalLanguagePreference": {
+        "default": "Hebrew",
+        "whenInsideYeshuaSpeech": null
+      },
+      "exampleReferences": [
+        "Genesis 14:18",
+        "Psalm 110:4",
+        "Hebrews 7:1"
+      ],
+      "editorialStatus": "released",
+      "scopeNotes": "Consistency backlog: find literal traditional-form remnants and review each reference before replacement."
+    },
+    {
+      "id": "michael",
+      "term": "Mikha'el",
+      "traditionalAliases": [
+        "Michael"
+      ],
+      "category": "person",
+      "pronunciationDisplay": "mee-khah-EL",
+      "nativeForms": [
+        {
+          "language": "Hebrew",
+          "script": "Hebrew",
+          "native": "מיכאל",
+          "transliteration": "Mikha'el",
+          "witness": "Masoretic Hebrew",
+          "verificationStatus": "reviewed-form"
+        },
+        {
+          "language": "Greek",
+          "script": "Greek",
+          "native": "Μιχαήλ",
+          "transliteration": "Michaēl",
+          "witness": "Greek NT textual form",
+          "verificationStatus": "reviewed-form"
+        },
+        {
+          "language": "Aramaic",
+          "script": "Syriac",
+          "native": "ܡܝܟܐܝܠ",
+          "transliteration": "Mikha'el",
+          "witness": "Aramaic/Peshitta textual witness",
+          "verificationStatus": "verify-before-release"
+        }
+      ],
+      "originalLanguagePreference": {
+        "default": "Hebrew",
+        "whenInsideYeshuaSpeech": "Aramaic/Peshitta witness when inside speech attributed to Yeshua; otherwise use the source-track witness appropriate to the verse."
+      },
+      "exampleReferences": [
+        "1 Chronicles 5:13",
+        "Daniel 10:13",
+        "Daniel 12:1",
+        "Jude 1:9",
+        "Revelation 12:7"
+      ],
+      "editorialStatus": "released",
+      "scopeNotes": "Audit all 15 current literal Michael occurrences; use one approved spelling unless a documented identity-specific exception applies."
+    },
+    {
+      "id": "nahshon",
+      "term": "Nachshon",
+      "traditionalAliases": [
+        "Nahshon"
+      ],
+      "category": "person",
+      "pronunciationDisplay": "nakh-SHONE",
+      "nativeForms": [
+        {
+          "language": "Hebrew",
+          "script": "Hebrew",
+          "native": "נחשון",
+          "transliteration": "Nachshon",
+          "witness": "Masoretic Hebrew",
+          "verificationStatus": "reviewed-form"
+        },
+        {
+          "language": "Greek",
+          "script": "Greek",
+          "native": "Ναασσών",
+          "transliteration": "Naassōn",
+          "witness": "Greek NT textual form",
+          "verificationStatus": "reviewed-form"
+        }
+      ],
+      "originalLanguagePreference": {
+        "default": "Hebrew",
+        "whenInsideYeshuaSpeech": null
+      },
+      "exampleReferences": [
+        "Numbers 1:7",
+        "Ruth 4:20",
+        "Matthew 1:4"
+      ],
+      "editorialStatus": "released",
+      "scopeNotes": ""
+    },
+    {
+      "id": "nazareth",
+      "term": "Natzeret",
+      "traditionalAliases": [
+        "Nazareth"
+      ],
+      "category": "place",
+      "pronunciationDisplay": "naht-zeh-RET",
+      "nativeForms": [
+        {
+          "language": "Aramaic",
+          "script": "Syriac",
+          "native": "ܢܨܪܬ",
+          "transliteration": "Natzeret",
+          "witness": "Aramaic/Peshitta textual witness",
+          "verificationStatus": "verify-before-release"
+        },
+        {
+          "language": "Greek",
+          "script": "Greek",
+          "native": "Ναζαρέτ",
+          "transliteration": "Nazaret",
+          "witness": "Greek NT textual form",
+          "verificationStatus": "reviewed-form"
+        },
+        {
+          "language": "Hebrew",
+          "script": "Hebrew",
+          "native": "נצרת",
+          "transliteration": "Natzeret",
+          "witness": "Later Hebrew spelling / name tradition",
+          "verificationStatus": "reviewed-form"
+        }
+      ],
+      "originalLanguagePreference": {
+        "default": "Aramaic",
+        "whenInsideYeshuaSpeech": "Aramaic/Peshitta witness when the place name occurs inside speech attributed to Yeshua."
+      },
+      "exampleReferences": [
+        "Matthew 2:23",
+        "Luke 4:16",
+        "John 1:46"
+      ],
+      "editorialStatus": "released",
+      "scopeNotes": "Consistency backlog: find literal traditional-form remnants and review each reference before replacement."
+    },
+    {
+      "id": "nehemiah-person",
+      "term": "Nechemyah",
+      "traditionalAliases": [
+        "Nehemiah"
+      ],
+      "category": "person",
+      "pronunciationDisplay": "neh-khem-YAH",
+      "nativeForms": [
+        {
+          "language": "Hebrew",
+          "script": "Hebrew",
+          "native": "נחמיה",
+          "transliteration": "Nechemyah",
+          "witness": "Masoretic Hebrew",
+          "verificationStatus": "reviewed-form"
+        }
+      ],
+      "originalLanguagePreference": {
+        "default": "Hebrew",
+        "whenInsideYeshuaSpeech": null
+      },
+      "exampleReferences": [
+        "Nehemiah 1:1",
+        "Nehemiah 3:16",
+        "Ezra 2:2"
+      ],
+      "editorialStatus": "released",
+      "scopeNotes": "Person references only. Distinguish identities and do not rename the book heading automatically."
+    },
+    {
+      "id": "obed",
+      "term": "Oved",
+      "traditionalAliases": [
+        "Obed"
+      ],
+      "category": "person",
+      "pronunciationDisplay": "oh-VED",
+      "nativeForms": [
+        {
+          "language": "Hebrew",
+          "script": "Hebrew",
+          "native": "עבד",
+          "transliteration": "Oved",
+          "witness": "Masoretic Hebrew",
+          "verificationStatus": "reviewed-form"
+        }
+      ],
+      "originalLanguagePreference": {
+        "default": "Hebrew",
+        "whenInsideYeshuaSpeech": null
+      },
+      "exampleReferences": [
+        "Ruth 4:17",
+        "Matthew 1:5"
+      ],
+      "editorialStatus": "released",
+      "scopeNotes": "Consistency backlog: find literal traditional-form remnants and review each reference before replacement."
+    },
+    {
+      "id": "perez",
+      "term": "Peretz",
+      "traditionalAliases": [
+        "Perez"
+      ],
+      "category": "person",
+      "pronunciationDisplay": "PEH-rets",
+      "nativeForms": [
+        {
+          "language": "Hebrew",
+          "script": "Hebrew",
+          "native": "פרץ",
+          "transliteration": "Peretz",
+          "witness": "Masoretic Hebrew",
+          "verificationStatus": "reviewed-form"
+        },
+        {
+          "language": "Greek",
+          "script": "Greek",
+          "native": "Φαρές",
+          "transliteration": "Phares",
+          "witness": "Greek NT textual form",
+          "verificationStatus": "reviewed-form"
+        }
+      ],
+      "originalLanguagePreference": {
+        "default": "Hebrew",
+        "whenInsideYeshuaSpeech": null
+      },
+      "exampleReferences": [
+        "Genesis 38:29",
+        "Ruth 4:12",
+        "Matthew 1:3"
+      ],
+      "editorialStatus": "released",
+      "scopeNotes": "Consistency backlog: find literal traditional-form remnants and review each reference before replacement."
+    },
+    {
+      "id": "phinehas",
+      "term": "Pinchas",
+      "traditionalAliases": [
+        "Phinehas"
+      ],
+      "category": "person",
+      "pronunciationDisplay": "peen-KHAHS",
+      "nativeForms": [
+        {
+          "language": "Hebrew",
+          "script": "Hebrew",
+          "native": "פינחס",
+          "transliteration": "Pinchas",
+          "witness": "Masoretic Hebrew",
+          "verificationStatus": "reviewed-form"
+        }
+      ],
+      "originalLanguagePreference": {
+        "default": "Hebrew",
+        "whenInsideYeshuaSpeech": null
+      },
+      "exampleReferences": [
+        "Exodus 6:25",
+        "Numbers 25:7",
+        "Joshua 22:13"
+      ],
+      "editorialStatus": "released",
+      "scopeNotes": ""
+    },
+    {
+      "id": "priscilla",
+      "term": "Priskilla",
+      "traditionalAliases": [
+        "Priscilla"
+      ],
+      "category": "person",
+      "pronunciationDisplay": "prees-KEEL-lah",
+      "nativeForms": [
+        {
+          "language": "Greek",
+          "script": "Greek",
+          "native": "Πρίσκιλλα",
+          "transliteration": "Priskilla",
+          "witness": "Greek NT textual form",
+          "verificationStatus": "reviewed-form"
+        },
+        {
+          "language": "Greek",
+          "script": "Greek",
+          "native": "Πρίσκα",
+          "transliteration": "Priska",
+          "witness": "Greek NT variant name",
+          "verificationStatus": "reviewed-form"
+        }
+      ],
+      "originalLanguagePreference": {
+        "default": "Greek",
+        "whenInsideYeshuaSpeech": null
+      },
+      "exampleReferences": [
+        "Acts 18:2",
+        "Acts 18:18",
+        "Acts 18:26"
+      ],
+      "editorialStatus": "released",
+      "scopeNotes": "Treat Prisca as a related attested form, not as a blind string alias."
+    },
+    {
+      "id": "rakhel",
+      "term": "Rakhel",
+      "traditionalAliases": [
+        "Rachel"
+      ],
+      "category": "person",
+      "pronunciationDisplay": "rah-KHEL",
+      "nativeForms": [
+        {
+          "language": "Hebrew",
+          "script": "Hebrew",
+          "native": "רחל",
+          "transliteration": "Rakhel",
+          "witness": "Masoretic Hebrew",
+          "verificationStatus": "reviewed-form"
+        }
+      ],
+      "originalLanguagePreference": {
+        "default": "Hebrew",
+        "whenInsideYeshuaSpeech": null
+      },
+      "exampleReferences": [
+        "Genesis 29:6",
+        "Genesis 30:1"
+      ],
+      "editorialStatus": "guide-only",
+      "scopeNotes": "No Scripture change proposed here; add/complete familiar-name alias and pronunciation metadata."
+    },
+    {
+      "id": "ruth",
+      "term": "Rut",
+      "traditionalAliases": [
+        "Ruth"
+      ],
+      "category": "person",
+      "pronunciationDisplay": "ROOT",
+      "nativeForms": [
+        {
+          "language": "Hebrew",
+          "script": "Hebrew",
+          "native": "רות",
+          "transliteration": "Rut",
+          "witness": "Masoretic Hebrew",
+          "verificationStatus": "reviewed-form"
+        },
+        {
+          "language": "Greek",
+          "script": "Greek",
+          "native": "Ῥούθ",
+          "transliteration": "Rhouth",
+          "witness": "Greek NT textual form",
+          "verificationStatus": "reviewed-form"
+        }
+      ],
+      "originalLanguagePreference": {
+        "default": "Hebrew",
+        "whenInsideYeshuaSpeech": null
+      },
+      "exampleReferences": [
+        "Ruth 1:4",
+        "Matthew 1:5"
+      ],
+      "editorialStatus": "released",
+      "scopeNotes": "Consistency backlog: find literal traditional-form remnants and review each reference before replacement."
+    },
+    {
+      "id": "shalem",
+      "term": "Shalem",
+      "traditionalAliases": [
+        "Salem"
+      ],
+      "category": "place",
+      "pronunciationDisplay": "shah-LEM",
+      "nativeForms": [
+        {
+          "language": "Hebrew",
+          "script": "Hebrew",
+          "native": "שלם",
+          "transliteration": "Shalem",
+          "witness": "Masoretic Hebrew",
+          "verificationStatus": "reviewed-form"
+        },
+        {
+          "language": "Greek",
+          "script": "Greek",
+          "native": "Σαλήμ",
+          "transliteration": "Salēm",
+          "witness": "Greek NT textual form",
+          "verificationStatus": "reviewed-form"
+        }
+      ],
+      "originalLanguagePreference": {
+        "default": "Hebrew",
+        "whenInsideYeshuaSpeech": null
+      },
+      "exampleReferences": [
+        "Genesis 14:18",
+        "Hebrews 7:1"
+      ],
+      "editorialStatus": "guide-only",
+      "scopeNotes": "No Scripture change proposed; guide/alias coverage only."
+    },
+    {
+      "id": "shealtiel",
+      "term": "She'altiel",
+      "traditionalAliases": [
+        "Shealtiel"
+      ],
+      "category": "person",
+      "pronunciationDisplay": "sheh-al-tee-EL",
+      "nativeForms": [
+        {
+          "language": "Hebrew",
+          "script": "Hebrew",
+          "native": "שאלתיאל",
+          "transliteration": "She'altiel",
+          "witness": "Masoretic Hebrew",
+          "verificationStatus": "reviewed-form"
+        },
+        {
+          "language": "Greek",
+          "script": "Greek",
+          "native": "Σαλαθιήλ",
+          "transliteration": "Salathiēl",
+          "witness": "Greek NT textual form",
+          "verificationStatus": "reviewed-form"
+        }
+      ],
+      "originalLanguagePreference": {
+        "default": "Hebrew",
+        "whenInsideYeshuaSpeech": null
+      },
+      "exampleReferences": [
+        "Ezra 3:2",
+        "Haggai 1:1",
+        "Matthew 1:12"
+      ],
+      "editorialStatus": "released",
+      "scopeNotes": "Consistency backlog: find literal traditional-form remnants and review each reference before replacement."
+    },
+    {
+      "id": "shoshana",
+      "term": "Shoshana",
+      "traditionalAliases": [
+        "Susanna"
+      ],
+      "category": "person",
+      "pronunciationDisplay": "shoh-shah-NAH",
+      "nativeForms": [
+        {
+          "language": "Hebrew",
+          "script": "Hebrew",
+          "native": "שושנה",
+          "transliteration": "Shoshana",
+          "witness": "Masoretic Hebrew",
+          "verificationStatus": "reviewed-form"
+        },
+        {
+          "language": "Greek",
+          "script": "Greek",
+          "native": "Σουσάννα",
+          "transliteration": "Sousanna",
+          "witness": "Greek NT textual form",
+          "verificationStatus": "reviewed-form"
+        }
+      ],
+      "originalLanguagePreference": {
+        "default": "Hebrew",
+        "whenInsideYeshuaSpeech": null
+      },
+      "exampleReferences": [
+        "Luke 8:3"
+      ],
+      "editorialStatus": "guide-only",
+      "scopeNotes": "No Scripture change proposed; guide/alias coverage only."
+    },
+    {
+      "id": "silvanus",
+      "term": "Silvanos",
+      "traditionalAliases": [
+        "Silvanus"
+      ],
+      "category": "person",
+      "pronunciationDisplay": "seel-vah-NOS",
+      "nativeForms": [
+        {
+          "language": "Greek",
+          "script": "Greek",
+          "native": "Σιλουανός",
+          "transliteration": "Silouanos",
+          "witness": "Greek NT textual form",
+          "verificationStatus": "reviewed-form"
+        }
+      ],
+      "originalLanguagePreference": {
+        "default": "Greek",
+        "whenInsideYeshuaSpeech": null
+      },
+      "exampleReferences": [
+        "2 Corinthians 1:19",
+        "1 Thessalonians 1:1",
+        "1 Peter 5:12"
+      ],
+      "editorialStatus": "released",
+      "scopeNotes": ""
+    },
+    {
+      "id": "sodom",
+      "term": "Sedom",
+      "traditionalAliases": [
+        "Sodom"
+      ],
+      "category": "place",
+      "pronunciationDisplay": "seh-DOHM",
+      "nativeForms": [
+        {
+          "language": "Hebrew",
+          "script": "Hebrew",
+          "native": "סדם",
+          "transliteration": "Sedom",
+          "witness": "Masoretic Hebrew",
+          "verificationStatus": "reviewed-form"
+        },
+        {
+          "language": "Greek",
+          "script": "Greek",
+          "native": "Σόδομα",
+          "transliteration": "Sodoma",
+          "witness": "Greek NT textual form",
+          "verificationStatus": "reviewed-form"
+        },
+        {
+          "language": "Aramaic",
+          "script": "Syriac",
+          "native": "ܣܕܘܡ",
+          "transliteration": "Sedom",
+          "witness": "Aramaic/Peshitta textual witness",
+          "verificationStatus": "verify-before-release"
+        }
+      ],
+      "originalLanguagePreference": {
+        "default": "Hebrew",
+        "whenInsideYeshuaSpeech": "Aramaic/Peshitta witness"
+      },
+      "exampleReferences": [
+        "Genesis 13:12",
+        "Genesis 19:24",
+        "Matthew 10:15"
+      ],
+      "editorialStatus": "released",
+      "scopeNotes": "For Gospel sayings attributed to Yeshua, original-language metadata prefers the Aramaic/Peshitta witness while preserving Hebrew and Greek witness fields."
+    },
+    {
+      "id": "syria-aram",
+      "term": "Aram",
+      "traditionalAliases": [
+        "Syria"
+      ],
+      "category": "place",
+      "pronunciationDisplay": "ah-RAHM",
+      "nativeForms": [
+        {
+          "language": "Hebrew",
+          "script": "Hebrew",
+          "native": "ארם",
+          "transliteration": "Aram",
+          "witness": "Masoretic Hebrew",
+          "verificationStatus": "reviewed-form"
+        },
+        {
+          "language": "Greek",
+          "script": "Greek",
+          "native": "Συρία",
+          "transliteration": "Syria",
+          "witness": "Greek NT textual form",
+          "verificationStatus": "reviewed-form"
+        }
+      ],
+      "originalLanguagePreference": {
+        "default": "Hebrew",
+        "whenInsideYeshuaSpeech": null
+      },
+      "exampleReferences": [
+        "2 Kings 5:1",
+        "Isaiah 7:1"
+      ],
+      "editorialStatus": "released",
+      "scopeNotes": "Context-sensitive: replace only where the referent is ancient Aram/Syria and editorial policy chooses Aram; never blanket-replace modern/geographic prose."
+    },
+    {
+      "id": "uzziah",
+      "term": "Uzziyah",
+      "traditionalAliases": [
+        "Uzziah"
+      ],
+      "category": "person",
+      "pronunciationDisplay": "oo-zee-YAH",
+      "nativeForms": [
+        {
+          "language": "Hebrew",
+          "script": "Hebrew",
+          "native": "עזיהו",
+          "transliteration": "Uzziyah",
+          "witness": "Masoretic Hebrew",
+          "verificationStatus": "reviewed-form"
+        }
+      ],
+      "originalLanguagePreference": {
+        "default": "Hebrew",
+        "whenInsideYeshuaSpeech": null
+      },
+      "exampleReferences": [
+        "2 Kings 15:13",
+        "2 Chronicles 26:1",
+        "Matthew 1:8"
+      ],
+      "editorialStatus": "released",
+      "scopeNotes": "Consistency backlog: find literal traditional-form remnants and review each reference before replacement."
+    },
+    {
+      "id": "yair",
+      "term": "Yair",
+      "traditionalAliases": [
+        "Jair",
+        "Jairus"
+      ],
+      "category": "person",
+      "pronunciationDisplay": "yah-EER",
+      "nativeForms": [
+        {
+          "language": "Hebrew",
+          "script": "Hebrew",
+          "native": "יאיר",
+          "transliteration": "Yair",
+          "witness": "Masoretic Hebrew",
+          "verificationStatus": "reviewed-form"
+        },
+        {
+          "language": "Greek",
+          "script": "Greek",
+          "native": "Ἰάϊρος",
+          "transliteration": "Iairos",
+          "witness": "Greek NT textual form",
+          "verificationStatus": "reviewed-form"
+        }
+      ],
+      "originalLanguagePreference": {
+        "default": "Hebrew",
+        "whenInsideYeshuaSpeech": null
+      },
+      "exampleReferences": [
+        "Judges 10:3",
+        "Mark 5:22"
+      ],
+      "editorialStatus": "guide-only",
+      "scopeNotes": "No Scripture change proposed; identity may differ across Hebrew Bible and Gospel Jairus."
+    },
+    {
+      "id": "yeshua",
+      "term": "Yeshua",
+      "traditionalAliases": [
+        "Jesus"
+      ],
+      "category": "person",
+      "pronunciationDisplay": "yeh-SHOO-ah",
+      "nativeForms": [
+        {
+          "language": "Aramaic",
+          "script": "Syriac",
+          "native": "ܝܫܘܥ",
+          "transliteration": "Yeshua",
+          "witness": "Aramaic/Peshitta witness",
+          "verificationStatus": "reviewed-form"
+        },
+        {
+          "language": "Hebrew",
+          "script": "Hebrew",
+          "native": "ישוע",
+          "transliteration": "Yeshua",
+          "witness": "Masoretic Hebrew",
+          "verificationStatus": "reviewed-form"
+        },
+        {
+          "language": "Greek",
+          "script": "Greek",
+          "native": "Ἰησοῦς",
+          "transliteration": "Iēsous",
+          "witness": "Greek NT textual form",
+          "verificationStatus": "reviewed-form"
+        }
+      ],
+      "originalLanguagePreference": {
+        "default": "Aramaic",
+        "whenInsideYeshuaSpeech": "Aramaic/Peshitta witness"
+      },
+      "exampleReferences": [
+        "Matthew 1:21",
+        "Matthew 4:17",
+        "John 8:12"
+      ],
+      "editorialStatus": "released",
+      "scopeNotes": "Normalize only literal 'Jesus' remnants in Scripture. For speech attributed to Yeshua, original-language metadata prefers the Aramaic/Peshitta witness; preserve Greek as a secondary textual witness."
+    },
+    {
+      "id": "yhwh",
+      "term": "YHWH",
+      "traditionalAliases": [
+        "YAHWEH"
+      ],
+      "category": "divine-name",
+      "pronunciationDisplay": "Y-H-W-H",
+      "nativeForms": [
+        {
+          "language": "Hebrew",
+          "script": "Hebrew",
+          "native": "יהוה",
+          "transliteration": "YHWH",
+          "witness": "Masoretic Hebrew",
+          "verificationStatus": "reviewed-form"
+        }
+      ],
+      "originalLanguagePreference": {
+        "default": "Hebrew",
+        "whenInsideYeshuaSpeech": null
+      },
+      "exampleReferences": [
+        "audit all four current literal YAHWEH occurrences"
+      ],
+      "editorialStatus": "released",
+      "scopeNotes": "Normalize only literal YAHWEH forms to the project's established YHWH policy unless a quotation/inscription exception is documented."
+    },
+    {
+      "id": "yochana",
+      "term": "Yochana",
+      "traditionalAliases": [
+        "Joanna"
+      ],
+      "category": "person",
+      "pronunciationDisplay": "yoh-khah-NAH",
+      "nativeForms": [
+        {
+          "language": "Greek",
+          "script": "Greek",
+          "native": "Ἰωάννα",
+          "transliteration": "Iōanna",
+          "witness": "Greek NT textual form",
+          "verificationStatus": "reviewed-form"
+        },
+        {
+          "language": "Aramaic",
+          "script": "Syriac",
+          "native": "ܝܘܚܢܐ",
+          "transliteration": "Yochana",
+          "witness": "Aramaic/Peshitta textual witness",
+          "verificationStatus": "verify-before-release"
+        }
+      ],
+      "originalLanguagePreference": {
+        "default": "Greek",
+        "whenInsideYeshuaSpeech": "Aramaic/Peshitta witness"
+      },
+      "exampleReferences": [
+        "Luke 8:3",
+        "Luke 24:10"
+      ],
+      "editorialStatus": "guide-only",
+      "scopeNotes": "No Scripture change proposed; verify the Aramaic/Peshitta form before release metadata."
+    },
+    {
+      "id": "zachariah",
+      "term": "Zekharyah",
+      "traditionalAliases": [
+        "Zachariah",
+        "Zechariah"
+      ],
+      "category": "person",
+      "pronunciationDisplay": "zeh-khar-YAH",
+      "nativeForms": [
+        {
+          "language": "Hebrew",
+          "script": "Hebrew",
+          "native": "זכריה",
+          "transliteration": "Zekharyah",
+          "witness": "Masoretic Hebrew",
+          "verificationStatus": "reviewed-form"
+        },
+        {
+          "language": "Greek",
+          "script": "Greek",
+          "native": "Ζαχαρίας",
+          "transliteration": "Zacharias",
+          "witness": "Greek NT textual form",
+          "verificationStatus": "reviewed-form"
+        },
+        {
+          "language": "Aramaic",
+          "script": "Syriac",
+          "native": "ܙܟܪܝܐ",
+          "transliteration": "Zekharya",
+          "witness": "Aramaic/Peshitta textual witness",
+          "verificationStatus": "verify-before-release"
+        }
+      ],
+      "originalLanguagePreference": {
+        "default": "Hebrew",
+        "whenInsideYeshuaSpeech": "Aramaic/Peshitta witness when inside speech attributed to Yeshua."
+      },
+      "exampleReferences": [
+        "2 Chronicles 24:20",
+        "Zechariah 1:1",
+        "Luke 1:5"
+      ],
+      "editorialStatus": "released",
+      "scopeNotes": "Scope by person identity. Do not rename a biblical book heading unless a separate book-title policy is approved."
+    },
+    {
+      "id": "zerah",
+      "term": "Zerach",
+      "traditionalAliases": [
+        "Zerah"
+      ],
+      "category": "person",
+      "pronunciationDisplay": "ZEH-rakh",
+      "nativeForms": [
+        {
+          "language": "Hebrew",
+          "script": "Hebrew",
+          "native": "זרח",
+          "transliteration": "Zerach",
+          "witness": "Masoretic Hebrew",
+          "verificationStatus": "reviewed-form"
+        }
+      ],
+      "originalLanguagePreference": {
+        "default": "Hebrew",
+        "whenInsideYeshuaSpeech": null
+      },
+      "exampleReferences": [
+        "Genesis 38:30",
+        "Numbers 26:20",
+        "Matthew 1:3"
+      ],
+      "editorialStatus": "released",
+      "scopeNotes": "Consistency backlog: find literal traditional-form remnants and review each reference before replacement."
+    },
+    {
+      "id": "zerubbabel",
+      "term": "Zerubavel",
+      "traditionalAliases": [
+        "Zerubbabel"
+      ],
+      "category": "person",
+      "pronunciationDisplay": "zeh-roo-bah-VEL",
+      "nativeForms": [
+        {
+          "language": "Hebrew",
+          "script": "Hebrew",
+          "native": "זרבבל",
+          "transliteration": "Zerubavel",
+          "witness": "Masoretic Hebrew",
+          "verificationStatus": "reviewed-form"
+        },
+        {
+          "language": "Greek",
+          "script": "Greek",
+          "native": "Ζοροβαβέλ",
+          "transliteration": "Zorobabel",
+          "witness": "Greek NT textual form",
+          "verificationStatus": "reviewed-form"
+        }
+      ],
+      "originalLanguagePreference": {
+        "default": "Hebrew",
+        "whenInsideYeshuaSpeech": null
+      },
+      "exampleReferences": [
+        "Ezra 2:2",
+        "Haggai 1:1",
+        "Matthew 1:12"
+      ],
+      "editorialStatus": "released",
+      "scopeNotes": "Consistency backlog: find literal traditional-form remnants and review each reference before replacement."
+    }
+  ]
+}

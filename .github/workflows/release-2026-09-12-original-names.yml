@@ -1,0 +1,40 @@
+name: Release 2026-09-12 original-name restoration
+
+on:
+  push:
+    branches:
+      - release/2026-09-12-original-names
+    paths:
+      - tools/local/release_2026_09_12_original_names.py
+      - tools/local/release_2026_09_12_original_names_v2.py
+      - .github/workflows/release-2026-09-12-original-names.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: release-2026-09-12-original-names
+  cancel-in-progress: false
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: release/2026-09-12-original-names
+          fetch-depth: 1
+
+      - name: Apply original-name release and canonical QA
+        run: python3 tools/local/release_2026_09_12_original_names_v2.py
+
+      - name: Commit generated release artifacts
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add current-form-documents rendered-documents-history change-logs editor-notes README.md
+          if ! git diff --cached --quiet; then
+            git commit -m "release: restore high-priority original names"
+            git push origin HEAD:release/2026-09-12-original-names
+          fi
