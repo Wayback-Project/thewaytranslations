@@ -1,0 +1,67 @@
+name: Release 2026-09-12 crucifixion inscription alignment
+
+on:
+  push:
+    branches:
+      - release/2026-09-12-inscription-canonical-fix
+    paths:
+      - tools/local/release_2026_09_12_crucifixion_inscription_alignment.py
+      - .github/workflows/release-2026-09-12-crucifixion-inscription-alignment.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: release/2026-09-12-inscription-canonical-fix
+          fetch-depth: 1
+
+      - name: Release exact four inscription corrections
+        run: python3 tools/local/release_2026_09_12_crucifixion_inscription_alignment.py
+
+      - name: Verify release ledger and canonical artifact
+        run: |
+          python3 - <<'PY'
+          import hashlib, json
+          from pathlib import Path
+          root=Path('.')
+          ledger=json.loads((root/'change-logs/reports/2026-09-12-crucifixion-inscription-name-alignment.json').read_text(encoding='utf-8'))
+          epub=root/'current-form-documents/the-way-current.epub'
+          actual=hashlib.sha256(epub.read_bytes()).hexdigest()
+          assert actual==ledger['released_epub_sha256'], (actual,ledger['released_epub_sha256'])
+          assert ledger['change_count']==4, ledger['change_count']
+          assert ledger['finalNameAudit']['staleReleasedNameHitCount']==0
+          assert ledger['finalNameAudit']['legacyInscriptionHitCount']==0
+          assert ledger['qa']['book_count']==66
+          assert ledger['qa']['chapter_count']==1189
+          assert ledger['qa']['zip_crc']=='pass'
+          assert ledger['qa']['xml_parse']=='pass'
+          assert ledger['qa']['internal_links']=='pass'
+          registry=json.loads((root/'current-form-documents/original-name-registry.json').read_text(encoding='utf-8'))
+          assert registry['canonicalEpubSha256']==actual
+          print(json.dumps({'releasedSha256':actual,'changeCount':4,'staleReleasedNames':0,'legacyInscriptionHits':0},indent=2))
+          PY
+
+      - name: Commit released artifact and records
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add \
+            current-form-documents/the-way-current.epub \
+            current-form-documents/original-name-registry.json \
+            current-form-documents/README.md \
+            README.md \
+            rendered-documents-history \
+            change-logs/reports/2026-09-12-crucifixion-inscription-name-alignment.json \
+            editor-notes/consistency/2026-09-12-crucifixion-inscription-name-alignment.md
+          if git diff --cached --quiet; then
+            echo 'No release changes to commit.'
+          else
+            git commit -m "Release crucifixion inscription original-name alignment"
+            git push origin HEAD:release/2026-09-12-inscription-canonical-fix
+          fi
