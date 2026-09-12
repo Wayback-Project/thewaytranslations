@@ -14,21 +14,9 @@
       "rule": "For metadata attached to words, names, or places occurring inside direct speech attributed to Yeshua, prefer an attested Aramaic/Peshitta native-script form when one is available. Preserve Greek/Hebrew witness forms as additional evidence rather than deleting them.",
       "historicalCaution": "The Syriac/Peshitta form is a textual witness used by this project policy; do not label it as certain verbatim first-century Galilean orthography or pronunciation.",
       "examples": [
-        {
-          "reference": "Matthew 4:17",
-          "entityId": "yeshua",
-          "native": "ܝܫܘܥ"
-        },
-        {
-          "reference": "Matthew 10:15",
-          "entityId": "sodom",
-          "native": "ܣܕܘܡ"
-        },
-        {
-          "reference": "Matthew 10:15",
-          "entityId": "gomorrah",
-          "native": "ܥܡܘܪܐ"
-        }
+        {"reference": "Matthew 4:17", "entityId": "yeshua", "native": "ܝܫܘܥ"},
+        {"reference": "Matthew 10:15", "entityId": "sodom", "native": "ܣܕܘܡ"},
+        {"reference": "Matthew 10:15", "entityId": "gomorrah", "native": "ܥܡܘܪܐ"}
       ]
     },
     "releaseRule": "Every native form and proposed display form must be re-verified against the relevant source witness during the exact reference-level editorial review before any canonical replacement release."
@@ -44,9 +32,11 @@
   "files": [
     "priority-people.json",
     "priority-places.json",
-    "beth-beit-places.json",
+    "beth-beit-a.json",
+    "beth-beit-b.json",
     "reader-guide-only.json",
-    "consistency-backlog.json"
+    "consistency-backlog-a.json",
+    "consistency-backlog-b.json"
   ],
   "entryCount": 69
 }
