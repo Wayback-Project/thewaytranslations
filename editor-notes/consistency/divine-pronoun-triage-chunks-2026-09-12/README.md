@@ -1,0 +1,64 @@
+# Divine-pronoun triage chunks — 2026-09-12
+
+- 1 Kings part 1: `1-kings-01.md`
+- 1 Kings part 2: `1-kings-02.md`
+- 1 Kings part 3: `1-kings-03.md`
+- 1 Kings part 4: `1-kings-04.md`
+- 1 Peter part 1: `1-peter-01.md`
+- 1 Samuel part 1: `1-samuel-01.md`
+- 1 Samuel part 2: `1-samuel-02.md`
+- 1 Samuel part 3: `1-samuel-03.md`
+- 1 Samuel part 4: `1-samuel-04.md`
+- 1 Samuel part 5: `1-samuel-05.md`
+- 2 Chronicles part 1: `2-chronicles-01.md`
+- 2 Chronicles part 2: `2-chronicles-02.md`
+- 2 Chronicles part 3: `2-chronicles-03.md`
+- 2 Chronicles part 4: `2-chronicles-04.md`
+- 2 Chronicles part 5: `2-chronicles-05.md`
+- 2 Corinthians part 1: `2-corinthians-01.md`
+- 2 Kings part 1: `2-kings-01.md`
+- 2 Kings part 2: `2-kings-02.md`
+- 2 Kings part 3: `2-kings-03.md`
+- 2 Kings part 4: `2-kings-04.md`
+- 2 Kings part 5: `2-kings-05.md`
+- 2 Kings part 6: `2-kings-06.md`
+- 2 Thessalonians part 1: `2-thessalonians-01.md`
+- 2 Timothy part 1: `2-timothy-01.md`
+- Amos part 1: `amos-01.md`
+- Colossians part 1: `colossians-01.md`
+- Daniel part 1: `daniel-01.md`
+- Deuteronomy part 1: `deuteronomy-01.md`
+- Deuteronomy part 2: `deuteronomy-02.md`
+- Deuteronomy part 3: `deuteronomy-03.md`
+- Ephesians part 1: `ephesians-01.md`
+- Exodus part 1: `exodus-01.md`
+- Exodus part 2: `exodus-02.md`
+- Exodus part 3: `exodus-03.md`
+- Ezekiel part 1: `ezekiel-01.md`
+- Ezekiel part 2: `ezekiel-02.md`
+- Ezra part 1: `ezra-01.md`
+- Habakkuk part 1: `habakkuk-01.md`
+- Haggai part 1: `haggai-01.md`
+- Hosea part 1: `hosea-01.md`
+- James part 1: `james-01.md`
+- Job part 1: `job-01.md`
+- Joel part 1: `joel-01.md`
+- Jonah part 1: `jonah-01.md`
+- Joshua part 1: `joshua-01.md`
+- Joshua part 2: `joshua-02.md`
+- Judges part 1: `judges-01.md`
+- Judges part 2: `judges-02.md`
+- Judges part 3: `judges-03.md`
+- Lamentations part 1: `lamentations-01.md`
+- Leviticus part 1: `leviticus-01.md`
+- Leviticus part 2: `leviticus-02.md`
+- Micah part 1: `micah-01.md`
+- Nahum part 1: `nahum-01.md`
+- Nehemiah part 1: `nehemiah-01.md`
+- Numbers part 1: `numbers-01.md`
+- Numbers part 2: `numbers-02.md`
+- Numbers part 3: `numbers-03.md`
+- Proverbs part 1: `proverbs-01.md`
+- Ruth part 1: `ruth-01.md`
+- Zechariah part 1: `zechariah-01.md`
+- Zephaniah part 1: `zephaniah-01.md`

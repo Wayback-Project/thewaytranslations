@@ -1,0 +1,16 @@
+# 1 Samuel — divine-pronoun triage part 4
+
+Candidates 37–48 of 52. Review-only; no Scripture changes.
+
+- **1 Samuel 17:37** — [explicit-divine-subject:he→YHWH] — Dawid said, YHWH who delivered me out of the paw of the lion, and out of the paw of the bear, he will deliver me out of the hand of this Philistine. Shaul said to Dawid, Go, and YHWH shall be with you.
+- **1 Samuel 19:6** — [explicit-divine-subject:he→YHWH] — Shaul listened to the voice of Yonatan: and Shaul swore, As YHWH lives, he shall not be put to death.
+- **1 Samuel 19:23** — [explicit-divine-subject:he→Elohim] — He went there to Naioth in Ramah: and the Ruach of Elohim came on him also, and he went on, and prophesied, until he came to Naioth in Ramah.
+- **1 Samuel 20:42** — [next-sentence-divine-subject:He→YHWH] — Yonatan said to Dawid, Go in peace, because we have sworn both of us in the name of YHWH, saying, YHWH shall be between me and you, and between my seed and your seed, forever. He arose and departed: and Yonatan went into the city.
+- **1 Samuel 21:7** — [divine-attribute:his→YHWH] — Now a certain man of the servants of Shaul was there that day, detained before YHWH; and his name was Doeg the Edomite, the best of the herdsmen who belonged to Shaul.
+- **1 Samuel 22:13** — [explicit-divine-subject:he→Elohim, explicit-divine-role:him→role-after-pronoun] — Shaul said to him, Why have you conspired against me, you and the son of Yishai, in that you have given him bread, and a sword, and have inquired of Elohim for him, that he should rise against me, to lie in wait, as at this day?
+- **1 Samuel 22:17** — [explicit-divine-role:him→role-after-pronoun] — The king said to the guard who stood about him, Turn, and kill the priests of YHWH; because their hand also is with Dawid, and because they knew that he fled, and didn't disclose it to me. But the servants of the king wouldn't put forth their hand to fall on the priests of YHWH.
+- **1 Samuel 23:7** — [explicit-divine-subject:he→Elohim] — It was told Shaul that Dawid was come to Keilah. Shaul said, Elohim has delivered him into my hand; for he is shut in, by entering into a town that has gates and bars.
+- **1 Samuel 23:11** — [explicit-divine-subject:He→YHWH] — Will the men of Keilah deliver me up into his hand? will Shaul come down, as your servant has heard? YHWH, the God of Israel, I beg you, tell your servant. YHWH said, He will come down.
+- **1 Samuel 23:14** — [divine-attribute:his→Elohim, explicit-divine-role:him→role-after-pronoun] — Dawid abode in the wilderness in the strongholds, and remained in the hill country in the wilderness of Ziph. Shaul sought him every day, but Elohim didn't deliver him into his hand.
+- **1 Samuel 24:4** — [explicit-divine-role:him→role-after-pronoun] — The men of Dawid said to him, Behold, the day of which YHWH said to you, Behold, I will deliver your enemy into your hand, and you shall do to him as it shall seem good to you. Then Dawid arose, and cut off the skirt of Shaul's robe secretly.
+- **1 Samuel 24:6** — [explicit-divine-role:him→role-after-pronoun] — He said to his men, YHWH forbid that I should do this thing to my lord, YHWH's anointed, to put forth my hand against him, seeing he is YHWH's anointed.

@@ -1,0 +1,14 @@
+# Daniel — divine-pronoun residual triage
+
+Heuristic candidates: **10**. Review-only; no Scripture changes.
+
+- **Daniel 1:2** — [explicit-divine-subject:he→god] — YHWH gave Jehoiakim king of Yehudah into his hand, with part of the vessels of the house of Elohim; and he carried them into the land of Shinar to the house of his god: and he brought the vessels into the treasure house of his god.
+- **Daniel 2:18** — [explicit-divine-subject:his→God] — that they would desire mercies of the God of heaven concerning this secret; that Dani'el and his companions should not perish with the rest of the wise people of Bavel.
+- **Daniel 3:17** — [explicit-divine-subject:he→God] — If it be [so], our God whom we serve is able to deliver us from the burning fiery furnace; and he will deliver us out of your hand, O king.
+- **Daniel 5:23** — [divine-attribute:his→YHWH] — but have lifted up yourself against YHWH of heaven; and they have brought the vessels of his house before you, and you and your lords, your wives and your concubines, have drunk wine from them; and you have praised the gods of silver and gold, of brass, iron, wood, and stone, which don't see, nor hear, nor know; and the Elohim in whose hand your breath is, and whose are all your ways, you have not glorified.
+- **Daniel 6:5** — [explicit-divine-role:him→role-after-pronoun] — Then said these men, We shall not find any occasion against this Dani'el, except we find it against him concerning the law of his God.
+- **Daniel 6:23** — [explicit-divine-role:him→role-after-pronoun] — Then was the king exceeding glad, and commanded that they should take Dani'el up out of the den. So Dani'el was taken up out of the den, and no manner of hurt was found on him, because he had trusted in his God.
+- **Daniel 7:25** — [divine-attribute:his→Most High, explicit-divine-subject:he→Most High] — He shall speak words against the Most High, and shall wear out the saints of the Most High; and he shall think to change the times and the law; and they shall be given into his hand until a time and times and half a time.
+- **Daniel 7:27** — [devotion-object:him→Most High] — The kingdom and the dominion, and the greatness of the kingdoms under the whole sky, shall be given to the people of the saints of the Most High: his kingdom is an everlasting kingdom, and all dominions shall serve and obey him.
+- **Daniel 9:10** — [divine-attribute:his→God, divine-attribute:his→God] — neither have we obeyed the voice of YHWH our God, to walk in his laws, which he set before us by his servants the prophets.
+- **Daniel 11:36** — [explicit-divine-subject:he→god] — The king shall do according to his will; and he shall exalt himself, and magnify himself above every god, and shall speak marvelous things against the God of gods; and he shall prosper until the indignation be accomplished; for that which is determined shall be done.

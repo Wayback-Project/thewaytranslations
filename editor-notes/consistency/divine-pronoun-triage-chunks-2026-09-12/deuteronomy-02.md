@@ -1,0 +1,16 @@
+# Deuteronomy — divine-pronoun triage part 2
+
+Candidates 13–24 of 26. Review-only; no Scripture changes.
+
+- **Deuteronomy 17:15** — [explicit-divine-role:him→role-after-pronoun] — you shall surely set him king over you, whom YHWH your God shall choose: one from among your brothers shall you set king over you; you may not put a foreigner over you, who is not your brother.
+- **Deuteronomy 18:1** — [explicit-divine-subject:his→YHWH] — The priests the Levites, [even] all the tribe of Levi, shall have no portion nor inheritance with Israel: they shall eat the offerings of YHWH made by fire, and his inheritance.
+- **Deuteronomy 18:5** — [explicit-divine-subject:his→YHWH] — For YHWH your God has chosen him out of all your tribes, to stand to minister in the name of YHWH, him and his sons for ever.
+- **Deuteronomy 21:5** — [explicit-divine-role:him→role-after-pronoun] — The priests the sons of Levi shall come near; for them YHWH your God has chosen to minister to him, and to bless in the name of YHWH; and according to their word shall every controversy and every stroke be.
+- **Deuteronomy 26:3** — [explicit-divine-role:him→role-after-pronoun] — You shall come to the priest who shall be in those days, and tell him, I profess this day to YHWH your God, that I am come to the land which YHWH swore to our fathers to give us.
+- **Deuteronomy 28:48** — [explicit-divine-subject:he→YHWH] — therefore shall you serve your enemies whom YHWH shall send against you, in hunger, and in thirst, and in nakedness, and in want of all things: and he shall put a yoke of iron on your neck, until he have destroyed you.
+- **Deuteronomy 29:20** — [divine-attribute:his→YHWH, explicit-divine-role:him→role-after-pronoun, explicit-divine-role:him→role-after-pronoun] — YHWH will not pardon him, but then the anger of YHWH and YHWH’s jealousy will smoke against that man, and all the curse that is written in this book shall lie on him, and YHWH will blot out his name from under the heavens.
+- **Deuteronomy 31:29** — [devotion-object:him→YHWH] — For I know that after my death you will utterly corrupt yourselves, and turn aside from the way which I have commanded you; and brokenness will happen to you in the latter days; because you will do that which is brokenness in the sight of YHWH, to provoke him to anger through the work of your hands.
+- **Deuteronomy 32:10** — [explicit-divine-role:him→role-after-pronoun] — YHWH found him in a desert land, in the waste howling wilderness. YHWH surrounded him. YHWH cared for him. YHWH kept him as the apple of YHWH’s eye.
+- **Deuteronomy 32:13** — [next-sentence-divine-subject:He→YHWH] — YHWH made him ride on the high places of the earth. He ate the increase of the field. YHWH caused him to suck honey out of the rock, oil out of the flinty rock;
+- **Deuteronomy 33:7** — [divine-attribute:his→YHWH] — This is [the blessing] of Yehudah: and he said, Hear, YHWH, the voice of Yehudah. Bring him in to his people. With his hands he contended for himself. You shall be a help against his adversaries.
+- **Deuteronomy 33:12** — [next-sentence-divine-subject:He→YHWH] — Of Binyamin he said, The beloved of YHWH shall dwell in safety by him. He covers him all the day long. He dwells between his shoulders.

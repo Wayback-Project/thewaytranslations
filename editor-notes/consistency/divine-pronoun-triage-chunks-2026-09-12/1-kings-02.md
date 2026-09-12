@@ -1,0 +1,16 @@
+# 1 Kings — divine-pronoun triage part 2
+
+Candidates 13–24 of 46. Review-only; no Scripture changes.
+
+- **1 Kings 13:11** — [explicit-divine-role:him→role-after-pronoun] — Now there lived an old prophet in Beit El; and one of their sons came and told him all the works that the person of Elohim had done that day in Beit El: the words which they had spoken to the king, them also they told to their father.
+- **1 Kings 13:14** — [explicit-divine-role:him→role-after-pronoun] — They went after the person of Elohim, and found him sitting under an oak; and they said to him, Are you the person of Elohim who came from Yehudah? He said, I am.
+- **1 Kings 13:18** — [explicit-divine-subject:he→YHWH] — He said to him, I also am a prophet as you are; and an angel spoke to me by the word of YHWH, saying, Bring him back with you into your house, that he may eat bread and drink water. [But] he lied to him.
+- **1 Kings 13:26** — [explicit-divine-role:him→role-after-pronoun] — When the prophet who brought him back from the way heard of it, they said, It is the person of Elohim, who was disobedient to the mouth of YHWH: therefore YHWH has delivered him to the lion, which has torn him, and slain him, according to the word of YHWH, which they spoke to him.
+- **1 Kings 13:29** — [explicit-divine-subject:he→Elohim] — The prophet took up the body of the person of Elohim, and laid it on the donkey, and brought it back; and he came to the city of the old prophet, to mourn, and to bury him.
+- **1 Kings 14:13** — [explicit-divine-role:him→role-after-pronoun] — All Israel shall mourn for him, and bury him; for he only of Yerovam shall come to the grave, because in him there is found some good thing toward YHWH, the God of Israel, in the house of Yerovam.
+- **1 Kings 14:15** — [explicit-divine-subject:he→YHWH] — For YHWH will strike Israel, as a reed is shaken in the water; and he will root up Israel out of this good land which he gave to their fathers, and will scatter them beyond the River, because they have made their Asherim, provoking YHWH to anger.
+- **1 Kings 14:18** — [explicit-divine-role:him→role-after-pronoun] — All Israel buried him, and mourned for him, according to the word of YHWH, which YHWH spoke by YHWH’s servant Ahijah the prophet.
+- **1 Kings 14:21** — [explicit-divine-subject:his→YHWH] — Rechavam the son of Shlomo reigned in Yehudah. Rechavam was forty-one years old when he began to reign, and he reigned seventeen years in Yerushalayim, the city which YHWH had chosen out of all the tribes of Israel, to put YHWH’s name there: and his mother's name was Naamah the Ammonitess.
+- **1 Kings 14:22** — [devotion-object:him→YHWH] — Yehudah did what was broken in the sight of YHWH, and they provoked him to jealousy with their sins which they committed, above all that their fathers had done.
+- **1 Kings 15:3** — [explicit-divine-role:him→role-after-pronoun] — He walked in all the sins of his father, which he had done before him; and his heart was not perfect with YHWH his God, as the heart of Dawid his father.
+- **1 Kings 15:5** — [explicit-divine-subject:he→YHWH] — because Dawid did that which was right in the eyes of YHWH, and didn't turn aside from anything that he commanded him all the days of his life, except only in the matter of Uriyah the Hittite.

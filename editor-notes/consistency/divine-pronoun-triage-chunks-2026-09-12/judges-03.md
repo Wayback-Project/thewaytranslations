@@ -1,0 +1,16 @@
+# Judges — divine-pronoun triage part 3
+
+Candidates 25–36 of 36. Review-only; no Scripture changes.
+
+- **Judges 11:36** — [explicit-divine-role:him→role-after-pronoun] — She said to him, My father, you have opened your mouth to YHWH; do to me according to that which has proceeded out of your mouth, because YHWH has taken vengeance for you on your enemies, even on the children of Ammon.
+- **Judges 13:5** — [explicit-divine-subject:he→Elohim] — for, behold, you shall conceive, and bear a son; and no razor shall come on his head; for the child shall be a Nazirite to Elohim from the womb: and he shall begin to save Israel out of the hand of the Philistines.
+- **Judges 13:6** — [divine-attribute:his→Elohim] — Then the woman came and told her husband, saying, A person of Elohim came to me, and their face was like the face of the angel of Elohim, very awesome; and I didn't ask him whence he was, neither did he tell me his name:
+- **Judges 13:20** — [explicit-divine-subject:his→YHWH] — For it happened, when the flame went up toward the heavens from off the altar, that the angel of YHWH ascended in the flame of the altar: and Manoah and his wife looked on; and they fell on their faces to the ground.
+- **Judges 13:23** — [explicit-divine-role:him→role-after-pronoun] — But his wife said to him, If YHWH were pleased to kill us, YHWH wouldn't have received a burnt offering and a meal offering at our hand, neither would YHWH have shown us all these things, nor would at this time have told such things as these.
+- **Judges 13:24** — [explicit-divine-role:him→role-after-pronoun] — The woman bore a son, and named him Shimshon: and the child grew, and YHWH blessed him.
+- **Judges 14:4** — [explicit-divine-subject:he→YHWH] — But his father and his mother didn't know that it was of YHWH; for he sought an occasion against the Philistines. Now at that time the Philistines had rule over Israel.
+- **Judges 14:6** — [divine-attribute:his→YHWH, explicit-divine-subject:he→YHWH] — The Ruach of YHWH came mightily on him, and he tore him as he would have torn a kid; and he had nothing in his hand: but he didn't tell his father or his mother what he had done.
+- **Judges 14:19** — [explicit-divine-subject:he→YHWH] — The Ruach of YHWH came mightily on him, and he went down to Ashqelon, and struck thirty men of them, and took their spoil, and gave the changes [of clothing] to those who declared the riddle. His anger was kindled, and he went up to his father's house.
+- **Judges 15:14** — [explicit-divine-subject:his→YHWH, explicit-divine-role:him→role-after-pronoun] — When he came to Lehi, the Philistines shouted as they met him: and the Ruach of YHWH came mightily on him, and the ropes that were on his arms became as flax that was burnt with fire, and his bands dropped from off his hands.
+- **Judges 15:19** — [divine-attribute:his→Elohim] — But Elohim split the hollow place that is in Lehi, and water came out of it. When he had drunk, his spirit came again, and he revived: therefore the name of it was called En Hakkore, which is in Lehi, to this day.
+- **Judges 18:5** — [explicit-divine-role:him→role-after-pronoun] — They said to him, Ask counsel, we pray you, of Elohim, that we may know whether our way which we go shall be prosperous.
