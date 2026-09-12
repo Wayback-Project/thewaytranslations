@@ -1,0 +1,1296 @@
+# Divine-pronoun residual audit — 2026-09-12
+
+This is a **diagnostic audit only**. It does not change Scripture.
+
+Policy under audit: when the referent is unmistakably divine, The Way Version avoids masculine `he / him / his / himself` and repeats the established divine name/title instead. Human referents, Yeshua references, uncertain speaker transitions, and poetic/textually disputed referents are not mechanically rewritten.
+
+- Same-verse divine-marker + masculine-pronoun verses: **1515**
+- Close-proximity candidates: **1270**
+- Close-proximity candidates outside the documented review list: **1268**
+
+## Undocumented close-proximity candidates
+
+- **Proverbs 3:12** — for whom YHWH loves, YHWH reproves; even as a father reproves the son in whom he delights.
+- **Proverbs 5:21** — For the ways of man are before the eyes of YHWH. YHWH examines all his paths.
+- **Proverbs 16:7** — When someone's ways please YHWH, they make even their enemies to be at peace with him.
+- **Proverbs 19:3** — The foolishness of man subverts his way; his heart rages against YHWH.
+- **Proverbs 19:23** — Reverence for YHWH leads to life, then contentment; he rests and will not be touched by trouble.
+- **Proverbs 24:18** — lest YHWH see it, and it displease YHWH, and YHWH turn away YHWH’s wrath from him.
+- **Proverbs 25:22** — for you will heap coals of fire on his head, and YHWH will reward you.
+- **2 Peter 1:17** — For he received from God the Cosmic Parent honor and glory, when the voice came to him from the Majestic Glory, "This is my beloved Son, in whom I am well pleased."
+- **Jonah 1:9** — He said to them, "I am a Hebrew, and I revere YHWH, the God of heaven, who has made the sea and the dry land."
+- **Jonah 1:10** — Then were the men exceedingly afraid, and said to him, "What is this that you have done?" For the men knew that he was fleeing from the presence of YHWH, because he had told them.
+- **Jonah 2:1** — Then Yonah prayed to YHWH, his God, out of the fish's belly.
+- **Jonah 2:2** — He said, "I called because of my affliction to YHWH. He answered me. Out of the belly of Sheol I cried. You heard my voice.
+- **Jonah 3:9** — Who knows whether Elohim will not turn and relent, and turn away from his fierce anger, so that we might not perish?"
+- **Jonah 4:2** — He prayed to YHWH, and said, "Please, YHWH, wasn't this what I said when I was still in my own country? Therefore I hurried to flee to Tarshish, for I knew that you are a gracious Elohim, and merciful, slow to anger, and abundant in loving kindness, and you relent of doing harm.
+- **Jonah 4:6** — YHWH Elohim prepared a vine, and made it to come up over Yonah, that it might be a shade over his head, to deliver him from his discomfort. So Yonah was exceedingly glad because of the vine.
+- **Jonah 4:8** — It happened, when the sun arose, that Elohim prepared a sultry east wind; and the sun beat on Yonah's head, so that he fainted, and requested for himself that he might die, and said, "It is better for me to die than to live."
+- **1 Peter 1:2** — according to the foreknowledge of God the Cosmic Parent, in sanctification of the Ruach, that you may obey Yeshua the Messiah and be sprinkled with his blood: Grace to you and peace be multiplied.
+- **1 Peter 1:3** — Blessed be the God and Cosmic Parent of our Master Yeshua the Messiah, who according to his great mercy became our father again to a living hope through the resurrection of Yeshua the Messiah from the dead,
+- **1 Peter 1:17** — If you call on him as Cosmic Parent, who without respect of persons judges according to each a person's work, pass the time of your living as foreigners here in reverence:
+- **1 Peter 1:21** — who through him are believers in God, who raised him from the dead, and gave him glory; so that your faith and hope might be in God.
+- **1 Peter 2:4** — coming to him, a living stone, rejected indeed by people, but chosen by God, precious.
+- **1 Peter 3:18** — Because Messiah also suffered for sins once, the righteous for the unrighteous, that he might bring you to God; being put to death in the flesh, but made alive in the spirit;
+- **1 Peter 3:22** — who is at the right hand of God, having gone into heaven, angels and authorities and powers being made subject to him.
+- **1 Peter 4:19** — Therefore let them also who suffer according to the will of God in doing good entrust their souls to him, as to a faithful Creator.
+- **Exodus 3:1** — Now Moshe was keeping the flock of Yitro, his father-in-law, the priest of Midian, and he led the flock to the back of the wilderness, and came to Elohim's mountain, to Horeb.
+- **Exodus 3:2** — The angel of YHWH appeared to him in a flame of fire out of the midst of a bush. He looked, and behold, the bush burned with fire, and the bush was not consumed.
+- **Exodus 3:4** — When YHWH saw that he turned aside to see, Elohim called to him out of the midst of the bush, and said, "Moshe! Moshe!" He said, "Here I am."
+- **Exodus 3:6** — Moreover Elohim said, "I am the God of your father, the God of Avraham, the God of Yitzhak, and the God of Ya'akov." Moshe hid his face; for he was afraid to look at Elohim.
+- **Exodus 3:13** — Moshe said to Elohim, "Behold, when I come to the children of Israel, and tell them, 'The God of your fathers has sent me to you;' and they ask me, 'What is his name?' What should I tell them?"
+- **Exodus 3:18** — They will listen to your voice, and you shall come, you and the elders of Israel, to the king of Mitzrayim, and you shall tell him, 'YHWH, the God of the Hebrews, has met with us. Now please let us go three days' journey into the wilderness, that we may sacrifice to YHWH, our God.'
+- **Exodus 4:2** — YHWH said to him, "What is that in your hand?" He said, "A rod."
+- **Exodus 4:6** — YHWH said furthermore to him, "Now put your hand inside your cloak." He put his hand inside his cloak, and when he took it out, behold, his hand was leprous, as white as snow.
+- **Exodus 4:11** — YHWH said to him, "Who made a person's mouth? Or who makes one mute, or deaf, or seeing, or blind? Isn't it I, YHWH?
+- **Exodus 4:16** — He will be your spokesman to the people; and it will happen, that he will be to you a mouth, and you will be to him as Elohim.
+- **Exodus 4:20** — Moshe took his wife and his sons, and set them on a donkey, and he returned to the land of Mitzrayim. Moshe took Elohim's rod in his hand.
+- **Exodus 4:24** — It happened on the way at a lodging place, that YHWH met him and wanted to kill him.
+- **Exodus 4:27** — YHWH said to Aharon, "Go into the wilderness to meet Moshe." He went, and met him on Elohim's mountain, and kissed him.
+- **Exodus 4:28** — Moshe told Aharon all the words of YHWH with which YHWH had sent him, and all the signs with which YHWH had charged him.
+- **Exodus 5:21** — and they said to them, "May YHWH look at you, and judge, because you have made us a stench to be abhorred in the eyes of Pharaoh, and in the eyes of his servants, to put a sword in their hand to kill us."
+- **Exodus 6:1** — YHWH said to Moshe, "Now you shall see what I will do to Pharaoh, for by a strong hand he shall let them go, and by a strong hand he shall drive them out of his land."
+- **Exodus 6:2** — Elohim spoke to Moshe, and said to him, "I am YHWH;
+- **Exodus 7:10** — Moshe and Aharon went in to Pharaoh, and they did so, as YHWH had commanded: and Aharon cast down his rod before Pharaoh and before his servants, and it became a serpent.
+- **Exodus 7:13** — Pharaoh's heart was hardened, and he didn't listen to them; as YHWH had spoken.
+- **Exodus 7:16** — You shall tell him, 'YHWH, the God of the Hebrews, has sent me to you, saying, "Let my people go, that they may serve me in the wilderness:" and behold, until now you haven't listened.
+- **Exodus 7:20** — Moshe and Aharon did so, as YHWH commanded; and he lifted up the rod, and struck the waters that were in the river, in the sight of Pharaoh, and in the sight of his servants; and all the waters that were in the river were turned to blood.
+- **Exodus 7:22** — The magicians of Mitzrayim did in like manner with their enchantments; and Pharaoh's heart was hardened, and he didn't listen to them; as YHWH had spoken.
+- **Exodus 8:1** — YHWH spoke to Moshe, Go in to Pharaoh, and tell him, "This is what YHWH says, 'Let my people go, that they may serve me.
+- **Exodus 8:10** — He said, "Tomorrow." He said, "Be it according to your word, that you may know that there is none like YHWH our God.
+- **Exodus 8:15** — But when Pharaoh saw that there was a respite, he hardened his heart, and didn't listen to them, as YHWH had spoken.
+- **Exodus 8:19** — Then the magicians said to Pharaoh, "This is the finger of Elohim:" and Pharaoh's heart was hardened, and he didn't listen to them; as YHWH had spoken.
+- **Exodus 8:20** — YHWH said to Moshe, "Rise up early in the morning, and stand before Pharaoh; behold, he comes forth to the water; and tell him, 'This is what YHWH says, "Let my people go, that they may serve me.
+- **Exodus 8:24** — YHWH did so; and there came grievous swarms of flies into the house of Pharaoh, and into his servants' houses: and in all the land of Mitzrayim the land was corrupted by reason of the swarms of flies.
+- **Exodus 8:29** — Moshe said, "Behold, I go out from you, and I will pray to YHWH that the swarms of flies may depart from Pharaoh, from his servants, and from his people, tomorrow; only don't let Pharaoh deal deceitfully any more in not letting the people go to sacrifice to YHWH."
+- **Exodus 8:31** — YHWH did according to the word of Moshe, and YHWH removed the swarms of flies from Pharaoh, from his servants, and from his people. There remained not one.
+- **Exodus 9:1** — Then YHWH said to Moshe, "Go in to Pharaoh, and tell him, 'This is what YHWH, the God of the Hebrews, says: "Let my people go, that they may serve me.
+- **Exodus 9:12** — YHWH hardened the heart of Pharaoh, and he didn't listen to them, as YHWH had spoken to Moshe.
+- **Exodus 9:13** — YHWH said to Moshe, "Rise up early in the morning, and stand before Pharaoh, and tell him, 'This is what YHWH, the God of the Hebrews, says: "Let my people go, that they may serve me.
+- **Exodus 9:23** — Moshe stretched forth his rod toward the heavens, and YHWH sent thunder, hail, and lightning flashed down to the earth. YHWH rained hail on the land of Mitzrayim.
+- **Exodus 9:29** — Moshe said to him, "As soon as I have gone out of the city, I will spread abroad my hands to YHWH. The thunders shall cease, neither shall there be any more hail; that you may know that the earth is YHWH's.
+- **Exodus 9:33** — Moshe went out of the city from Pharaoh, and spread abroad his hands to YHWH; and the thunders and hail ceased, and the rain was not poured on the earth.
+- **Exodus 9:35** — The heart of Pharaoh was hardened, and he didn't let the children of Israel go, just as YHWH had spoken through Moshe.
+- **Exodus 10:1** — YHWH said to Moshe, "Go in to Pharaoh, for I have hardened his heart, and the heart of his servants, that I may show these my signs in the midst of them,
+- **Exodus 10:3** — Moshe and Aharon went in to Pharaoh, and said to him, "This is what YHWH, the God of the Hebrews, says: 'How long will you refuse to humble yourself before me? Let my people go, that they may serve me.
+- **Exodus 10:8** — Moshe and Aharon were brought again to Pharaoh, and he said to them, "Go, serve YHWH your God; but who are those who will go?"
+- **Exodus 10:10** — He said to them, "YHWH be with you if I will let you go with your little ones! See, brokenness is clearly before your faces.
+- **Exodus 10:13** — Moshe stretched forth his rod over the land of Mitzrayim, and YHWH brought an east wind on the land all that day, and all the night; and when it was morning, the east wind brought the locusts.
+- **Exodus 10:16** — Then Pharaoh called for Moshe and Aharon in haste, and he said, "I have sinned against YHWH your God, and against you.
+- **Exodus 10:18** — He went out from Pharaoh, and prayed to YHWH.
+- **Exodus 10:20** — But YHWH hardened Pharaoh's heart, and he didn't let the children of Israel go.
+- **Exodus 10:27** — But YHWH hardened Pharaoh's heart, and he wouldn't let them go.
+- **Exodus 11:1** — YHWH said to Moshe, "Yet one plague more will I bring on Pharaoh, and on Mitzrayim; afterwards he will let you go. When he lets you go, he will surely thrust you out altogether.
+- **Exodus 11:10** — Moshe and Aharon did all these wonders before Pharaoh, and YHWH hardened Pharaoh's heart, and he didn't let the children of Israel go out of his land.
+- **Exodus 12:23** — For YHWH will pass through to strike the Egyptians; and when he sees the blood on the lintel, and on the two doorposts, YHWH will pass over the door, and will not allow the destroyer to come in to your houses to strike you.
+- **Exodus 12:27** — that you shall say, 'It is the sacrifice of YHWH's Passover, who passed over the houses of the children of Israel in Mitzrayim, when he struck the Egyptians, and spared our houses.'" The people bowed their heads and worshiped.
+- **Exodus 12:29** — It happened at midnight, that YHWH struck all the firstborn in the land of Mitzrayim, from the firstborn of Pharaoh who sat on his throne to the firstborn of the captive who was in the dungeon; and all the firstborn of livestock.
+- **Exodus 12:48** — When a stranger shall live as a foreigner with you, and will keep the Passover to YHWH, let all his males be circumcised, and then let him come near and keep it; and they shall be as one who is born in the land: but no uncircumcised person shall eat of it.
+- **Exodus 13:14** — It shall be, when your son asks you in time to come, saying, 'What is this?' that you shall tell him, 'By strength of hand YHWH brought us out from Mitzrayim, from the house of bondage;
+- **Exodus 13:19** — Moshe took the bones of Yosef with him, for he had made the children of Israel swear, saying, "Elohim will surely visit you, and you shall carry up my bones away from here with you."
+- **Exodus 14:4** — I will harden Pharaoh's heart, and he will follow after them; and I will get honor over Pharaoh, and over all his armies; and the Egyptians shall know that I am YHWH." They did so.
+- **Exodus 14:8** — YHWH hardened the heart of Pharaoh king of Mitzrayim, and he pursued after the children of Israel; for the children of Israel went out with a high hand.
+- **Exodus 14:18** — The Egyptians shall know that I am YHWH, when I have gotten myself honor over Pharaoh, over his chariots, and over his horsemen."
+- **Exodus 14:21** — Moshe stretched out his hand over the sea, and YHWH caused the sea to go back by a strong east wind all the night, and made the sea dry land, and the waters were divided.
+- **Exodus 15:2** — Yah is my strength and song. He has become my salvation. This is my God, and I will praise him; my father's Elohim, and I will exalt him.
+- **Exodus 15:4** — YHWH has cast Pharaoh's chariots and his army into the sea. His chosen captains are sunk in the Red Sea.
+- **Exodus 15:19** — For the horses of Pharaoh went in with his chariots and with his horsemen into the sea, and YHWH brought back the waters of the sea on them; but the children of Israel walked on dry land in the midst of the sea.
+- **Exodus 15:25** — Then he cried to YHWH. YHWH showed him a tree, and he threw it into the waters, and the waters were made sweet. There he made a statute and an ordinance for them, and there he tested them;
+- **Exodus 15:26** — and YHWH said, "If you will diligently listen to the voice of YHWH your God, and will do that which is right in his eyes, and will pay attention to YHWH’s commandments, and keep all YHWH’s statutes, I will put none of the diseases on you, which I have put on the Egyptians; for I am YHWH who heals you."
+- **Exodus 16:7** — and in the morning, then you shall see the glory of YHWH; because he hears your murmurings against YHWH. Who are we, that you murmur against us?"
+- **Exodus 16:8** — Moshe said, "Now YHWH shall give you meat to eat in the evening, and in the morning bread to satisfy you; because YHWH hears your murmurings which you murmur against him. And who are we? Your murmurings are not against us, but against YHWH."
+- **Exodus 16:23** — He said to them, "This is that which YHWH has spoken, 'Tomorrow is a solemn rest, a holy Sabbath to YHWH. Bake that which you want to bake, and boil that which you want to boil; and all that remains over lay up for yourselves to be kept until the morning.'"
+- **Exodus 17:16** — He said, "Yah has sworn: 'YHWH will have war with Amalek from generation to generation.'"
+- **Exodus 18:1** — Now Yitro, the priest of Midian, Moshe' father-in-law, heard of all that Elohim had done for Moshe, and for Israel his people, how that YHWH had brought Israel out of Mitzrayim.
+- **Exodus 18:4** — The name of the other was Eliezer, for he said, "My father's Elohim was my help and delivered me from Pharaoh's sword."
+- **Exodus 18:5** — Yitro, Moshe' father-in-law, came with his sons and his wife to Moshe into the wilderness where he was encamped, at the Mountain of Elohim.
+- **Exodus 18:8** — Moshe told his father-in-law all that YHWH had done to Pharaoh and to the Egyptians for Israel's sake, all the hardships that had come on them on the way, and how YHWH delivered them.
+- **Exodus 18:15** — Moshe said to his father-in-law, "Because the people come to me to inquire of Elohim.
+- **Exodus 19:3** — Moshe went up to Elohim, and YHWH called to him out of the mountain, saying, "This is what you shall tell the house of Ya'akov, and tell the children of Israel:
+- **Exodus 19:7** — Moshe came and called for the elders of the people, and set before them all these words which YHWH commanded him.
+- **Exodus 19:19** — When the sound of the trumpet grew louder and louder, Moshe spoke, and Elohim answered him by a voice.
+- **Exodus 19:24** — YHWH said to him, "Go down and you shall bring Aharon up with you, but don't let the priests and the people break through to come up to YHWH, lest YHWH break forth on them."
+- **Exodus 20:7** — "You shall not take the name of YHWH your God in vain, for YHWH will not hold him guiltless who takes YHWH’s name in vain.
+- **Exodus 21:6** — then his master shall bring him to Elohim, and shall bring him to the door or to the doorpost, and his master shall bore his ear through with an awl, and he shall serve him for ever.
+- **Exodus 21:13** — but not if it is unintentional, but Elohim allows it to happen: then I will appoint you a place where he shall flee.
+- **Exodus 22:8** — If the thief isn't found, then the master of the house shall come near to Elohim, to find out if he hasn't put his hand to his neighbor's goods.
+- **Exodus 22:9** — For every matter of trespass, whether it be for ox, for donkey, for sheep, for clothing, or for any kind of lost thing, about which one says, 'This is mine,' the cause of both parties shall come before Elohim. The one whom Elohim condemns shall pay double to his neighbor.
+- **Exodus 22:11** — the oath of YHWH shall be between them both, whether he hasn't put his hand to his neighbor's goods; and the owner of it shall accept it, and he shall not make restitution.
+- **Exodus 24:1** — He said to Moshe, "Come up to YHWH, you, and Aharon, Nadab, and Abihu, and seventy of the elders of Israel; and worship from a distance.
+- **Exodus 24:2** — Moshe alone shall come near to YHWH, but they shall not come near, neither shall the people go up with him."
+- **Exodus 24:13** — Moshe rose up with Yehoshua, his servant, and Moshe went up onto Elohim's Mountain.
+- **Exodus 27:21** — In the tent of meeting, outside the veil which is before the testimony, Aharon and his sons shall keep it in order from evening to morning before YHWH: it shall be a statute forever throughout their generations on the behalf of the children of Israel.
+- **Exodus 28:12** — You shall put the two stones on the shoulder straps of the ephod, to be stones of memorial for the children of Israel: and Aharon shall bear their names before YHWH on his two shoulders for a memorial.
+- **Exodus 28:29** — Aharon shall bear the names of the children of Israel in the breastplate of judgment on his heart, when he goes in to the holy place, for a memorial before YHWH continually.
+- **Exodus 28:30** — You shall put in the breastplate of judgment the Urim and the Thummim; and they shall be on Aharon's heart, when he goes in before YHWH: and Aharon shall bear the judgment of the children of Israel on his heart before YHWH continually.
+- **Exodus 28:35** — It shall be on Aharon to minister: and the sound of it shall be heard when he goes in to the holy place before YHWH, and when he comes out, that he not die.
+- **Exodus 28:38** — It shall be on Aharon's forehead, and Aharon shall bear the iniquity of the holy things, which the children of Israel shall make holy in all their holy gifts; and it shall be always on his forehead, that they may be accepted before YHWH.
+- **Exodus 29:24** — You shall put all of this in Aharon's hands, and in his sons' hands, and shall wave them for a wave offering before YHWH.
+- **Exodus 30:8** — When Aharon lights the lamps at evening, he shall burn it, a perpetual incense before YHWH throughout your generations.
+- **Exodus 31:3** — and I have filled him with the Ruach of Elohim, in wisdom, and in understanding, and in knowledge, and in all manner of workmanship,
+- **Exodus 31:18** — YHWH gave to Moshe, when YHWH finished speaking with him on Mount Sinai, the two tablets of the testimony, stone tablets, written with Elohim's finger.
+- **Exodus 32:11** — Moshe begged YHWH his God, and said, "YHWH, why does your wrath burn hot against your people, that you have brought forth out of the land of Mitzrayim with great power and with a mighty hand?
+- **Exodus 32:29** — Moshe said, "Consecrate yourselves today to YHWH, yes, everyone against their son, and against their brother; that he may bestow on you a blessing this day."
+- **Exodus 32:33** — YHWH said to Moshe, "Whoever has sinned against me, him will I blot out of my book.
+- **Exodus 34:4** — He chiseled two tablets of stone like the first; and Moshe rose up early in the morning, and went up to Mount Sinai, as YHWH had commanded him, and took in his hand two stone tablets.
+- **Exodus 34:5** — YHWH descended in the cloud, and stood with him there, and proclaimed the name of YHWH.
+- **Exodus 34:6** — YHWH passed by before him, and proclaimed, "YHWH! YHWH, a merciful and gracious Elohim, slow to anger, and abundant in loving kindness and truth,
+- **Exodus 34:9** — He said, "If now I have found favor in your sight, YHWH, please let YHWH go in the midst of us; although this is a stiff-necked people; pardon our iniquity and our sin, and take us for your inheritance."
+- **Exodus 34:32** — Afterward all the children of Israel came near, and he gave them all of the commandments that YHWH had spoken with him on Mount Sinai.
+- **Exodus 34:34** — But when Moshe went in before YHWH to speak with him, he took the veil off, until he came out; and he came out, and spoke to the children of Israel that which he was commanded.
+- **Exodus 35:5** — 'Take from among you an offering to YHWH. Whoever is of a willing heart, let him bring it, YHWH's offering: gold, silver, brass,
+- **Exodus 35:21** — They came, everyone whose heart stirred him up, and everyone whom their spirit made willing, and brought YHWH's offering, for the work of the tent of meeting, and for all of its service, and for the holy garments.
+- **Exodus 35:31** — YHWH has filled him with the Ruach of Elohim, in wisdom, in understanding, in knowledge, and in all manner of workmanship;
+- **Exodus 36:2** — Moshe called Bezalel and Oholiab, and every wise-hearted man, in whose heart YHWH had put wisdom, even everyone whose heart stirred him up to come to the work to do it:
+- **Exodus 40:16** — Moshe did so. According to all that YHWH commanded him, so he did.
+- **Exodus 40:23** — He set the bread in order on it before YHWH, as YHWH commanded Moshe.
+- **Exodus 40:25** — He lit the lamps before YHWH, as YHWH commanded Moshe.
+- **Exodus 40:27** — and he burnt incense of sweet spices on it, as YHWH commanded Moshe.
+- **Judges 1:2** — YHWH said, Yehudah shall go up: behold, I have delivered the land into his hand.
+- **Judges 1:19** — YHWH was with Yehudah; and drove out [the inhabitants of] the hill country; for he could not drive out the inhabitants of the valley, because they had chariots of iron.
+- **Judges 2:14** — The anger of YHWH was kindled against Israel, and he delivered them into the hands of spoilers who despoiled them; and he sold them into the hands of their enemies round about, so that they could not any longer stand before their enemies.
+- **Judges 2:20** — The anger of YHWH was kindled against Israel; and he said, Because this nation have transgressed my covenant which I commanded their fathers, and have not listened to my voice;
+- **Judges 2:23** — So YHWH left those nations, without driving them out hastily; neither delivered he them into the hand of Yehoshua.
+- **Judges 3:8** — Therefore the anger of YHWH was kindled against Israel, and he sold them into the hand of Cushan Rishathaim king of Mesopotamia: and the children of Israel served Cushan Rishathaim eight years.
+- **Judges 3:10** — The Ruach of YHWH came on him, and he judged Israel; and he went out to war, and YHWH delivered Cushan Rishathaim king of Mesopotamia into his hand: and his hand prevailed against Cushan Rishathaim.
+- **Judges 3:28** — He said to them, Follow after me; for YHWH has delivered your enemies the Moabites into your hand. They went down after them, and took the fords of the Yarden against the Moabites, and didn't allow a person to pass over.
+- **Judges 4:3** — The children of Israel cried to YHWH: for he had nine hundred chariots of iron; and twenty years he mightily oppressed the children of Israel.
+- **Judges 4:6** — She sent and called Barak the son of Abinoam out of Kedesh Naphtali, and said to him, Hasn't YHWH, the God of Israel, commanded, [saying], Go and draw to Mount Tabor, and take with you ten thousand men of the children of Naphtali and of the children of Zevulun?
+- **Judges 4:15** — YHWH confused Sisera, and all his chariots, and all his army, with the edge of the sword before Barak; and Sisera alighted from his chariot, and fled away on his feet.
+- **Judges 5:11** — Far from the noise of archers, in the places of drawing water, there they will rehearse the righteous acts of YHWH, [Even] the righteous acts of his rule in Israel. Then the people of YHWH went down to the gates.
+- **Judges 6:8** — that YHWH sent a prophet to the children of Israel: and he said to them, Thus says YHWH, the God of Israel, I brought you up from Mitzrayim, and brought you forth out of the house of bondage;
+- **Judges 6:11** — The angel of YHWH came, and sat under the oak which was in Ophrah, that pertained to Yoash the Abiezrite: and his son Gid'on was beating out wheat in the winepress, to hide it from the Midianites.
+- **Judges 6:12** — The angel of YHWH appeared to him, and said to him, YHWH is with you, you mighty man of valor.
+- **Judges 6:13** — Gid'on said to him, Oh, my lord, if YHWH is with us, why then has all this happened to us? and where are all his wondrous works which our fathers told us of, saying, Did not YHWH bring us up from Mitzrayim? but now YHWH has cast us off, and delivered us into the hand of Midian.
+- **Judges 6:14** — YHWH looked at him, and said, Go in this your might, and save Israel from the hand of Midian: have not I sent you?
+- **Judges 6:15** — He said to him, Oh, YHWH, with which shall I save Israel? behold, my family is the poorest in Menashe, and I am the least in my father's house.
+- **Judges 6:16** — YHWH said to him, Surely I will be with you, and you shall strike the Midianites as one man.
+- **Judges 6:20** — The angel of Elohim said to him, Take the flesh and the unleavened cakes, and lay them on this rock, and pour out the broth. He did so.
+- **Judges 6:21** — Then the angel of YHWH put forth the end of the staff that was in his hand, and touched the flesh and the unleavened cakes; and there went up fire out of the rock, and consumed the flesh and the unleavened cakes; and the angel of YHWH departed out of his sight.
+- **Judges 6:22** — Gid'on saw that he was the angel of YHWH; and Gid'on said, Alas, YHWH God! because I have seen the angel of YHWH face to face.
+- **Judges 6:23** — YHWH said to him, Peace be to you; don't be afraid: you shall not die.
+- **Judges 6:25** — It happened the same night, that YHWH said to him, Take your father's bull, even the second bull seven years old, and throw down the altar of Baal that your father has, and cut down the Asherah that is by it;
+- **Judges 6:27** — Then Gid'on took ten men of his servants, and did as YHWH had spoken to him: and it happened, because he feared his father's household and the men of the city, so that he could not do it by day, that he did it by night.
+- **Judges 6:34** — But the Ruach of YHWH came on Gid'on; and he blew a trumpet; and Abiezer was gathered together after him.
+- **Judges 7:5** — So they brought down the people to the water: and YHWH said to Gid'on, Everyone who laps of the water with their tongue, as a dog laps, him shall you set by themselves; likewise everyone who bows down on their knees to drink.
+- **Judges 7:9** — It happened the same night, that YHWH said to him, Arise, get you down into the camp; for I have delivered it into your hand.
+- **Judges 7:15** — It was so, when Gid'on heard the telling of the dream, and the interpretation of it, that he worshiped; and he returned into the camp of Israel, and said, Arise; for YHWH has delivered into your hand the army of Midian.
+- **Judges 8:19** — He said, They were my brothers, the sons of my mother: as YHWH lives, if you had saved them alive, I would not kill you.
+- **Judges 9:7** — When they told it to Yotam, he went and stood on the top of Mount Gerizim, and lifted up his voice, and cried, and said to them, Listen to me, you men of Shekhem, that Elohim may listen to you.
+- **Judges 9:56** — Thus Elohim requited the wickedness of Abimelech, which he did to his father, in killing his seventy brothers;
+- **Judges 10:6** — The children of Israel again did what was broken in the sight of YHWH, and served the Baals, and the Ashtaroth, and the gods of Aram, and the gods of Tzidon, and the gods of Moab, and the gods of the children of Ammon, and the gods of the Philistines; and they forsook YHWH, and didn't serve him.
+- **Judges 10:7** — The anger of YHWH was kindled against Israel, and he sold them into the hand of the Philistines, and into the hand of the children of Ammon.
+- **Judges 10:16** — They put away the foreign gods from among them, and served YHWH; and his soul was grieved for the misery of Israel.
+- **Judges 11:11** — Then Jephthah went with the elders of Gilead, and the people made him head and chief over them: and Jephthah spoke all his words before YHWH in Mizpah.
+- **Judges 11:21** — YHWH, the God of Israel, delivered Sihon and all his people into the hand of Israel, and they struck them: so Israel possessed all the land of the Amorites, the inhabitants of that country.
+- **Judges 11:29** — Then the Ruach of YHWH came on Jephthah, and he passed over Gilead and Menashe, and passed over Mizpeh of Gilead, and from Mizpeh of Gilead he passed over to the children of Ammon.
+- **Judges 11:32** — So Jephthah passed over to the children of Ammon to fight against them; and YHWH delivered them into his hand.
+- **Judges 11:36** — She said to him, My father, you have opened your mouth to YHWH; do to me according to that which has proceeded out of your mouth, because YHWH has taken vengeance for you on your enemies, even on the children of Ammon.
+- **Judges 13:5** — for, behold, you shall conceive, and bear a son; and no razor shall come on his head; for the child shall be a Nazirite to Elohim from the womb: and he shall begin to save Israel out of the hand of the Philistines.
+- **Judges 13:6** — Then the woman came and told her husband, saying, A person of Elohim came to me, and their face was like the face of the angel of Elohim, very awesome; and I didn't ask him whence he was, neither did he tell me his name:
+- **Judges 13:7** — but he said to me, Behold, you shall conceive, and bear a son; and now drink no wine nor strong drink, and eat not any unclean thing; for the child shall be a Nazirite to Elohim from the womb to the day of his death.
+- **Judges 13:16** — The angel of YHWH said to Manoah, Though you detain me, I won't eat of your bread; and if you will make ready a burnt offering, you must offer it to YHWH. For Manoah didn't know that he was the angel of YHWH.
+- **Judges 13:18** — The angel of YHWH said to him, Why do you ask after my name, seeing it is wonderful?
+- **Judges 13:19** — So Manoah took the kid with the meal offering, and offered it on the rock to YHWH: and [the angel] did wondrously, and Manoah and his wife looked on.
+- **Judges 13:20** — For it happened, when the flame went up toward the heavens from off the altar, that the angel of YHWH ascended in the flame of the altar: and Manoah and his wife looked on; and they fell on their faces to the ground.
+- **Judges 13:21** — But the angel of YHWH did no more appear to Manoah or to his wife. Then Manoah knew that he was the angel of YHWH.
+- **Judges 13:22** — Manoah said to his wife, We shall surely die, because we have seen Elohim.
+- **Judges 13:23** — But his wife said to him, If YHWH were pleased to kill us, YHWH wouldn't have received a burnt offering and a meal offering at our hand, neither would YHWH have shown us all these things, nor would at this time have told such things as these.
+- **Judges 13:24** — The woman bore a son, and named him Shimshon: and the child grew, and YHWH blessed him.
+- **Judges 13:25** — The Ruach of YHWH began to move him in Mahaneh Dan, between Zorah and Eshtaol.
+- **Judges 14:4** — But his father and his mother didn't know that it was of YHWH; for he sought an occasion against the Philistines. Now at that time the Philistines had rule over Israel.
+- **Judges 14:6** — The Ruach of YHWH came mightily on him, and he tore him as he would have torn a kid; and he had nothing in his hand: but he didn't tell his father or his mother what he had done.
+- **Judges 14:19** — The Ruach of YHWH came mightily on him, and he went down to Ashqelon, and struck thirty men of them, and took their spoil, and gave the changes [of clothing] to those who declared the riddle. His anger was kindled, and he went up to his father's house.
+- **Judges 15:14** — When he came to Lehi, the Philistines shouted as they met him: and the Ruach of YHWH came mightily on him, and the ropes that were on his arms became as flax that was burnt with fire, and his bands dropped from off his hands.
+- **Judges 15:18** — He was very thirsty, and called on YHWH, and said, You have given this great deliverance by the hand of your servant; and now shall I die for thirst, and fall into the hand of the uncircumcised.
+- **Judges 16:20** — She said, The Philistines are on you, Shimshon. He awoke out of his sleep, and said, I will go out as at other times, and shake myself free. But he didn't know that YHWH had departed from him.
+- **Judges 17:2** — He said to his mother, The eleven hundred [pieces] of silver that were taken from you, about which you did utter a curse, and did also speak it in my ears, behold, the silver is with me; I took it. His mother said, Blessed be my son of YHWH.
+- **Judges 17:3** — He restored the eleven hundred [pieces] of silver to his mother; and his mother said, I most certainly dedicate the silver to YHWH from my hand for my son, to make an engraved image and a molten image: now therefore I will restore it to you.
+- **Judges 18:5** — They said to him, Ask counsel, we pray you, of Elohim, that we may know whether our way which we go shall be prosperous.
+- **Judges 18:31** — So they set them up Micah's engraved image which he made, all the time that the house of Elohim was in Shilo.
+- **Judges 20:23** — The children of Israel went up and wept before YHWH until even; and they asked of YHWH, saying, Shall I again draw near to battle against the children of Binyamin my brother? YHWH said, Go up against him.
+- **Judges 20:28** — and Pinchas, the son of Eleazar, the son of Aharon, stood before it in those days), saying, Shall I yet again go out to battle against the children of Binyamin my brother, or shall I cease? YHWH said, Go up; for tomorrow I will deliver him into your hand.
+- **Lamentations 1:9** — Her filthiness was in her skirts; she didn't remember her latter end; therefore is she come down wonderfully; she has no comforter: see, YHWH, my affliction; for the enemy has magnified himself.
+- **Lamentations 1:12** — Is it nothing to you, all you who pass by? Look, and see if there be any sorrow like my sorrow, which is brought on me, With which YHWH has afflicted [me] in the day of his fierce anger.
+- **Lamentations 1:14** — The yoke of my transgressions is bound by his hand; They are knit together, they are come up on my neck; he has made my strength to fail: YHWH has delivered me into their hands, against whom I am not able to stand.
+- **Lamentations 1:15** — YHWH has set at nothing all my mighty men in the midst of me; He has called a solemn assembly against me to crush my young people: YHWH has trodden as in a winepress the virgin daughter of Yehudah.
+- **Lamentations 1:17** — Tzion spreads forth her hands; there is none to comfort her; YHWH has commanded concerning Ya'akov, that those who are round about him should be his adversaries: Yerushalayim is among them as an unclean thing.
+- **Lamentations 1:18** — YHWH is righteous; for I have rebelled against his commandment: Please hear all you peoples, and see my sorrow: My virgins and my young people are gone into captivity.
+- **Lamentations 2:2** — YHWH has swallowed up all the habitations of Ya'akov, and has not pitied: He has thrown down in his wrath the strongholds of the daughter of Yehudah; He has brought them down to the ground; he has profaned the kingdom and the princes of it.
+- **Lamentations 2:5** — YHWH is become as an enemy, YHWH has swallowed up Israel; YHWH has swallowed up all her palaces, YHWH has destroyed his strongholds; YHWH has multiplied in the daughter of Yehudah mourning and lamentation.
+- **Lamentations 2:8** — YHWH has purposed to destroy the wall of the daughter of Tzion; He has stretched out the line, he has not withdrawn his hand from destroying; He has made the rampart and wall to lament; they languish together.
+- **Lamentations 2:19** — Arise, cry out in the night, at the beginning of the watches; Pour out your heart like water before the face of YHWH: Lift up your hands toward him for the life of your young children, that faint for hunger at the head of every street.
+- **Lamentations 3:24** — YHWH is my portion, says my soul; therefore will I hope in him.
+- **Lamentations 3:25** — YHWH is good to those who wait for him, to the soul that seeks him.
+- **Lamentations 4:16** — The anger of YHWH has scattered them; he will no more regard them: They didn't respect the persons of the priests, they didn't favor the elders.
+- **Lamentations 4:20** — The breath of our nostrils, the anointed of YHWH, was taken in their pits; Of whom we said, Under his shadow we shall live among the nations.
+- **1 Kings 1:17** — She said to him, My lord, you swore by YHWH your God to your handmaid, [saying], Assuredly Shlomo your son shall reign after me, and he shall sit on my throne.
+- **1 Kings 1:30** — most certainly as I swore to you by YHWH, the God of Israel, saying, Assuredly Shlomo your son shall reign after me, and he shall sit on my throne in my place; most certainly so will I do this day.
+- **1 Kings 1:37** — As YHWH has been with my lord the king, even so be he with Shlomo, and make his throne greater than the throne of my lord king Dawid.
+- **1 Kings 1:47** — Moreover the king's servants came to bless our lord king Dawid, saying, your God make the name of Shlomo better than your name, and make his throne greater than your throne: and the king bowed himself on the bed.
+- **1 Kings 2:8** — Behold, there is with you Shimei the son of Gera, the Benjamite, of Bahurim, who cursed me with a grievous curse in the day when I went to Mahanaim; but he came down to meet me at the Yarden, and I swore to him by YHWH, saying, I will not put you to death with the sword.
+- **1 Kings 2:15** — He said, You know that the kingdom was mine, and that all Israel set their faces on me, that I should reign: however the kingdom is turned about, and is become my brother's; for it was his from YHWH.
+- **1 Kings 2:23** — Then king Shlomo swore by YHWH, saying, Elohim do so to me, and more also, if Adoniyahu has not spoken this word against his own life.
+- **1 Kings 2:24** — Now therefore as YHWH lives, who has established me, and set me on the throne of Dawid my father, and who has made me a house, as he promised, surely Adoniyahu shall be put to death this day.
+- **1 Kings 2:27** — So Shlomo thrust out Evyatar from being priest to YHWH, that he might fulfill the word of YHWH, which he spoke concerning the house of Eli in Shilo.
+- **1 Kings 2:29** — It was told king Shlomo, Yoav is fled to the Tent of YHWH, and behold, he is by the altar. Then Shlomo sent Benayahu the son of Yehoyada, saying, Go, fall on him.
+- **1 Kings 2:30** — Benayahu came to the Tent of YHWH, and said to him, Thus says the king, Come forth. He said, No; but I will die here. Benayahu brought the king word again, saying, Thus said Yoav, and thus he answered me.
+- **1 Kings 2:32** — YHWH will return his blood on his own head, because he fell on two men more righteous and better than he, and killed them with the sword, and my father Dawid didn't know it, [to wit], Abner the son of Ner, captain of the army of Israel, and Amasa the son of Jether, captain of the army of Yehudah.
+- **1 Kings 2:33** — So shall their blood return on the head of Yoav, and on the head of his seed forever: but to Dawid, and to his seed, and to his house, and to his throne, shall there be peace for ever from YHWH.
+- **1 Kings 2:42** — The king sent and called for Shimei, and said to him, Didn't I adjure you by YHWH, and protest to you, saying, Know for certain, that on the day you go out, and walk abroad any where, you shall surely die? and you said to me, The saying that I have heard is good.
+- **1 Kings 3:1** — Shlomo made affinity with Pharaoh king of Mitzrayim, and took Pharaoh's daughter, and brought her into the city of Dawid, until he had made an end of building his own house, and the house of YHWH, and the wall of Yerushalayim round about.
+- **1 Kings 3:3** — Shlomo loved YHWH, walking in the statutes of Dawid his father: only he sacrificed and burnt incense in the high places.
+- **1 Kings 3:11** — Elohim said to him, Because you have asked this thing, and have not asked for yourself long life, neither have asked riches for yourself, nor have asked the life of your enemies, but have asked for yourself understanding to discern justice;
+- **1 Kings 3:15** — Shlomo awoke; and behold, it was a dream: and he came to Yerushalayim, and stood before the ark of the covenant of YHWH, and offered up burnt offerings, and offered peace offerings, and made a feast to all his servants.
+- **1 Kings 3:28** — All Israel heard of the judgment which the king had judged; and they feared the king: for they saw that the wisdom of Elohim was in him, to do justice.
+- **1 Kings 5:3** — You know how that Dawid my father could not build a house for the name of YHWH his God for the wars which were about him on every side, until YHWH put them under the soles of his feet.
+- **1 Kings 5:5** — Behold, I purpose to build a house for the name of YHWH my God, as YHWH spoke to Dawid my father, saying, Your son, whom I will set on your throne in your room, he shall build the house for my name.
+- **1 Kings 5:7** — It happened, when Hiram heard the words of Shlomo, that he rejoiced greatly, and said, Blessed be YHWH this day, who has given to Dawid a wise son over this great people.
+- **1 Kings 5:12** — YHWH gave Shlomo wisdom, as he promised him; and there was peace between Hiram and Shlomo; and they two made a league together.
+- **1 Kings 6:1** — It happened in the four hundred and eightieth year after the children of Israel were come out of the land of Mitzrayim, in the fourth year of Shlomo's reign over Israel, in the month Ziv, which is the second month, that he began to build the house of YHWH.
+- **1 Kings 7:40** — Hiram made the basins, and the shovels, and the basins. So Hiram made an end of doing all the work that he worked for king Shlomo in the house of YHWH:
+- **1 Kings 8:15** — He said, Blessed be YHWH, the God of Israel, who spoke with YHWH’s mouth to Dawid your father, and has with YHWH’s hand fulfilled it, saying,
+- **1 Kings 8:22** — Shlomo stood before the altar of YHWH in the presence of all the assembly of Israel, and spread forth his hands toward heavens;
+- **1 Kings 8:23** — and he said, YHWH, the God of Israel, there is no Elohim like you, in heavens above, or on earth beneath; who keep covenant and loving kindness with your servants, who walk before you with all their heart;
+- **1 Kings 8:25** — Now therefore, YHWH, the God of Israel, keep with your servant Dawid my father that which you have promised him, saying, There shall not fail you a person in my sight to sit on the throne of Israel, if only your children take heed to their way, to walk before me as you have walked before me.
+- **1 Kings 8:28** — Yet have respect for the prayer of your servant, and for his supplication, YHWH my God, to listen to the cry and to the prayer which your servant prays before you this day;
+- **1 Kings 8:54** — It was so, that when Shlomo had made an end of praying all this prayer and supplication to YHWH, he arose from before the altar of YHWH, from kneeling on his knees with his hands spread forth toward heavens.
+- **1 Kings 8:62** — The king, and all Israel with him, offered sacrifice before YHWH.
+- **1 Kings 8:63** — Shlomo offered for the sacrifice of peace offerings, which he offered to YHWH, two and twenty thousand oxen, and one hundred twenty thousand sheep. So the king and all the children of Israel dedicated the house of YHWH.
+- **1 Kings 8:64** — The same day did the king make the middle of the court holy that was before the house of YHWH; for there he offered the burnt offering, and the meal offering, and the fat of the peace offerings, because the bronze altar that was before YHWH was too little to receive the burnt offering, and the meal offering, and the fat of the peace offerings.
+- **1 Kings 8:66** — On the eighth day he sent the people away; and they blessed the king, and went to their tents joyful and glad of heart for all the goodness that YHWH had shown to Dawid his servant, and to Israel his people.
+- **1 Kings 9:1** — It happened, when Shlomo had finished the building of the house of YHWH, and the king's house, and all Shlomo's desire which he was pleased to do,
+- **1 Kings 9:2** — that YHWH appeared to Shlomo the second time, as he had appeared to him at Gibeon.
+- **1 Kings 9:3** — YHWH said to him, I have heard your prayer and your supplication, that you have made before me: I have made this house holy, which you have built, to put my name there forever; and my eyes and my heart shall be there perpetually.
+- **1 Kings 9:15** — This is the reason of the levy which king Shlomo raised, to build the house of YHWH, and his own house, and Millo, and the wall of Yerushalayim, and Hazor, and Megiddo, and Gezer.
+- **1 Kings 9:25** — Three times a year did Shlomo offer burnt offerings and peace offerings on the altar which he built to YHWH, burning incense therewith, [on the altar] that was before YHWH. So he finished the house.
+- **1 Kings 10:1** — When the queen of Sheba heard of the fame of Shlomo concerning the name of YHWH, she came to prove him with hard questions.
+- **1 Kings 10:5** — and the food of his table, and the sitting of his servants, and the attendance of his ministers, and their clothing, and his cup bearers, and his ascent by which he went up to the house of YHWH; there was no more spirit in her.
+- **1 Kings 10:9** — Blessed be YHWH your God, who delighted in you, to set you on the throne of Israel: because YHWH loved Israel forever, therefore made he you king, to do justice and righteousness.
+- **1 Kings 10:24** — All the earth sought the presence of Shlomo, to hear his wisdom, which Elohim had put in his heart.
+- **1 Kings 11:4** — For it happened, when Shlomo was old, that his wives turned away his heart after other gods; and his heart was not perfect with YHWH his God, as was the heart of Dawid his father.
+- **1 Kings 11:6** — Shlomo did what was broken in the sight of YHWH, and didn't go fully after YHWH, as did Dawid his father.
+- **1 Kings 11:9** — YHWH was angry with Shlomo, because his heart was turned away from YHWH, the God of Israel, who had appeared to him twice,
+- **1 Kings 11:10** — and had commanded him concerning this thing, that he should not go after other gods: but he didn't keep that which YHWH commanded.
+- **1 Kings 11:14** — YHWH raised up an adversary to Shlomo, Hadad the Edomite: he was of the king's seed in Edom.
+- **1 Kings 11:23** — Elohim raised up [another] adversary to him, Rezon the son of Eliada, who had fled from his lord Hadadezer king of Zobah.
+- **1 Kings 11:31** — He said to Yerovam, Take ten pieces; for thus says YHWH, the God of Israel, Behold, I will tear the kingdom out of the hand of Shlomo, and will give ten tribes to you
+- **1 Kings 13:2** — He cried against the altar by the word of YHWH, and said, altar, altar, thus says YHWH: Behold, a son shall be born to the house of Dawid, Yoshiyahu by name; and on you shall he sacrifice the priests of the high places who burn incense on you, and people's bones shall they burn on you.
+- **1 Kings 13:3** — He gave a sign the same day, saying, This is the sign which YHWH has spoken: Behold, the altar shall be torn, and the ashes that are on it shall be poured out.
+- **1 Kings 13:4** — It happened, when the king heard the saying of the person of Elohim, which they cried against the altar in Beit El, that Yerovam put forth their hand from the altar, saying, Lay hold on him. His hand, which he put forth against him, dried up, so that he could not draw it back again to him.
+- **1 Kings 13:6** — The king answered the person of Elohim, Entreat now the favor of YHWH your God, and pray for me, that my hand may be restored me again. The person of Elohim entreated YHWH, and the king's hand was restored him again, and became as it was before.
+- **1 Kings 13:11** — Now there lived an old prophet in Beit El; and one of their sons came and told him all the works that the person of Elohim had done that day in Beit El: the words which they had spoken to the king, them also they told to their father.
+- **1 Kings 13:14** — They went after the person of Elohim, and found him sitting under an oak; and they said to him, Are you the person of Elohim who came from Yehudah? He said, I am.
+- **1 Kings 13:18** — He said to him, I also am a prophet as you are; and an angel spoke to me by the word of YHWH, saying, Bring him back with you into your house, that he may eat bread and drink water. [But] he lied to him.
+- **1 Kings 13:20** — It happened, as they sat at the table, that the word of YHWH came to the prophet who brought him back;
+- **1 Kings 13:26** — When the prophet who brought him back from the way heard of it, they said, It is the person of Elohim, who was disobedient to the mouth of YHWH: therefore YHWH has delivered him to the lion, which has torn him, and slain him, according to the word of YHWH, which they spoke to him.
+- **1 Kings 13:29** — The prophet took up the body of the person of Elohim, and laid it on the donkey, and brought it back; and he came to the city of the old prophet, to mourn, and to bury him.
+- **1 Kings 13:31** — It happened, after they had buried him, that they spoke to their sons, saying, When I am dead, then bury me in the tomb in which the person of Elohim is buried; lay my bones beside his bones.
+- **1 Kings 13:32** — For the saying which he cried by the word of YHWH against the altar in Beit El, and against all the houses of the high places which are in the cities of Shomron, shall surely happen.
+- **1 Kings 14:5** — YHWH said to Ahijah, Behold, the wife of Yerovam comes to inquire of you concerning her son; for he is sick: thus and thus shall you tell her; for it will be, when she comes in, that she will feign herself to be another woman.
+- **1 Kings 14:13** — All Israel shall mourn for him, and bury him; for he only of Yerovam shall come to the grave, because in him there is found some good thing toward YHWH, the God of Israel, in the house of Yerovam.
+- **1 Kings 14:14** — Moreover YHWH will raise him up a king over Israel, who shall cut off the house of Yerovam that day: but what? even now.
+- **1 Kings 14:15** — For YHWH will strike Israel, as a reed is shaken in the water; and he will root up Israel out of this good land which he gave to their fathers, and will scatter them beyond the River, because they have made their Asherim, provoking YHWH to anger.
+- **1 Kings 14:16** — YHWH will give Israel up because of the sins of Yerovam, which he has sinned, and with which he has made Israel to sin.
+- **1 Kings 14:18** — All Israel buried him, and mourned for him, according to the word of YHWH, which YHWH spoke by YHWH’s servant Ahijah the prophet.
+- **1 Kings 14:21** — Rechavam the son of Shlomo reigned in Yehudah. Rechavam was forty-one years old when he began to reign, and he reigned seventeen years in Yerushalayim, the city which YHWH had chosen out of all the tribes of Israel, to put YHWH’s name there: and his mother's name was Naamah the Ammonitess.
+- **1 Kings 14:22** — Yehudah did what was broken in the sight of YHWH, and they provoked him to jealousy with their sins which they committed, above all that their fathers had done.
+- **1 Kings 14:26** — and he took away the treasures of the house of YHWH, and the treasures of the king's house; he even took away all: and he took away all the shields of gold which Shlomo had made.
+- **1 Kings 15:3** — He walked in all the sins of his father, which he had done before him; and his heart was not perfect with YHWH his God, as the heart of Dawid his father.
+- **1 Kings 15:4** — Nevertheless for Dawid's sake did YHWH his God give him a lamp in Yerushalayim, to set up his son after him, and to establish Yerushalayim;
+- **1 Kings 15:5** — because Dawid did that which was right in the eyes of YHWH, and didn't turn aside from anything that he commanded him all the days of his life, except only in the matter of Uriyah the Hittite.
+- **1 Kings 15:11** — Asa did that which was right in the eyes of YHWH, as did Dawid his father.
+- **1 Kings 15:14** — But the high places were not taken away: nevertheless the heart of Asa was perfect with YHWH all his days.
+- **1 Kings 15:15** — He brought into the house of YHWH the things that his father had dedicated, and the things that himself had dedicated, silver, and gold, and vessels.
+- **1 Kings 15:18** — Then Asa took all the silver and the gold that were left in the treasures of the house of YHWH, and the treasures of the king's house, and delivered them into the hand of his servants; and king Asa sent them to Ben Hadad, the son of Tabrimmon, the son of Hezion, king of Aram, who lived at Dammeseq, saying,
+- **1 Kings 15:26** — He did what was broken in the sight of YHWH, and walked in the way of his father, and in his sin with which he made Israel to sin.
+- **1 Kings 15:29** — It happened that, as soon as he was king, he struck all the house of Yerovam: he didn't leave to Yerovam any who breathed, until he had destroyed him; according to the saying of YHWH, which YHWH spoke by YHWH’s servant Ahijah the Shilonite;
+- **1 Kings 15:30** — for the sins of Yerovam which he sinned, and with which he made Israel to sin, because of his provocation with which he provoked YHWH, the God of Israel, to anger.
+- **1 Kings 15:34** — He did what was broken in the sight of YHWH, and walked in the way of Yerovam, and in his sin with which he made Israel to sin.
+- **1 Kings 16:7** — Moreover by the prophet Yehu the son of Hanani came the word of YHWH against Baasha, and against his house, both because of all the brokenness that he did in the sight of YHWH, to provoke him to anger with the work of his hands, in being like the house of Yerovam, and because he struck him.
+- **1 Kings 16:13** — for all the sins of Baasha, and the sins of Elah his son, which they sinned, and with which they made Israel to sin, to provoke YHWH, the God of Israel, to anger with their vanities.
+- **1 Kings 16:19** — for his sins which he sinned in doing what was broken in the sight of YHWH, in walking in the way of Yerovam, and in his sin which he did, to make Israel to sin.
+- **1 Kings 16:25** — Omri did what was broken in the sight of YHWH, and dealt wickedly above all who were before him.
+- **1 Kings 16:26** — For he walked in all the way of Yerovam the son of Nebat, and in his sins with which he made Israel to sin, to provoke YHWH, the God of Israel, to anger with their vanities.
+- **1 Kings 16:30** — Achav the son of Omri did what was broken in the sight of YHWH above all that were before him.
+- **1 Kings 16:33** — Achav made the Asherah; and Achav did yet more to provoke YHWH, the God of Israel, to anger than all the kings of Israel who were before him.
+- **1 Kings 16:34** — In his days did Hiel the Bethelite build Yericho: he laid the foundation of it with the loss of Abiram his firstborn, and set up the gates of it with the loss of his youngest son Segub, according to the word of YHWH, which YHWH spoke by Yehoshua the son of Nun.
+- **1 Kings 17:2** — The word of YHWH came to him, saying,
+- **1 Kings 17:5** — So he went and did according to the word of YHWH; for he went and lived by the brook Cherith, that is before the Yarden.
+- **1 Kings 17:8** — The word of YHWH came to him, saying,
+- **1 Kings 17:20** — He cried to YHWH, and said, YHWH my God, have you also brought harm on the widow with whom I sojourn, by killing her son?
+- **1 Kings 17:21** — He stretched himself on the child three times, and cried to YHWH, and said, YHWH my God, please let this child's soul come into him again.
+- **1 Kings 17:22** — YHWH listened to the voice of Eliyahu; and the soul of the child came into him again, and he revived.
+- **1 Kings 18:10** — As YHWH your God lives, there is no nation or kingdom, where my lord has not sent to seek you: and when they said, He is not here, he took an oath of the kingdom and nation, that they didn't find you.
+- **1 Kings 18:12** — It will happen, as soon as I am gone from you, that the Ruach of YHWH will carry you I don't know where; and so when I come and tell Achav, and he can't find you, he will kill me: but I your servant revere YHWH from my youth.
+- **1 Kings 18:15** — Eliyahu said, As YHWH of Armies lives, before whom I stand, I will surely show myself to him today.
+- **1 Kings 18:21** — Eliyahu came near to all the people, and said, "How long will you waver between the two sides? If YHWH is Elohim, follow him; but if Baal, then follow him." The people answered him not a word.
+- **1 Kings 18:24** — You call on the name of your god, and I will call on the name of YHWH; and Elohim, the one who answers by fire, let him be Elohim." All the people answered, "It is well said."
+- **1 Kings 18:30** — Eliyahu said to all the people, Come near to me; and all the people came near to him. He repaired the altar of YHWH that was thrown down.
+- **1 Kings 18:32** — With the stones he built an altar in the name of YHWH; and he made a trench about the altar, as great as would contain two measures of seed.
+- **1 Kings 18:46** — and the hand of YHWH was on Eliyahu; and he girded up his waist, and ran before Achav to the entrance of Jezreel.
+- **1 Kings 19:4** — But he himself went a day's journey into the wilderness, and came and sat down under a juniper tree: and he requested for himself that he might die, and said, It is enough; now, O YHWH, take away my life; for I am not better than my fathers.
+- **1 Kings 19:7** — The angel of YHWH came again the second time, and touched him, and said, Arise and eat, because the journey is too great for you.
+- **1 Kings 19:9** — He came there to a cave, and lodged there; and behold, the word of YHWH came to him, and he said to him, What are you doing here, Eliyahu?
+- **1 Kings 19:10** — He said, I have been very jealous for YHWH, the God of Armies; for the children of Israel have forsaken your covenant, thrown down your altars, and slain your prophets with the sword: and I, even I only, am left; and they seek my life, to take it away.
+- **1 Kings 19:11** — He said, Go forth, and stand on the mountain before YHWH. Behold, YHWH passed by, and a great and strong wind tore the mountains, and broke in pieces the rocks before YHWH; but YHWH was not in the wind: and after the wind an earthquake; but YHWH was not in the earthquake:
+- **1 Kings 19:14** — He said, I have been very jealous for YHWH, the God of Armies; for the children of Israel have forsaken your covenant, thrown down your altars, and slain your prophets with the sword; and I, even I only, am left; and they seek my life, to take it away.
+- **1 Kings 19:15** — YHWH said to him, Go, return on your way to the wilderness of Dammeseq: and when you come, you shall anoint Hazael to be king over Aram;
+- **1 Kings 20:14** — Achav said, By whom? He said, Thus says YHWH, By the young people of the princes of the provinces. Then he said, Who shall begin the battle? He answered, You.
+- **1 Kings 20:35** — A certain man of the sons of the prophets said to his fellow by the word of YHWH, Please strike me. The person refused to strike him.
+- **1 Kings 20:36** — Then said he to him, Because you have not obeyed the voice of YHWH, behold, as soon as you are departed from me, a lion shall kill you. As soon as he was departed from him, a lion found him, and killed him.
+- **1 Kings 20:42** — They said to him, Thus says YHWH, Because you have let go out of your hand the person whom I had devoted to destruction, therefore your life shall go for their life, and your people for their people.
+- **1 Kings 21:10** — and set two men, base fellows, before him, and let them testify against him, saying, You did curse Elohim and the king. Then carry him out, and stone him to death.
+- **1 Kings 21:13** — The two men, the base fellows, came in and sat before him: and the base fellows bore witness against him, even against Naboth, in the presence of the people, saying, Naboth did curse Elohim and the king. Then they carried him forth out of the city, and stoned him to death with stones.
+- **1 Kings 21:19** — You shall speak to him, saying, Thus says YHWH, Have you killed and also taken possession? You shall speak to him, saying, Thus says YHWH, In the place where dogs licked the blood of Naboth shall dogs lick your blood, even yours.
+- **1 Kings 21:25** — (But there was none like Achav, who did sell himself to do what was broken in the sight of YHWH, whom Jezebel his wife stirred up.
+- **1 Kings 22:7** — But Yehoshafat said, Isn't there here a prophet of YHWH besides, that we may inquire of him?
+- **1 Kings 22:8** — The king of Israel said to Yehoshafat, there is yet one man by whom we may inquire of YHWH, Micaiah the son of Imlah: but I hate him; for he does not prophesy good concerning me, but brokenness. Yehoshafat said, "Don't let the king say so."
+- **1 Kings 22:11** — Tzidkiyahu the son of Chenaanah made him horns of iron, and said, Thus says YHWH, With these shall you push the Syrians, until they be consumed.
+- **1 Kings 22:15** — When he was come to the king, the king said to him, Micaiah, shall we go to Ramoth Gilead to battle, or shall we forbear? He answered him, Go up and prosper; and YHWH will deliver it into the hand of the king.
+- **1 Kings 22:20** — YHWH said, 'Who shall entice Achav, that he may go up and fall at Ramoth Gilead?' One said on this manner; and another said on that manner.
+- **1 Kings 22:21** — There came forth a spirit, and stood before YHWH, and said, 'I will entice him.'
+- **1 Kings 22:22** — YHWH said to him, 'How?' He said, 'I will go forth, and will be a lying spirit in the mouth of all his prophets.' He said, 'You shall entice him, and shall prevail also: go forth, and do so.'
+- **1 Kings 22:43** — He walked in all the way of Asa his father; He didn't turn aside from it, doing that which was right in the eyes of YHWH: however the high places were not taken away; the people still sacrificed and burnt incense in the high places.
+- **1 Kings 22:52** — He did what was broken in the sight of YHWH, and walked in the way of his father, and in the way of his mother, and in the way of Yerovam the son of Nebat, in which he made Israel to sin.
+- **1 Kings 22:53** — He served Baal, and worshiped him, and provoked to anger YHWH, the God of Israel, according to all that his father had done.
+- **Joshua 3:10** — Yehoshua said, "Hereby you shall know that the living Elohim is among you, and that he will without fail drive the Canaanite, and the Hittite, and the Hivite, and the Perizzite, and the Girgashite, and the Amorite, and the Jebusite out from before you.
+- **Joshua 4:14** — On that day, YHWH magnified Yehoshua in the sight of all Israel; and they feared him, as they feared Moshe, all the days of his life.
+- **Joshua 5:14** — He said, "No; but I have come now as commander of YHWH's army." Yehoshua fell on his face to the earth, and worshipped, and said to him, "What does my lord say to his servant?"
+- **Joshua 6:11** — So he caused the ark of YHWH to go around the city, going about it once. Then they came into the camp, and lodged in the camp.
+- **Joshua 6:27** — So YHWH was with Yehoshua; and his fame was in all the land.
+- **Joshua 7:6** — Yehoshua tore his clothes, and fell to the earth on his face before the ark of YHWH until the evening, he and the elders of Israel; and they put dust on their heads.
+- **Joshua 7:15** — It shall be, that the one who is taken with the devoted thing shall be burnt with fire, they and all that they have; because he has transgressed the covenant of YHWH, and because he has done folly in Israel.
+- **Joshua 7:19** — Yehoshua said to Achan, My son, please give glory to YHWH, the God of Israel, and make confession to him; and tell me now what you have done; don't hide it from me.
+- **Joshua 7:26** — They raised over him a great heap of stones, to this day; and YHWH turned from the fierceness of YHWH’s anger. Therefore the name of that place was called "The valley of Achor" to this day.
+- **Joshua 9:9** — They said to him, From a very far country your servants are come because of the name of YHWH your God: for we have heard the fame of him, and all that he did in Mitzrayim,
+- **Joshua 9:27** — That day Yehoshua made those wood cutters and drawers of water for the congregation, and for the altar of YHWH, to this day, in the place which he should choose.
+- **Joshua 10:12** — Then spoke Yehoshua to YHWH in the day when YHWH delivered up the Amorites before the children of Israel; and he said in the sight of Israel, Sun, stand you still on Gibeon; You, Moon, in the valley of Aijalon.
+- **Joshua 10:30** — and YHWH delivered it also, and the king of it, into the hand of Israel; and he struck it with the edge of the sword, and all the souls who were therein; he left none remaining in it; and he did to the king of it as he had done to the king of Yericho.
+- **Joshua 10:32** — and YHWH delivered Lachish into the hand of Israel; and he took it on the second day, and struck it with the edge of the sword, and all the souls who were therein, according to all that he had done to Libnah.
+- **Joshua 10:40** — So Yehoshua struck all the land, the hill country, and the South, and the lowland, and the slopes, and all their kings: he left none remaining, but he utterly destroyed all that breathed, as YHWH, the God of Israel, commanded.
+- **Joshua 11:9** — Yehoshua did to them as YHWH bade him: he hamstrung their horses, and burnt their chariots with fire.
+- **Joshua 11:15** — As YHWH commanded Moshe his servant, so did Moshe command Yehoshua: and so did Yehoshua; he left nothing undone of all that YHWH commanded Moshe.
+- **Joshua 11:20** — For it was of YHWH to harden their hearts, to come against Israel in battle, that he might utterly destroy them, that they might have no favor, but that he might destroy them, as YHWH commanded Moshe.
+- **Joshua 13:1** — Now Yehoshua was old and well stricken in years; and YHWH said to him, You are old and well stricken in years, and there remains yet very much land to be possessed.
+- **Joshua 13:14** — Only to the tribe of Levi he gave no inheritance; the offerings of YHWH, the God of Israel, made by fire are his inheritance, as he spoke to him.
+- **Joshua 13:33** — But to the tribe of Levi Moshe gave no inheritance: YHWH, the God of Israel, is their inheritance, as he spoke to them.
+- **Joshua 14:6** — Then the children of Yehudah drew near to Yehoshua in Gilgal: and Kalev the son of Jephunneh the Kenizzite said to him, You know the thing that YHWH spoke to Moshe the person of Elohim concerning me and concerning you in Kadesh Barnea.
+- **Joshua 14:7** — Forty years old was I when Moshe the servant of YHWH sent me from Kadesh Barnea to spy out the land; and I brought him word again as it was in my heart.
+- **Joshua 15:13** — To Kalev the son of Jephunneh he gave a portion among the children of Yehudah, according to the commandment of YHWH to Yehoshua, even Kiriath Arba, [which Arba was] the father of Anak (the same is Chevron).
+- **Joshua 17:4** — They came near before Eleazar the priest, and before Yehoshua the son of Nun, and before the princes, saying, YHWH commanded Moshe to give us an inheritance among our brothers: therefore according to the commandment of YHWH he gave them an inheritance among the brothers of their father.
+- **Joshua 19:50** — according to the commandment of YHWH they gave him the city which he asked, even Timnathserah in the hill country of Efrayim; and he built the city, and lived therein.
+- **Joshua 21:43** — So YHWH gave to Israel all the land which he swore to give to their fathers; and they possessed it, and lived therein.
+- **Joshua 22:22** — The Mighty One, Elohim, YHWH, the Mighty One, Elohim, YHWH, YHWH knows; and Israel he shall know: if it be in rebellion, or if in trespass against YHWH (don't save us this day),
+- **Joshua 22:27** — but it shall be a witness between us and you, and between our generations after us, that we may do the service of YHWH before him with our burnt offerings, and with our sacrifices, and with our peace offerings; that your children may not tell our children in time to come, You have no portion in YHWH.
+- **Joshua 22:29** — Far be it from us that we should rebel against YHWH, and turn away this day from following YHWH, to build an altar for burnt offering, for meal offering, or for sacrifice, besides the altar of YHWH our God that is before his tent.
+- **Joshua 23:3** — and you have seen all that YHWH your God has done to all these nations because of you; for YHWH your God, he it is that has fought for you.
+- **Joshua 24:7** — When they cried out to YHWH, he put darkness between you and the Egyptians, and brought the sea on them, and covered them; and your eyes saw what I did in Mitzrayim: and you lived in the wilderness many days.
+- **Joshua 24:18** — and YHWH drove out from before us all the peoples, even the Amorites who lived in the land: therefore we also will serve YHWH; for he is our God.
+- **Joshua 24:22** — Yehoshua said to the people, You are witnesses against yourselves that you have chosen you YHWH, to serve him. They said, We are witnesses.
+- **Joshua 24:23** — Now therefore put away, [said he], the foreign gods which are among you, and incline your heart to YHWH, the God of Israel.
+- **Joshua 24:26** — Yehoshua wrote these words in the book of the law of Elohim; and he took a great stone, and set it up there under the oak that was by the sanctuary of YHWH.
+- **2 Timothy 1:8** — Therefore don't be ashamed of the testimony of our Master, nor of me his prisoner; but endure hardship for the good news according to the power of God,
+- **2 Timothy 2:25** — in gentleness correcting those who oppose him: perhaps God may give them turning back leading to a full knowledge of the truth,
+- **2 Timothy 4:1** — I charge you therefore before God and Master Yeshua the Messiah, who will judge the living and the dead at his appearing and his Reign:
+- **1 Thessalonians 1:10** — and to wait for God’s Son from heaven, whom he raised from the dead--Yeshua, who delivers us from the wrath to come.
+- **1 Thessalonians 3:13** — to the end he may establish your hearts blameless in holiness before our God and Cosmic Parent, at the coming of our Master Yeshua with all his saints.
+- **1 Thessalonians 4:14** — For if we trust that Yeshua died and rose again, even so God will bring with him those who have fallen asleep in Yeshua.
+- **Micah 1:1** — The word of YHWH that came to Micah the Morashtite in the days of Yotam, Achaz, and Chizkiyahu, kings of Yehudah, which he saw concerning Shomron and Yerushalayim.
+- **Micah 1:2** — Hear, you peoples, all of you. Listen, O earth, and all that is therein: and let YHWH God be witness against you, YHWH from his holy temple.
+- **Micah 1:3** — For, behold, YHWH comes forth out of his place, and will come down and tread on the high places of the earth.
+- **Micah 3:8** — But as for me, I am full of power by the Ruach of YHWH, and of judgment, and of might, to declare to Ya'akov his disobedience, and to Israel his sin.
+- **Micah 4:12** — But they don't know the thoughts of YHWH, neither do they understand his counsel; for he has gathered them like the sheaves to the threshing floor.
+- **Micah 5:4** — He shall stand, and shall shepherd in the strength of YHWH, in the majesty of the name of YHWH his God: and they will live, for then he will be great to the ends of the earth.
+- **Micah 6:5** — My people, remember now what Balak king of Moab devised, and what Bil'am the son of Beor answered him from Shittim to Gilgal, that you may know the righteous acts of YHWH."
+- **Amos 1:11** — Thus says YHWH: "For three transgressions of Edom, yes, for four, I will not turn away its punishment; because he pursued his brother with the sword, and cast off all pity, and his anger raged continually, and he kept his wrath forever;
+- **Amos 1:15** — and their king will go into captivity, he and his princes together," says YHWH.
+- **Amos 2:1** — Thus says YHWH: "For three transgressions of Moab, yes, for four, I will not turn away its punishment; because he burned the bones of the king of Edom into lime;
+- **Amos 2:3** — and I will cut off the judge from their midst, and will kill all its princes with him," says YHWH.
+- **Amos 3:11** — Therefore thus says YHWH God: "An adversary will overrun the land; and he will pull down your strongholds, and your fortresses will be plundered."
+- **Amos 6:8** — "YHWH God has sworn by YHWH," says YHWH, the God of Armies: "I abhor the pride of Ya'akov, and detest his fortresses. Therefore I will deliver up the city with all that is in it.
+- **Amos 7:1** — Thus YHWH God showed me: and behold, he formed locusts in the beginning of the shooting up of the latter growth; and behold, it was the latter growth after the king's harvest.
+- **Zechariah 2:8** — For thus says YHWH of Armies: 'For honor he has sent me to the nations which plundered you; for the one who touches you touches the apple of their eye.
+- **Zechariah 2:13** — Be silent, all flesh, before YHWH; for he has roused himself from his holy habitation!"
+- **Zechariah 3:1** — He showed me Yehoshua the high priest standing before the angel of YHWH, and the Adversary standing at his right hand to be his adversary.
+- **Zechariah 3:5** — I said, "Let them set a clean turban on his head." So they set a clean turban on his head, and clothed him; and the angel of YHWH was standing by.
+- **Zechariah 4:6** — Then he answered and spoke to me, saying, "This is the word of YHWH to Zerubavel, saying, 'Not by might, nor by power, but by my Ruach,' says YHWH of Armies.
+- **Zechariah 4:9** — "The hands of Zerubavel have laid the foundation of this house. His hands shall also finish it; and you will know that YHWH of Armies has sent me to you.
+- **Zechariah 4:14** — Then he said, "These are the two anointed ones who stand by YHWH of the whole earth."
+- **Zechariah 6:12** — and speak to him, saying, 'Thus says YHWH of Armies, "Behold, the person whose name is the Branch: and they shall grow up out of their place; and he shall build the temple of YHWH;
+- **Zechariah 6:13** — even he shall build the temple of YHWH; and he shall bear the glory, and shall sit and rule on his throne; and he shall be a priest on his throne; and the counsel of peace shall be between them both.
+- **Zechariah 7:12** — Yes, they made their hearts as hard as flint, lest they might hear the law, and the words which YHWH of Armies had sent by his Ruach by the former prophets. Therefore great wrath came from YHWH of Armies.
+- **Zechariah 8:17** — and let none of you devise brokenness in your hearts against his neighbor, and love no false oath: for all these are things that I hate," says YHWH.
+- **Zechariah 9:7** — I will take away his blood out of his mouth, and his abominations from between his teeth; and he also will be a remnant for our God; and he will be as a chieftain in Yehudah, and Ekron as a Jebusite.
+- **Zechariah 9:14** — YHWH will be seen over them; and his arrow will go flash like lightning; and YHWH God will blow the trumpet, and will go with whirlwinds of the south.
+- **Zechariah 10:3** — My anger is kindled against the shepherds, and I will punish the male goats; For YHWH of Armies has visited his flock, the house of Yehudah, and will make them as his majestic horse in the battle.
+- **Zechariah 12:1** — An oracle. The word of YHWH concerning Israel. YHWH, who stretches out the heavens, and lays the foundation of the earth, and forms the spirit of man within him says:
+- **Zechariah 12:4** — In that day," says YHWH, "I will strike every horse with terror, and his rider with madness; and I will open my eyes on the house of Yehudah, and will strike every horse of the peoples with blindness.
+- **Zechariah 13:3** — It will happen that, when anyone still prophesies, then their father and their mother who bore him will tell him, 'You must die, because you speak lies in the name of YHWH;' and his father and his mother who bore him will stab him when he prophesies.
+- **1 Samuel 1:3** — This man went up out of his city from year to year to worship and to sacrifice to YHWH of Armies in Shilo. The two sons of Eli, Hophni and Pinchas, priests to YHWH, were there.
+- **1 Samuel 1:5** — but to Hannah he gave a double portion; for he loved Hannah, but YHWH had shut up her womb.
+- **1 Samuel 1:7** — [as] he did so year by year, when she went up to the house of YHWH, so she provoked her; therefore she wept, and did not eat.
+- **1 Samuel 1:9** — So Hannah rose up after they had eaten in Shilo, and after they had drunk. Now Eli the priest was sitting on his seat by the doorpost of the temple of YHWH.
+- **1 Samuel 1:11** — She vowed a vow, and said, YHWH of Armies, if you will indeed look on the affliction of your handmaid, and remember me, and not forget your handmaid, but will give to your handmaid a boy, then I will give him to YHWH all the days of his life, and there shall no razor come on his head.
+- **1 Samuel 1:17** — Then Eli answered, Go in peace; and the God of Israel grant your petition that you have asked of him.
+- **1 Samuel 1:19** — They rose up in the morning early, and worshiped before YHWH, and returned, and came to their house to Ramah: and Elkanah knew Hannah his wife; and YHWH remembered her.
+- **1 Samuel 1:20** — It happened, when the time was come about, that Hannah conceived, and bore a son; and she named him Shmuel, [saying], Because I have asked him of YHWH.
+- **1 Samuel 1:22** — But Hannah didn't go up; for she said to her husband, [I will not go up] until the child be weaned; and then I will bring him, that he may appear before YHWH, and there abide forever.
+- **1 Samuel 1:23** — Elkanah her husband said to her, Do what seems you good; wait until you have weaned him; only YHWH establish YHWH’s word. So the woman waited and nursed her son, until she weaned him.
+- **1 Samuel 1:24** — When she had weaned him, she took him up with her, with three bulls, and one ephah of meal, and a bottle of wine, and brought him to the house of YHWH in Shilo: and the child was young.
+- **1 Samuel 1:27** — For this child I prayed; and YHWH has given me my petition which I asked of him:
+- **1 Samuel 1:28** — therefore also I have granted him to YHWH; as long as he lives he is granted to YHWH. He worshiped YHWH there.
+- **1 Samuel 2:20** — Eli blessed Elkanah and his wife, and said, YHWH give you seed of this woman for the petition which was asked of YHWH. They went to their own home.
+- **1 Samuel 2:25** — If one man sin against another, Elohim shall judge him; but if someone sin against YHWH, who shall entreat for them? Notwithstanding, they didn't listen to the voice of their father, because YHWH was minded to kill them.
+- **1 Samuel 2:27** — There came a person of Elohim to Eli, and said to him, Thus says YHWH, Did I reveal myself to the house of your father, when they were in Mitzrayim [in bondage] to Pharaoh's house?
+- **1 Samuel 3:4** — that YHWH called Shmuel; and he said, Here am I.
+- **1 Samuel 3:7** — Now Shmuel didn't yet know YHWH, neither was the word of YHWH yet revealed to him.
+- **1 Samuel 3:9** — Therefore Eli said to Shmuel, Go, lie down: and it shall be, if he call you, that you shall say, Speak, YHWH; for your servant hears. So Shmuel went and lay down in his place.
+- **1 Samuel 3:17** — He said, "What is the thing that [YHWH] has spoken to you? Please don't hide it from me. Elohim do so to you, and more also, if you hide anything from me of all the things that he spoke to you."
+- **1 Samuel 3:18** — Shmuel told him every whit, and hid nothing from him. He said, It is YHWH: let him do what seems him good.
+- **1 Samuel 3:19** — Shmuel grew, and YHWH was with him, and did let none of his words fall to the ground.
+- **1 Samuel 3:21** — YHWH appeared again in Shilo; for YHWH revealed himself to Shmuel in Shilo by the word of YHWH.
+- **1 Samuel 4:13** — When he came, behold, Eli was sitting on his seat by the road watching; for his heart trembled for the ark of Elohim. When the person came into the city, and told it, all the city cried out.
+- **1 Samuel 4:18** — It happened, when he made mention of the ark of Elohim, that [Eli] fell from off his seat backward by the side of the gate; and his neck broke, and he died: for he was an old man, and heavy. He had judged Israel forty years.
+- **1 Samuel 5:3** — When they of Ashdod arose early on the next day, behold, Dagon was fallen on his face to the ground before the ark of YHWH. They took Dagon, and set him in his place again.
+- **1 Samuel 5:4** — When they arose early on the next day morning, behold, Dagon was fallen on his face to the ground before the ark of YHWH; and the head of Dagon and both the palms of his hands [lay] cut off on the threshold; only [the stump of] Dagon was left to him.
+- **1 Samuel 5:6** — But the hand of YHWH was heavy on them of Ashdod, and he destroyed them, and struck them with tumors, even Ashdod and the borders of it.
+- **1 Samuel 5:7** — When the men of Ashdod saw that it was so, they said, The ark of the God of Israel shall not abide with us; for his hand is sore on us, and on Dagon our god.
+- **1 Samuel 5:9** — It was so, that after they had carried it about, the hand of YHWH was against the city with a very great confusion: and he struck the men of the city, both small and great; and tumors broke out on them.
+- **1 Samuel 6:3** — They said, "If you send away the ark of the God of Israel, don't send it empty; but by all means return him a trespass offering: then you shall be healed, and it shall be known to you why his hand is not removed from you."
+- **1 Samuel 6:5** — Therefore you shall make images of your tumors, and images of your mice that mar the land; and you shall give glory to the God of Israel: peradventure he will lighten his hand from off you, and from off your gods, and from off your land.
+- **1 Samuel 6:8** — and take the ark of YHWH, and lay it on the cart; and put the jewels of gold, which you return him for a trespass offering, in a coffer by the side of it; and send it away, that it may go.
+- **1 Samuel 6:19** — He struck of the men of Beit Shemesh, because they had looked into the ark of YHWH, he struck of the people fifty thousand seventy men; and the people mourned, because YHWH had struck the people with a great slaughter.
+- **1 Samuel 7:1** — The men of Kiriath Jearim came, and fetched up the ark of YHWH, and brought it into the house of Abinadab in the hill, and sanctified Eleazar his son to keep the ark of YHWH.
+- **1 Samuel 7:3** — Shmuel spoke to all the house of Israel, saying, If you do return to YHWH with all your heart, then put away the foreign gods and the Ashtaroth from among you, and direct your hearts to YHWH, and serve him only; and he will deliver you out of the hand of the Philistines.
+- **1 Samuel 7:9** — Shmuel took a sucking lamb, and offered it for a whole burnt offering to YHWH: and Shmuel cried to YHWH for Israel; and YHWH answered him.
+- **1 Samuel 7:17** — His return was to Ramah, for there was his house; and there he judged Israel: and he built there an altar to YHWH.
+- **1 Samuel 8:10** — Shmuel told all the words of YHWH to the people who asked of him a king.
+- **1 Samuel 8:21** — Shmuel heard all the words of the people, and he rehearsed them in the ears of YHWH.
+- **1 Samuel 9:6** — They said to him, See now, there is in this city a person of Elohim, and they are a person who is held in honor; all that he says comes surely to pass: now let us go there; peradventure he can tell us concerning our journey whereon we go.
+- **1 Samuel 9:17** — When Shmuel saw Shaul, YHWH said to him, Behold, the person of whom I spoke to you! this same shall have authority over my people.
+- **1 Samuel 10:1** — Then Shmuel took the vial of oil, and poured it on his head, and kissed him, and said, Isn't it that YHWH has anointed you to be prince over YHWH’s inheritance?
+- **1 Samuel 10:9** — It was so, that when he had turned his back to go from Shmuel, Elohim gave him another heart: and all those signs happened that day.
+- **1 Samuel 10:10** — When they came there to the hill, behold, a band of prophets met him; and the Ruach of Elohim came mightily on him, and he prophesied among them.
+- **1 Samuel 10:18** — and he said to the children of Israel, Thus says YHWH, the God of Israel, I brought up Israel out of Mitzrayim, and I delivered you out of the hand of the Egyptians, and out of the hand of all the kingdoms that oppressed you:
+- **1 Samuel 10:22** — Therefore they asked of YHWH further, Is there yet a person to come here? YHWH answered, Behold, he has hid himself among the baggage.
+- **1 Samuel 10:24** — Shmuel said to all the people, "You see the one whom YHWH has chosen, that there is none like him among all the people?" All the people shouted, and said, [Long] live the king.
+- **1 Samuel 10:26** — Shaul also went to his house to Gibeah; and there went with him the army, whose hearts Elohim had touched.
+- **1 Samuel 11:6** — The Ruach of Elohim came mightily on Shaul when he heard those words, and his anger was kindled greatly.
+- **1 Samuel 12:3** — Here I am: witness against me before YHWH, and before his anointed: whose ox have I taken? or whose donkey have I taken? or whom have I defrauded? whom have I oppressed? or of whose hand have I taken a ransom to blind my eyes therewith? and I will restore it you.
+- **1 Samuel 12:5** — He said to them, YHWH is witness against you, and YHWH’s anointed is witness this day, that you have not found anything in my hand. They said, He is witness.
+- **1 Samuel 12:9** — But they forgot YHWH their God; and he sold them into the hand of Sisera, captain of the army of Hazor, and into the hand of the Philistines, and into the hand of the king of Moab; and they fought against them.
+- **1 Samuel 13:14** — But now your kingdom shall not continue: YHWH has sought him a person after their own heart, and YHWH has appointed him to be prince over their people, because you have not kept that which YHWH commanded you.
+- **1 Samuel 14:12** — The men of the garrison answered Yonatan and his armor bearer, and said, Come up to us, and we will show you a thing. Yonatan said to his armor bearer, Come up after me; for YHWH has delivered them into the hand of Israel.
+- **1 Samuel 14:35** — Shaul built an altar to YHWH: the same was the first altar that he built to YHWH.
+- **1 Samuel 14:39** — For, as YHWH lives, who saves Israel, though it be in Yonatan my son, he shall surely die. But there was not a person among all the people who answered him.
+- **1 Samuel 14:45** — The people said to Shaul, Shall Yonatan die, who has worked this great salvation in Israel? Far from it: as YHWH lives, there shall not one hair of his head fall to the ground; for he has worked with Elohim this day. So the people rescued Yonatan, that he didn't die.
+- **1 Samuel 15:2** — Thus says YHWH of Armies, I have marked that which Amalek did to Israel, how he set himself against him in the way, when he came up out of Mitzrayim.
+- **1 Samuel 15:11** — It grieves me that I have set up Shaul to be king; for he is turned back from following me, and has not performed my commandments. Shmuel was angry; and he cried to YHWH all night.
+- **1 Samuel 15:13** — Shmuel came to Shaul; and Shaul said to him, Blessed are you by YHWH: I have performed the commandment of YHWH.
+- **1 Samuel 15:23** — For rebellion is as the sin of witchcraft, and stubbornness is as idolatry and teraphim. Because you have rejected the word of YHWH, he has also rejected you from being king.
+- **1 Samuel 15:28** — Shmuel said to him, YHWH has torn the kingdom of Israel from you this day, and has given it to a neighbor of yours who is better than you.
+- **1 Samuel 15:35** — Shmuel came no more to see Shaul until the day of his death; for Shmuel mourned for Shaul: and YHWH grieved that YHWH had made Shaul king over Israel.
+- **1 Samuel 16:1** — YHWH said to Shmuel, How long will you mourn for Shaul, seeing I have rejected him from being king over Israel? fill your horn with oil, and go: I will send you to Yishai the Bethlehemite; for I have provided me a king among his sons.
+- **1 Samuel 16:5** — He said, Peaceably; I am come to sacrifice to YHWH: sanctify yourselves, and come with me to the sacrifice. He sanctified Yishai and his sons, and called them to the sacrifice.
+- **1 Samuel 16:6** — It happened, when they had come, that he looked at Eliab, and said, Surely YHWH's anointed is before him.
+- **1 Samuel 16:7** — But YHWH said to Shmuel, "Don't look on his face, or on the height of his stature; because I have rejected him: for [YHWH sees] not as man sees; for man looks at the outward appearance, but YHWH looks at the heart."
+- **1 Samuel 16:8** — Then Yishai called Abinadab, and made him pass before Shmuel. He said, Neither has YHWH chosen this.
+- **1 Samuel 16:9** — Then Yishai made Shammah to pass by. He said, Neither has YHWH chosen this.
+- **1 Samuel 16:12** — He sent, and brought him in. Now he was ruddy, and withal of a beautiful face, and goodly to look on. YHWH said, Arise, anoint him; for this is he.
+- **1 Samuel 16:13** — Then Shmuel took the horn of oil, and anointed him in the midst of his brothers: and the Ruach of YHWH came mightily on Dawid from that day forward. So Shmuel rose up, and went to Ramah.
+- **1 Samuel 16:14** — Now the Ruach of YHWH departed from Shaul, and an troubling spirit from YHWH troubled him.
+- **1 Samuel 16:15** — Shaul's servants said to him, See now, an troubling spirit from Elohim troubles you.
+- **1 Samuel 16:18** — Then answered one of the young people, and said, Behold, I have seen a son of Yishai the Bethlehemite, who is skillful in playing, and a mighty man of valor, and a warrior, and prudent in speech, and a comely person; and YHWH is with him.
+- **1 Samuel 16:23** — It happened, when the [brokenness] spirit from Elohim was on Shaul, that Dawid took the harp, and played with his hand: so Shaul was refreshed, and was well, and the troubling spirit departed from him.
+- **1 Samuel 17:26** — Dawid spoke to the people who stood by him, saying, What shall be done to the one who kills this Philistine, and takes away the reproach from Israel? for who is this uncircumcised Philistine, that he should defy the armies of the living Elohim?
+- **1 Samuel 17:36** — Your servant struck both the lion and the bear: and this uncircumcised Philistine shall be as one of them, seeing he has defied the armies of the living Elohim.
+- **1 Samuel 17:37** — Dawid said, YHWH who delivered me out of the paw of the lion, and out of the paw of the bear, he will deliver me out of the hand of this Philistine. Shaul said to Dawid, Go, and YHWH shall be with you.
+- **1 Samuel 18:10** — It happened on the next day, that an troubling spirit from Elohim came mightily on Shaul, and he prophesied in the midst of the house: and Dawid played with his hand, as he did day by day. Shaul had his spear in his hand;
+- **1 Samuel 18:12** — Shaul was afraid of Dawid, because YHWH was with him, and was departed from Shaul.
+- **1 Samuel 18:14** — Dawid behaved himself wisely in all his ways; and YHWH was with him.
+- **1 Samuel 18:28** — Shaul saw and knew that YHWH was with Dawid; and Michal, Shaul's daughter, loved him.
+- **1 Samuel 19:5** — for he put his life in his hand, and struck the Philistine, and YHWH worked a great victory for all Israel: you saw it, and did rejoice; why then will you sin against innocent blood, to kill Dawid without a cause?
+- **1 Samuel 19:6** — Shaul listened to the voice of Yonatan: and Shaul swore, As YHWH lives, he shall not be put to death.
+- **1 Samuel 19:9** — An troubling spirit from YHWH was on Shaul, as he sat in his house with his spear in his hand; and Dawid was playing with his hand.
+- **1 Samuel 19:23** — He went there to Naioth in Ramah: and the Ruach of Elohim came on him also, and he went on, and prophesied, until he came to Naioth in Ramah.
+- **1 Samuel 20:3** — Dawid swore moreover, and said, "Your father knows well that I have found favor in your eyes; and he says, 'Don't let Yonatan know this, lest he be grieved:' but truly as YHWH lives, and as your soul lives, there is but a step between me and death."
+- **1 Samuel 21:7** — Now a certain man of the servants of Shaul was there that day, detained before YHWH; and his name was Doeg the Edomite, the best of the herdsmen who belonged to Shaul.
+- **1 Samuel 22:10** — He inquired of YHWH for him, and gave him food, and gave him the sword of Goliath the Philistine.
+- **1 Samuel 22:13** — Shaul said to him, Why have you conspired against me, you and the son of Yishai, in that you have given him bread, and a sword, and have inquired of Elohim for him, that he should rise against me, to lie in wait, as at this day?
+- **1 Samuel 22:15** — Have I today begun to inquire of Elohim for him? be it far from me: don't let the king impute anything to his servant, nor to all the house of my father; for your servant knows nothing of all this, less or more.
+- **1 Samuel 22:17** — The king said to the guard who stood about him, Turn, and kill the priests of YHWH; because their hand also is with Dawid, and because they knew that he fled, and didn't disclose it to me. But the servants of the king wouldn't put forth their hand to fall on the priests of YHWH.
+- **1 Samuel 23:4** — Then Dawid inquired of YHWH yet again. YHWH answered him, and said, Arise, go down to Keilah; for I will deliver the Philistines into your hand.
+- **1 Samuel 23:7** — It was told Shaul that Dawid was come to Keilah. Shaul said, Elohim has delivered him into my hand; for he is shut in, by entering into a town that has gates and bars.
+- **1 Samuel 23:11** — Will the men of Keilah deliver me up into his hand? will Shaul come down, as your servant has heard? YHWH, the God of Israel, I beg you, tell your servant. YHWH said, He will come down.
+- **1 Samuel 23:14** — Dawid abode in the wilderness in the strongholds, and remained in the hill country in the wilderness of Ziph. Shaul sought him every day, but Elohim didn't deliver him into his hand.
+- **1 Samuel 23:16** — Yonatan, Shaul's son, arose, and went to Dawid into the wood, and strengthened his hand in Elohim.
+- **1 Samuel 23:18** — They two made a covenant before YHWH: and Dawid abode in the wood, and Yonatan went to his house.
+- **1 Samuel 24:4** — The men of Dawid said to him, Behold, the day of which YHWH said to you, Behold, I will deliver your enemy into your hand, and you shall do to him as it shall seem good to you. Then Dawid arose, and cut off the skirt of Shaul's robe secretly.
+- **1 Samuel 24:6** — He said to his men, YHWH forbid that I should do this thing to my lord, YHWH's anointed, to put forth my hand against him, seeing he is YHWH's anointed.
+- **1 Samuel 24:10** — Behold, this day your eyes have seen how that YHWH had delivered you today into my hand in the cave: and some bade me kill you; but [my eye] spared you; and I said, I will not put forth my hand against my lord; for he is YHWH's anointed.
+- **1 Samuel 25:22** — Elohim do so to the enemies of Dawid, and more also, if I leave of all that belongs to him by the morning light so much as one who urinates on a wall.
+- **1 Samuel 25:29** — Though men be risen up to pursue you, and to seek your soul, yet the soul of my lord shall be bound in the bundle of life with YHWH your God; and the souls of your enemies, them shall he sling out, as from the hollow of a sling.
+- **1 Samuel 25:38** — It happened about ten days after, that YHWH struck Nabal, so that he died.
+- **1 Samuel 25:39** — When Dawid heard that Nabal was dead, he said, Blessed be YHWH, who has pleaded the cause of my reproach from the hand of Nabal, and has kept back his servant from harm: and the brokenness-doing of Nabal has YHWH returned on his own head. Dawid sent and spoke concerning Abigail, to take her to him as wife.
+- **1 Samuel 26:8** — Then said Avishai to Dawid, Elohim has delivered up your enemy into your hand this day: now therefore please let me strike him with the spear to the earth at one stroke, and I will not strike him the second time.
+- **1 Samuel 26:9** — Dawid said to Avishai, Don't destroy him; for who can put forth his hand against YHWH's anointed, and be guiltless?
+- **1 Samuel 26:10** — Dawid said, As YHWH lives, YHWH will strike him; or his day shall come to die; or he shall go down into battle and perish.
+- **1 Samuel 26:11** — YHWH forbid that I should put forth my hand against YHWH's anointed: but now please take the spear that is at his head, and the jar of water, and let us go.
+- **1 Samuel 26:19** — Now therefore, please let my lord the king hear the words of his servant. If it be YHWH that has stirred you up against me, let him accept an offering: but if it be the children of people, cursed be they before YHWH: for they have driven me out this day that I shouldn't cling to YHWH's inheritance, saying, Go, serve other gods.
+- **1 Samuel 26:24** — Behold, as your life was much set by this day in my eyes, so let my life be much set by in the eyes of YHWH, and let him deliver me out of all oppression.
+- **1 Samuel 28:6** — When Shaul inquired of YHWH, YHWH didn't answer him, neither by dreams, nor by Urim, nor by prophets.
+- **1 Samuel 28:18** — Because you didn't obey the voice of YHWH, and didn't execute his fierce wrath on Amalek, therefore has YHWH done this thing to you this day.
+- **1 Samuel 29:6** — Then Achish called Dawid, and said to him, As YHWH lives, you have been upright, and your going out and your coming in with me in the army is good in my sight; for I have not found brokenness in you since the day of your coming to me to this day: nevertheless the lords don't favor you.
+- **1 Samuel 29:9** — Achish answered Dawid, I know that you are good in my sight, as an angel of Elohim: notwithstanding the princes of the Philistines have said, He shall not go up with us to the battle.
+- **1 Samuel 30:8** — Dawid inquired of YHWH, saying, If I pursue after this troop, shall I overtake them? YHWH answered him, Pursue; for you shall surely overtake [them], and shall without fail recover [all].
+- **1 Samuel 30:15** — Dawid said to him, Will you bring me down to this troop? He said, Swear to me by Elohim, that you will neither kill me, nor deliver me up into the hands of my master, and I will bring you down to this troop.
+- **1 Samuel 30:26** — When Dawid came to Ziklag, he sent of the spoil to the elders of Yehudah, even to his friends, saying, Behold, a present for you of the spoil of the enemies of YHWH:
+- **Habakkuk 1:12** — Aren't you from everlasting, YHWH my God, my Holy One? We will not die. YHWH, you have appointed him for judgment. You, Rock, have established him to punish.
+- **Habakkuk 2:2** — YHWH answered me, "Write the vision, and make it plain on tablets, that he may run who reads it.
+- **Habakkuk 2:20** — But YHWH is in his holy temple. Let all the earth be silent before him!"
+- **2 Corinthians 1:19** — For the Son of God, Yeshua the Messiah, who was preached among you by us, by me, Silvanos, and Timotheos, was not "Yes and no," but in him is "Yes."
+- **2 Corinthians 1:20** — For however many are the promises of God, in him is the "Yes." Therefore also through him is the "Amen," to the glory of God through us.
+- **2 Corinthians 2:14** — Now thanks be to God, who always leads us in triumph in Messiah, and reveals through us the sweet aroma of his knowledge in every place.
+- **2 Corinthians 5:19** — namely, that God was in Messiah reconciling the world to himself, not reckoning to them their trespasses, and having committed to us the word of reconciliation.
+- **2 Corinthians 5:21** — For the one who knew no sin they made to be sin on our behalf; so that in him we might become the righteousness of God.
+- **2 Corinthians 8:19** — Not only so, but who was also appointed by the assemblies to travel with us in this grace, which is served by us to the glory of God himself, and to show our readiness.
+- **2 Corinthians 9:15** — Now thanks be to God for his unspeakable gift!
+- **2 Corinthians 13:4** — For he was crucified through weakness, yet he lives through the power of God. For we also are weak in him, but we will live with him through the power of God toward you.
+- **2 Thessalonians 1:12** — that the name of our Master Yeshua may be glorified in you, and you in him, according to the grace of our God and Master Yeshua the Messiah.
+- **2 Thessalonians 2:4** — the one who opposes and exalts themselves against all that is called God or that is worshiped; so that he sits as God in the temple of God, setting himself up as God.
+- **2 Thessalonians 2:16** — Now our Master Yeshua the Messiah himself, and God our Cosmic Parent, who loved us and gave us age-enduring comfort and good hope through grace,
+- **Numbers 1:19** — As YHWH commanded Moshe, so he numbered them in the wilderness of Sinai.
+- **Numbers 3:16** — Moshe numbered them according to the word of YHWH, as he was commanded.
+- **Numbers 3:42** — Moshe numbered, as YHWH commanded him, all the firstborn among the children of Israel.
+- **Numbers 3:51** — and Moshe gave the redemption money to Aharon and to his sons, according to the word of YHWH, as YHWH commanded Moshe.
+- **Numbers 4:49** — According to the commandment of YHWH they were numbered by Moshe, everyone according to their service, and according to their burden. Thus were they numbered by him, as YHWH commanded Moshe.
+- **Numbers 5:8** — But if the person has no kinsman to whom restitution may be made for the guilt, the restitution for guilt which is made to YHWH shall be the priest's; besides the ram of the atonement, by which atonement shall be made for him.
+- **Numbers 5:30** — or when the spirit of jealousy comes on a man, and he is jealous of his wife; then he shall set the woman before YHWH, and the priest shall execute on her all this law.
+- **Numbers 6:2** — "Speak to the children of Israel, and tell them: When either man or woman shall make a special vow, the vow of a Nazirite, to separate himself to YHWH,
+- **Numbers 6:5** — "All the days of his vow of separation there shall no razor come on his head, until the days are fulfilled, in which he separates himself to YHWH. He shall be holy. He shall let the locks of the hair of his head grow long.
+- **Numbers 6:6** — "All the days that he separates himself to YHWH he shall not go near a dead body.
+- **Numbers 6:7** — He shall not make himself unclean for his father, or for his mother, for his brother, or for his sister, when they die; because his separation to Elohim is on his head.
+- **Numbers 6:8** — All the days of his separation he is holy to YHWH.
+- **Numbers 6:12** — He shall separate to YHWH the days of his separation, and shall bring a male lamb a year old for a trespass offering; but the former days shall be void, because his separation was defiled.
+- **Numbers 6:14** — and he shall offer his offering to YHWH, one male lamb a year old without blemish for a burnt offering, and one ewe lamb a year old without blemish for a sin offering, and one ram without blemish for peace offerings,
+- **Numbers 6:16** — The priest shall present them before YHWH, and shall offer his sin offering, and his burnt offering.
+- **Numbers 6:17** — He shall offer the ram for a sacrifice of peace offerings to YHWH, with the basket of unleavened bread. The priest shall offer also its meal offering, and its drink offering.
+- **Numbers 6:21** — "This is the law of the Nazirite who vows, and of his offering to YHWH for his separation, besides that which he is able to get. According to his vow which he vows, so he must do after the law of his separation."
+- **Numbers 7:11** — YHWH said to Moshe, "They shall offer their offering, each prince on his day, for the dedication of the altar."
+- **Numbers 7:89** — When Moshe went into the Tent of Meeting to speak with YHWH, he heard YHWH’s voice speaking to him from above the mercy seat that was on the ark of the Testimony, from between the two cherubim: and he spoke to him.
+- **Numbers 8:3** — Aharon did so. He lit its lamps to light the area in front of the lampstand, as YHWH commanded Moshe.
+- **Numbers 8:4** — This was the workmanship of the lampstand, beaten work of gold. From its base to its flowers, it was beaten work: according to the pattern which YHWH had shown Moshe, so he made the lampstand.
+- **Numbers 8:13** — You shall set the Levites before Aharon, and before his sons, and offer them as a wave offering to YHWH.
+- **Numbers 8:22** — After that, the Levites went in to do their service in the Tent of Meeting before Aharon, and before his sons: as YHWH had commanded Moshe concerning the Levites, so they did to them.
+- **Numbers 9:13** — But the one who is clean, and is not on a journey, and fails to keep the Passover, that soul shall be cut off from their people. Because he didn't offer the offering of YHWH in its appointed season, that man shall bear his sin.
+- **Numbers 9:14** — If a foreigner lives among you, and desires to keep the Passover to YHWH; according to the statute of the Passover, and according to its ordinance, so shall he do. You shall have one statute, both for the foreigner, and for the one who is born in the land.'"
+- **Numbers 10:36** — When it rested, he said, Return, YHWH, to the ten thousands of the thousands of Israel.
+- **Numbers 11:20** — but a whole month, until it come out at your nostrils, and it be loathsome to you; because that you have rejected YHWH who is among you, and have wept before him, saying, Why came we forth out of Mitzrayim?
+- **Numbers 11:24** — Moshe went out, and told the people the words of YHWH: and he gathered seventy men of the elders of the people, and set them round about the Tent.
+- **Numbers 11:25** — YHWH came down in the cloud, and spoke to him, and took of the Ruach that was on him, and put it on the seventy elders: and it happened that when the Ruach rested on them, they prophesied, but they did so no more.
+- **Numbers 12:6** — YHWH said, Hear now my words: if there be a prophet among you, I YHWH will make myself known to him in a vision, I will speak with him in a dream.
+- **Numbers 12:8** — with him will I speak mouth to mouth, even manifestly, and not in dark speeches; and the form of YHWH shall he see: why then were you not afraid to speak against my servant, against Moshe?
+- **Numbers 12:9** — The anger of YHWH was kindled against them; and he departed.
+- **Numbers 15:14** — If a stranger lives as a foreigner with you, or whoever may be among you throughout your generations, and will offer an offering made by fire, of a sweet savor to YHWH; as you do, so he shall do.
+- **Numbers 15:28** — The priest shall make atonement for the soul who errs, when he sins unwittingly, before YHWH, to make atonement for him; and he shall be forgiven.
+- **Numbers 15:30** — But the soul who does anything with a high hand, whether he is native-born or a foreigner, the same blasphemes YHWH; and that soul shall be cut off from among his people.
+- **Numbers 15:31** — Because he has despised the word of YHWH, and has broken his commandment, that soul shall utterly be cut off; his iniquity shall be on him.
+- **Numbers 15:35** — YHWH said to Moshe, The person shall surely be put to death: all the congregation shall stone him with stones outside of the camp.
+- **Numbers 15:36** — All the congregation brought him outside of the camp, and stoned him to death with stones; as YHWH commanded Moshe.
+- **Numbers 16:5** — and he spoke to Korah and to all his company, saying, In the morning YHWH will show who are his, and who is holy, and will cause him to come near to him: even the one whom he shall choose he will cause to come near to him.
+- **Numbers 16:9** — [seems it but] a small thing to you, that the God of Israel has separated you from the congregation of Israel, to bring you near to himself, to do the service of the tent of YHWH, and to stand before the congregation to minister to them;
+- **Numbers 16:11** — Therefore you and all your company are gathered together against YHWH: and Aharon, what is the one who you murmur against him?
+- **Numbers 16:17** — and take everyone their censer, and put incense on them, and bring you before YHWH everyone their censer, two hundred fifty censers; you also, and Aharon, each his censer.
+- **Numbers 16:40** — to be a memorial to the children of Israel, to the end that no stranger, who isn't of the seed of Aharon, comes near to burn incense before YHWH; that he not be as Korah, and as his company: as YHWH spoke to him by Moshe.
+- **Numbers 17:11** — Thus did Moshe: as YHWH commanded him, so did he.
+- **Numbers 19:13** — Whoever touches a dead person, the body of a person who has died, and doesn't purify themselves, defiles the tent of YHWH; and that soul shall be cut off from Israel: because the water for impurity was not sprinkled on him, he shall be unclean; his uncleanness is yet on him.
+- **Numbers 19:20** — But the one who shall be unclean, and shall not purify themselves, that soul shall be cut off from the midst of the assembly, because they have defiled the sanctuary of YHWH: the water for impurity has not been sprinkled on him; he is unclean.
+- **Numbers 20:9** — Moshe took the rod from before YHWH, as he commanded him.
+- **Numbers 21:34** — YHWH said to Moshe, Don't fear him: for I have delivered him into your hand, and all his people, and his land; and you shall do to him as you did to Sihon king of the Amorites, who lived at Heshbon.
+- **Numbers 22:8** — He said to them, Lodge here this night, and I will bring you word again, as YHWH shall speak to me: and the princes of Moab abode with Bil'am.
+- **Numbers 22:18** — Bil'am answered the servants of Balak, If Balak would give me his house full of silver and gold, I can't go beyond the word of YHWH my God, to do less or more.
+- **Numbers 22:20** — Elohim came to Bil'am at night, and said to him, If the people are come to call you, rise up, go with them; but only the word which I speak to you, that shall you do.
+- **Numbers 22:22** — Elohim's anger was kindled because he went; and the angel of YHWH placed himself in the way for an adversary against him. Now he was riding on his donkey, and his two servants were with him.
+- **Numbers 22:23** — The donkey saw the angel of YHWH standing in the way, with his sword drawn in his hand; and the donkey turned aside out of the way, and went into the field: and Bil'am struck the donkey, to turn her into the way.
+- **Numbers 22:25** — The donkey saw the angel of YHWH, and she thrust herself to the wall, and crushed Bil'am's foot against the wall: and he struck her again.
+- **Numbers 22:27** — The donkey saw the angel of YHWH, and she lay down under Bil'am: and Bil'am's anger was kindled, and he struck the donkey with his staff.
+- **Numbers 22:31** — Then YHWH opened the eyes of Bil'am, and he saw the angel of YHWH standing in the way, with his sword drawn in his hand; and he bowed his head, and fell on his face.
+- **Numbers 22:32** — The angel of YHWH said to him, Why have you struck your donkey these three times? behold, I am come forth for an adversary, because your way is perverse before me:
+- **Numbers 23:3** — Bil'am said to Balak, Stand by your burnt offering, and I will go: perhaps YHWH will come to meet me; and whatever he shows me I will tell you. He went to a bare height.
+- **Numbers 23:4** — Elohim met Bil'am: and he said to him, I have prepared the seven altars, and I have offered up a bull and a ram on every altar.
+- **Numbers 23:12** — He answered and said, Must I not take heed to speak that which YHWH puts in my mouth?
+- **Numbers 23:15** — He said to Balak, Stand here by your burnt offering, while I meet [YHWH] yonder.
+- **Numbers 23:16** — YHWH met Bil'am, and put a word in his mouth, and said, Return to Balak, and thus shall you speak.
+- **Numbers 23:17** — He came to him, and behold, he was standing by his burnt offering, and the princes of Moab with him. Balak said to him, What has YHWH spoken?
+- **Numbers 23:21** — Elohim has not seen iniquity in Ya'akov. Neither has Elohim seen perverseness in Israel. YHWH his God is with him. The shout of a king is among them.
+- **Numbers 24:1** — When Bil'am saw that it pleased YHWH to bless Israel, he didn't go, as at the other times, to meet with enchantments, but he set his face toward the wilderness.
+- **Numbers 24:2** — Bil'am lifted up his eyes, and he saw Israel dwelling according to their tribes; and the Ruach of Elohim came on him.
+- **Numbers 24:4** — he says, who hears the words of Elohim, who sees the vision of the Almighty, falling down, and having his eyes open:
+- **Numbers 24:13** — If Balak would give me his house full of silver and gold, I can't go beyond the word of YHWH, to do either good or bad of my own mind; what YHWH speaks, that will I speak?
+- **Numbers 24:16** — he says, who hears the words of Elohim, knows the knowledge of the Most High, and who sees the vision of the Almighty, Falling down, and having his eyes open:
+- **Numbers 24:23** — He took up his parable, and said, Alas, who shall live when Elohim does this?
+- **Numbers 25:3** — Israel joined himself to Baal Peor: and the anger of YHWH was kindled against Israel.
+- **Numbers 25:13** — and it shall be to him, and to his seed after him, the covenant of an everlasting priesthood; because he was jealous for his God, and made atonement for the children of Israel.
+- **Numbers 27:3** — Our father died in the wilderness, and he was not among the company of those who gathered themselves together against YHWH in the company of Korah: but he died in his own sin; and he had no sons.
+- **Numbers 27:18** — YHWH said to Moshe, Take Yehoshua the son of Nun, a person in whom is the Ruach, and lay your hand on him;
+- **Numbers 27:21** — He shall stand before Eleazar the priest, who shall inquire for him by the judgment of the Urim before YHWH: at his word shall they go out, and at his word they shall come in, both he, and all the children of Israel with him, even all the congregation.
+- **Numbers 27:22** — Moshe did as YHWH commanded him; and he took Yehoshua, and set him before Eleazar the priest, and before all the congregation:
+- **Numbers 27:23** — and he laid his hands on him, and gave him a charge, as YHWH spoke by Moshe.
+- **Numbers 30:2** — When someone vows a vow to YHWH, or swears an oath to bind their soul with a bond, they shall not break their word; he shall do according to all that proceeds out of his mouth.
+- **Numbers 30:16** — These are the statutes, which YHWH commanded Moshe, between a husband and his wife, between a father and his daughter, being in her youth, in her father's house.
+- **Numbers 36:2** — and they said, YHWH commanded my lord to give the land for inheritance by lot to the children of Israel: and my lord was commanded by YHWH to give the inheritance of Zelophehad our brother to his daughters.
+- **Ezra 1:1** — Now in the first year of Cyrus king of Paras, that the word of YHWH by the mouth of Yirmeyahu might be accomplished, YHWH stirred up the spirit of Cyrus king of Paras, so that he made a proclamation throughout all his kingdom, and [put it] also in writing, saying,
+- **Ezra 1:2** — Thus says Cyrus king of Paras, All the kingdoms of the earth has YHWH, the God of heavens, given me; and he has charged me to build him a house in Yerushalayim, which is in Yehudah.
+- **Ezra 1:3** — Whoever there is among you of all their people, their God be with him, and let him go up to Yerushalayim, which is in Yehudah, and build the house of YHWH, the God of Israel (they are Elohim), which is in Yerushalayim.
+- **Ezra 1:7** — Also Cyrus the king brought forth the vessels of the house of YHWH, which Nebuchadnezzar had brought forth out of Yerushalayim, and had put in the house of his gods;
+- **Ezra 4:2** — then they drew near to Zerubavel, and to the heads of fathers' [houses], and said to them, Let us build with you; for we seek your God, as you do; and we sacrifice to him since the days of Esar Haddon king of Ashur, who brought us up here.
+- **Ezra 5:17** — Now therefore, if it seem good to the king, let there be search made in the king's treasure house, which is there at Bavel, whether it be so, that a decree was made of Cyrus the king to build this house of Elohim at Yerushalayim; and let the king send his pleasure to us concerning this matter.
+- **Ezra 6:10** — that they may offer sacrifices of sweet savor to the God of heavens, and pray for the life of the king, and of his sons.
+- **Ezra 7:6** — this Ezra went up from Bavel: and he was a ready scribe in the law of Moshe, which YHWH, the God of Israel, had given; and the king granted him all his request, according to the hand of YHWH his God on him.
+- **Ezra 7:9** — For on the first [day] of the first month began he to go up from Bavel; and on the first [day] of the fifth month came he to Yerushalayim, according to the good hand of his God on him.
+- **Ezra 7:10** — For Ezra had set his heart to seek the law of YHWH, and to do it, and to teach in Israel statutes and ordinances.
+- **Ezra 7:15** — and to carry the silver and gold, which the king and his counselors have freely offered to the God of Israel, whose habitation is in Yerushalayim,
+- **Ezra 7:23** — Whatever is commanded by the God of heavens, let it be done exactly for the house of the God of heavens; for why should there be wrath against the realm of the king and his sons?
+- **Ezra 7:26** — Whoever will not do the law of your God, and the law of the king, let judgment be executed on him with all diligence, whether it be to death, or to banishment, or to confiscation of goods, or to imprisonment.
+- **Ezra 8:21** — Then I proclaimed a fast there, at the river Ahava, that we might humble ourselves before our God, to seek of him a straight way for us, and for our little ones, and for all our substance.
+- **Ezra 8:22** — For I was ashamed to ask of the king a band of soldiers and horsemen to help us against the enemy in the way, because we had spoken to the king, saying, The hand of our God is on all those who seek him, for good; but his power and his wrath is against all those who forsake him.
+- **Ezra 8:23** — So we fasted and begged our God for this: and he was entreated of us.
+- **Ezra 8:25** — and weighed to them the silver, and the gold, and the vessels, even the offering for the house of our God, which the king, and his counselors, and his princes, and all Israel there present, had offered:
+- **Ezra 8:33** — On the fourth day the silver and the gold and the vessels were weighed in the house of our God into the hand of Meremoth the son of Uriyah the priest; and with him was Eleazar the son of Pinchas; and with them was Jozabad the son of Jeshua, and Noadiah the son of Binnui, the Levite;
+- **Ezra 9:8** — Now for a little moment grace has been shown from YHWH our God, to leave us a remnant to escape, and to give us a nail in his holy place, that our God may lighten our eyes, and give us a little reviving in our bondage.
+- **Ezra 10:1** — Now while Ezra prayed and made confession, weeping and casting himself down before the house of Elohim, there was gathered together to him out of Israel a very great assembly of people and women and children; for the people wept very sore.
+- **Ezra 10:6** — Then Ezra rose up from before the house of Elohim, and went into the chamber of Jehohanan the son of Eliashib: and [when] he came there, he ate no bread, nor drank water; for he mourned because of the trespass of them of the captivity.
+- **Hosea 1:4** — YHWH said to him, "Call his name Jezreel; for yet a little while, and I will avenge the blood of Jezreel on the house of Yehu, and will cause the kingdom of the house of Israel to cease.
+- **Hosea 3:5** — Afterward the children of Israel shall return, and seek YHWH their God, and Dawid their king, and shall come with trembling to YHWH and to his blessings in the last days.
+- **Hosea 6:1** — "Come, and let us return to YHWH; for he has torn us to pieces, and he will heal us; he has injured us, and he will bind up our wounds.
+- **Hosea 7:10** — The pride of Israel testifies to his face; yet they haven't returned to YHWH their God, nor sought him, for all this.
+- **Hosea 9:4** — They won't pour out wine offerings to YHWH, neither will they be pleasing to him. Their sacrifices will be to them like the bread of mourners; all who eat of it will be polluted; for their bread will be for their appetite. It will not come into the house of YHWH.
+- **Hosea 9:8** — A prophet watches over Efrayim with my God. A fowler's snare is on all of his paths, and hostility in the house of his God.
+- **Hosea 9:17** — my God will cast them away, because they did not listen to him; and they will be wanderers among the nations.
+- **Hosea 10:3** — Surely now they will say, "We have no king; for we don't revere YHWH; and the king, what can he do for us?"
+- **Hosea 11:10** — They will walk after YHWH, who will roar like a lion; for he will roar, and the children will come trembling from the west.
+- **Hosea 12:2** — YHWH also has a controversy with Yehudah, and will punish Ya'akov according to his ways; according to his deeds he will repay him.
+- **Hosea 12:3** — In the womb he took his brother by the heel; and in his manhood he contended with Elohim.
+- **Hosea 12:13** — By a prophet YHWH brought Israel up out of Mitzrayim, and by a prophet he was preserved.
+- **Hosea 12:14** — Efrayim has bitterly provoked anger. Therefore his blood will be left on him, and his YHWH will repay his contempt.
+- **Hosea 13:15** — Though he is fruitful among his brothers, an east wind will come, the breath of YHWH coming up from the wilderness; and his spring will become dry, and his fountain will be dried up. He will plunder the storehouse of treasure.
+- **Ruth 2:4** — Behold, Boaz came from Beit Lechem, and said to the reapers, YHWH be with you. They answered him, YHWH bless you.
+- **Ruth 2:20** — Naomi said to her daughter-in-law, Blessed be he of YHWH, who has not left off his kindness to the living and to the dead. Naomi said to her, The man is a close relative to us, one of our near kinsmen.
+- **Ruth 3:10** — He said, Blessed are you by YHWH, my daughter: you have shown more kindness in the latter end than at the beginning, inasmuch as you didn't follow young people, whether poor or rich.
+- **Ruth 4:13** — So Boaz took Rut, and she became his wife; and he went in to her, and YHWH gave her conception, and she bore a son.
+- **Ruth 4:14** — The women said to Naomi, Blessed be YHWH, who has not left you this day without a near kinsman; and let his name be famous in Israel.
+- **James 2:23** — and the Scripture was fulfilled which says, "Avraham believed God, and it was accounted to him as righteousness;" and he was called the friend of God.
+- **James 4:8** — Draw near to God, and he will draw near to you. Cleanse your hands, you sinners; and purify your hearts, you double-minded.
+- **James 4:10** — Humble yourselves in the sight of God, and he will exalt you.
+- **Nahum 1:7** — YHWH is good, a stronghold in the day of trouble; and he knows those who take refuge in him.
+- **Nahum 1:12** — Thus says YHWH: "Though they be in full strength, and likewise many, even so they will be cut down, and he shall pass away. Though I have afflicted you, I will afflict you no more.
+- **Daniel 1:2** — YHWH gave Jehoiakim king of Yehudah into his hand, with part of the vessels of the house of Elohim; and he carried them into the land of Shinar to the house of his god: and he brought the vessels into the treasure house of his god.
+- **Daniel 2:18** — that they would desire mercies of the God of heaven concerning this secret; that Dani'el and his companions should not perish with the rest of the wise people of Bavel.
+- **Daniel 2:20** — Dani'el answered, Blessed be the name of Elohim forever and ever; for wisdom and might are his.
+- **Daniel 3:17** — If it be [so], our God whom we serve is able to deliver us from the burning fiery furnace; and he will deliver us out of your hand, O king.
+- **Daniel 3:26** — Then Nebuchadnezzar came near to the mouth of the burning fiery furnace: he spoke and said, Shadrach, Meshach, and Abednego, you servants of the Most High Elohim, come forth, and come here. Then Shadrach, Meshach, and Abednego came forth out of the midst of the fire.
+- **Daniel 5:3** — Then they brought the golden vessels that were taken out of the temple of the house of Elohim which was at Yerushalayim; and the king and his lords, his wives and his concubines, drank from them.
+- **Daniel 5:21** — and he was driven from the human beings, and his heart was made like the animals', and his dwelling was with the wild donkeys; he was fed with grass like oxen, and his body was wet with the dew of the sky; until they knew that the Most High Elohim rules in the kingdom of people, and that they sets up over it whoever they will.
+- **Daniel 5:23** — but have lifted up yourself against YHWH of heaven; and they have brought the vessels of his house before you, and you and your lords, your wives and your concubines, have drunk wine from them; and you have praised the gods of silver and gold, of brass, iron, wood, and stone, which don't see, nor hear, nor know; and the Elohim in whose hand your breath is, and whose are all your ways, you have not glorified.
+- **Daniel 6:5** — Then said these men, We shall not find any occasion against this Dani'el, except we find it against him concerning the law of his God.
+- **Daniel 6:10** — When Dani'el knew that the writing was signed, he went into his house (now his windows were open in his chamber toward Yerushalayim) and he kneeled on his knees three times a day, and prayed, and gave thanks before his God, as he did before.
+- **Daniel 6:11** — Then these men assembled together, and found Dani'el making petition and supplication before his God.
+- **Daniel 6:22** — my God has sent his angel, and has shut the lions' mouths, and they have not hurt me; because as before him innocence was found in me; and also before you, O king, have I done no hurt.
+- **Daniel 6:23** — Then was the king exceeding glad, and commanded that they should take Dani'el up out of the den. So Dani'el was taken up out of the den, and no manner of hurt was found on him, because he had trusted in his God.
+- **Daniel 9:9** — To YHWH our God belong mercies and forgiveness; for we have rebelled against him;
+- **Daniel 9:10** — neither have we obeyed the voice of YHWH our God, to walk in his laws, which he set before us by his servants the prophets.
+- **Daniel 9:11** — Yes, all Israel have transgressed your law, even turning aside, that they should not obey your voice: therefore has the curse been poured out on us, and the oath that is written in the law of Moshe the servant of Elohim; for we have sinned against him.
+- **Daniel 9:17** — Now therefore, our God, listen to the prayer of your servant, and to his petitions, and cause your face to shine on your sanctuary that is desolate, for YHWH's sake.
+- **Daniel 11:32** — Such as do wickedly against the covenant shall he pervert by flatteries; but the people who know their God shall be strong, and do [exploits].
+- **Daniel 11:36** — The king shall do according to his will; and he shall exalt himself, and magnify himself above every god, and shall speak marvelous things against the God of gods; and he shall prosper until the indignation be accomplished; for that which is determined shall be done.
+- **Colossians 2:12** — having been buried with him in immersion, in which you were also raised with him through faith in the working of God, who raised him from the dead.
+- **Colossians 3:17** — Whatever you do, in word or in deed, do all in the name of Master Yeshua, giving thanks to God the Cosmic Parent, through him.
+- **Colossians 4:12** — Epaphras, who is one of you, a servant of Messiah, salutes you, always striving for you in his prayers, that you may stand perfect and complete in all the will of God.
+- **Job 1:8** — YHWH said to the Adversary, "Have you considered my servant, Job? For there is none like him in the earth, a blameless and an upright man, one who reveres God, and turns away from harm."
+- **Job 1:12** — YHWH said to the Adversary, "Behold, all that he has is in your power. Only on himself don't put forth your hand." So the Adversary went forth from the presence of YHWH.
+- **Job 1:16** — While he was still speaking, there also came another, and said, "The fire of Elohim has fallen from the heavens, and has burned up the sheep and the servants, and consumed them, and I alone have escaped to tell you."
+- **Job 2:1** — Again it happened on the day when the Elohim's sons came to present themselves before YHWH, that the Adversary came also among them to present himself before YHWH.
+- **Job 2:3** — YHWH said to the Adversary, "Have you considered my servant Job? For there is none like him in the earth, a blameless and an upright man, one who reveres God, and turns away from harm. He still maintains his integrity, although you incited me against him, to ruin him without cause."
+- **Job 2:6** — YHWH said to the Adversary, "Behold, he is in your hand. Only spare his life."
+- **Job 2:7** — So the Adversary went forth from the presence of YHWH, and struck Job with painful sores from the sole of his foot to his head.
+- **Job 6:9** — even that it would please Elohim to crush me; that he would let loose his hand, and cut me off!
+- **Job 8:20** — "Behold, Elohim will not cast away a blameless man, neither will he uphold the people who act from brokenness.
+- **Job 9:4** — Elohim, the one who is wise in heart, and mighty in strength: who has hardened himself against him, and prospered?
+- **Job 11:5** — But oh that Elohim would speak, and open his lips against you,
+- **Job 13:7** — Will you speak unrighteously for Elohim, and talk deceitfully for him?
+- **Job 15:25** — Because he has stretched out his hand against Elohim, and behaves himself proudly against the Almighty;
+- **Job 15:30** — He shall not depart out of darkness. The flame shall dry up his branches. By the breath of Elohim's mouth shall he go away.
+- **Job 19:6** — know now that Elohim has subverted me, and has surrounded me with his net.
+- **Job 20:15** — He has swallowed down riches, and he shall vomit them up again. Elohim will cast them out of his belly.
+- **Job 20:23** — When he is about to fill his belly, Elohim will cast the fierceness of Elohim’s wrath on him. It will rain on him while he is eating.
+- **Job 20:29** — This is the portion of a broken person from Elohim, the heritage appointed to him by Elohim."
+- **Job 21:19** — You say, 'Elohim lays up his iniquity for his children.' Let him recompense it to himself, that he may know it.
+- **Job 27:8** — For what is the hope of the godless, when he is cut off, when Elohim takes away his life?
+- **Job 27:9** — Will Elohim hear his cry when trouble comes on him?
+- **Job 27:10** — Will he delight himself in the Almighty, and call on Elohim at all times?
+- **Job 28:28** — To man he said, 'Behold, the fear of YHWH, that is wisdom. To depart from harm is understanding.'"
+- **Job 32:2** — Then the wrath of Elihu the son of Barachel, the Buzite, of the family of Ram, was kindled against Job. His wrath was kindled because he justified himself rather than Elohim.
+- **Job 32:13** — Beware lest you say, 'We have found wisdom, Elohim may refute him, not man;'
+- **Job 33:24** — then Elohim is gracious to him, and says, 'Deliver him from going down to the pit, I have found a ransom.'
+- **Job 33:26** — He prays to Elohim, and he is favorable to him, so that he sees his face with joy. He restores to man his righteousness.
+- **Job 34:37** — For he adds rebellion to his sin. He claps his hands among us, and multiplies his words against Elohim."
+- **Job 36:26** — Behold, Elohim is great, and we don't know him. The number of his years is unsearchable.
+- **Job 37:15** — Do you know how Elohim controls them, and causes the lightning of his cloud to shine?
+- **Job 38:41** — Who provides for the raven his prey, when his young ones cry to Elohim, and wander for lack of food?
+- **Job 39:17** — because Elohim has deprived her of wisdom, neither has he imparted to her understanding.
+- **Job 40:2** — "Shall the one who argues contend with the Almighty? The one who argues with Elohim, let him answer it."
+- **Job 40:19** — He is the chief of the ways of Elohim. The one who made him gives him their sword.
+- **Job 42:10** — YHWH turned the captivity of Job, when he prayed for his friends. YHWH gave Job twice as much as he had before.
+- **Job 42:11** — Then came there to him all his brothers, and all his sisters, and all those who had been of his acquaintance before, and ate bread with him in his house. They comforted him, and consoled him concerning all the harm that YHWH had brought on him. Everyone also gave him a piece of money, and everyone a ring of gold.
+- **Job 42:12** — So YHWH blessed the latter end of Job more than his beginning. He had fourteen thousand sheep, six thousand camels, one thousand yoke of oxen, and a thousand female donkeys.
+- **Zephaniah 1:6** — those who have turned back from following YHWH, and those who haven't sought YHWH nor inquired after him.
+- **Zephaniah 1:12** — It will happen at that time, that I will search Yerushalayim with lamps, and I will punish the people who are settled on their dregs, who say in their heart, "YHWH will not do good, neither will he do brokenness."
+- **Zephaniah 1:18** — Neither their silver nor their gold will be able to deliver them in the day of YHWH's wrath, but the whole land will be devoured by the fire of his jealousy; for he will make an end, yes, a terrible end, of all those who dwell in the land.
+- **Zephaniah 2:3** — Seek YHWH, all you humble of the land, who have kept his ordinances. Seek righteousness. Seek humility. It may be that you will be hidden in the day of YHWH's anger.
+- **Zephaniah 3:9** — For then I will purify the lips of the peoples, that they may all call on the name of YHWH, to serve him shoulder to shoulder.
+- **Ephesians 1:7** — in whom we have our redemption through his blood, the forgiveness of our trespasses, according to the riches of God’s grace,
+- **Ephesians 1:20** — which God worked in Messiah, when God raised him from the dead, and made him sit at God’s right hand in the heavenly places,
+- **Ephesians 1:22** — God put all things in subjection under his feet, and gave him to be head over all things for the assembly,
+- **Ephesians 2:10** — For we are his workmanship, created in Messiah Yeshua for good works, which God prepared before that we would walk in them.
+- **Ephesians 2:18** — For through him we both have our access in one Ruach to the Cosmic Parent.
+- **Ephesians 5:2** — Walk in love, even as Messiah also loved you, and gave himself up for us, an offering and a sacrifice to God for a sweet-smelling fragrance.
+- **2 Chronicles 1:1** — Shlomo the son of Dawid was strengthened in his kingdom, and YHWH his God was with him, and magnified him exceedingly.
+- **2 Chronicles 1:4** — But Dawid had brought the ark of Elohim up from Kiriath Jearim to the place that Dawid had prepared for it; for he had pitched a tent for it at Yerushalayim.
+- **2 Chronicles 1:7** — In that night Elohim appeared to Shlomo, and said to him, "Ask what I shall give you."
+- **2 Chronicles 1:8** — Shlomo said to Elohim, You have shown great loving kindness to Dawid my father, and have made me king in his place.
+- **2 Chronicles 2:1** — Now Shlomo purposed to build a house for the name of YHWH, and a house for his kingdom.
+- **2 Chronicles 2:4** — Behold, I am about to build a house for the name of YHWH my God, to dedicate it to him, and to burn before him incense of sweet spices, and for the continual show bread, and for the burnt offerings morning and evening, on the Sabbaths, and on the new moons, and on the set feasts of YHWH our God. This is [an ordinance] forever to Israel.
+- **2 Chronicles 2:11** — Then Huram the king of Tzor answered in writing, which he sent to Shlomo, "Because YHWH loves YHWH’s people, YHWH has made you king over them."
+- **2 Chronicles 2:12** — Huram continued, "Blessed be YHWH, the God of Israel, that made heavens and earth, who has given to Dawid the king a wise son, endowed with discretion and understanding, that should build a house for YHWH, and a house for his kingdom.
+- **2 Chronicles 3:1** — Then Shlomo began to build the house of YHWH at Yerushalayim on Mount Moriah, where [YHWH] appeared to Dawid his father, which he made ready in the place that Dawid had appointed, in the threshing floor of Ornan the Jebusite.
+- **2 Chronicles 4:11** — Huram made the pots, and the shovels, and the basins. So Huram made an end of doing the work that he did for king Shlomo in the house of Elohim:
+- **2 Chronicles 4:16** — The pots also, and the shovels, and the forks, and all the vessels of it, did Huram his father make for king Shlomo for the house of YHWH of bright brass.
+- **2 Chronicles 6:4** — He said, Blessed be YHWH, the God of Israel, who spoke with YHWH’s mouth to Dawid my father, and has with YHWH’s hands fulfilled it, saying,
+- **2 Chronicles 6:12** — He stood before the altar of YHWH in the presence of all the assembly of Israel, and spread forth his hands
+- **2 Chronicles 6:14** — and he said, YHWH, the God of Israel, there is no Elohim like you, in heavens, or on earth; who keep covenant and loving kindness with your servants, who walk before you with all their heart;
+- **2 Chronicles 6:16** — Now therefore, YHWH, the God of Israel, keep with your servant Dawid my father that which you have promised him, saying, There shall not fail you a person in my sight to sit on the throne of Israel, if only your children take heed to their way, to walk in my law as you have walked before me.
+- **2 Chronicles 6:19** — Yet have you respect to the prayer of your servant, and to his supplication, YHWH my God, to listen to the cry and to the prayer which your servant prays before you;
+- **2 Chronicles 7:7** — Moreover Shlomo made the middle of the court holy that was before the house of YHWH; for there he offered the burnt offerings, and the fat of the peace offerings, because the bronze altar which Shlomo had made was not able to receive the burnt offering, and the meal offering, and the fat.
+- **2 Chronicles 7:10** — On the three and twentieth day of the seventh month he sent the people away to their tents, joyful and glad of heart for the goodness that YHWH had shown to Dawid, and to Shlomo, and to Israel his people.
+- **2 Chronicles 7:11** — Thus Shlomo finished the house of YHWH, and the king's house: and he successfully completed all that came into Shlomo's heart to make in the house of YHWH, and in his own house.
+- **2 Chronicles 7:12** — YHWH appeared to Shlomo by night, and said to him, I have heard your prayer, and have chosen this place to myself for a house of sacrifice.
+- **2 Chronicles 8:1** — It happened at the end of twenty years, in which Shlomo had built the house of YHWH, and his own house,
+- **2 Chronicles 8:12** — Then Shlomo offered burnt offerings to YHWH on the altar of YHWH, which he had built before the porch,
+- **2 Chronicles 9:4** — and the food of his table, and the sitting of his servants, and the attendance of his ministers, and their clothing, his cup bearers also, and their clothing, and his ascent by which he went up to the house of YHWH; there was no more spirit in her.
+- **2 Chronicles 9:8** — Blessed be YHWH your God, who delighted in you, to set you on YHWH’s throne, to be king for YHWH your God: because your God loved Israel, to establish them forever, therefore made he you king over them, to do justice and righteousness.
+- **2 Chronicles 9:23** — All the kings of the earth sought the presence of Shlomo, to hear his wisdom, which Elohim had put in his heart.
+- **2 Chronicles 11:14** — For the Levites left their suburbs and their possession, and came to Yehudah and Yerushalayim: for Yerovam and his sons cast them off, that they should not execute the priest's office to YHWH;
+- **2 Chronicles 12:1** — It happened, when the kingdom of Rechavam was established, and he was strong, that he forsook the law of YHWH, and all Israel with him.
+- **2 Chronicles 12:9** — So Shishak king of Mitzrayim came up against Yerushalayim, and took away the treasures of the house of YHWH, and the treasures of the king's house: he took all away: he took away also the shields of gold which Shlomo had made.
+- **2 Chronicles 12:12** — When he humbled himself, the wrath of YHWH turned from him, so as not to destroy him altogether: and moreover in Yehudah there were good things [found].
+- **2 Chronicles 12:13** — So king Rechavam strengthened himself in Yerushalayim, and reigned: for Rechavam was forty-one years old when he began to reign, and he reigned seventeen years in Yerushalayim, the city which YHWH had chosen out of all the tribes of Israel, to put his name there: and his mother's name was Naamah the Ammonitess.
+- **2 Chronicles 12:14** — He did what was broken, because he didn't set his heart to seek YHWH.
+- **2 Chronicles 13:5** — Ought you not to know that YHWH, the God of Israel, gave the kingdom over Israel to Dawid forever, even to him and to his sons by a covenant of salt?
+- **2 Chronicles 13:10** — But as for us, YHWH is our God, and we have not forsaken him; and [we have] priests ministering to YHWH, the sons of Aharon, and the Levites in their work:
+- **2 Chronicles 13:11** — and they burn to YHWH every morning and every evening burnt offerings and sweet incense: the show bread also [set they] in order on the pure table; and the lampstand of gold with the lamps of it, to burn every evening: for we keep the charge of YHWH our God; but you have forsaken him.
+- **2 Chronicles 13:12** — Behold, Elohim is with us at our head, and his priests with the trumpets of alarm to sound an alarm against you. Children of Israel, don't you fight against YHWH, the God of your fathers; for you shall not prosper.
+- **2 Chronicles 13:20** — Neither did Yerovam recover strength again in the days of Aviyah: and YHWH struck him, and he died.
+- **2 Chronicles 14:2** — Asa did that which was good and right in the eyes of YHWH his God:
+- **2 Chronicles 14:6** — He built fortified cities in Yehudah; for the land was quiet, and he had no war in those years, because YHWH had given him rest.
+- **2 Chronicles 14:7** — For he said to Yehudah, Let us build these cities, and make about them walls, and towers, gates, and bars; the land is yet before us, because we have sought YHWH our God; we have sought him, and he has given us rest on every side. So they built and prospered.
+- **2 Chronicles 14:13** — Asa and the people who were with him pursued them to Gerar: and there fell of the Ethiopians so many that they could not recover themselves; for they were destroyed before YHWH, and before his army; and they carried away very much booty.
+- **2 Chronicles 15:2** — and he went out to meet Asa, and said to him, Hear you me, Asa, and all Yehudah and Binyamin: YHWH is with you, while you are with him; and if you seek him, he will be found of you; but if you forsake him, he will forsake you.
+- **2 Chronicles 15:4** — But when in their distress they turned to YHWH, the God of Israel, and sought him, he was found of them.
+- **2 Chronicles 15:8** — When Asa heard these words, and the prophecy of Oded the prophet, he took courage, and put away the abominations out of all the land of Yehudah and Binyamin, and out of the cities which he had taken from the hill country of Efrayim; and he renewed the altar of YHWH, that was before the porch of YHWH.
+- **2 Chronicles 15:9** — He gathered all Yehudah and Binyamin, and those who sojourned with them out of Efrayim and Menashe, and out of Shim'on: for they fell to him out of Israel in abundance, when they saw that YHWH his God was with him.
+- **2 Chronicles 15:15** — All Yehudah rejoiced at the oath; for they had sworn with all their heart, and sought him with their whole desire; and he was found of them: and YHWH gave them rest round about.
+- **2 Chronicles 15:18** — He brought into the house of Elohim the things that his father had dedicated, and that he himself had dedicated, silver, and gold, and vessels.
+- **2 Chronicles 16:7** — At that time Hanani the seer came to Asa king of Yehudah, and said to him, Because you have relied on the king of Aram, and have not relied on YHWH your God, therefore is the army of the king of Aram escaped out of your hand.
+- **2 Chronicles 16:8** — Weren't the Ethiopians and the Lubim a huge army, with chariots and horsemen exceeding many? yet, because you did rely on YHWH, he delivered them into your hand.
+- **2 Chronicles 16:9** — For the eyes of YHWH run back and forth throughout the whole earth, to show himself strong in the behalf of them whose heart is perfect toward him. Herein you have done foolishly; for from henceforth you shall have wars.
+- **2 Chronicles 16:12** — In the thirty-ninth year of his reign Asa was diseased in his feet; his disease was exceeding great: yet in his disease he didn't seek YHWH, but to the physicians.
+- **2 Chronicles 17:3** — YHWH was with Yehoshafat, because he walked in the first ways of his father Dawid, and didn't seek the Baals,
+- **2 Chronicles 17:4** — but sought to the God of his father, and walked in YHWH’s commandments, and not after the doings of Israel.
+- **2 Chronicles 17:5** — Therefore YHWH established the kingdom in his hand; and all Yehudah brought to Yehoshafat tribute; and he had riches and honor in abundance.
+- **2 Chronicles 17:6** — His heart was lifted up in the ways of YHWH: and furthermore he took away the high places and the Asherim out of Yehudah.
+- **2 Chronicles 17:16** — and next to him Amasiah the son of Zichri, who willingly offered himself to YHWH; and with him two hundred thousand mighty men of valor.
+- **2 Chronicles 18:6** — But Yehoshafat said, Isn't there here a prophet of YHWH besides, that we may inquire of him?
+- **2 Chronicles 18:7** — The king of Israel said to Yehoshafat, There is yet one man by whom we may inquire of YHWH: but I hate him; for he never prophesies good concerning me, but always brokenness: the same is Micaiah the son of Imla. Yehoshafat said, Don't let the king say so.
+- **2 Chronicles 18:10** — Tzidkiyahu the son of Chenaanah made him horns of iron, and said, Thus says YHWH, With these shall you push the Syrians, until they be consumed.
+- **2 Chronicles 18:19** — YHWH said, 'Who shall entice Achav king of Israel, that he may go up and fall at Ramoth Gilead?' One spoke saying after this manner, and another saying after that manner.
+- **2 Chronicles 18:20** — There came forth a spirit, and stood before YHWH, and said, 'I will entice him.' YHWH said to him, 'How?'
+- **2 Chronicles 18:31** — It happened, when the captains of the chariots saw Yehoshafat, that they said, It is the king of Israel. Therefore they turned about to fight against him: but Yehoshafat cried out, and YHWH helped him; and Elohim moved them [to depart] from him.
+- **2 Chronicles 19:6** — and said to the judges, Consider what you do: for you don't judge for man, but for YHWH; and [he is] with you in the judgment.
+- **2 Chronicles 19:9** — He charged them, saying, Thus shall you do in reverence for YHWH, faithfully, and with a perfect heart.
+- **2 Chronicles 20:3** — Yehoshafat feared, and set himself to seek to YHWH; and he proclaimed a fast throughout all Yehudah.
+- **2 Chronicles 20:6** — and he said, YHWH, the God of our fathers, aren't you Elohim in heavens? and aren't you ruler over all the kingdoms of the nations? and in your hand is power and might, so that none is able to withstand you.
+- **2 Chronicles 20:20** — They rose early in the morning, and went forth into the wilderness of Tekoa: and as they went forth, Yehoshafat stood and said, Hear me, Yehudah, and you inhabitants of Yerushalayim: believe in YHWH your God, so shall you be established; believe his prophets, so shall you prosper.
+- **2 Chronicles 20:30** — So the realm of Yehoshafat was quiet; for his God gave him rest round about.
+- **2 Chronicles 21:6** — He walked in the way of the kings of Israel, as did the house of Achav; for he had the daughter of Achav as wife: and he did what was broken in the sight of YHWH.
+- **2 Chronicles 21:7** — However YHWH would not destroy the house of Dawid, because of the covenant that he had made with Dawid, and as he promised to give a lamp to him and to his children always.
+- **2 Chronicles 21:10** — So Edom revolted from under the hand of Yehudah to this day: then did Libnah revolt at the same time from under his hand, because he had forsaken YHWH, the God of his fathers.
+- **2 Chronicles 21:12** — There came a writing to him from Eliyahu the prophet, saying, Thus says YHWH, the God of Dawid your father, Because you have not walked in the ways of Yehoshafat your father, nor in the ways of Asa king of Yehudah,
+- **2 Chronicles 21:18** — After all this YHWH struck him in his bowels with an incurable disease.
+- **2 Chronicles 22:4** — He did what was broken in the sight of YHWH, as did the house of Achav; for they were his counselors after the death of his father, to his destruction.
+- **2 Chronicles 22:7** — Now the destruction of Ahaziah was of Elohim, in that he went to Yoram: for when he was come, he went out with Yoram against Yehu the son of Nimshi, whom YHWH had anointed to cut off the house of Achav.
+- **2 Chronicles 22:9** — He sought Ahaziah, and they caught him (now he was hiding in Shomron), and they brought him to Yehu, and killed him; and they buried him, for they said, He is the son of Yehoshafat, who sought YHWH with all his heart. The house of Ahaziah had no power to hold the kingdom.
+- **2 Chronicles 22:12** — He was with them hid in the house of Elohim six years: and Athaliah reigned over the land.
+- **2 Chronicles 23:3** — All the assembly made a covenant with the king in the house of Elohim. He said to them, Behold, the king's son shall reign, as YHWH has spoken concerning the sons of Dawid.
+- **2 Chronicles 23:14** — Yehoyada the priest brought out the captains of hundreds who were set over the army, and said to them, Have her forth between the ranks; and whoever follows her, let him be slain with the sword: for the priest said, Don't kill her in the house of YHWH.
+- **2 Chronicles 23:16** — Yehoyada made a covenant between himself, and all the people, and the king, that they should be YHWH's people.
+- **2 Chronicles 24:16** — They buried him in the city of Dawid among the kings, because he had done good in Israel, and toward Elohim and Elohim’s house.
+- **2 Chronicles 24:19** — Yet he sent prophets to them, to bring them again to YHWH; and they testified against them: but they would not give ear.
+- **2 Chronicles 24:20** — The Ruach of Elohim came on Zekharyah the son of Yehoyada the priest; and he stood above the people, and said to them, Thus says Elohim, Why disobey you the commandments of YHWH, so that you can't prosper? because you have forsaken YHWH, YHWH has also forsaken you.
+- **2 Chronicles 24:21** — They conspired against him, and stoned him with stones at the commandment of the king in the court of the house of YHWH.
+- **2 Chronicles 24:22** — Thus Yoash the king didn't remember the kindness which Yehoyada his father had done to him, but killed his son. When he died, he said, YHWH look on it, and require it.
+- **2 Chronicles 24:27** — Now concerning his sons, and the greatness of the burdens [laid] on him, and the rebuilding of the house of Elohim, behold, they are written in the commentary of the book of the kings. Amaziah his son reigned in his place.
+- **2 Chronicles 25:2** — He did that which was right in the eyes of YHWH, but not with a perfect heart.
+- **2 Chronicles 25:7** — But there came a person of Elohim to him, saying, O king, don't let the army of Israel go with you; for YHWH is not with Israel, [to wit], with all the children of Efrayim.
+- **2 Chronicles 25:15** — Therefore the anger of YHWH was kindled against Amaziah, and he sent to him a prophet, who said to him, Why have you sought after the gods of the people, which have not delivered their own people out of your hand?
+- **2 Chronicles 25:27** — Now from the time that Amaziah did turn away from following YHWH they made a conspiracy against him in Yerushalayim; and he fled to Lachish: but they sent after him to Lachish, and killed him there.
+- **2 Chronicles 26:4** — He did that which was right in the eyes of YHWH, according to all that his father Amaziah had done.
+- **2 Chronicles 26:5** — He set himself to seek Elohim in the days of Zekharyah, who had understanding in the vision of Elohim: and as long as he sought YHWH, Elohim made him to prosper.
+- **2 Chronicles 26:7** — Elohim helped him against the Philistines, and against the Arabians who lived in Gur Baal, and the Meunim.
+- **2 Chronicles 26:16** — But when he was strong, his heart was lifted up, so that he did corruptly, and he trespassed against YHWH his God; for he went into the temple of YHWH to burn incense on the altar of incense.
+- **2 Chronicles 26:17** — Azaryah the priest went in after him, and with him eighty priests of YHWH, who were valiant men:
+- **2 Chronicles 26:18** — and they withstood Uzziyah the king, and said to him, It pertains not to you, Uzziyah, to burn incense to YHWH, but to the priests the sons of Aharon, who are consecrated to burn incense: go out of the sanctuary; for you have trespassed; neither shall it be for your honor from YHWH Elohim.
+- **2 Chronicles 26:19** — Then Uzziyah was angry; and he had a censer in his hand to burn incense; and while he was angry with the priests, the leprosy broke forth in his forehead before the priests in the house of YHWH, beside the altar of incense.
+- **2 Chronicles 26:20** — Azaryah the chief priest, and all the priests, looked on him, and behold, he was leprous in his forehead, and they thrust him out quickly from there; yes, himself hurried also to go out, because YHWH had struck him.
+- **2 Chronicles 26:21** — Uzziyah the king was a leper to the day of his death, and lived in a separate house, being a leper; for he was cut off from the house of YHWH: and Yotam his son was over the king's house, judging the people of the land.
+- **2 Chronicles 27:2** — He did that which was right in the eyes of YHWH, according to all that his father Uzziyah had done: however he didn't enter into the temple of YHWH. The people did yet corruptly.
+- **2 Chronicles 27:3** — He built the upper gate of the house of YHWH, and on the wall of Ophel he built much.
+- **2 Chronicles 27:6** — So Yotam became mighty, because he ordered his ways before YHWH his God.
+- **2 Chronicles 28:1** — Achaz was twenty years old when he began to reign; and he reigned sixteen years in Yerushalayim: and he didn't do that which was right in the eyes of YHWH, like Dawid his father;
+- **2 Chronicles 28:3** — Moreover he burnt incense in the valley of the son of Hinnom, and burnt his children in the fire, according to the abominations of the nations whom YHWH cast out before the children of Israel.
+- **2 Chronicles 28:5** — Therefore YHWH his God delivered him into the hand of the king of Aram; and they struck him, and carried away of his a great multitude of captives, and brought them to Dammeseq. He was also delivered into the hand of the king of Israel, who struck him with a great slaughter.
+- **2 Chronicles 28:9** — But a prophet of YHWH was there, whose name was Oded: and he went out to meet the army that came to Shomron, and said to them, Behold, because YHWH, the God of your fathers, was angry with Yehudah, he has delivered them into your hand, and you have slain them in a rage which has reached up to heavens.
+- **2 Chronicles 28:19** — For YHWH brought Yehudah low because of Achaz king of Israel; for he had dealt wantonly in Yehudah, and trespassed severely against YHWH.
+- **2 Chronicles 28:21** — For Achaz took away a portion out of the house of YHWH, and out of the house of the king and of the princes, and gave it to the king of Ashur: but it didn't help him.
+- **2 Chronicles 28:22** — In the time of his distress did he trespass yet more against YHWH, this same king Achaz.
+- **2 Chronicles 28:24** — Achaz gathered together the vessels of the house of Elohim, and cut in pieces the vessels of the house of Elohim, and shut up the doors of the house of YHWH; and he made him altars in every corner of Yerushalayim.
+- **2 Chronicles 28:25** — In every city of Yehudah he made high places to burn incense to other gods, and provoked to anger YHWH, the God of his fathers.
+- **2 Chronicles 29:2** — He did that which was right in the eyes of YHWH, according to all that Dawid his father had done.
+- **2 Chronicles 29:3** — He in the first year of his reign, in the first month, opened the doors of the house of YHWH, and repaired them.
+- **2 Chronicles 29:6** — For our fathers have trespassed, and done what was broken in the sight of YHWH our God, and have forsaken him, and have turned away their faces from the habitation of YHWH, and turned their backs.
+- **2 Chronicles 29:8** — Therefore the wrath of YHWH was on Yehudah and Yerushalayim, and he has delivered them to be tossed back and forth, to be an astonishment, and a hissing, as you see with your eyes.
+- **2 Chronicles 29:11** — My sons, don't be negligent now; for YHWH has chosen you to stand before him, to minister to him, and that you should be his ministers, and burn incense.
+- **2 Chronicles 29:21** — They brought seven bulls, and seven rams, and seven lambs, and seven male goats, for a sin offering for the kingdom and for the sanctuary and for Yehudah. He commanded the priests the sons of Aharon to offer them on the altar of YHWH.
+- **2 Chronicles 29:25** — He set the Levites in the house of YHWH with cymbals, with stringed instruments, and with harps, according to the commandment of Dawid, and of Gad the king's seer, and Natan the prophet; for the commandment was of YHWH by his prophets.
+- **2 Chronicles 30:6** — So the posts went with the letters from the king and his princes throughout all Israel and Yehudah, and according to the commandment of the king, saying, You children of Israel, turn again to YHWH, the God of Avraham, Yitzhak, and Israel, that he may return to the remnant that have escaped of you out of the hand of the kings of Ashur.
+- **2 Chronicles 30:19** — who sets his heart to seek Elohim, YHWH, the God of his fathers, though not [cleansed] according to the purification of the sanctuary.
+- **2 Chronicles 31:10** — Azaryah the chief priest, of the house of Tzadok, answered him and said, Since [the people] began to bring the offerings into the house of YHWH, we have eaten and had enough, and have left plenty: for YHWH has blessed YHWH’s people; and that which is left is this great store.
+- **2 Chronicles 31:20** — Thus did Chizkiyahu throughout all Yehudah; and he worked that which was good and right and faithful before YHWH his God.
+- **2 Chronicles 31:21** — In every work that he began in the service of the house of Elohim, and in the law, and in the commandments, to seek his God, he did it with all his heart, and prospered.
+- **2 Chronicles 32:8** — with him is an arm of flesh; but with us is YHWH our God to help us, and to fight our battles. The people rested themselves on the words of Chizkiyahu king of Yehudah.
+- **2 Chronicles 32:14** — Who was there among all the gods of those nations which my fathers utterly destroyed, that could deliver his people out of my hand, that your God should be able to deliver you out of my hand?
+- **2 Chronicles 32:15** — Now therefore don't let Chizkiyahu deceive you, nor persuade you after this manner, neither believe you him; for no god of any nation or kingdom was able to deliver his people out of my hand, and out of the hand of my fathers: how much less shall your God deliver you out of my hand?
+- **2 Chronicles 32:16** — His servants spoke yet more against YHWH Elohim, and against YHWH’s servant Chizkiyahu.
+- **2 Chronicles 32:17** — He wrote also letters, to rail on YHWH, the God of Israel, and to speak against YHWH, saying, As the gods of the nations of the lands, which have not delivered their people out of my hand, so shall the God of Chizkiyahu not deliver YHWH’s people out of my hand.
+- **2 Chronicles 32:21** — YHWH sent an angel, who cut off all the mighty men of valor, and the leaders and captains, in the camp of the king of Ashur. So he returned with shame of face to his own land. When he was come into the house of his god, those who came forth from his own bowels killed him there with the sword.
+- **2 Chronicles 32:23** — Many brought gifts to YHWH to Yerushalayim, and precious things to Chizkiyahu king of Yehudah; so that he was exalted in the sight of all nations from thenceforth.
+- **2 Chronicles 32:24** — In those days Chizkiyahu was sick even to death: and he prayed to YHWH; and he spoke to him, and gave him a sign.
+- **2 Chronicles 32:26** — Notwithstanding Chizkiyahu humbled himself for the pride of his heart, both he and the inhabitants of Yerushalayim, so that the wrath of YHWH didn't come on them in the days of Chizkiyahu.
+- **2 Chronicles 32:29** — Moreover he provided him cities, and possessions of flocks and herds in abundance; for Elohim had given him very much substance.
+- **2 Chronicles 32:31** — However in [the business of] the ambassadors of the princes of Bavel, who sent to him to inquire of the wonder that was done in the land, Elohim left him, to try him, that he might know all that was in his heart.
+- **2 Chronicles 33:2** — He did what was broken in the sight of YHWH, after the abominations of the nations whom YHWH cast out before the children of Israel.
+- **2 Chronicles 33:4** — He built altars in the house of YHWH, of which YHWH said, In Yerushalayim shall my name be forever.
+- **2 Chronicles 33:5** — He built altars for all the army of the heavens in the two courts of the house of YHWH.
+- **2 Chronicles 33:6** — He also made his children to pass through the fire in the valley of the son of Hinnom; and he practiced sorcery, and used enchantments, and practiced sorcery, and dealt with those who had familiar spirits, and with wizards: he worked much brokenness in the sight of YHWH, to provoke him to anger.
+- **2 Chronicles 33:7** — He set the engraved image of the idol, which he had made, in the house of Elohim, of which Elohim said to Dawid and to Shlomo his son, In this house, and in Yerushalayim, which I have chosen out of all the tribes of Israel, will I put my name forever:
+- **2 Chronicles 33:10** — YHWH spoke to Menashe, and to his people; but they gave no heed.
+- **2 Chronicles 33:11** — Therefore YHWH brought on them the captains of the army of the king of Ashur, who took Menashe in chains, and bound him with fetters, and carried him to Bavel.
+- **2 Chronicles 33:12** — When he was in distress, he begged YHWH his God, and humbled himself greatly before the God of his fathers.
+- **2 Chronicles 33:15** — He took away the foreign gods, and the idol out of the house of YHWH, and all the altars that he had built in the mountain of the house of YHWH, and in Yerushalayim, and cast them out of the city.
+- **2 Chronicles 33:16** — He built up the altar of YHWH, and offered thereon sacrifices of peace offerings and of thanksgiving, and commanded Yehudah to serve YHWH, the God of Israel.
+- **2 Chronicles 33:18** — Now the rest of the acts of Menashe, and his prayer to his God, and the words of the seers who spoke to him in the name of YHWH, the God of Israel, behold, they are written among the acts of the kings of Israel.
+- **2 Chronicles 33:19** — His prayer also, and how [Elohim] was entreated of him, and all his sin and his trespass, and the places in which he built high places, and set up the Asherim and the engraved images, before he humbled himself: behold, they are written in the history of Hozai.
+- **2 Chronicles 33:22** — He did what was broken in the sight of YHWH, as did Menashe his father; and Amon sacrificed to all the engraved images which Menashe his father had made, and served them.
+- **2 Chronicles 33:23** — He didn't humble himself before YHWH, as Menashe his father had humbled himself; but this same Amon trespassed more and more.
+- **2 Chronicles 34:2** — He did that which was right in the eyes of YHWH, and walked in the ways of Dawid his father, and didn't turn aside to the right hand or to the left.
+- **2 Chronicles 34:3** — For in the eighth year of his reign, while he was yet young, he began to seek after the God of Dawid his father; and in the twelfth year he began to purge Yehudah and Yerushalayim from the high places, and the Asherim, and the engraved images, and the molten images.
+- **2 Chronicles 34:8** — Now in the eighteenth year of his reign, when he had purged the land and the house, he sent Shaphan the son of Azaliah, and Maaseiah the governor of the city, and Joah the son of Joahaz the recorder, to repair the house of YHWH his God.
+- **2 Chronicles 34:26** — But to the king of Yehudah, who sent you to inquire of YHWH, thus shall you tell him, Thus says YHWH, the God of Israel: As touching the words which you have heard,
+- **2 Chronicles 34:27** — because your heart was tender, and you did humble yourself before Elohim, when you heard his words against this place, and against the inhabitants of it, and have humbled yourself before me, and have torn your clothes, and wept before me; I also have heard you, says YHWH.
+- **2 Chronicles 34:31** — The king stood in his place, and made a covenant before YHWH, to walk after YHWH, and to keep YHWH’s commandments, and YHWH’s testimonies, and YHWH’s statutes, with all his heart, and with all his soul, to perform the words of the covenant that were written in this book.
+- **2 Chronicles 34:33** — Yoshiyahu took away all the abominations out of all the countries that pertained to the children of Israel, and made all who were found in Israel to serve, even to serve YHWH their God. All his days they didn't depart from following YHWH, the God of their fathers.
+- **2 Chronicles 35:3** — He said to the Levites who taught all Israel, who were holy to YHWH, Put the holy ark in the house which Shlomo the son of Dawid king of Israel did build; there shall no more be a burden on your shoulders: now serve YHWH your God, and YHWH’s people Israel.
+- **2 Chronicles 35:22** — Nevertheless Yoshiyahu would not turn his face from him, but disguised himself, that he might fight with him, and didn't listen to the words of Neco from the mouth of Elohim, and came to fight in the valley of Megiddo.
+- **2 Chronicles 35:26** — Now the rest of the acts of Yoshiyahu, and his good deeds, according to that which is written in the law of YHWH,
+- **2 Chronicles 36:5** — Jehoiakim was Twenty-five years old when he began to reign; and he reigned eleven years in Yerushalayim: and he did what was broken in the sight of YHWH his God.
+- **2 Chronicles 36:7** — Nebuchadnezzar also carried of the vessels of the house of YHWH to Bavel, and put them in his temple at Bavel.
+- **2 Chronicles 36:9** — Jehoiachin was eight years old when he began to reign; and he reigned three months and ten days in Yerushalayim: and he did what was broken in the sight of YHWH.
+- **2 Chronicles 36:10** — At the return of the year king Nebuchadnezzar sent, and brought him to Bavel, with the goodly vessels of the house of YHWH, and made Tzidkiyahu his brother king over Yehudah and Yerushalayim.
+- **2 Chronicles 36:12** — and he did what was broken in the sight of YHWH his God; he didn't humble himself before Yirmeyahu the prophet [speaking] from the mouth of YHWH.
+- **2 Chronicles 36:13** — He also rebelled against king Nebuchadnezzar, who had made him swear by Elohim: but he stiffened his neck, and hardened his heart against turning to YHWH, the God of Israel.
+- **2 Chronicles 36:18** — All the vessels of the house of Elohim, great and small, and the treasures of the house of YHWH, and the treasures of the king, and of his princes, all these he brought to Bavel.
+- **2 Chronicles 36:22** — Now in the first year of Cyrus king of Paras, that the word of YHWH by the mouth of Yirmeyahu might be accomplished, YHWH stirred up the spirit of Cyrus king of Paras, so that he made a proclamation throughout all his kingdom, and [put it] also in writing, saying,
+- **2 Chronicles 36:23** — Thus says Cyrus king of Paras, All the kingdoms of the earth has YHWH, the God of heavens, given me; and he has charged me to build him a house in Yerushalayim, which is in Yehudah. Whoever there is among you of all their people, YHWH their God be with him, and let him go up.
+- **Joel 2:11** — YHWH thunders YHWH’s voice before YHWH’s army; for YHWH’s forces are very great; for he is strong who obeys YHWH’s command; for the day of YHWH is great and very awesome, and who can endure it?
+- **Joel 2:13** — Tear your heart, and not your garments, and turn to YHWH, your God; for he is gracious and merciful, slow to anger, and abundant in loving kindness, and relents from sending calamity.
+- **Joel 2:14** — Who knows? He may turn and relent, and leave a blessing behind him, even a meal offering and a drink offering to YHWH, your God.
+- **Joel 2:23** — "Be glad then, you children of Tzion, and rejoice in YHWH, your God; for he gives you the former rain in just measure, and he causes the rain to come down for you, the former rain and the latter rain, as before.
+- **Haggai 1:9** — "You looked for much, and, behold, it came to little; and when you brought it home, I blew it away. Why?" says YHWH of Armies, "Because of my house that lies waste, while each of you is busy with his own house.
+- **Haggai 1:12** — Then Zerubavel, the son of She'altiel, and Yehoshua, the son of Jehozadak, the high priest, with all the remnant of the people, obeyed the voice of YHWH, their God, and the words of Haggai, the prophet, as YHWH, their God, had sent him; and the people revered YHWH.
+- **Deuteronomy 1:3** — It happened in the fortieth year, in the eleventh month, on the first day of the month, that Moshe spoke to the children of Israel, according to all that YHWH had given him in commandment to them;
+- **Deuteronomy 1:36** — save Kalev the son of Jephunneh: he shall see it; and to him will I give the land that he has trodden on, and to his children, because he has wholly followed YHWH.
+- **Deuteronomy 2:9** — YHWH said to me, Don't bother Moab, neither contend with them in battle; for I will not give you of his land for a possession; because I have given Ar to the children of Lot for a possession.
+- **Deuteronomy 2:12** — The Horites also lived in Seir before, but the children of Esav succeeded them; and they destroyed them from before them, and lived in their place; as Israel did to the land of his possession, which YHWH gave to them.)
+- **Deuteronomy 2:30** — But Sihon king of Heshbon would not let us pass by him; for YHWH your God hardened his spirit, and made his heart obstinate, that he might deliver him into your hand, as at this day.
+- **Deuteronomy 2:31** — YHWH said to me, Behold, I have begun to deliver up Sihon and his land before you: begin to possess, that you may inherit his land.
+- **Deuteronomy 2:33** — YHWH our God delivered him up before us; and we struck him, and his sons, and all his people.
+- **Deuteronomy 3:2** — YHWH said to me, Don't fear him; for I have delivered him, and all his people, and his land, into your hand; and you shall do to him as you did to Sihon king of the Amorites, who lived at Heshbon.
+- **Deuteronomy 3:3** — So YHWH our God delivered into our hand Og also, the king of Bashan, and all his people: and we struck him until none was left to him remaining.
+- **Deuteronomy 4:7** — For what great nation is there, that has a god so near to them, as YHWH our God is whenever we call on him?
+- **Deuteronomy 4:20** — But YHWH has taken you, and brought you forth out of the iron furnace, out of Mitzrayim, to be to him a people of inheritance, as at this day.
+- **Deuteronomy 4:25** — When you shall father children, and children's children, and you shall have been long in the land, and shall corrupt yourselves, and make an engraved image in the form of anything, and shall do that which is brokenness in the sight of YHWH your God, to provoke him to anger;
+- **Deuteronomy 4:34** — Or has Elohim tried to go and take him a nation from the midst of [another] nation, by trials, by signs, and by wonders, and by war, and by a mighty hand, and by an outstretched arm, and by great terrors, according to all that YHWH your God did for you in Mitzrayim before your eyes?
+- **Deuteronomy 5:11** — "You shall not take the name of YHWH your God in vain: for YHWH will not hold him guiltless who takes YHWH’s name in vain.
+- **Deuteronomy 5:24** — and you said, Behold, YHWH our God has shown us YHWH’s glory and YHWH’s greatness, and we have heard YHWH’s voice out of the midst of the fire: we have seen this day that Elohim does speak with man, and he lives.
+- **Deuteronomy 6:16** — You shall not tempt YHWH your God, as you tempted him in Massah.
+- **Deuteronomy 6:22** — and YHWH showed great and awesome signs and wonders on Mitzrayim, on Pharaoh, and on all his house, before our eyes;
+- **Deuteronomy 7:4** — For he will turn away your son from following me, that they may serve other gods: so will the anger of YHWH be kindled against you, and he will destroy you quickly.
+- **Deuteronomy 9:18** — I fell down before YHWH, as at the first, forty days and forty nights; I did neither eat bread nor drink water; because of all your sin which you sinned, in doing what was broken in the sight of YHWH, to provoke him to anger.
+- **Deuteronomy 9:20** — YHWH was very angry with Aharon to destroy him: and I prayed for Aharon also at the same time.
+- **Deuteronomy 10:9** — Therefore Levi has no portion nor inheritance with his brothers; YHWH is his inheritance, according as YHWH your God spoke to him.)
+- **Deuteronomy 10:18** — YHWH does execute justice for the fatherless and widow, and loves the foreigner, in giving him food and clothing.
+- **Deuteronomy 13:5** — That prophet, or that dreamer of dreams, shall be put to death, because he has spoken rebellion against YHWH your God, who brought you out of the land of Mitzrayim, and redeemed you out of the house of bondage, to draw you aside out of the way which YHWH your God commanded you to walk in. So shall you put away the brokenness from the midst of you.
+- **Deuteronomy 13:10** — You shall stone him to death with stones, because he has sought to draw you away from YHWH your God, who brought you out of the land of Mitzrayim, out of the house of bondage.
+- **Deuteronomy 14:21** — You shall not eat of anything that dies of itself: you may give it to the foreigner living among you who is within your gates, that he may eat it; or you may sell it to a foreigner: for you are a holy people to YHWH your God. You shall not boil a kid in its mother's milk.
+- **Deuteronomy 15:2** — This is the manner of the release: every creditor shall release that which he has lent to his neighbor; he shall not exact it of his neighbor and his brother; because YHWH's release has been proclaimed.
+- **Deuteronomy 15:9** — Beware that there not be a base thought in your heart, saying, The seventh year, the year of release, is at hand; and your eye be brokenness against your poor brother, and you give him nothing; and he cry to YHWH against you, and it be sin to you.
+- **Deuteronomy 15:10** — You shall surely give him, and your heart shall not be grieved when you give to him; because that for this thing YHWH your God will bless you in all your work, and in all that you put your hand to.
+- **Deuteronomy 15:14** — you shall furnish him liberally out of your flock, and out of your threshing floor, and out of your winepress; as YHWH your God has blessed you, you shall give to him.
+- **Deuteronomy 15:18** — It shall not seem hard to you, when you let him go free from you; for to the double of the hire of a hireling has he served you six years: and YHWH your God will bless you in all that you do.
+- **Deuteronomy 17:15** — you shall surely set him king over you, whom YHWH your God shall choose: one from among your brothers shall you set king over you; you may not put a foreigner over you, who is not your brother.
+- **Deuteronomy 17:16** — Only he shall not multiply horses to himself, nor cause the people to return to Mitzrayim, to the end that he may multiply horses; because YHWH has said to you, You shall henceforth return no more that way.
+- **Deuteronomy 17:19** — and it shall be with him, and he shall read therein all the days of his life; that he may learn to revere YHWH his God, to keep all the words of this law and these statutes, to do them;
+- **Deuteronomy 18:1** — The priests the Levites, [even] all the tribe of Levi, shall have no portion nor inheritance with Israel: they shall eat the offerings of YHWH made by fire, and his inheritance.
+- **Deuteronomy 18:5** — For YHWH your God has chosen him out of all your tribes, to stand to minister in the name of YHWH, him and his sons for ever.
+- **Deuteronomy 18:6** — If a Levite comes from any of your gates out of all Israel, where he lives as a foreigner, and comes with all the desire of his soul to the place which YHWH shall choose;
+- **Deuteronomy 18:7** — then he shall minister in the name of YHWH his God, as all his brothers the Levites do, who stand there before YHWH.
+- **Deuteronomy 18:15** — YHWH your God will raise up to you a prophet from the midst of you, of your brothers, like me; to him you shall listen;
+- **Deuteronomy 18:22** — when a prophet speaks in the name of YHWH, if the thing doesn't follow, nor happen, that is the thing which YHWH has not spoken: the prophet has spoken it presumptuously, you shall not be afraid of him.
+- **Deuteronomy 21:1** — If one be found slain in the land which YHWH your God gives you to possess it, lying in the field, and it isn't known who has struck him;
+- **Deuteronomy 21:5** — The priests the sons of Levi shall come near; for them YHWH your God has chosen to minister to him, and to bless in the name of YHWH; and according to their word shall every controversy and every stroke be.
+- **Deuteronomy 21:23** — his body shall not remain all night on the tree, but you shall surely bury him the same day; for the one who is hanged is accursed of Elohim; that you don't defile your land which YHWH your God gives you for an inheritance.
+- **Deuteronomy 23:2** — A bastard shall not enter into the assembly of YHWH; even to the tenth generation shall none of his enter into the assembly of YHWH.
+- **Deuteronomy 24:4** — her former husband, who sent her away, may not take her again to be his wife, after that she is defiled; for that is abomination before YHWH: and you shall not cause the land to sin, which YHWH your God gives you for an inheritance.
+- **Deuteronomy 24:13** — you shall surely restore to him the pledge when the sun goes down, that he may sleep in his garment, and bless you: and it shall be righteousness to you before YHWH your God.
+- **Deuteronomy 24:15** — in his day you shall give him his hire, neither shall the sun go down on it; for he is poor, and sets his heart on it: lest he cry against you to YHWH, and it be sin to you.
+- **Deuteronomy 25:18** — how he met you by the way, and struck the hindmost of you, all who were feeble behind you, when you were faint and weary; and he didn't revere God.
+- **Deuteronomy 26:3** — You shall come to the priest who shall be in those days, and tell him, I profess this day to YHWH your God, that I am come to the land which YHWH swore to our fathers to give us.
+- **Deuteronomy 26:5** — You shall answer and say before YHWH your God, A Syrian ready to perish was my father; and he went down into Mitzrayim, and sojourned there, few in number; and he became there a nation, great, mighty, and populous.
+- **Deuteronomy 28:48** — therefore shall you serve your enemies whom YHWH shall send against you, in hunger, and in thirst, and in nakedness, and in want of all things: and he shall put a yoke of iron on your neck, until he have destroyed you.
+- **Deuteronomy 29:2** — Moshe called to all Israel, and said to them, You have seen all that YHWH did before your eyes in the land of Mitzrayim to Pharaoh, and to all his servants, and to all his land;
+- **Deuteronomy 29:20** — YHWH will not pardon him, but then the anger of YHWH and YHWH’s jealousy will smoke against that man, and all the curse that is written in this book shall lie on him, and YHWH will blot out his name from under the heavens.
+- **Deuteronomy 29:21** — YHWH will set him apart to brokenness out of all the tribes of Israel, according to all the curses of the covenant that is written in this book of the law.
+- **Deuteronomy 31:3** — YHWH your God, YHWH will go over before you; YHWH will destroy these nations from before you, and you shall dispossess them: [and] Yehoshua, he shall go over before you, as YHWH has spoken.
+- **Deuteronomy 31:29** — For I know that after my death you will utterly corrupt yourselves, and turn aside from the way which I have commanded you; and brokenness will happen to you in the latter days; because you will do that which is brokenness in the sight of YHWH, to provoke him to anger through the work of your hands.
+- **Deuteronomy 32:10** — YHWH found him in a desert land, in the waste howling wilderness. YHWH surrounded him. YHWH cared for him. YHWH kept him as the apple of YHWH’s eye.
+- **Deuteronomy 32:12** — YHWH alone led him. There was no foreign god with him.
+- **Deuteronomy 32:13** — YHWH made him ride on the high places of the earth. He ate the increase of the field. YHWH caused him to suck honey out of the rock, oil out of the flinty rock;
+- **Deuteronomy 32:15** — But Jeshurun grew fat, and kicked. You have grown fat. You have grown thick. You have become sleek. Then he forsook Elohim, the one who made him, and lightly esteemed the Rock of his salvation.
+- **Deuteronomy 32:43** — Rejoice, you nations, [with] YHWH’s people, for YHWH will avenge the blood of YHWH’s servants. He will render vengeance to YHWH’s adversaries, And will make expiation for YHWH’s land, for YHWH’s people.
+- **Deuteronomy 33:2** — He said, YHWH came from Sinai, And rose from Seir to them. YHWH shone forth from Mount Paran. YHWH came from the ten thousands of holy ones. At YHWH’s right hand was a fiery law for them.
+- **Deuteronomy 33:7** — This is [the blessing] of Yehudah: and he said, Hear, YHWH, the voice of Yehudah. Bring him in to his people. With his hands he contended for himself. You shall be a help against his adversaries.
+- **Deuteronomy 33:11** — YHWH, bless his substance. Accept the work of his hands. Strike through the hips of those who rise up against him, of those who hate him, that they not rise again.
+- **Deuteronomy 33:12** — Of Binyamin he said, The beloved of YHWH shall dwell in safety by him. He covers him all the day long. He dwells between his shoulders.
+- **Deuteronomy 33:13** — Of Yosef he said, His land is blessed by YHWH, for the precious things of the heavens, for the dew, for the deep that couches beneath,
+- **Deuteronomy 33:21** — He provided the first part for himself, for there was the lawgiver's portion reserved. He came [with] the heads of the people. He executed the righteousness of YHWH, His ordinances with Israel.
+- **Deuteronomy 33:23** — Of Naphtali he said, Naphtali, satisfied with favor, full of the blessing of YHWH, Possess the west and the south.
+- **Deuteronomy 33:26** — There is none like Elohim, Jeshurun, who rides on the heavens for your help, In his excellency on the skies.
+- **Deuteronomy 34:1** — Moshe went up from the plains of Moab to Mount Nebo, to the top of Pisgah, that is over against Yericho. YHWH showed him all the land of Gilead, to Dan,
+- **Deuteronomy 34:4** — YHWH said to him, This is the land which I swore to Avraham, to Yitzhak, and to Ya'akov, saying, I will give it to your seed: I have caused you to see it with your eyes, but you shall not go over there.
+- **Deuteronomy 34:9** — Yehoshua the son of Nun was full of the spirit of wisdom; for Moshe had laid his hands on him: and the children of Israel listened to him, and did as YHWH commanded Moshe.
+- **Deuteronomy 34:11** — in all the signs and the wonders, which YHWH sent him to do in the land of Mitzrayim, to Pharaoh, and to all his servants, and to all his land,
+- **Ezekiel 1:3** — the word of YHWH came expressly to Yechezkel the priest, the son of Buzi, in the land of the Chaldeans by the river Chebar; and the hand of YHWH was there on him.
+- **Ezekiel 3:12** — Then the Ruach lifted me up, and I heard behind me the voice of a great rushing, [saying], Blessed be the glory of YHWH from his place.
+- **Ezekiel 3:22** — The hand of YHWH was there on me; and he said to me, Arise, go forth into the plain, and I will there talk with you.
+- **Ezekiel 3:27** — But when I speak with you, I will open your mouth, and you shall tell them, Thus says YHWH God: The one who hears, let him hear; and the one who forbears, let him forbear: for they are a rebellious house.
+- **Ezekiel 8:14** — Then he brought me to the door of the gate of YHWH's house which was toward the north; and see, there sat the women weeping for Tammuz.
+- **Ezekiel 8:16** — He brought me into the inner court of YHWH's house; and see, at the door of the temple of YHWH, between the porch and the altar, were about twenty-five men, with their backs toward the temple of YHWH, and their faces toward the east; and they were worshipping the sun toward the east.
+- **Ezekiel 9:4** — YHWH said to him, Go through the midst of the city, through the midst of Yerushalayim, and set a mark on the foreheads of the men that sigh and that cry over all the abominations that are done in the midst of it.
+- **Ezekiel 14:4** — Therefore speak to them, and tell them, Thus says YHWH God: Everyone of the house of Israel who takes their idols into their heart, and puts the stumbling block of their iniquity before their face, and comes to the prophet; I YHWH will answer him therein according to the multitude of his idols;
+- **Ezekiel 14:7** — For everyone of the house of Israel, or of the strangers who sojourn in Israel, who separates themselves from me, and takes their idols into their heart, and puts the stumbling block of their iniquity before their face, and comes to the prophet to inquire for themselves of me; I YHWH will answer him by myself:
+- **Ezekiel 14:8** — and I will set my face against that man, and will make him an astonishment, for a sign and a proverb, and I will cut him off from the midst of my people; and you shall know that I am YHWH.
+- **Ezekiel 14:9** — If the prophet be deceived and speak a word, I, YHWH, have deceived that prophet, and I will stretch out my hand on him, and will destroy him from the midst of my people Israel.
+- **Ezekiel 17:16** — As I live, says YHWH God, surely in the place where the king dwells who made him king, whose oath he despised, and whose covenant he broke, even with him in the midst of Bavel he shall die.
+- **Ezekiel 17:19** — Therefore thus says YHWH God: As I live, surely my oath that he has despised, and my covenant that he has broken, I will even bring it on his own head.
+- **Ezekiel 18:9** — has walked in my statutes, and has kept my ordinances, to deal truly; he is just, he shall surely live, says YHWH God.
+- **Ezekiel 18:23** — Have I any pleasure in the death of the wicked? says YHWH God; and not rather that he should return from his way, and live?
+- **Ezekiel 24:24** — Thus shall Yechezkel be to you a sign; according to all that he has done shall you do: when this comes, then shall you know that I am YHWH God.
+- **Ezekiel 25:12** — Thus says YHWH God: Because Edom has dealt against the house of Yehudah by taking vengeance, and has greatly offended, and revenged himself on them;
+- **Ezekiel 28:12** — Child of humanity, take up a lamentation over the king of Tzor, and tell him, Thus says YHWH God: You seal up the sum, full of wisdom, and perfect in beauty.
+- **Ezekiel 29:3** — Speak and say, 'Thus says YHWH God: "Behold, I am against you, Pharaoh king of Mitzrayim, the great monster that lies in the midst of his rivers, that has said, 'My river is my own, and I have made it for myself.'
+- **Ezekiel 29:19** — Therefore thus says YHWH God: Behold, I will give the land of Mitzrayim to Nebuchadnezzar king of Bavel; and he shall carry off her multitude, and take her spoil, and take her prey; and it shall be the wages for his army.
+- **Ezekiel 29:20** — I have given him the land of Mitzrayim as his recompense for which he served, because they worked for me, says YHWH God.
+- **Ezekiel 30:22** — Therefore thus says YHWH God: Behold, I am against Pharaoh king of Mitzrayim, and will break his arms, the strong [arm], and that which was broken; and I will cause the sword to fall out of his hand.
+- **Ezekiel 30:25** — I will hold up the arms of the king of Bavel; and the arms of Pharaoh shall fall down; and they shall know that I am YHWH, when I shall put my sword into the hand of the king of Bavel, and he shall stretch it out on the land of Mitzrayim.
+- **Ezekiel 31:10** — Therefore thus said YHWH God: Because you are exalted in stature, and he has set his top among the thick boughs, and his heart is lifted up in his height;
+- **Ezekiel 31:15** — Thus says YHWH God: In the day when he went down to Sheol I caused a mourning: I covered the deep for him, and I restrained the rivers of it; and the great waters were stayed; and I caused Levanon to mourn for him, and all the trees of the field fainted for him.
+- **Ezekiel 31:18** — To whom are you thus like in glory and in greatness among the trees of Eden? yet shall you be brought down with the trees of Eden to the lower parts of the earth: you shall lie in the midst of the uncircumcised, with those who are slain by the sword. This is Pharaoh and all his multitude, says YHWH God.
+- **Ezekiel 32:31** — Pharaoh shall see them, and shall be comforted over all his multitude, even Pharaoh and all his army, slain by the sword, says YHWH God.
+- **Ezekiel 32:32** — For I have put his terror in the land of the living; and he shall be laid in the midst of the uncircumcised, with those who are slain by the sword, even Pharaoh and all his multitude, says YHWH God.
+- **Ezekiel 33:11** — Tell them, As I live, says YHWH God, I have no pleasure in the death of the wicked; but that the wicked turn from his way and live: turn you, turn you from your broken ways; for why will you die, house of Israel?
+- **Ezekiel 33:22** — Now the hand of YHWH had been on me in the evening, before the one who was escaped came; and he had opened my mouth, until he came to me in the morning; and my mouth was opened, and I was no more mute.
+- **Ezekiel 36:20** — When they came to the nations, where they went, they profaned my holy name; in that men said of them, These are the people of YHWH, and are gone forth out of his land.
+- **Ezekiel 37:1** — The hand of YHWH was on me, and he brought me out in the Ruach of YHWH, and set me down in the midst of the valley; and it was full of bones.
+- **Ezekiel 37:19** — tell them, Thus says YHWH God: Behold, I will take the stick of Yosef, which is in the hand of Efrayim, and the tribes of Israel his companions; and I will put them with it, [even] with the stick of Yehudah, and make them one stick, and they shall be one in my hand.
+- **Ezekiel 38:17** — Thus says YHWH God: Are you he of whom I spoke in old time by my servants the prophets of Israel, who prophesied in those days for [many] years that I would bring you against them?
+- **Ezekiel 38:21** — I will call for a sword against him to all my mountains, says YHWH God: everyone's sword shall be against their brother.
+- **Ezekiel 40:1** — In the five and twentieth year of our captivity, in the beginning of the year, in the tenth [day] of the month, in the fourteenth year after that the city was struck, in the same day, the hand of YHWH was on me, and he brought me there.
+- **Ezekiel 40:2** — In the visions of Elohim brought he me into the land of Israel, and set me down on a very high mountain, whereon was as it were the frame of a city on the south.
+- **Ezekiel 40:46** — and the chamber whose prospect is toward the north is for the priests, the keepers of the charge of the altar: these are the sons of Tzadok, who from among the sons of Levi come near to YHWH to minister to him.
+- **Ezekiel 41:22** — The altar was of wood, three cubits high, and the length of it two cubits; and the corners of it, and the length of it, and the walls of it, were of wood: and he said to me, This is the table that is before YHWH.
+- **Ezekiel 43:18** — He said to me, Child of humanity, thus says YHWH God: These are the ordinances of the altar in the day when they shall make it, to offer burnt offerings thereon, and to sprinkle blood thereon.
+- **Ezekiel 44:3** — As for the prince, he shall sit therein as prince to eat bread before YHWH; he shall enter by the way of the porch of the gate, and shall go out by the way of the same.
+- **Ezekiel 44:27** — In the day that he goes into the sanctuary, into the inner court, to minister in the sanctuary, he shall offer his sin offering, says YHWH God.
+- **Ezekiel 45:23** — The seven days of the feast he shall prepare a burnt offering to YHWH, seven bulls and seven rams without blemish daily the seven days; and a male goat daily for a sin offering.
+- **Ezekiel 46:12** — When the prince shall prepare a freewill offering, a burnt offering or peace offerings as a freewill offering to YHWH, one shall open for him the gate that looks toward the east; and he shall prepare his burnt offering and his peace offerings, as he does on the Sabbath day: then he shall go forth; and after his going forth one shall shut the gate.
+- **Ezekiel 46:16** — Thus says YHWH God: If the prince give a gift to any of his sons, it is his inheritance, it shall belong to his sons; it is their possession by inheritance.
+- **Ezekiel 47:23** — It shall happen, that in what tribe the stranger sojourns, there shall you give him his inheritance, says YHWH God.
+- **Titus 1:3** — but in his own time revealed his word in the message with which I was entrusted according to the commandment of God our Savior;
+- **Titus 1:16** — They profess that they know God, but by their works they deny him, being abominable, disobedient, and unfit for any good work.
+- **Titus 3:5** — not by works of righteousness, which we did ourselves, but according to his mercy, he saved us, through the washing of regeneration and renewing by the Ruach of Elohim,
+- **Nehemiah 2:18** — I told them of the hand of my God which was good on me, as also of the king's words that he had spoken to me. They said, Let us rise up and build. So they strengthened their hands for the good [work].
+- **Nehemiah 5:13** — Also I shook out my lap, and said, So Elohim shake out everyone from their house, and from their labor, that doesn't perform this promise; even thus be he shaken out, and emptied. All the assembly said, Amen, and praised YHWH. The people did according to this promise.
+- **Nehemiah 6:10** — I went to the house of Shemaiah the son of Delaiah the son of Mehetabel, who was shut up; and he said, Let us meet together in the house of Elohim, within the temple, and let us shut the doors of the temple: for they will come to kill you; yes, in the night will they come to kill you.
+- **Nehemiah 6:12** — I discerned, and behold, Elohim had not sent him; but he pronounced this prophecy against me: and Tobiah and Sanballat had hired him.
+- **Nehemiah 7:2** — that I gave my brother Hanani, and Hananiah the governor of the castle, charge over Yerushalayim; for he was a faithful man, and revered God above many.
+- **Nehemiah 8:10** — Then he said to them, Go your way, eat the fat, and drink the sweet, and send portions to him for whom nothing is prepared; for this day is holy to our YHWH. Don't be grieved; for the joy of YHWH is your strength.
+- **Nehemiah 8:18** — Also day by day, from the first day to the last day, he read in the book of the law of Elohim. They kept the feast seven days; and on the eighth day was a solemn assembly, according to the ordinance.
+- **Nehemiah 9:7** — You are YHWH the Elohim, who did choose Avram, and brought him forth out of Ur of the Chaldees, and gave him the name of Avraham,
+- **Nehemiah 13:7** — and I came to Yerushalayim, and understood the brokenness that Eliashib had done for Tobiah, in preparing him a chamber in the courts of the house of Elohim.
+- **Nehemiah 13:26** — Did not Shlomo king of Israel sin by these things? yet among many nations was there no king like him, and he was beloved of his God, and Elohim made him king over all Israel: nevertheless even him did foreign women cause to sin.
+- **Leviticus 1:1** — YHWH called to Moshe, and spoke to him out of the Tent of Meeting, saying,
+- **Leviticus 1:3** — "'If his offering is a burnt offering from the herd, he shall offer a male without blemish. He shall offer it at the door of the Tent of Meeting, that he may be accepted before YHWH.
+- **Leviticus 1:5** — He shall kill the bull before YHWH. Aharon's sons, the priests, shall present the blood and sprinkle the blood around on the altar that is at the door of the Tent of Meeting.
+- **Leviticus 1:11** — He shall kill it on the north side of the altar before YHWH. Aharon's sons, the priests, shall sprinkle its blood around on the altar.
+- **Leviticus 1:14** — "'If his offering to YHWH is a burnt offering of birds, then he shall offer his offering of turtledoves, or of young pigeons.
+- **Leviticus 2:1** — "'When anyone offers an offering of a meal offering to YHWH, their offering shall be of fine flour; and he shall pour oil on it, and put frankincense on it.
+- **Leviticus 2:8** — You shall bring the meal offering that is made of these things to YHWH: and it shall be presented to the priest, and he shall bring it to the altar.
+- **Leviticus 3:1** — "'If his offering is a sacrifice of peace offerings; if he offers it from the herd, whether male or female, he shall offer it without blemish before YHWH.
+- **Leviticus 3:3** — He shall offer of the sacrifice of peace offerings an offering made by fire to YHWH; the fat that covers the innards, and all the fat that is on the innards,
+- **Leviticus 3:6** — "'If his offering for a sacrifice of peace offerings to YHWH is from the flock; male or female, he shall offer it without blemish.
+- **Leviticus 3:7** — If he offers a lamb for his offering, then he shall offer it before YHWH;
+- **Leviticus 3:9** — He shall offer from the sacrifice of peace offerings an offering made by fire to YHWH; its fat, the entire tail fat, he shall take away close to the backbone; and the fat that covers the inwards, and all the fat that is on the inwards,
+- **Leviticus 3:12** — "'If his offering is a goat, then he shall offer it before YHWH:
+- **Leviticus 3:14** — He shall offer from it as his offering, an offering made by fire to YHWH; the fat that covers the innards, and all the fat that is on the innards,
+- **Leviticus 4:3** — if the anointed priest sins so as to bring guilt on the people, then let him offer for his sin, which he has sinned, a young bull without blemish to YHWH for a sin offering.
+- **Leviticus 4:4** — He shall bring the bull to the door of the Tent of Meeting before YHWH; and he shall lay his hand on the head of the bull, and kill the bull before YHWH.
+- **Leviticus 4:6** — The priest shall dip his finger in the blood, and sprinkle some of the blood seven times before YHWH, before the veil of the sanctuary.
+- **Leviticus 4:7** — The priest shall put some of the blood on the horns of the altar of sweet incense before YHWH, which is in the tent of meeting; and he shall pour out all of rest of the blood of the bull at the base of the altar of burnt offering, which is at the door of the Tent of Meeting.
+- **Leviticus 4:17** — and the priest shall dip his finger in the blood, and sprinkle it seven times before YHWH, before the veil.
+- **Leviticus 4:18** — He shall put some of the blood on the horns of the altar which is before YHWH, that is in the Tent of Meeting; and the rest of the blood he shall pour out at the base of the altar of burnt offering, which is at the door of the Tent of Meeting.
+- **Leviticus 4:22** — "'When a ruler sins, and unwittingly does any one of all the things which YHWH his God has commanded not to be done, and is guilty;
+- **Leviticus 4:31** — All its fat he shall take away, like the fat is taken away from off of the sacrifice of peace offerings; and the priest shall burn it on the altar for a sweet savor to YHWH; and the priest shall make atonement for him, and he will be forgiven.
+- **Leviticus 4:35** — All its fat he shall take away, like the fat of the lamb is taken away from the sacrifice of peace offerings; and the priest shall burn them on the altar, on the offerings of YHWH made by fire; and the priest shall make atonement for him concerning his sin that he has sinned, and he will be forgiven.
+- **Leviticus 5:6** — and he shall bring his trespass offering to YHWH for his sin which he has sinned, a female from the flock, a lamb or a goat, for a sin offering; and the priest shall make atonement for him concerning his sin.
+- **Leviticus 5:7** — "'If he can't afford a lamb, then he shall bring his trespass offering for that in which he has sinned, two turtledoves, or two young pigeons, to YHWH; one for a sin offering, and the other for a burnt offering.
+- **Leviticus 5:15** — "If anyone commits a trespass, and sins unwittingly, in the holy things of YHWH; then he shall bring his trespass offering to YHWH, a ram without blemish from the flock, according to your estimation in silver by shekels, after the shekel of the sanctuary, for a trespass offering.
+- **Leviticus 5:17** — "If anyone sins, and does any of the things which YHWH has commanded not to be done; though he didn't know it, yet he is guilty, and shall bear his iniquity.
+- **Leviticus 5:19** — It is a trespass offering. He is certainly guilty before YHWH."
+- **Leviticus 6:6** — He shall bring his trespass offering to YHWH, a ram without blemish from the flock, according to your estimation, for a trespass offering, to the priest.
+- **Leviticus 6:7** — The priest shall make atonement for him before YHWH, and he will be forgiven concerning whatever he does to become guilty."
+- **Leviticus 6:20** — "This is the offering of Aharon and of his sons, which they shall offer to YHWH in the day when he is anointed: the tenth part of an ephah of fine flour for a meal offering perpetually, half of it in the morning, and half of it in the evening.
+- **Leviticus 7:14** — Of it he shall offer one out of each offering for a heave offering to YHWH. It shall be the priest's who sprinkles the blood of the peace offerings.
+- **Leviticus 7:20** — but the soul who eats of the flesh of the sacrifice of peace offerings, that belongs to YHWH, having his uncleanness on him, that soul shall be cut off from his people.
+- **Leviticus 7:30** — With his own hands he shall bring the offerings of YHWH made by fire. He shall bring the fat with the breast, that the breast may be waved for a wave offering before YHWH.
+- **Leviticus 7:35** — This is the anointing portion of Aharon, and the anointing portion of his sons, out of the offerings of YHWH made by fire, in the day when he presented them to minister to YHWH in the priest's office;
+- **Leviticus 7:36** — which YHWH commanded to be given them of the children of Israel, in the day that he anointed them. It is their portion forever throughout their generations.
+- **Leviticus 7:38** — which YHWH commanded Moshe in Mount Sinai, in the day that he commanded the children of Israel to offer their offerings to YHWH, in the wilderness of Sinai.
+- **Leviticus 8:4** — Moshe did as YHWH commanded him; and the congregation was assembled at the door of the Tent of Meeting.
+- **Leviticus 8:9** — He set the turban on his head; and on the turban, in front, he set the golden plate, the holy crown; as YHWH commanded Moshe.
+- **Leviticus 8:17** — But the bull, and its skin, and its flesh, and its dung, he burned with fire outside the camp; as YHWH commanded Moshe.
+- **Leviticus 8:26** — and out of the basket of unleavened bread, that was before YHWH, he took one unleavened cake, and one cake of oiled bread, and one wafer, and placed them on the fat, and on the right thigh.
+- **Leviticus 8:27** — He put all these in Aharon's hands and in his sons' hands, and waved them for a wave offering before YHWH.
+- **Leviticus 8:36** — Aharon and his sons did all the things which YHWH commanded by Moshe.
+- **Leviticus 9:10** — but the fat, and the kidneys, and the cover from the liver of the sin offering, he burned upon the altar; as YHWH commanded Moshe.
+- **Leviticus 10:1** — Nadab and Abihu, the sons of Aharon, each took his censer, and put fire in it, and laid incense on it, and offered strange fire before YHWH, which he had not commanded them.
+- **Leviticus 10:12** — Moshe spoke to Aharon, and to Eleazar and to Ithamar, his sons who were left, "Take the meal offering that remains of the offerings of YHWH made by fire, and eat it without yeast beside the altar; for it is most holy;
+- **Leviticus 12:7** — and he shall offer it before YHWH, and make atonement for her; and she shall be cleansed from the fountain of her blood. "'This is the law for her who bears, whether a male or a female.
+- **Leviticus 14:11** — The priest who cleanses him shall set the one who is to be cleansed, and those things, before YHWH, at the door of the Tent of Meeting.
+- **Leviticus 14:16** — The priest shall dip his right finger in the oil that is in his left hand, and shall sprinkle some of the oil with his finger seven times before YHWH.
+- **Leviticus 14:23** — "On the eighth day he shall bring them for his cleansing to the priest, to the door of the Tent of Meeting, before YHWH.
+- **Leviticus 14:27** — and the priest shall sprinkle with his right finger some of the oil that is in his left hand seven times before YHWH.
+- **Leviticus 15:14** — "'On the eighth day he shall take two turtledoves, or two young pigeons, and come before YHWH to the door of the Tent of Meeting, and give them to the priest:
+- **Leviticus 15:15** — and the priest shall offer them, the one for a sin offering, and the other for a burnt offering. The priest shall make atonement for him before YHWH for his discharge.
+- **Leviticus 16:7** — He shall take the two goats, and set them before YHWH at the door of the Tent of Meeting.
+- **Leviticus 16:9** — Aharon shall present the goat on which the lot fell for YHWH, and offer him for a sin offering.
+- **Leviticus 16:10** — But the goat, on which the lot fell for the scapegoat, shall be presented alive before YHWH, to make atonement for him, to send him away for the scapegoat into the wilderness.
+- **Leviticus 16:12** — He shall take a censer full of coals of fire from off the altar before YHWH, and two handfuls of sweet incense beaten small, and bring it within the veil:
+- **Leviticus 16:13** — and he shall put the incense on the fire before YHWH, that the cloud of the incense may cover the mercy seat that is on the testimony, so that he will not die.
+- **Leviticus 16:18** — "He shall go out to the altar that is before YHWH and make atonement for it, and shall take some of the bull's blood, and some of the goat's blood, and put it on the horns of the altar round about.
+- **Leviticus 17:9** — and doesn't bring it to the door of the Tent of Meeting, to sacrifice it to YHWH; that man shall be cut off from his people.
+- **Leviticus 19:21** — He shall bring his trespass offering to YHWH, to the door of the Tent of Meeting, even a ram for a trespass offering.
+- **Leviticus 19:22** — The priest shall make atonement for him with the ram of the trespass offering before YHWH for his sin which he has committed: and the sin which he has committed shall be forgiven him.
+- **Leviticus 21:1** — YHWH said to Moshe, "Speak to the priests, the sons of Aharon, and say to them, 'A priest shall not defile himself for the dead among his people;
+- **Leviticus 21:7** — "'They shall not marry a woman who is a prostitute, or profane; neither shall they marry a woman divorced from her husband: for he is holy to his God.
+- **Leviticus 21:8** — You shall sanctify him therefore; for he offers the bread of your God: he shall be holy to you: for I YHWH, who sanctify you, am holy.
+- **Leviticus 21:12** — neither shall he go out of the sanctuary, nor profane the sanctuary of his God; for the crown of the anointing oil of his God is upon him. I am YHWH.
+- **Leviticus 21:15** — He shall not profane his seed among his people: for I am YHWH who sanctifies him.'"
+- **Leviticus 21:17** — "Say to Aharon, 'None of your seed throughout their generations who has a blemish, may approach to offer the bread of his God.
+- **Leviticus 21:21** — no one of the seed of Aharon the priest, who has a blemish, shall come near to offer the offerings of YHWH made by fire. Since has a blemish, he shall not come near to offer the bread of his God.
+- **Leviticus 21:22** — He shall eat the bread of his God, both of the most holy, and of the holy.
+- **Leviticus 21:23** — He shall not come near to the veil, nor come near to the altar, because he has a blemish; that he may not profane my sanctuaries, for I am YHWH who sanctifies them.'"
+- **Leviticus 22:3** — "Tell them, 'If anyone of all your seed throughout your generations approaches the holy things, which the children of Israel make holy to YHWH, having their uncleanness on him, that soul shall be cut off from before me. I am YHWH.
+- **Leviticus 23:11** — and he shall wave the sheaf before YHWH, to be accepted for you. On the next day after the Sabbath the priest shall wave it.
+- **Leviticus 24:4** — He shall keep in order the lamps on the pure gold lampstand before YHWH continually.
+- **Leviticus 24:8** — Every Sabbath day he shall set it in order before YHWH continually. It is on the behalf of the children of Israel an everlasting covenant.
+- **Leviticus 24:9** — It shall be for Aharon and his sons; and they shall eat it in a holy place: for it is most holy to him of the offerings of YHWH made by fire by a perpetual statute."
+- **Leviticus 24:12** — They put him in custody, until the will of YHWH should be declared to them.
+- **Leviticus 24:16** — The one who blasphemes the name of YHWH, they shall surely be put to death; all the congregation shall certainly stone him: the foreigner as well as the native-born, when he blasphemes the Name, shall be put to death.
+- **Leviticus 25:36** — Take no interest from him or profit, but revere your God; that your brother may live among you.
+- **Leviticus 25:43** — You shall not rule over him with harshness, but shall revere your God.
+- **Leviticus 26:46** — These are the statutes, ordinances and laws, which YHWH made between him and the children of Israel in Mount Sinai by Moshe.
+- **Leviticus 27:11** — If it is any unclean animal, of which they do not offer as an offering to YHWH, then he shall set the animal before the priest;
+- **Leviticus 27:22** — "'If he dedicates to YHWH a field which he has bought, which is not of the field of his possession,
+- **Leviticus 27:23** — then the priest shall reckon to him the worth of your valuation up to the Year of Jubilee; and he shall give your valuation on that day, as a holy thing to YHWH.
+- **2 Kings 1:6** — They said to him, There came up a person to meet us, and said to us, Go, turn again to the king who sent you, and tell him, Thus says YHWH, Is it because there is no Elohim in Israel, that you send to inquire of Baal Zebub, the god of Ekron? therefore you shall not come down from the bed where you are gone up, but shall surely die.
+- **2 Kings 1:9** — Then [the king] sent to him a captain of fifty with his fifty. He went up to him: and behold, he was sitting on the top of the hill. He spoke to him, man of Elohim, the king has said, Come down.
+- **2 Kings 1:11** — Again he sent to him another captain of fifty and his fifty. He answered him, man of Elohim, thus has the king said, Come down quickly.
+- **2 Kings 1:12** — Eliyahu answered them, If I be a person of Elohim, let fire come down from the heavens, and consume you and your fifty. The fire of Elohim came down from the heavens, and consumed him and his fifty.
+- **2 Kings 1:13** — Again he sent the captain of a third fifty with his fifty. The third captain of fifty went up, and came and fell on his knees before Eliyahu, and begged him, and said to him, man of Elohim, please let my life, and the life of these fifty your servants, be precious in your sight.
+- **2 Kings 1:15** — The angel of YHWH said to Eliyahu, Go down with him: don't be afraid of him. He arose, and went down with him to the king.
+- **2 Kings 1:16** — He said to him, Thus says YHWH, Because you have sent messengers to inquire of Baal Zebub, the god of Ekron, is it because there is no Elohim in Israel to inquire of Elohim’s word? therefore you shall not come down from the bed where you are gone up, but shall surely die.
+- **2 Kings 1:17** — So he died according to the word of YHWH which Eliyahu had spoken. Yoram began to reign in his place in the second year of Yoram the son of Yehoshafat king of Yehudah; because he had no son.
+- **2 Kings 2:3** — The sons of the prophets who were at Beit El came forth to Elisha, and said to him, "Do you know that YHWH will take away your master from your head today?" He said, "Yes, I know it; hold your peace."
+- **2 Kings 2:4** — Eliyahu said to him, Elisha, please wait here, for YHWH has sent me to Yericho. He said, As YHWH lives, and as your soul lives, I will not leave you. So they came to Yericho.
+- **2 Kings 2:5** — The sons of the prophets who were at Yericho came near to Elisha, and said to him, "Do you know that YHWH will take away your master from your head today?" He answered, "Yes, I know it. Hold your peace."
+- **2 Kings 2:6** — Eliyahu said to him, "Please wait here, for YHWH has sent me to the Yarden." He said, "As YHWH lives, and as your soul lives, I will not leave you." They two went on.
+- **2 Kings 2:14** — He took the mantle of Eliyahu that fell from him, and struck the waters, and said, Where is YHWH, the God of Eliyahu? and when he also had struck the waters, they were divided here and there; and Elisha went over.
+- **2 Kings 2:16** — They said to him, See now, there are with your servants fifty strong men; let them go, we pray you, and seek your master, lest the Ruach of YHWH has taken him up, and cast him on some mountain, or into some valley. He said, You shall not send.
+- **2 Kings 2:24** — He looked behind him and saw them, and cursed them in the name of YHWH. Two female bears came out of the woods, and mauled forty-two of those youths.
+- **2 Kings 3:2** — He did what was broken in the sight of YHWH, but not like his father, and like his mother; for he put away the pillar of Baal that his father had made.
+- **2 Kings 3:11** — But Yehoshafat said, Isn't there here a prophet of YHWH, that we may inquire of YHWH by him? One of the king of Israel's servants answered, Elisha the son of Shaphat is here, who poured water on the hands of Eliyahu.
+- **2 Kings 3:12** — Yehoshafat said, The word of YHWH is with him. So the king of Israel and Yehoshafat and the king of Edom went down to him.
+- **2 Kings 3:13** — Elisha said to the king of Israel, What have I to do with you? get you to the prophets of your father, and to the prophets of your mother. The king of Israel said to him, No; for YHWH has called these three kings together to deliver them into the hand of Moab.
+- **2 Kings 3:15** — But now bring me a minstrel. It happened, when the minstrel played, that the hand of YHWH came on him.
+- **2 Kings 3:16** — He said, Thus says YHWH, Make this valley full of trenches.
+- **2 Kings 3:18** — This is but a light thing in the sight of YHWH: he will also deliver the Moabites into your hand.
+- **2 Kings 4:1** — Now there cried a certain woman of the wives of the sons of the prophets to Elisha, saying, Your servant my husband is dead; and you know that your servant did revere YHWH: and the creditor is come to take to him my two children to be bondservants.
+- **2 Kings 4:21** — She went up and laid him on the bed of the person of Elohim, and shut [the door] on him, and went out.
+- **2 Kings 4:33** — He went in therefore, and shut the door on them both, and prayed to YHWH.
+- **2 Kings 4:43** — His servant said, What, should I set this before a hundred men? But he said, Give the people, that they may eat; for thus says YHWH, They shall eat, and shall leave of it.
+- **2 Kings 4:44** — So he set it before them, and they ate, and left of it, according to the word of YHWH.
+- **2 Kings 5:1** — Now Naaman, captain of the army of the king of Aram, was a great man with his master, and honorable, because by him YHWH had given victory to Aram: he was also a mighty man of valor, [but he was] a leper.
+- **2 Kings 5:11** — But Naaman was angry, and went away, and said, Behold, I thought, He will surely come out to me, and stand, and call on the name of YHWH his God, and wave his hand over the place, and recover the leper.
+- **2 Kings 5:14** — Then went they down, and dipped [themselves] seven times in the Yarden, according to the saying of the person of Elohim; and his flesh came again like the flesh of a little child, and he was clean.
+- **2 Kings 5:15** — They returned to the person of Elohim, they and all their company, and came, and stood before him; and he said, See now, I know that there is no Elohim in all the earth, but in Israel: now therefore, please take a present from your servant.
+- **2 Kings 5:16** — But he said, As YHWH lives, before whom I stand, I will receive none. He urged him to take it; but he refused.
+- **2 Kings 5:18** — In this thing YHWH pardon your servant: when my master goes into the house of Rimmon to worship there, and he leans on my hand, and I bow myself in the house of Rimmon, when I bow myself in the house of Rimmon, YHWH pardon your servant in this thing.
+- **2 Kings 5:20** — But Gehazi the servant of Elisha the person of Elohim, said, Behold, my master has spared this Naaman the Syrian, in not receiving at their hands that which they brought: as YHWH lives, I will run after them, and take somewhat of him.
+- **2 Kings 6:10** — The king of Israel sent to the place which the person of Elohim told him and warned him of; and he saved himself there, not once nor twice.
+- **2 Kings 6:17** — Elisha prayed, and said, YHWH, Please open his eyes, that he may see. YHWH opened the eyes of the young person; and he saw: and behold, the mountain was full of horses and chariots of fire round about Elisha.
+- **2 Kings 6:18** — When they came down to him, Elisha prayed to YHWH, and said, Please smite this people with blindness. He struck them with blindness according to the word of Elisha.
+- **2 Kings 6:27** — He said, If YHWH doesn't help you, whence shall I help you? out of the threshing floor, or out of the winepress?
+- **2 Kings 6:31** — Then he said, Elohim do so to me, and more also, if the head of Elisha the son of Shaphat shall stand on him this day.
+- **2 Kings 6:33** — While he was yet talking with them, behold, the messenger came down to him: and he said, Behold, this trouble is of YHWH; why should I wait for YHWH any longer?
+- **2 Kings 7:17** — The king appointed the captain on whose hand they leaned to have the charge of the gate: and the people trod on him in the gate, and they died as the person of Elohim had said, who spoke when the king came down to him.
+- **2 Kings 8:7** — Elisha came to Dammeseq; and Benhadad the king of Aram was sick; and it was told him, saying, The person of Elohim is come here.
+- **2 Kings 8:8** — The king said to Hazael, Take a present in your hand, and go, meet the person of Elohim, and inquire of YHWH by him, saying, Shall I recover of this sickness?
+- **2 Kings 8:10** — Elisha said to him, Go, tell him, You shall surely recover; however YHWH has shown me that he shall surely die.
+- **2 Kings 8:11** — They settled their gaze steadfastly [on him], until they were ashamed: and the person of Elohim wept.
+- **2 Kings 8:18** — He walked in the way of the kings of Israel, as did the house of Achav: for he had the daughter of Achav as wife; and he did what was broken in the sight of YHWH.
+- **2 Kings 8:19** — However YHWH would not destroy Yehudah, for Dawid his servant's sake, as he promised him to give to him a lamp for his children always.
+- **2 Kings 8:27** — He walked in the way of the house of Achav, and did what was broken in the sight of YHWH, as did the house of Achav; for he was the son-in-law of the house of Achav.
+- **2 Kings 9:3** — Then take the vial of oil, and pour it on his head, and say, Thus says YHWH, I have anointed you king over Israel. Then open the door, and flee, and don't wait.
+- **2 Kings 9:6** — He arose, and went into the house; and he poured the oil on his head, and said to him, Thus says YHWH, the God of Israel, I have anointed you king over the people of YHWH, even over Israel.
+- **2 Kings 9:12** — They said, It is false; tell us now. He said, Thus and thus spoke he to me, saying, Thus says YHWH, I have anointed you king over Israel.
+- **2 Kings 9:25** — Then said [Yehu] to Bidkar his captain, Take up, and cast him in the portion of the field of Naboth the Jezreelite; for remember how that, when I and you rode together after Achav his father, YHWH laid this burden on him:
+- **2 Kings 9:26** — Surely I have seen yesterday the blood of Naboth, and the blood of his sons, says YHWH; and I will requite you in this plat, says YHWH. Now therefore take and cast him into the plat [of ground], according to the word of YHWH.
+- **2 Kings 9:36** — Therefore they came back, and told him. He said, This is the word of YHWH, which YHWH spoke by YHWH’s servant Eliyahu the Tishbite, saying, In the portion of Jezreel shall the dogs eat the flesh of Jezebel;
+- **2 Kings 10:10** — Know now that there shall fall to the earth nothing of the word of YHWH, which YHWH spoke concerning the house of Achav: for YHWH has done that which he spoke by his servant Eliyahu.
+- **2 Kings 10:16** — He said, Come with me, and see my zeal for YHWH. So they made him ride in his chariot.
+- **2 Kings 10:17** — When he came to Shomron, he struck all who remained to Achav in Shomron, until he had destroyed him, according to the word of YHWH, which YHWH spoke to Eliyahu.
+- **2 Kings 10:31** — But Yehu took no heed to walk in the law of YHWH, the God of Israel, with all his heart: he didn't depart from the sins of Yerovam, with which he made Israel to sin.
+- **2 Kings 11:3** — He was with her hid in the house of YHWH six years. Athaliah reigned over the land.
+- **2 Kings 11:4** — In the seventh year Yehoyada sent and fetched the captains over hundreds of the Carites and of the guard, and brought them to him into the house of YHWH; and he made a covenant with them, and took an oath of them in the house of YHWH, and shown them the king's son.
+- **2 Kings 12:2** — Yoash did that which was right in the eyes of YHWH all his days in which Yehoyada the priest instructed him.
+- **2 Kings 12:18** — Yoash king of Yehudah took all the holy things that Yehoshafat and Yoram and Ahaziah, his fathers, kings of Yehudah, had dedicated, and his own holy things, and all the gold that was found in the treasures of the house of YHWH, and of the king's house, and sent it to Hazael king of Aram: and he went away from Yerushalayim.
+- **2 Kings 13:2** — He did what was broken in the sight of YHWH, and followed the sins of Yerovam the son of Nebat, with which he made Israel to sin; he didn't depart from it.
+- **2 Kings 13:3** — The anger of YHWH was kindled against Israel, and he delivered them into the hand of Hazael king of Aram, and into the hand of Benhadad the son of Hazael, continually.
+- **2 Kings 13:4** — Jehoahaz begged YHWH, and YHWH listened to him; for he saw the oppression of Israel, how that the king of Aram oppressed them.
+- **2 Kings 13:11** — He did what was broken in the sight of YHWH; he didn't depart from all the sins of Yerovam the son of Nebat, with which he made Israel to sin; but he walked therein.
+- **2 Kings 13:17** — He said, Open the window eastward; and he opened it. Then Elisha said, Shoot; and he shot. He said, YHWH's arrow of victory, even the arrow of victory over Aram; for you shall strike the Syrians in Aphek, until you have consumed them.
+- **2 Kings 13:19** — The person of Elohim was angry with him, and said, You should have struck five or six times: then had you struck Aram until you had consumed it, whereas now you shall strike Aram but thrice.
+- **2 Kings 14:3** — He did that which was right in the eyes of YHWH, yet not like Dawid his father: he did according to all that Yoash his father had done.
+- **2 Kings 14:24** — He did what was broken in the sight of YHWH: he didn't depart from all the sins of Yerovam the son of Nebat, with which he made Israel to sin.
+- **2 Kings 14:25** — He restored the border of Israel from the entrance of Hamath to the sea of the Arabah, according to the word of YHWH, the God of Israel, which he spoke by his servant Yonah the son of Amittai, the prophet, who was of Gath Hepher.
+- **2 Kings 15:3** — He did that which was right in the eyes of YHWH, according to all that his father Amaziah had done.
+- **2 Kings 15:5** — YHWH struck the king, so that he was a leper to the day of his death, and lived in a separate house. Yotam the king's son was over the household, judging the people of the land.
+- **2 Kings 15:9** — He did what was broken in the sight of YHWH, as his fathers had done: he didn't depart from the sins of Yerovam the son of Nebat, with which he made Israel to sin.
+- **2 Kings 15:18** — He did what was broken in the sight of YHWH: he didn't depart all his days from the sins of Yerovam the son of Nebat, with which he made Israel to sin.
+- **2 Kings 15:24** — He did what was broken in the sight of YHWH: he didn't depart from the sins of Yerovam the son of Nebat, with which he made Israel to sin.
+- **2 Kings 15:28** — He did what was broken in the sight of YHWH: he didn't depart from the sins of Yerovam the son of Nebat, with which he made Israel to sin.
+- **2 Kings 15:34** — He did that which was right in the eyes of YHWH; he did according to all that his father Uzziyah had done.
+- **2 Kings 15:35** — However the high places were not taken away: the people still sacrificed and burned incense in the high places. He built the upper gate of the house of YHWH.
+- **2 Kings 16:2** — Twenty years old was Achaz when he began to reign; and he reigned sixteen years in Yerushalayim: and he didn't do that which was right in the eyes of YHWH his God, like Dawid his father.
+- **2 Kings 16:14** — The bronze altar, which was before YHWH, he brought from the forefront of the house, from between his altar and the house of YHWH, and put it on the north side of his altar.
+- **2 Kings 16:18** — The covered way for the Sabbath that they had built in the house, and the king's entry outside, turned he to the house of YHWH, because of the king of Ashur.
+- **2 Kings 17:2** — He did what was broken in the sight of YHWH, yet not as the kings of Israel who were before him.
+- **2 Kings 17:17** — They caused their sons and their daughters to pass through the fire, and used divination and enchantments, and sold themselves to do what was broken in the sight of YHWH, to provoke him to anger.
+- **2 Kings 17:18** — Therefore YHWH was very angry with Israel, and removed them out of his sight: there was none left but the tribe of Yehudah only.
+- **2 Kings 17:20** — YHWH rejected all the seed of Israel, and afflicted them, and delivered them into the hand of spoilers, until he had cast them out of his sight.
+- **2 Kings 17:23** — until YHWH removed Israel out of his sight, as he spoke by all his servants the prophets. So Israel was carried away out of their own land to Ashur to this day.
+- **2 Kings 17:34** — To this day they do after the former manner: they don't revere YHWH, neither do they after their statutes, or after their ordinances, or after the law or after the commandment which YHWH commanded the children of Ya'akov, whom he named Israel;
+- **2 Kings 17:36** — but YHWH, who brought you up out of the land of Mitzrayim with great power and with an outstretched arm, him shall you fear, and to him shall you bow yourselves, and to him shall you sacrifice:
+- **2 Kings 18:3** — He did that which was right in the eyes of YHWH, according to all that Dawid his father had done.
+- **2 Kings 18:5** — He trusted in YHWH, the God of Israel; so that after him was none like him among all the kings of Yehudah, nor [among them] that were before him.
+- **2 Kings 18:6** — For he joined with YHWH; he didn't depart from following YHWH, but kept YHWH’s commandments, which YHWH commanded Moshe.
+- **2 Kings 18:7** — YHWH was with him; wherever he went forth he prospered: and he rebelled against the king of Ashur, and didn't serve him.
+- **2 Kings 18:15** — Chizkiyahu gave [him] all the silver that was found in the house of YHWH, and in the treasures of the king's house.
+- **2 Kings 18:32** — Until I come and take you away to a land like your own land, a land of grain and new wine, a land of bread and vineyards, a land of olive trees and of honey, that you may live, and not die: and don't listen to Chizkiyahu, when he persuades you, saying, YHWH will deliver us.
+- **2 Kings 19:1** — It happened, when king Chizkiyahu heard it, that he tore his clothes, and covered himself with sackcloth, and went into the house of YHWH.
+- **2 Kings 19:4** — It may be YHWH your God will hear all the words of Rabshakeh, whom the king of Ashur his master has sent to defy the living Elohim, and will rebuke the words which YHWH your God has heard. Therefore lift up your prayer for the remnant that is left.
+- **2 Kings 19:16** — Incline your ear, YHWH, and hear; open your eyes, YHWH, and see; and hear the words of Sennacherib, with which he has sent him to defy the living Elohim.
+- **2 Kings 19:19** — Now therefore, YHWH our God, save you us, I beg you, out of his hand, that all the kingdoms of the earth may know that you YHWH are Elohim alone.
+- **2 Kings 19:21** — This is the word that YHWH has spoken concerning him: The virgin daughter of Tzion has despised you and ridiculed you; the daughter of Yerushalayim has shaken her head at you.
+- **2 Kings 19:32** — Therefore thus says YHWH concerning the king of Ashur, He shall not come to this city, nor shoot an arrow there, neither shall he come before it with shield, nor cast up a mound against it.
+- **2 Kings 19:33** — By the way that he came, by the same shall he return, and he shall not come to this city, says YHWH.
+- **2 Kings 20:1** — In those days was Chizkiyahu sick to death. Yeshayahu the prophet the son of Amoz came to him, and said to him, Thus says YHWH, Set your house in order: for you shall die, and not live.
+- **2 Kings 20:2** — Then he turned his face to the wall, and prayed to YHWH, saying,
+- **2 Kings 20:4** — It happened, before Yeshayahu was gone out into the middle part of the city, that the word of YHWH came to him, saying,
+- **2 Kings 20:11** — Yeshayahu the prophet cried to YHWH; and he brought the shadow ten steps backward, by which it had gone down on the dial of Achaz.
+- **2 Kings 21:2** — He did what was broken in the sight of YHWH, after the abominations of the nations whom YHWH cast out before the children of Israel.
+- **2 Kings 21:4** — He built altars in the house of YHWH, of which YHWH said, In Yerushalayim will I put my name.
+- **2 Kings 21:5** — He built altars for all the army of the heavens in the two courts of the house of YHWH.
+- **2 Kings 21:6** — He made his son to pass through the fire, and practiced sorcery, and used enchantments, and dealt with those who had familiar spirits, and with wizards: he worked much brokenness in the sight of YHWH, to provoke him to anger.
+- **2 Kings 21:7** — He set the engraved image of Asherah, that he had made, in the house of which YHWH said to Dawid and to Shlomo his son, In this house, and in Yerushalayim, which I have chosen out of all the tribes of Israel, will I put my name forever;
+- **2 Kings 21:16** — Moreover Menashe shed innocent blood very much, until he had filled Yerushalayim from one end to another; besides his sin with which he made Yehudah to sin, in doing what was broken in the sight of YHWH.
+- **2 Kings 21:20** — He did what was broken in the sight of YHWH, as did Menashe his father.
+- **2 Kings 21:22** — and he forsook YHWH, the God of his fathers, and didn't walk in the way of YHWH.
+- **2 Kings 22:2** — He did that which was right in the eyes of YHWH, and walked in all the way of Dawid his father, and didn't turn aside to the right hand or to the left.
+- **2 Kings 22:4** — Go up to Hilkiah the high priest, that he may sum the money which is brought into the house of YHWH, which the keepers of the threshold have gathered of the people:
+- **2 Kings 22:18** — But to the king of Yehudah, who sent you to inquire of YHWH, thus shall you tell him, Thus says YHWH, the God of Israel: As touching the words which you have heard,
+- **2 Kings 23:2** — The king went up to the house of YHWH, and all the people of Yehudah and all the inhabitants of Yerushalayim with him, and the priests, and the prophets, and all the people, both small and great: and he read in their ears all the words of the book of the covenant which was found in the house of YHWH.
+- **2 Kings 23:3** — The king stood by the pillar, and made a covenant before YHWH, to walk after YHWH, and to keep YHWH’s commandments, and YHWH’s testimonies, and YHWH’s statutes, with all [his] heart, and all [his] soul, to confirm the words of this covenant that were written in this book: and all the people stood to the covenant.
+- **2 Kings 23:4** — The king commanded Hilkiah the high priest, and the priests of the second order, and the keepers of the threshold, to bring forth out of the temple of YHWH all the vessels that were made for Baal, and for the Asherah, and for all the army of the heavens, and he burned them outside of Yerushalayim in the fields of the Kidron, and carried the ashes of them to Beit El.
+- **2 Kings 23:6** — He brought out the Asherah from the house of YHWH, outside of Yerushalayim, to the brook Kidron, and burned it at the brook Kidron, and beat it to dust, and cast the dust of it on the graves of the common people.
+- **2 Kings 23:7** — He broke down the houses of the sodomites, that were in the house of YHWH, where the women wove hangings for the Asherah.
+- **2 Kings 23:11** — He took away the horses that the kings of Yehudah had given to the sun, at the entrance of the house of YHWH, by the chamber of Natan Melech the officer, who was in the court; and he burned the chariots of the sun with fire.
+- **2 Kings 23:17** — Then he said, What monument is that which I see? The men of the city told him, It is the tomb of the person of Elohim, who came from Yehudah, and proclaimed these things that you have done against the altar of Beit El.
+- **2 Kings 23:19** — All the houses also of the high places that were in the cities of Shomron, which the kings of Israel had made to provoke [YHWH] to anger, Yoshiyahu took away, and did to them according to all the acts that he had done in Beit El.
+- **2 Kings 23:25** — Like him was there no king before him, who turned to YHWH with all his heart, and with all his soul, and with all his might, according to all the law of Moshe; neither after him arose there any like him.
+- **2 Kings 23:32** — He did what was broken in the sight of YHWH, according to all that his fathers had done.
+- **2 Kings 23:37** — He did what was broken in the sight of YHWH, according to all that his fathers had done.
+- **2 Kings 24:2** — YHWH sent against him bands of the Chaldeans, and bands of the Syrians, and bands of the Moabites, and bands of the children of Ammon, and sent them against Yehudah to destroy it, according to the word of YHWH, which YHWH spoke by YHWH’s servants the prophets.
+- **2 Kings 24:3** — Surely at the commandment of YHWH came this on Yehudah, to remove them out of his sight, for the sins of Menashe, according to all that he did,
+- **2 Kings 24:4** — and also for the innocent blood that he shed; for he filled Yerushalayim with innocent blood: and YHWH would not pardon.
+- **2 Kings 24:9** — He did what was broken in the sight of YHWH, according to all that his father had done.
+- **2 Kings 24:13** — He carried out there all the treasures of the house of YHWH, and the treasures of the king's house, and cut in pieces all the vessels of gold, which Shlomo king of Israel had made in the temple of YHWH, as YHWH had said.
+- **2 Kings 24:19** — He did what was broken in the sight of YHWH, according to all that Jehoiakim had done.
+- **2 Kings 24:20** — For through the anger of YHWH did it happen in Yerushalayim and Yehudah, until he had cast them out from his presence. Tzidkiyahu rebelled against the king of Bavel.
+- **2 Kings 25:9** — He burnt the house of YHWH, and the king's house; and all the houses of Yerushalayim, even every great house, burnt he with fire.
+
+## Documented review references preserved from the prior release
+
+- Acts 13:35
+- Acts 20:28
+- Acts 5:32
+- Exodus 34:28
+- Ezekiel 2:2
+- Hebrews 1:3
+- Numbers 24:8
+- Psalms 110:5
+- Psalms 110:6
+- Psalms 110:7
+- Romans 15:10
+
+The full machine-readable candidate inventory is in `change-logs/reports/2026-09-12-divine-pronoun-residual-audit.json`.
