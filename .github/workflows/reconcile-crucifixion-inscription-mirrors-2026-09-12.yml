@@ -1,0 +1,33 @@
+name: Reconcile crucifixion inscription mirrors 2026-09-12
+
+on:
+  push:
+    branches:
+      - release/2026-09-12-final-name-alignment
+    paths:
+      - tools/local/reconcile_crucifixion_inscription_mirrors_2026_09_12.py
+      - .github/workflows/reconcile-crucifixion-inscription-mirrors-2026-09-12.yml
+
+permissions:
+  contents: write
+
+jobs:
+  reconcile:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: release/2026-09-12-final-name-alignment
+      - name: Reconcile exact inscription mirrors
+        run: python3 tools/local/reconcile_crucifixion_inscription_mirrors_2026_09_12.py
+      - name: Verify canonical EPUB remains unchanged
+        run: printf '%s  %s\n' 'fb14e9bdf84c1eef9a67c135ae7c42edf070e3f39ea4b8a265fa4a4a9dc1129a' 'current-form-documents/the-way-current.epub' | sha256sum -c -
+      - name: Commit mirror alignment
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add original-documents/matthew_restorative_translation.txt original-documents/mark_restorative_translation.txt original-documents/luke_restorative_translation.txt original-documents/john_restorative_translation.txt editor-notes/consistency/2026-09-12-crucifixion-inscription-name-alignment.md
+          if ! git diff --cached --quiet; then
+            git commit -m "Align crucifixion inscription names across source mirrors"
+            git push origin HEAD:release/2026-09-12-final-name-alignment
+          fi

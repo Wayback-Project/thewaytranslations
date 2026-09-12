@@ -1,0 +1,31 @@
+name: Audit final name alignment 2026-09-12
+
+on:
+  push:
+    branches:
+      - release/2026-09-12-final-name-alignment
+
+permissions:
+  contents: write
+
+jobs:
+  audit:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: release/2026-09-12-final-name-alignment
+      - name: Run final alignment audit
+        run: python3 tools/local/audit_final_name_alignment_2026_09_12.py
+      - name: Commit audit reports
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add change-logs/reports/2026-09-12-final-name-alignment-audit.json editor-notes/consistency/2026-09-12-final-name-alignment-audit.md
+          if git diff --cached --quiet; then
+            echo "No audit changes"
+          else
+            git commit -m "Audit final original-name alignment"
+            git push origin HEAD:release/2026-09-12-final-name-alignment
+          fi
