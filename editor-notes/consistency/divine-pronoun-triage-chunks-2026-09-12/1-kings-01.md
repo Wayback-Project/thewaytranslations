@@ -1,0 +1,16 @@
+# 1 Kings — divine-pronoun triage part 1
+
+Candidates 1–12 of 46. Review-only; no Scripture changes.
+
+- **1 Kings 1:17** — [explicit-divine-role:him→role-after-pronoun] — She said to him, My lord, you swore by YHWH your God to your handmaid, [saying], Assuredly Shlomo your son shall reign after me, and he shall sit on my throne.
+- **1 Kings 2:8** — [explicit-divine-role:him→role-after-pronoun] — Behold, there is with you Shimei the son of Gera, the Benjamite, of Bahurim, who cursed me with a grievous curse in the day when I went to Mahanaim; but he came down to meet me at the Yarden, and I swore to him by YHWH, saying, I will not put you to death with the sword.
+- **1 Kings 2:27** — [explicit-divine-subject:he→YHWH] — So Shlomo thrust out Evyatar from being priest to YHWH, that he might fulfill the word of YHWH, which he spoke concerning the house of Eli in Shilo.
+- **1 Kings 2:29** — [explicit-divine-subject:he→YHWH] — It was told king Shlomo, Yoav is fled to the Tent of YHWH, and behold, he is by the altar. Then Shlomo sent Benayahu the son of Yehoyada, saying, Go, fall on him.
+- **1 Kings 2:32** — [explicit-divine-subject:he→YHWH] — YHWH will return his blood on his own head, because he fell on two men more righteous and better than he, and killed them with the sword, and my father Dawid didn't know it, [to wit], Abner the son of Ner, captain of the army of Israel, and Amasa the son of Jether, captain of the army of Yehudah.
+- **1 Kings 2:42** — [explicit-divine-role:him→role-after-pronoun] — The king sent and called for Shimei, and said to him, Didn't I adjure you by YHWH, and protest to you, saying, Know for certain, that on the day you go out, and walk abroad any where, you shall surely die? and you said to me, The saying that I have heard is good.
+- **1 Kings 3:15** — [divine-attribute:his→YHWH] — Shlomo awoke; and behold, it was a dream: and he came to Yerushalayim, and stood before the ark of the covenant of YHWH, and offered up burnt offerings, and offered peace offerings, and made a feast to all his servants.
+- **1 Kings 5:3** — [explicit-divine-role:him→role-after-pronoun] — You know how that Dawid my father could not build a house for the name of YHWH his God for the wars which were about him on every side, until YHWH put them under the soles of his feet.
+- **1 Kings 8:54** — [explicit-divine-subject:he→YHWH] — It was so, that when Shlomo had made an end of praying all this prayer and supplication to YHWH, he arose from before the altar of YHWH, from kneeling on his knees with his hands spread forth toward heavens.
+- **1 Kings 8:62** — [explicit-divine-role:him→role-after-pronoun] — The king, and all Israel with him, offered sacrifice before YHWH.
+- **1 Kings 9:15** — [explicit-divine-subject:his→YHWH] — This is the reason of the levy which king Shlomo raised, to build the house of YHWH, and his own house, and Millo, and the wall of Yerushalayim, and Hazor, and Megiddo, and Gezer.
+- **1 Kings 13:4** — [divine-attribute:His→Elohim] — It happened, when the king heard the saying of the person of Elohim, which they cried against the altar in Beit El, that Yerovam put forth their hand from the altar, saying, Lay hold on him. His hand, which he put forth against him, dried up, so that he could not draw it back again to him.

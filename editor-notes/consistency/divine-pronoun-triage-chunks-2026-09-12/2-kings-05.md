@@ -1,0 +1,16 @@
+# 2 Kings — divine-pronoun triage part 5
+
+Candidates 49–60 of 63. Review-only; no Scripture changes.
+
+- **2 Kings 19:19** — [divine-attribute:his→God] — Now therefore, YHWH our God, save you us, I beg you, out of his hand, that all the kingdoms of the earth may know that you YHWH are Elohim alone.
+- **2 Kings 20:1** — [explicit-divine-role:him→role-after-pronoun] — In those days was Chizkiyahu sick to death. Yeshayahu the prophet the son of Amoz came to him, and said to him, Thus says YHWH, Set your house in order: for you shall die, and not live.
+- **2 Kings 20:11** — [explicit-divine-subject:he→YHWH] — Yeshayahu the prophet cried to YHWH; and he brought the shadow ten steps backward, by which it had gone down on the dial of Achaz.
+- **2 Kings 20:19** — [next-sentence-divine-subject:He→YHWH] — Then said Chizkiyahu to Yeshayahu, Good is the word of YHWH which you have spoken. He said moreover, Isn't it so, if peace and truth shall be in my days?
+- **2 Kings 21:6** — [devotion-object:him→YHWH] — He made his son to pass through the fire, and practiced sorcery, and used enchantments, and dealt with those who had familiar spirits, and with wizards: he worked much brokenness in the sight of YHWH, to provoke him to anger.
+- **2 Kings 22:18** — [explicit-divine-role:him→role-after-pronoun] — But to the king of Yehudah, who sent you to inquire of YHWH, thus shall you tell him, Thus says YHWH, the God of Israel: As touching the words which you have heard,
+- **2 Kings 23:4** — [explicit-divine-subject:he→YHWH] — The king commanded Hilkiah the high priest, and the priests of the second order, and the keepers of the threshold, to bring forth out of the temple of YHWH all the vessels that were made for Baal, and for the Asherah, and for all the army of the heavens, and he burned them outside of Yerushalayim in the fields of the Kidron, and carried the ashes of them to Beit El.
+- **2 Kings 23:11** — [explicit-divine-subject:he→YHWH] — He took away the horses that the kings of Yehudah had given to the sun, at the entrance of the house of YHWH, by the chamber of Natan Melech the officer, who was in the court; and he burned the chariots of the sun with fire.
+- **2 Kings 23:17** — [explicit-divine-role:him→role-after-pronoun] — Then he said, What monument is that which I see? The men of the city told him, It is the tomb of the person of Elohim, who came from Yehudah, and proclaimed these things that you have done against the altar of Beit El.
+- **2 Kings 23:19** — [explicit-divine-subject:he→YHWH] — All the houses also of the high places that were in the cities of Shomron, which the kings of Israel had made to provoke [YHWH] to anger, Yoshiyahu took away, and did to them according to all the acts that he had done in Beit El.
+- **2 Kings 23:25** — [divine-attribute:his→YHWH, explicit-divine-role:him→role-after-pronoun] — Like him was there no king before him, who turned to YHWH with all his heart, and with all his soul, and with all his might, according to all the law of Moshe; neither after him arose there any like him.
+- **2 Kings 23:32** — [explicit-divine-subject:his→YHWH] — He did what was broken in the sight of YHWH, according to all that his fathers had done.

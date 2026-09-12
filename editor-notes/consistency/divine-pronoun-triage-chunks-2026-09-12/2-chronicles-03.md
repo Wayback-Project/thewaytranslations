@@ -1,0 +1,16 @@
+# 2 Chronicles — divine-pronoun triage part 3
+
+Candidates 25–36 of 53. Review-only; no Scripture changes.
+
+- **2 Chronicles 23:3** — [next-sentence-divine-subject:He→Elohim] — All the assembly made a covenant with the king in the house of Elohim. He said to them, Behold, the king's son shall reign, as YHWH has spoken concerning the sons of Dawid.
+- **2 Chronicles 24:27** — [explicit-divine-role:him→role-after-pronoun] — Now concerning his sons, and the greatness of the burdens [laid] on him, and the rebuilding of the house of Elohim, behold, they are written in the commentary of the book of the kings. Amaziah his son reigned in his place.
+- **2 Chronicles 25:15** — [explicit-divine-subject:he→YHWH] — Therefore the anger of YHWH was kindled against Amaziah, and he sent to him a prophet, who said to him, Why have you sought after the gods of the people, which have not delivered their own people out of your hand?
+- **2 Chronicles 25:27** — [explicit-divine-subject:he→YHWH] — Now from the time that Amaziah did turn away from following YHWH they made a conspiracy against him in Yerushalayim; and he fled to Lachish: but they sent after him to Lachish, and killed him there.
+- **2 Chronicles 26:4** — [explicit-divine-subject:his→YHWH] — He did that which was right in the eyes of YHWH, according to all that his father Amaziah had done.
+- **2 Chronicles 26:16** — [explicit-divine-subject:he→YHWH] — But when he was strong, his heart was lifted up, so that he did corruptly, and he trespassed against YHWH his God; for he went into the temple of YHWH to burn incense on the altar of incense.
+- **2 Chronicles 26:17** — [explicit-divine-role:him→role-after-pronoun] — Azaryah the priest went in after him, and with him eighty priests of YHWH, who were valiant men:
+- **2 Chronicles 27:2** — [explicit-divine-subject:his→YHWH] — He did that which was right in the eyes of YHWH, according to all that his father Uzziyah had done: however he didn't enter into the temple of YHWH. The people did yet corruptly.
+- **2 Chronicles 28:9** — [explicit-divine-subject:he→YHWH, explicit-divine-subject:he→YHWH] — But a prophet of YHWH was there, whose name was Oded: and he went out to meet the army that came to Shomron, and said to them, Behold, because YHWH, the God of your fathers, was angry with Yehudah, he has delivered them into your hand, and you have slain them in a rage which has reached up to heavens.
+- **2 Chronicles 28:24** — [explicit-divine-subject:he→Elohim] — Achaz gathered together the vessels of the house of Elohim, and cut in pieces the vessels of the house of Elohim, and shut up the doors of the house of YHWH; and he made him altars in every corner of Yerushalayim.
+- **2 Chronicles 29:8** — [explicit-divine-subject:he→YHWH] — Therefore the wrath of YHWH was on Yehudah and Yerushalayim, and he has delivered them to be tossed back and forth, to be an astonishment, and a hissing, as you see with your eyes.
+- **2 Chronicles 29:25** — [divine-attribute:his→YHWH] — He set the Levites in the house of YHWH with cymbals, with stringed instruments, and with harps, according to the commandment of Dawid, and of Gad the king's seer, and Natan the prophet; for the commandment was of YHWH by his prophets.
