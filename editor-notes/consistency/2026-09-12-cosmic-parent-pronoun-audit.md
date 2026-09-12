@@ -1,0 +1,83 @@
+# Cosmic Parent + masculine-pronoun focused audit — 2026-09-12
+
+Candidate paragraphs: **77**.
+
+This is a focused review list. A paragraph is included when it contains both `Cosmic Parent` and one of `he/him/his/himself`; the pronoun may still refer to Yeshua or another human character, so every item requires antecedent review.
+
+- `OEBPS/Text/revelation.xhtml` — 6. and he made us a reign, priests to his God and Cosmic Parent—to him be the glory and the dominion forever and ever. Amen.
+- `OEBPS/Text/revelation.xhtml` — 27. He will rule them with a rod of iron, shattering them like clay pots; as I also have received of my Cosmic Parent:
+- `OEBPS/Text/revelation.xhtml` — 1. I saw, and behold, the Lamb standing on Har Tzion, and with him a number, one hundred forty-four thousand, having his name, and the name of his Cosmic Parent, written on their foreheads.
+- `OEBPS/Text/2-peter.xhtml` — 17. For he received from God the Cosmic Parent honor and glory, when the voice came to him from the Majestic Glory, "This is my beloved Son, in whom I am well pleased."
+- `OEBPS/Text/1-peter.xhtml` — 2. according to the foreknowledge of God the Cosmic Parent, in sanctification of the Ruach, that you may obey Yeshua the Messiah and be sprinkled with his blood: Grace to you and peace be multiplied.
+- `OEBPS/Text/1-peter.xhtml` — 3. Blessed be the God and Cosmic Parent of our Master Yeshua the Messiah, who according to his great mercy became our father again to a living hope through the resurrection of Yeshua the Messiah from the dead,
+- `OEBPS/Text/1-peter.xhtml` — 17. If you call on him as Cosmic Parent, who without respect of persons judges according to each a person's work, pass the time of your living as foreigners here in reverence:
+- `OEBPS/Text/acts.xhtml` — 4. Being assembled together with them, he charged them, "Don't depart from Yerushalayim, but wait for the promise of the Cosmic Parent, which you heard from me.
+- `OEBPS/Text/acts.xhtml` — 7. He said to them, "It isn't for you to know times or seasons established by the Cosmic Parent's own authority.
+- `OEBPS/Text/acts.xhtml` — 33. Being therefore exalted by the right hand of God, and having received from the Cosmic Parent the promise of the Ruach of Elohim, he has poured out this, which you now see and hear.
+- `OEBPS/Text/matthew.xhtml` — 45. that you may be children of your Cosmic Parent who is in heaven. For he makes his sun to rise on the unripe and the good, and sends rain on the just and the unjust.
+- `OEBPS/Text/matthew.xhtml` — 8. Therefore don't be like them, for your Cosmic Parent knows what things you need, before you ask him.
+- `OEBPS/Text/matthew.xhtml` — 11. If you then, being unripe and still able to sour, know how to give good gifts to your children, how much more will your Cosmic Parent who is in heaven give good things to those who seek from him!
+- `OEBPS/Text/matthew.xhtml` — 13. But he answered, "Every plant which my heavenly Cosmic Parent didn't plant will be uprooted.
+- `OEBPS/Text/matthew.xhtml` — 17. Yeshua answered him, "Blessed are you, Shimon Bar Yonah, for flesh and blood has not revealed this to you, but my Cosmic Parent who is in heaven.
+- `OEBPS/Text/matthew.xhtml` — 27. For the Human One will come in the glory of his Cosmic Parent with his angels, and then he will render to everyone according to their deeds.
+- `OEBPS/Text/matthew.xhtml` — 23. He said to them, "You will indeed drink my cup, and be immersed with the immersion that I am immersed with, but to sit on my right hand and on my left hand is not mine to give; but it is for whom it has been prepared by my Cosmic Parent."
+- `OEBPS/Text/matthew.xhtml` — 34. Then the King will tell those on his right hand, 'Come, blessed of my Cosmic Parent, inherit the reign prepared for you from the foundation of the world;
+- `OEBPS/Text/matthew.xhtml` — 39. He went forward a little, fell on his face, and prayed, saying, "My Cosmic Parent, if it is possible, let this cup pass away from me; nevertheless, not what I desire, but what you desire."
+- `OEBPS/Text/matthew.xhtml` — 42. Again, a second time he went away, and prayed, saying, "My Cosmic Parent, if this cup can't pass away from me unless I drink it, your desire be done."
+- `OEBPS/Text/1-thessalonians.xhtml` — 13. to the end he may establish your hearts blameless in holiness before our God and Cosmic Parent, at the coming of our Master Yeshua with all his saints.
+- `OEBPS/Text/galatians.xhtml` — 1. Shaul, an emissary (not from people, neither through a human being, but through Yeshua the Messiah, and God the Cosmic Parent, who raised him from the dead),
+- `OEBPS/Text/galatians.xhtml` — 4. who gave himself for our sins, that he might deliver us out of this present unripeness age, according to the will of our God and Cosmic Parent--
+- `OEBPS/Text/2-thessalonians.xhtml` — 16. Now our Master Yeshua the Messiah himself, and God our Cosmic Parent, who loved us and gave us age-enduring comfort and good hope through grace,
+- `OEBPS/Text/luke.xhtml` — 49. He said to them, "Why were you looking for me? Didn't you know that I must be in my Cosmic Parent's house?"
+- `OEBPS/Text/luke.xhtml` — 22. Turning to the disciples, he said, "All things have been delivered to me by my Cosmic Parent. No one knows who the Son is, except the Cosmic Parent, and who the Cosmic Parent is, except the Son, and anyone to whom the Son desires to reveal the Cosmic Parent."
+- `OEBPS/Text/luke.xhtml` — 2. He said to them, "When you pray, say: Our Cosmic Parent in the heavens, let your name be made holy. Let your reign come.
+- `OEBPS/Text/luke.xhtml` — 13. If you then, being unripe and still able to sour, know how to give good gifts to your children, how much more will your heavenly Cosmic Parent give the Ruach of Elohim to those who seek from him?"
+- `OEBPS/Text/luke.xhtml` — 34. Yeshua said, "Cosmic Parent, forgive them, for they don't know what they are doing." Dividing his garments among them, they cast lots.
+- `OEBPS/Text/luke.xhtml` — 46. Yeshua, crying with a loud voice, said, "Cosmic Parent, into your hands I commit my spirit!" Having said this, he breathed his last.
+- `OEBPS/Text/john.xhtml` — 18. No one has seen Elohim at any time. The one-of-a-kind Son, who is in the bosom of the Cosmic Parent, he has made the Cosmic Parent known.
+- `OEBPS/Text/john.xhtml` — 16. To those who sold the doves, he said, "Take these things out of here! Don't make my Cosmic Parent's house a marketplace!"
+- `OEBPS/Text/john.xhtml` — 35. The Cosmic Parent loves the Son, and has given all things into his hand.
+- `OEBPS/Text/john.xhtml` — 23. But the hour comes, and now is, when the true worshippers will worship the Cosmic Parent in spirit and truth, for the Cosmic Parent seeks such to be his worshippers.
+- `OEBPS/Text/john.xhtml` — 18. For this cause therefore the Judeans sought all the more to kill him, because he not only broke the Sabbath, but also called Elohim his own Cosmic Parent, making himself equal with Elohim.
+- `OEBPS/Text/john.xhtml` — 19. Yeshua therefore answered them, "Most certainly, I tell you, the Son can do nothing of himself, but what he sees the Cosmic Parent doing. For whatever things he does, these the Son also does likewise.
+- `OEBPS/Text/john.xhtml` — 20. For the Cosmic Parent has affection for the Son, and shows him all things that he himself does. He will show him greater works than these, that you may marvel.
+- `OEBPS/Text/john.xhtml` — 21. For as the Cosmic Parent raises the dead and gives them life, even so the Son also gives life to whom he desires.
+- `OEBPS/Text/john.xhtml` — 23. that all may honor the Son, even as they honor the Cosmic Parent. The one who doesn't honor the Son doesn't honor the Cosmic Parent who sent him.
+- `OEBPS/Text/john.xhtml` — 26. For as the Cosmic Parent has life in the Cosmic Parent’s own self, even so the Cosmic Parent gave to the Son also to have life in himself.
+- `OEBPS/Text/john.xhtml` — 43. I have come in my Cosmic Parent's name, and you don't receive me. If another comes in his own name, you will receive him.
+- `OEBPS/Text/john.xhtml` — 27. Don't work for the food which perishes, but for the food which remains to life of the age, which the Human One will give to you. For Elohim the Cosmic Parent has sealed him."
+- `OEBPS/Text/john.xhtml` — 39. This is the will of my Cosmic Parent who sent me, that of all the Cosmic Parent has given to me I should lose nothing, but should raise him up at the last day.
+- `OEBPS/Text/john.xhtml` — 46. Not that anyone has seen the Cosmic Parent, except the one who is from Elohim. He has seen the Cosmic Parent.
+- `OEBPS/Text/john.xhtml` — 19. They said therefore to him, "Where is your Cosmic Parent?" Yeshua answered, "You know neither me, nor my Cosmic Parent. If you knew me, you would know my Cosmic Parent also."
+- `OEBPS/Text/john.xhtml` — 27. They didn't understand that he spoke to them about the Cosmic Parent.
+- `OEBPS/Text/john.xhtml` — 28. Yeshua therefore said to them, "When you have lifted up the Human One, then you will know that I am he, and I do nothing of myself, but as my Cosmic Parent taught me, I say these things.
+- `OEBPS/Text/john.xhtml` — 29. The one who sent me is with me. The Cosmic Parent hasn't left me alone, for I always do the things that are pleasing to him."
+- `OEBPS/Text/john.xhtml` — 41. You do the works of your father." They said to him, "We were not born of sexual immorality. We have one Cosmic Parent, Elohim."
+- `OEBPS/Text/john.xhtml` — 41. So they took away the stone from the place where the dead man was lying. Yeshua lifted up his eyes, and said, "Cosmic Parent, I thank you that you listened to me.
+- `OEBPS/Text/john.xhtml` — 50. I know that his commandment is life of the age. The things therefore which I speak, even as the Cosmic Parent has said to me, so I speak."
+- `OEBPS/Text/john.xhtml` — 1. Now before the feast of the Passover, Yeshua, knowing that his time had come that he would depart from this world to the Cosmic Parent, having loved his own who were in the world, he loved them to the end.
+- `OEBPS/Text/john.xhtml` — 3. Yeshua, knowing that the Cosmic Parent had given all things into his hands, and that he came forth from Elohim, and was going to Elohim,
+- `OEBPS/Text/john.xhtml` — 6. Yeshua said to him, "I am the way, the truth, and the life. No one comes to the Cosmic Parent, except through me.
+- `OEBPS/Text/john.xhtml` — 7. If you had known me, you would have known my Cosmic Parent also. From now on, you know him, and have seen him."
+- `OEBPS/Text/john.xhtml` — 8. Pilipos said to him, "Master, show us the Cosmic Parent, and that will be enough for us."
+- `OEBPS/Text/john.xhtml` — 9. Yeshua said to him, "Have I been with you such a long time, and do you not know me, Pilipos? The one who has seen me has seen the Cosmic Parent. How do you say, 'Show us the Cosmic Parent?'
+- `OEBPS/Text/john.xhtml` — 16. I will pray to the Cosmic Parent, and he will give you another Counselor, that he may be with you forever,--
+- `OEBPS/Text/john.xhtml` — 23. Yeshua answered him, "If someone loves me, they will keep my word. My Cosmic Parent will love them, and we will come to them, and make our home with them.
+- `OEBPS/Text/john.xhtml` — 10. If you keep my commandments, you will remain in my love; even as I have kept my Cosmic Parent's commandments, and remain in his love.
+- `OEBPS/Text/john.xhtml` — 15. No longer do I call you servants, for the servant doesn't know what his master does. But I have called you friends, for everything that I heard from my Cosmic Parent, I have made known to you.
+- `OEBPS/Text/john.xhtml` — 16. You didn't choose me, but I chose you, and appointed you, that you should go and bear fruit, and that your fruit should remain; that whatever you seek of the Cosmic Parent in the life of my name, he may give it to you.
+- `OEBPS/Text/john.xhtml` — 15. All things whatever the Cosmic Parent has are mine; therefore I said that he takes of mine, and will declare it to you.
+- `OEBPS/Text/john.xhtml` — 17. Some of his disciples therefore said to one another, "What is this that he says to us, 'A little while, and you won't see me, and again a little while, and you will see me;' and, 'Because I go to the Cosmic Parent?'"
+- `OEBPS/Text/john.xhtml` — 23. "In that day you will ask me no questions. Most certainly I tell you, whatever you may seek of the Cosmic Parent in the living authority and presence of my name, he will give it to you.
+- `OEBPS/Text/john.xhtml` — 27. for the Cosmic Parent himself loves you, because you have loved me, and have believed that I came forth from Elohim.
+- `OEBPS/Text/john.xhtml` — 1. Yeshua said these things, and lifting up his eyes to heaven, he said, "Cosmic Parent, the time has come. Glorify your Son, that your Son may also glorify you;
+- `OEBPS/Text/mark.xhtml` — 36. He said, "Abba, Cosmic Parent, all things are possible to you. Please remove this cup from me. However, not what I desire, but what you desire."
+- `OEBPS/Text/1-john.xhtml` — 1. Behold, how great a love the Cosmic Parent has bestowed on us, that we should be called children of God! For this cause the world doesn't know us, because it didn't know him.
+- `OEBPS/Text/colossians.xhtml` — 17. Whatever you do, in word or in deed, do all in the name of Master Yeshua, giving thanks to God the Cosmic Parent, through him.
+- `OEBPS/Text/ephesians.xhtml` — 18. For through him we both have our access in one Ruach to the Cosmic Parent.
+- `OEBPS/Text/romans.xhtml` — 4. We were buried therefore with him through immersion to death, that just like Messiah was raised from the dead through the glory of the Cosmic Parent, so we also might walk in newness of life.
+- `OEBPS/Text/isaiah.xhtml` — 6. For to us a child is born. To us a son is given; and the government will be on his shoulders. His name will be called Wonderful, Counselor, Mighty Elohim, Everlasting Cosmic Parent, Prince of Peace.
+- `OEBPS/Text/psalms.xhtml` — 26. He will call to me, 'You are my Cosmic Parent, my God, and the rock of my salvation!'
+- `OEBPS/Text/hebrews.xhtml` — 5. For to which of the angels did the Cosmic Parent say at any time, "You are my Son. Today I have brought you forth." and again, "I will be to him a Cosmic Parent, and he will be to me a Son."
+- `OEBPS/Text/1-corinthians.xhtml` — 6. yet to us there is one God, the Cosmic Parent, of whom are all things, and for whom we live; and one Master, Yeshua the Messiah, through whom are all things, and we live through him.
+- `OEBPS/Text/1-corinthians.xhtml` — 24. Then the end comes, when he will deliver up the Reign to God, even the Cosmic Parent; when he will have abolished all rule and all authority and power.
