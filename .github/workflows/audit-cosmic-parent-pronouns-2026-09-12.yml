@@ -1,0 +1,32 @@
+name: Audit Cosmic Parent pronouns 2026-09-12
+
+on:
+  push:
+    branches:
+      - review/2026-09-12-cosmic-parent-pronouns
+    paths:
+      - tools/local/audit_cosmic_parent_pronouns_2026_09_12.py
+      - .github/workflows/audit-cosmic-parent-pronouns-2026-09-12.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: review/2026-09-12-cosmic-parent-pronouns
+          fetch-depth: 1
+      - run: python3 tools/local/audit_cosmic_parent_pronouns_2026_09_12.py
+      - name: Commit focused audit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add change-logs/reports/2026-09-12-cosmic-parent-pronoun-audit.json editor-notes/consistency/2026-09-12-cosmic-parent-pronoun-audit.md
+          if ! git diff --cached --quiet; then
+            git commit -m "Audit Cosmic Parent masculine-pronoun residuals"
+            git push origin HEAD:review/2026-09-12-cosmic-parent-pronouns
+          fi
