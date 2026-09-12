@@ -1,0 +1,37 @@
+# Divine-pronoun triage by book — 2026-09-12
+
+- 1 Kings: 46 — `1-kings.md`
+- 1 Peter: 3 — `1-peter.md`
+- 1 Samuel: 52 — `1-samuel.md`
+- 2 Chronicles: 53 — `2-chronicles.md`
+- 2 Corinthians: 4 — `2-corinthians.md`
+- 2 Kings: 63 — `2-kings.md`
+- 2 Thessalonians: 2 — `2-thessalonians.md`
+- 2 Timothy: 1 — `2-timothy.md`
+- Amos: 5 — `amos.md`
+- Colossians: 1 — `colossians.md`
+- Daniel: 10 — `daniel.md`
+- Deuteronomy: 26 — `deuteronomy.md`
+- Ephesians: 2 — `ephesians.md`
+- Exodus: 36 — `exodus.md`
+- Ezekiel: 13 — `ezekiel.md`
+- Ezra: 5 — `ezra.md`
+- Habakkuk: 2 — `habakkuk.md`
+- Haggai: 1 — `haggai.md`
+- Hosea: 8 — `hosea.md`
+- James: 3 — `james.md`
+- Job: 11 — `job.md`
+- Joel: 3 — `joel.md`
+- Jonah: 4 — `jonah.md`
+- Joshua: 15 — `joshua.md`
+- Judges: 36 — `judges.md`
+- Lamentations: 6 — `lamentations.md`
+- Leviticus: 19 — `leviticus.md`
+- Micah: 3 — `micah.md`
+- Nahum: 2 — `nahum.md`
+- Nehemiah: 2 — `nehemiah.md`
+- Numbers: 31 — `numbers.md`
+- Proverbs: 1 — `proverbs.md`
+- Ruth: 2 — `ruth.md`
+- Zechariah: 10 — `zechariah.md`
+- Zephaniah: 4 — `zephaniah.md`
