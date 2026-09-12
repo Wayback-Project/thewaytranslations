@@ -6,6 +6,7 @@ on:
       - release/2026-09-12-original-names
     paths:
       - tools/local/release_2026_09_12_original_names.py
+      - tools/local/release_2026_09_12_original_names_v2.py
       - .github/workflows/release-2026-09-12-original-names.yml
   workflow_dispatch:
 
@@ -26,7 +27,7 @@ jobs:
           fetch-depth: 1
 
       - name: Apply original-name release and canonical QA
-        run: python3 tools/local/release_2026_09_12_original_names.py
+        run: python3 tools/local/release_2026_09_12_original_names_v2.py
 
       - name: Commit generated release artifacts
         run: |
