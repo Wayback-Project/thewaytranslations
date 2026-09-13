@@ -19,5 +19,9 @@
 ## 2026-09-13 — John 14:6 living-way rendering
 - Scope: John 14:6.
 - Change: `Yeshua said to him, "I am the way, the truth, and the life. No one comes to the Cosmic Parent, except through me.` → `Yeshua said to him, "I am the way, the truth, and the life: a path that opens as the human self comes into alignment with the Cosmic Parent. No one comes to the Cosmic Parent except through this living way that I embody.`
+- Source-language rationale: the Greek text clearly preserves “the way, the truth, and the life,” while the surrounding exchange with Ta’oma is about knowing and traveling the way. Syriac `urḥā` likewise carries concrete path/road imagery; the Peshitta’s wording adds Semitic texture without requiring the expanded English clause as a literal translation.
+- Editorial rationale: the added alignment/living-way language is an intentional resonance rendering that makes the edition’s embodied-path reading explicit. It is not represented as a word-for-word reconstruction of either the Greek or Syriac.
+- Guardrail: keep future references low-key and distinguish source-language translation from interpretive expansion; detailed linguistic discussion belongs in the editor note rather than in ordinary reader-facing copy.
 - Status: editor-authorized canonical release.
+- Editor note: `editor-notes/consistency/2026-09-13-john-14-6-living-way.md`.
 - Exact ledger: `change-logs/reports/2026-09-13-john-14-6-living-way.json`.

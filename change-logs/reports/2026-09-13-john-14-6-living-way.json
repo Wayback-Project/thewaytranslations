@@ -9,9 +9,22 @@
       "reference": "John 14:6",
       "before": "Yeshua said to him, \"I am the way, the truth, and the life. No one comes to the Cosmic Parent, except through me.",
       "after": "Yeshua said to him, \"I am the way, the truth, and the life: a path that opens as the human self comes into alignment with the Cosmic Parent. No one comes to the Cosmic Parent except through this living way that I embody.",
-      "reason": "Editor-authorized Way Version rendering of Yeshua’s saying. It keeps the Way/truth/life language while expressing the Way as embodied alignment with the Cosmic Parent; it is an interpretive rendering and not a claim of word-for-word reconstruction."
+      "reason": "Editor-authorized Way Version rendering of Yeshua’s saying. It preserves the source-near Way/truth/life core while making the edition’s embodied-path and alignment reading explicit. The added clause is an interpretive/resonance expansion, not a claim of word-for-word reconstruction from Greek or Syriac."
     }
   ],
+  "editorial_rationale": {
+    "greek_core": "The surviving Greek text explicitly presents the way, the truth, and the life; the Greek does not insert the word only before way. The restrictive force is carried by the following clause about coming to the Parent.",
+    "immediate_context": "John 14:4–7 is framed by Ta’oma asking how the disciples can know the way to where Yeshua is going. The answer identifies Yeshua with that way, giving the path language a lived and relational context.",
+    "syriac_texture": "The Peshitta uses urha for way/path/road, shrara for truth, and hayye for life. The first-person closing form can be represented by/in/through me according to context. Syriac article behavior does not support a mechanical claim that the verse must say either a way or the way in English.",
+    "interpretive_layer": "The language of the human self coming into alignment with the Cosmic Parent and the living way Yeshua embodies belongs to the edition’s interpretive/resonance layer. It draws on concrete path imagery, Semitic semantic texture, and an embodied reading of the saying rather than presenting an interlinear gloss.",
+    "claims_not_made": [
+      "The expanded English clause is not a verbatim quotation from an ancient manuscript.",
+      "The expanded English clause is not presented as a recoverable word-for-word first-century Aramaic sentence.",
+      "The repeated Syriac first-person construction does not by grammar alone require a two-self interpretation.",
+      "Possible root associations and sound echoes are not treated as automatic lexical meanings."
+    ],
+    "documentation_posture": "Keep this rationale in the audit trail and editor notes. Reader-facing references should remain restrained so the explanation supports rather than competes with the Scripture text."
+  },
   "applied": [
     {
       "reference": "John 14:6",
