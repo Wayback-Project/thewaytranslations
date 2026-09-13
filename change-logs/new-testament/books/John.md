@@ -15,3 +15,9 @@
 - Source track: Aramaic-priority
 - Impacted files: original-documents/john_restorative_translation.txt, change-logs/new-testament/INDEX.md
 - Reviewer status: complete (pass 1)
+
+## 2026-09-13 — John 14:6 living-way rendering
+- Scope: John 14:6.
+- Change: `Yeshua said to him, "I am the way, the truth, and the life. No one comes to the Cosmic Parent, except through me.` → `Yeshua said to him, "I am the way, the truth, and the life: a path that opens as the human self comes into alignment with the Cosmic Parent. No one comes to the Cosmic Parent except through this living way that I embody.`
+- Status: editor-authorized canonical release.
+- Exact ledger: `change-logs/reports/2026-09-13-john-14-6-living-way.json`.

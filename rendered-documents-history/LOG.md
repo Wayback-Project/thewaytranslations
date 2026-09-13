@@ -13,3 +13,5 @@
 | 2026-09-12_0932UTC | rendered-documents-history/2026-09-12_0932UTC/ | the-way-current.epub (SHA-256 `8c41b165e7714730a4139ccee13c00b3c6e149af1e8ee5f00d4b8d5191bd5328`) | Archive prior canonical EPUB before 1 Corinthians divine-pronoun residual cleanup; 4 reviewed verse-level edits. |
 | 2026-09-12_0944UTC | rendered-documents-history/2026-09-12_0944UTC/ | the-way-current.epub (SHA-256 `73c3bc73d2da91fed507ee7dd6e1db72f4640847c664cdc4666f4ad065faff50`) | Archive prior canonical EPUB before the 2026-09-12 high-priority original-name restoration release; 63 approved mapping identities / 871 replacements. |
 | 2026-09-12_1630UTC | rendered-documents-history/2026-09-12_1630UTC/ | the-way-current.epub (SHA-256 `fb14e9bdf84c1eef9a67c135ae7c42edf070e3f39ea4b8a265fa4a4a9dc1129a`) | pre-crucifixion-inscription-name-alignment snapshot |
+
+- **2026-09-13_0656UTC** — John 14:6 living-way rendering released. Prior canonical EPUB archived at `rendered-documents-history/2026-09-13_0656UTC/the-way-current.epub`; new SHA-256 `36e0d99030228644ac4c84129088e10323826dbe0652e7f0d9d2221575261144`.

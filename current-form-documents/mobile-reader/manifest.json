@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "releaseId": "canonical-36e0d99030228644",
+  "canonicalEpubSha256": "36e0d99030228644ac4c84129088e10323826dbe0652e7f0d9d2221575261144",
+  "generatedAt": "2026-09-13T06:56:25Z",
+  "contentSha256": "35865ad6bedacd96be96bc38079d7ce1d1ed53719779249167afa7d19b5efebc",
+  "contentBytes": 30115116,
+  "contentUrl": "https://raw.githubusercontent.com/Wayback-Project/thewaytranslations/main/current-form-documents/mobile-reader/content.json",
+  "source": "canonical-github-fallback",
+  "bookCount": 66,
+  "chapterCount": 1189,
+  "verseSearchCount": 31102
+}
