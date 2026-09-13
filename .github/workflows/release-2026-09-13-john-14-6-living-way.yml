@@ -1,0 +1,61 @@
+name: Release 2026-09-13 John 14:6 living-way rendering
+
+on:
+  push:
+    branches:
+      - release/2026-09-13-john-14-6-living-way
+    paths:
+      - tools/local/release_2026_09_13_john_14_6_living_way.py
+      - .github/workflows/release-2026-09-13-john-14-6-living-way.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: release/2026-09-13-john-14-6-living-way
+          fetch-depth: 1
+
+      - name: Release John 14:6 and generate canonical mobile fallback
+        run: python3 tools/local/release_2026_09_13_john_14_6_living_way.py
+
+      - name: Verify released wording and fallback manifest
+        run: |
+          python3 - <<'PY'
+          import hashlib, json, zipfile, re
+          from pathlib import Path
+          epub=Path('current-form-documents/the-way-current.epub')
+          reg=json.loads(Path('current-form-documents/original-name-registry.json').read_text())
+          manifest=json.loads(Path('current-form-documents/mobile-reader/manifest.json').read_text())
+          content=Path('current-form-documents/mobile-reader/content.json').read_bytes()
+          sha=hashlib.sha256(epub.read_bytes()).hexdigest()
+          assert sha != '85666f0bbc81d21139fadbd9ae5defe42908f3e0e3754e2298980245c8db4833'
+          assert reg['canonicalEpubSha256']==sha
+          assert manifest['canonicalEpubSha256']==sha
+          assert manifest['contentSha256']==hashlib.sha256(content).hexdigest()
+          bundle=json.loads(content)
+          assert bundle['canonicalEpubSha256']==sha
+          assert len(bundle['search'])==31102
+          target=next(x for x in bundle['search'] if x['slug']=='john' and x['chapter']==14 and x['verse']==6)
+          expected='I am the way, the truth, and the life: a path that opens as the human self comes into alignment with the Cosmic Parent. No one comes to the Cosmic Parent except through this living way that I embody.'
+          assert expected in target['text'], target['text']
+          with zipfile.ZipFile(epub) as z:
+            text=re.sub(r'<[^>]+>','',z.read('OEBPS/Text/john.xhtml').decode('utf-8'))
+            assert expected in text
+          print(json.dumps({'epubSha256':sha,'contentSha256':manifest['contentSha256'],'john14_6':target['text']},indent=2))
+          PY
+
+      - name: Commit canonical release
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add current-form-documents original-documents/john_restorative_translation.txt README.md rendered-documents-history change-logs editor-notes
+          if ! git diff --cached --quiet; then
+            git commit -m "Release John 14:6 living-way rendering"
+            git push origin HEAD:release/2026-09-13-john-14-6-living-way
+          fi
