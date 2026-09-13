@@ -1,0 +1,46 @@
+{
+  "release": "2026-09-13 John 14:6 living-way rendering",
+  "prior_epub_sha256": "85666f0bbc81d21139fadbd9ae5defe42908f3e0e3754e2298980245c8db4833",
+  "released_epub_sha256": "36e0d99030228644ac4c84129088e10323826dbe0652e7f0d9d2221575261144",
+  "archive_path": "rendered-documents-history/2026-09-13_0656UTC/the-way-current.epub",
+  "change_count": 1,
+  "changes": [
+    {
+      "reference": "John 14:6",
+      "before": "Yeshua said to him, \"I am the way, the truth, and the life. No one comes to the Cosmic Parent, except through me.",
+      "after": "Yeshua said to him, \"I am the way, the truth, and the life: a path that opens as the human self comes into alignment with the Cosmic Parent. No one comes to the Cosmic Parent except through this living way that I embody.",
+      "reason": "Editor-authorized Way Version rendering of Yeshua’s saying. It keeps the Way/truth/life language while expressing the Way as embodied alignment with the Cosmic Parent; it is an interpretive rendering and not a claim of word-for-word reconstruction."
+    }
+  ],
+  "applied": [
+    {
+      "reference": "John 14:6",
+      "member": "OEBPS/Text/john.xhtml",
+      "source": "original-documents/john_restorative_translation.txt"
+    }
+  ],
+  "mobileFallback": {
+    "schemaVersion": 1,
+    "releaseId": "canonical-36e0d99030228644",
+    "canonicalEpubSha256": "36e0d99030228644ac4c84129088e10323826dbe0652e7f0d9d2221575261144",
+    "generatedAt": "2026-09-13T06:56:25Z",
+    "contentSha256": "35865ad6bedacd96be96bc38079d7ce1d1ed53719779249167afa7d19b5efebc",
+    "contentBytes": 30115116,
+    "contentUrl": "https://raw.githubusercontent.com/Wayback-Project/thewaytranslations/main/current-form-documents/mobile-reader/content.json",
+    "source": "canonical-github-fallback",
+    "bookCount": 66,
+    "chapterCount": 1189,
+    "verseSearchCount": 31102
+  },
+  "qa": {
+    "book_count": 66,
+    "chapter_count": 1189,
+    "zip_crc": "pass",
+    "xml_parse": "pass",
+    "internal_links": "pass",
+    "changed_book_members": [
+      "OEBPS/Text/john.xhtml"
+    ],
+    "verse_search_records": 31102
+  }
+}

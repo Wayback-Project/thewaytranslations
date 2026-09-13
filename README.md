@@ -69,7 +69,7 @@ The canonical whole-Bible release is [current-form-documents/the-way-current.epu
 | Item | Current value |
 |---|---|
 | Coverage | 66 books / 1,189 chapters |
-| EPUB SHA-256 | `85666f0bbc81d21139fadbd9ae5defe42908f3e0e3754e2298980245c8db4833` |
+| EPUB SHA-256 | `36e0d99030228644ac4c84129088e10323826dbe0652e7f0d9d2221575261144` |
 | Browser reader | [thewayversion.com/app](https://thewayversion.com/app) |
 | Website | [thewayversion.com](https://thewayversion.com) |
 | Mobile | Native mobile applications are in development |
@@ -131,3 +131,9 @@ Public access to this repository does not place the translation in the public do
 
 Published by **The Way Partners LLC**  
 [TheWayVersion.com](https://thewayversion.com) · [hello@twpventures.com](mailto:hello@twpventures.com)
+
+### Mobile translation update fallback protocol
+
+The canonical EPUB remains the text authority. Each approved canonical release also publishes a generated, read-only mobile fallback feed under `current-form-documents/mobile-reader/`. `manifest.json` identifies the exact canonical EPUB SHA and the SHA-256 of `content.json`; `content.json` contains generated chapter/search data plus the canonical original-name registry. These files are generated from the canonical EPUB and must never be hand-edited.
+
+The website may publish the same canonical release in a richer primary mobile feed, but a mobile client must corroborate a new website release against this public canonical GitHub manifest before activating it. If the website is unavailable, an emergency website switch directs clients away from the website, or the website release cannot be corroborated, clients fall back to this GitHub feed. A previously verified downloaded release and the immutable Bible bundled with the app remain valid offline fallbacks.
