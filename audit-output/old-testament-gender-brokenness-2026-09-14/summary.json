@@ -1,19 +1,62 @@
 {
   "canonicalEpubSha256": "0e66242a07b5303337f90078ae8639a1fca264031b63962fb109f79033e48c30",
   "scope": "All 39 Old Testament books, including a residual recheck of Psalms, Proverbs, Ecclesiastes, and Isaiah.",
-  "extractedVerseCount": 14581,
-  "candidateRowCount": 1670,
+  "extractedVerseCount": 23145,
+  "expectedOldTestamentVerseCount": 23145,
+  "verseCountValidation": "PASS",
+  "versesByBook": {
+    "Genesis": 1533,
+    "Exodus": 1213,
+    "Leviticus": 859,
+    "Numbers": 1288,
+    "Deuteronomy": 959,
+    "Joshua": 658,
+    "Judges": 618,
+    "Ruth": 85,
+    "1 Samuel": 810,
+    "2 Samuel": 695,
+    "1 Kings": 816,
+    "2 Kings": 719,
+    "1 Chronicles": 942,
+    "2 Chronicles": 822,
+    "Ezra": 280,
+    "Nehemiah": 406,
+    "Esther": 167,
+    "Job": 1070,
+    "Psalms": 2461,
+    "Proverbs": 915,
+    "Ecclesiastes": 222,
+    "Song of Solomon": 117,
+    "Isaiah": 1292,
+    "Jeremiah": 1364,
+    "Lamentations": 154,
+    "Ezekiel": 1273,
+    "Daniel": 357,
+    "Hosea": 197,
+    "Joel": 73,
+    "Amos": 146,
+    "Obadiah": 21,
+    "Jonah": 48,
+    "Micah": 105,
+    "Nahum": 47,
+    "Habakkuk": 56,
+    "Zephaniah": 53,
+    "Haggai": 38,
+    "Zechariah": 211,
+    "Malachi": 55
+  },
+  "candidateRowCount": 2493,
   "countsByCategory": {
-    "MASCULINE TERM REVIEW": 798,
-    "GENERIC PRONOUN HIGH PRIORITY": 260,
-    "GENERIC PRONOUN REVIEW": 91,
-    "DIVINE-REFERENT REVIEW": 330,
-    "BROKENNESS LEXICAL REVIEW": 185,
-    "GENERIC-HUMAN HIGH PRIORITY": 6
+    "BROKENNESS LEXICAL REVIEW": 347,
+    "MASCULINE TERM REVIEW": 1193,
+    "DIVINE-REFERENT REVIEW": 437,
+    "GENERIC PRONOUN HIGH PRIORITY": 360,
+    "GENERIC PRONOUN REVIEW": 143,
+    "GENERIC-HUMAN HIGH PRIORITY": 13
   },
   "countsByPriority": {
-    "REVIEW": 889,
-    "HIGH": 781
+    "HIGH": 1157,
+    "REVIEW": 1336
   },
   "handledBooks": [
     "Ecclesiastes",
@@ -22,6 +65,13 @@
     "Psalms"
   ],
   "countsByBook": {
+    "Genesis": {
+      "BROKENNESS LEXICAL REVIEW": 18,
+      "MASCULINE TERM REVIEW": 74,
+      "DIVINE-REFERENT REVIEW": 17,
+      "GENERIC PRONOUN HIGH PRIORITY": 17,
+      "GENERIC PRONOUN REVIEW": 11
+    },
     "Exodus": {
       "MASCULINE TERM REVIEW": 44,
       "GENERIC PRONOUN HIGH PRIORITY": 25,
@@ -77,6 +127,13 @@
       "GENERIC-HUMAN HIGH PRIORITY": 2,
       "GENERIC PRONOUN REVIEW": 3
     },
+    "2 Samuel": {
+      "GENERIC PRONOUN REVIEW": 8,
+      "GENERIC PRONOUN HIGH PRIORITY": 24,
+      "MASCULINE TERM REVIEW": 66,
+      "BROKENNESS LEXICAL REVIEW": 5,
+      "DIVINE-REFERENT REVIEW": 15
+    },
     "1 Kings": {
       "MASCULINE TERM REVIEW": 36,
       "DIVINE-REFERENT REVIEW": 28,
@@ -90,6 +147,12 @@
       "DIVINE-REFERENT REVIEW": 39,
       "GENERIC PRONOUN REVIEW": 4,
       "BROKENNESS LEXICAL REVIEW": 6
+    },
+    "1 Chronicles": {
+      "DIVINE-REFERENT REVIEW": 16,
+      "MASCULINE TERM REVIEW": 58,
+      "BROKENNESS LEXICAL REVIEW": 1,
+      "GENERIC PRONOUN HIGH PRIORITY": 4
     },
     "2 Chronicles": {
       "DIVINE-REFERENT REVIEW": 41,
@@ -121,6 +184,14 @@
       "GENERIC PRONOUN REVIEW": 14,
       "GENERIC-HUMAN HIGH PRIORITY": 1
     },
+    "Psalms": {
+      "BROKENNESS LEXICAL REVIEW": 48,
+      "MASCULINE TERM REVIEW": 63,
+      "GENERIC PRONOUN REVIEW": 10,
+      "GENERIC-HUMAN HIGH PRIORITY": 3,
+      "DIVINE-REFERENT REVIEW": 4,
+      "GENERIC PRONOUN HIGH PRIORITY": 1
+    },
     "Proverbs": {
       "BROKENNESS LEXICAL REVIEW": 44,
       "MASCULINE TERM REVIEW": 48,
@@ -129,8 +200,27 @@
       "DIVINE-REFERENT REVIEW": 1,
       "GENERIC-HUMAN HIGH PRIORITY": 1
     },
+    "Ecclesiastes": {
+      "MASCULINE TERM REVIEW": 1
+    },
     "Song of Solomon": {
       "MASCULINE TERM REVIEW": 4
+    },
+    "Isaiah": {
+      "BROKENNESS LEXICAL REVIEW": 18,
+      "MASCULINE TERM REVIEW": 54,
+      "GENERIC PRONOUN HIGH PRIORITY": 26,
+      "GENERIC PRONOUN REVIEW": 13,
+      "DIVINE-REFERENT REVIEW": 32,
+      "GENERIC-HUMAN HIGH PRIORITY": 2
+    },
+    "Jeremiah": {
+      "BROKENNESS LEXICAL REVIEW": 70,
+      "GENERIC PRONOUN REVIEW": 7,
+      "MASCULINE TERM REVIEW": 78,
+      "DIVINE-REFERENT REVIEW": 22,
+      "GENERIC PRONOUN HIGH PRIORITY": 25,
+      "GENERIC-HUMAN HIGH PRIORITY": 2
     },
     "Lamentations": {
       "MASCULINE TERM REVIEW": 6,
@@ -214,6 +304,13 @@
       "MASCULINE TERM REVIEW": 12,
       "DIVINE-REFERENT REVIEW": 8,
       "GENERIC PRONOUN REVIEW": 1
+    },
+    "Malachi": {
+      "MASCULINE TERM REVIEW": 1,
+      "GENERIC PRONOUN REVIEW": 3,
+      "BROKENNESS LEXICAL REVIEW": 2,
+      "GENERIC PRONOUN HIGH PRIORITY": 3,
+      "DIVINE-REFERENT REVIEW": 1
     }
   },
   "rule": "Diagnostic only. HIGH means strong editorial priority, not authorization to edit. Actual male characters/kinship/royal figures remain masculine; divine edits require unmistakable divine antecedent; brokenness requires Hebrew/context review. Review-tier rows intentionally include possible false positives."
