@@ -39,3 +39,7 @@ A source-sensitive reviewed release corrected **254** verse-level pronoun/inclus
 ## 2026-09-14 Ecclesiastes inclusive language + Isaiah 1:16
 
 A whole-book Ecclesiastes review corrected generic-human pronoun chains, unmistakable divine-pronoun remnants, and contextually inappropriate `brokenness` renderings. Source-marked male referents were preserved. Isaiah 1:16 was separately corrected to `Put away the harm of your doings ... Cease doing harm.` Canonical SHA-256: `0e66242a07b5303337f90078ae8639a1fca264031b63962fb109f79033e48c30`. See `../editor-notes/consistency/2026-09-14-ecclesiastes-inclusive-language-isaiah-harm.md` and `../change-logs/reports/2026-09-14-ecclesiastes-inclusive-language-isaiah-harm.json`.
+
+## 2026-09-14 Lexicon update — prior AI wording cleanup
+
+Finite 369-verse release repairing prior AI lexical flattening and 23 hand-reviewed generic-person pronoun chains. No heuristic divine-pronoun or broad masculine-term rewrites were included. Canonical SHA-256: `d48ec5b7da0db10c7c44c518793228dc5b2d69edc6e57de838486d2aefbcf62f`. See `../editor-notes/consistency/2026-09-14-lexicon-update-ai-cleanup.md` and `../change-logs/reports/2026-09-14-lexicon-update-ai-cleanup.json`.
