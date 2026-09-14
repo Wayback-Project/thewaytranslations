@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 from __future__ import annotations
 
+import copy
 import csv
 import hashlib
 import html
@@ -9,14 +10,18 @@ import re
 import zipfile
 from collections import Counter, defaultdict
 from pathlib import Path
+import xml.etree.ElementTree as ET
 
 ROOT = Path(__file__).resolve().parents[2]
 EPUB = ROOT / 'current-form-documents' / 'the-way-current.epub'
 OUT = ROOT / 'audit-output' / 'old-testament-gender-brokenness-2026-09-14'
 EXPECTED_SHA = '0e66242a07b5303337f90078ae8639a1fca264031b63962fb109f79033e48c30'
+EXPECTED_OT_VERSES = 23145
 
 BOOKS = {
 'genesis':'Genesis','exodus':'Exodus','leviticus':'Leviticus','numbers':'Numbers','deuteronomy':'Deuteronomy','joshua':'Joshua','judges':'Judges','ruth':'Ruth','1-samuel':'1 Samuel','2-samuel':'2 Samuel','1-kings':'1 Kings','2-kings':'2 Kings','1-chronicles':'1 Chronicles','2-chronicles':'2 Chronicles','ezra':'Ezra','nehemiah':'Nehemiah','esther':'Esther','job':'Job','psalms':'Psalms','proverbs':'Proverbs','ecclesiastes':'Ecclesiastes','song-of-solomon':'Song of Solomon','isaiah':'Isaiah','jeremiah':'Jeremiah','lamentations':'Lamentations','ezekiel':'Ezekiel','daniel':'Daniel','hosea':'Hosea','joel':'Joel','amos':'Amos','obadiah':'Obadiah','jonah':'Jonah','micah':'Micah','nahum':'Nahum','habakkuk':'Habakkuk','zephaniah':'Zephaniah','haggai':'Haggai','zechariah':'Zechariah','malachi':'Malachi'}
+EXPECTED_CHAPTERS = {
+'genesis':50,'exodus':40,'leviticus':27,'numbers':36,'deuteronomy':34,'joshua':24,'judges':21,'ruth':4,'1-samuel':31,'2-samuel':24,'1-kings':22,'2-kings':25,'1-chronicles':29,'2-chronicles':36,'ezra':10,'nehemiah':13,'esther':10,'job':42,'psalms':150,'proverbs':31,'ecclesiastes':12,'song-of-solomon':8,'isaiah':66,'jeremiah':52,'lamentations':5,'ezekiel':48,'daniel':12,'hosea':14,'joel':3,'amos':9,'obadiah':1,'jonah':4,'micah':7,'nahum':3,'habakkuk':3,'zephaniah':3,'haggai':2,'zechariah':14,'malachi':4}
 HANDLED = {'Psalms','Proverbs','Ecclesiastes','Isaiah'}
 
 DIV = r'(?:YHWH|Elohim|God|El Shaddai|Elyon|Yah|Most High|Almighty|Creator)'
@@ -43,8 +48,81 @@ def sha256(path: Path) -> str:
         for chunk in iter(lambda:f.read(1024*1024), b''): h.update(chunk)
     return h.hexdigest()
 
-def visible(s: str) -> str:
-    return re.sub(r'\s+',' ',html.unescape(re.sub(r'<[^>]+>','',s))).strip()
+def collapse(value: str) -> str:
+    return re.sub(r'\s+',' ',value or '').strip()
+
+def local_name(name: str) -> str:
+    return name.split('}',1)[-1] if '}' in name else name
+
+def element_text(el: ET.Element) -> str:
+    return collapse(' '.join(el.itertext()))
+
+def strip_namespaces(root: ET.Element) -> ET.Element:
+    root=copy.deepcopy(root)
+    for el in root.iter():
+        el.tag=local_name(el.tag)
+        attrs={local_name(k):v for k,v in el.attrib.items()}
+        el.attrib.clear(); el.attrib.update(attrs)
+    return root
+
+def find_book_member(z: zipfile.ZipFile, slug: str) -> str:
+    exact=f'OEBPS/Text/{slug}.xhtml'
+    if exact in z.namelist(): return exact
+    matches=[n for n in z.namelist() if n.lower().endswith(f'/{slug}.xhtml')]
+    if len(matches)!=1: raise RuntimeError(f'cannot locate {slug} XHTML: {matches}')
+    return matches[0]
+
+def chapter_number(el: ET.Element, slug: str):
+    ident=el.attrib.get('id','')
+    m=re.fullmatch(rf'ch-{re.escape(slug)}-(\d+)',ident,re.I)
+    return int(m.group(1)) if m else None
+
+def extract_book(raw: bytes, slug: str, book: str):
+    root=ET.fromstring(raw)
+    parents={child:parent for parent in root.iter() for child in parent}
+    anchors=[]
+    for el in root.iter():
+        n=chapter_number(el,slug)
+        if n is not None: anchors.append((n,el))
+    anchors.sort(key=lambda x:x[0])
+    nums=[n for n,_ in anchors]
+    expected=list(range(1,EXPECTED_CHAPTERS[slug]+1))
+    if nums != expected: raise RuntimeError(f'chapter anchors invalid for {book}: expected {len(expected)}, found {nums}')
+    verses=[]
+    for number,el in anchors:
+        frag=el
+        if len(element_text(el)) < 80:
+            parent=parents.get(el)
+            if parent is None: raise RuntimeError(f'no wrapper for {book} {number}')
+            siblings=list(parent); start=siblings.index(el); gathered=[]
+            for sibling in siblings[start:]:
+                if sibling is not el and chapter_number(sibling,slug) is not None: break
+                gathered.append(copy.deepcopy(sibling))
+            wrapper=ET.Element('section')
+            for sibling in gathered: wrapper.append(sibling)
+            frag=wrapper
+        clean=strip_namespaces(frag); seen_verses=set(); found=0
+        for node in clean.iter():
+            if local_name(node.tag).lower()!='p': continue
+            plain=element_text(node); m=re.match(r'^(\d+)\.\s*(.*)$',plain,re.S)
+            if not m: continue
+            verse=int(m.group(1))
+            if verse in seen_verses: continue
+            seen_verses.add(verse); found+=1
+            verses.append((book,number,verse,collapse(m.group(2))))
+        if not found: raise RuntimeError(f'no verses for {book} {number}')
+    return verses
+
+def extract_all():
+    verses=[]
+    with zipfile.ZipFile(EPUB) as z:
+        bad=z.testzip()
+        if bad: raise RuntimeError(f'EPUB CRC failure: {bad}')
+        for slug,book in BOOKS.items():
+            verses.extend(extract_book(z.read(find_book_member(z,slug)),slug,book))
+    if len(verses)!=EXPECTED_OT_VERSES:
+        raise RuntimeError(f'Old Testament verse inventory mismatch: {len(verses)} != {EXPECTED_OT_VERSES}')
+    return verses
 
 def nearby_divine(text, pos, window=160):
     start=max(0,pos-window); before=text[start:pos]; ms=list(DIV_RE.finditer(before))
@@ -68,19 +146,6 @@ def divine_hits(text):
         if not HUMAN_DISTRACTOR.search(m.group('mid') or ''): hits.append('next-sentence-divine-subject')
     return sorted(set(hits))
 
-def verses():
-    with zipfile.ZipFile(EPUB) as z:
-        for slug,book in BOOKS.items():
-            member=f'OEBPS/Text/{slug}.xhtml'
-            if member not in z.namelist():
-                raise RuntimeError(f'missing OT book member: {member}')
-            raw=z.read(member).decode('utf-8'); chapter=None
-            for pm in re.finditer(r'<p\b(?P<a>[^>]*)>(?P<i>.*?)</p>',raw,re.I|re.S):
-                ch=re.search(rf'id=["\']ch-{re.escape(slug)}-(\d+)["\']',pm.group('a'),re.I)
-                if ch: chapter=int(ch.group(1)); continue
-                txt=visible(pm.group('i')); vm=re.match(r'^(\d+)\.\s*(.*)$',txt,re.S)
-                if vm and chapter: yield slug,book,chapter,int(vm.group(1)),vm.group(2).strip()
-
 def add(rows, seen, book, ch, vs, text, category, priority, signals, reason):
     key=(book,ch,vs,category)
     if key in seen: return
@@ -89,9 +154,8 @@ def add(rows, seen, book, ch, vs, text, category, priority, signals, reason):
 def main():
     actual=sha256(EPUB)
     if actual != EXPECTED_SHA: raise SystemExit(f'Canonical EPUB SHA mismatch: {actual} != {EXPECTED_SHA}')
-    rows=[]; seen=set(); allv=[]
-    for slug,book,ch,vs,text in verses():
-        allv.append((book,ch,vs,text))
+    allv=extract_all(); rows=[]; seen=set()
+    for book,ch,vs,text in allv:
         if ARTICLE_BAD.search(text):
             add(rows,seen,book,ch,vs,text,'ARTICLE REGRESSION','CRITICAL',[ARTICLE_BAD.search(text).group(0)],'Invalid English article before a consonant-sound human noun; release blocker.')
         b=BROKENNESS.findall(text)
@@ -114,16 +178,15 @@ def main():
     with (OUT/'candidates.tsv').open('w',encoding='utf-8',newline='') as f:
         w=csv.DictWriter(f,fieldnames=fields,delimiter='\t'); w.writeheader(); w.writerows(rows)
     with (OUT/'all-verses.tsv').open('w',encoding='utf-8',newline='') as f:
-        w=csv.writer(f,delimiter='\t'); w.writerow(['reference','text']);
+        w=csv.writer(f,delimiter='\t'); w.writerow(['reference','text'])
         for b,c,v,t in allv: w.writerow([f'{b} {c}:{v}',t])
-    bycat=Counter(r['category'] for r in rows); bypri=Counter(r['priority'] for r in rows); bybook=defaultdict(Counter)
+    bycat=Counter(r['category'] for r in rows); bypri=Counter(r['priority'] for r in rows); bybook=defaultdict(Counter); verse_counts=Counter(b for b,_,_,_ in allv)
     for r in rows: bybook[r['book']][r['category']]+=1
-    summary={'canonicalEpubSha256':actual,'scope':'All 39 Old Testament books, including a residual recheck of Psalms, Proverbs, Ecclesiastes, and Isaiah.','extractedVerseCount':len(allv),'candidateRowCount':len(rows),'countsByCategory':dict(bycat),'countsByPriority':dict(bypri),'handledBooks':sorted(HANDLED),'countsByBook':{b:dict(c) for b,c in bybook.items()},'rule':'Diagnostic only. HIGH means strong editorial priority, not authorization to edit. Actual male characters/kinship/royal figures remain masculine; divine edits require unmistakable divine antecedent; brokenness requires Hebrew/context review. Review-tier rows intentionally include possible false positives.'}
+    summary={'canonicalEpubSha256':actual,'scope':'All 39 Old Testament books, including a residual recheck of Psalms, Proverbs, Ecclesiastes, and Isaiah.','extractedVerseCount':len(allv),'expectedOldTestamentVerseCount':EXPECTED_OT_VERSES,'verseCountValidation':'PASS','versesByBook':dict(verse_counts),'candidateRowCount':len(rows),'countsByCategory':dict(bycat),'countsByPriority':dict(bypri),'handledBooks':sorted(HANDLED),'countsByBook':{b:dict(c) for b,c in bybook.items()},'rule':'Diagnostic only. HIGH means strong editorial priority, not authorization to edit. Actual male characters/kinship/royal figures remain masculine; divine edits require unmistakable divine antecedent; brokenness requires Hebrew/context review. Review-tier rows intentionally include possible false positives.'}
     (OUT/'summary.json').write_text(json.dumps(summary,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
     high=[r for r in rows if r['priority'] in {'CRITICAL','HIGH'}]
-    lines=['# Old Testament gender / divine-pronoun / brokenness residual audit — 2026-09-14','',f'Canonical EPUB SHA: `{actual}`','',f'Extracted verses: **{len(allv)}** · candidate rows: **{len(rows)}** · high/critical rows: **{len(high)}**.','', 'This is diagnostic only. It does not authorize global replacement. Preserve actual male characters, male kinship, kings/royal figures, and source-significant gender. Repeat the established divine name/title only when the referent is unmistakably divine. Review every brokenness rendering against Hebrew/context rather than replacing the word globally. Review-tier rows intentionally include possible false positives.','', '## High / critical candidates','']
-    for r in high:
-        lines.append(f"- **{r['reference']} — {r['category']}** — {r['text']}")
+    lines=['# Old Testament gender / divine-pronoun / brokenness residual audit — 2026-09-14','',f'Canonical EPUB SHA: `{actual}`','',f'Extracted verses: **{len(allv)} / {EXPECTED_OT_VERSES}** · candidate rows: **{len(rows)}** · high/critical rows: **{len(high)}**.','', 'This is diagnostic only. It does not authorize global replacement. Preserve actual male characters, male kinship, kings/royal figures, and source-significant gender. Repeat the established divine name/title only when the referent is unmistakably divine. Review every brokenness rendering against Hebrew/context rather than replacing the word globally. Review-tier rows intentionally include possible false positives.','', '## High / critical candidates','']
+    for r in high: lines.append(f"- **{r['reference']} — {r['category']}** — {r['text']}")
     (OUT/'high-priority.md').write_text('\n'.join(lines)+'\n',encoding='utf-8')
     print(json.dumps(summary,indent=2))
 
