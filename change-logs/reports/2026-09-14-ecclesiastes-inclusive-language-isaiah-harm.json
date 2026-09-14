@@ -1,0 +1,405 @@
+{
+  "release": "2026-09-14 Ecclesiastes inclusive language + Isaiah 1:16 harm wording",
+  "scope": "Whole-book Ecclesiastes review for generic-human/divine-pronoun consistency and context-sensitive ra/raah renderings; Isaiah limited to 1:16.",
+  "prior_epub_sha256": "feb0a7ad83de3c31df389a61db02dda4b5eecf2655caaad7cda4be911df3f55a",
+  "released_epub_sha256": "0e66242a07b5303337f90078ae8639a1fca264031b63962fb109f79033e48c30",
+  "archive_path": "rendered-documents-history/2026-09-14_1818UTC/the-way-current.epub",
+  "change_count": 37,
+  "category_counts": {
+    "generic": 16,
+    "lexical": 15,
+    "divine": 2,
+    "grammar": 1,
+    "mixed": 3
+  },
+  "changes": [
+    {
+      "reference": "Ecclesiastes 2:19",
+      "book": "ecclesiastes",
+      "chapter": 2,
+      "verse": 19,
+      "category": "generic",
+      "before": "Who knows whether they will be a wise person or a fool? Yet he will have rule over all of my labor in which I have labored, and in which I have shown myself wise under the sun. This also is vanity.",
+      "after": "Who knows whether they will be a wise person or a fool? Yet they will have rule over all of my labor in which I have labored, and in which I have shown myself wise under the sun. This also is vanity."
+    },
+    {
+      "reference": "Ecclesiastes 2:21",
+      "book": "ecclesiastes",
+      "chapter": 2,
+      "verse": 21,
+      "category": "lexical",
+      "before": "For there is a person whose labor is with wisdom, with knowledge, and with skillfulness; yet they shall leave it for their portion to a person who has not labored for it. This also is vanity and a great brokenness.",
+      "after": "For there is a person whose labor is with wisdom, with knowledge, and with skillfulness; yet they shall leave it for their portion to a person who has not labored for it. This also is vanity and a great misfortune."
+    },
+    {
+      "reference": "Ecclesiastes 2:26",
+      "book": "ecclesiastes",
+      "chapter": 2,
+      "verse": 26,
+      "category": "divine",
+      "before": "For to the one who pleases him, Elohim gives wisdom, knowledge, and joy; but to the sinner they give travail, to gather and to heap up, that they may give to the one who pleases Elohim. This also is vanity and a chasing after wind.",
+      "after": "For to the one who pleases Elohim, Elohim gives wisdom, knowledge, and joy; but to the sinner Elohim gives travail, to gather and to heap up, that they may give to the one who pleases Elohim. This also is vanity and a chasing after wind."
+    },
+    {
+      "reference": "Ecclesiastes 3:11",
+      "book": "ecclesiastes",
+      "chapter": 3,
+      "verse": 11,
+      "category": "grammar",
+      "before": "Elohim has made everything beautiful in its time. The Elohim has also set eternity in their hearts, yet so that a person can't find out the work that Elohim has done from the beginning even to the end.",
+      "after": "Elohim has made everything beautiful in its time. Elohim has also set eternity in their hearts, yet so that a person can't find out the work that Elohim has done from the beginning even to the end."
+    },
+    {
+      "reference": "Ecclesiastes 4:3",
+      "book": "ecclesiastes",
+      "chapter": 4,
+      "verse": 3,
+      "category": "lexical",
+      "before": "Yes, better than them both is the one who has not yet been, who has not seen the work of brokenness that is done under the sun.",
+      "after": "Yes, better than them both is the one who has not yet been, who has not seen the harm that is done under the sun."
+    },
+    {
+      "reference": "Ecclesiastes 4:8",
+      "book": "ecclesiastes",
+      "chapter": 4,
+      "verse": 8,
+      "category": "generic",
+      "before": "There is one who is alone, and they have neither son nor brother. There is no end to all of his labor, neither are his eyes satisfied with wealth. For whom then, do I labor, and deprive my soul of enjoyment? This also is vanity, yes, it is a miserable business.",
+      "after": "There is one who is alone, and they have neither son nor brother. There is no end to all of their labor, neither are their eyes satisfied with wealth. For whom then, do I labor, and deprive my soul of enjoyment? This also is vanity, yes, it is a miserable business."
+    },
+    {
+      "reference": "Ecclesiastes 4:10",
+      "book": "ecclesiastes",
+      "chapter": 4,
+      "verse": 10,
+      "category": "generic",
+      "before": "For if they fall, the one will lift up his fellow; but woe to the one who is alone when they fall, and doesn't have another to lift them up.",
+      "after": "For if they fall, one will lift up the other; but woe to the one who is alone when they fall, and doesn't have another to lift them up."
+    },
+    {
+      "reference": "Ecclesiastes 5:1",
+      "book": "ecclesiastes",
+      "chapter": 5,
+      "verse": 1,
+      "category": "lexical",
+      "before": "Guard your steps when you go to Elohim's house; for to draw near to listen is better than to give the sacrifice of fools, for they don't know that they do brokenness.",
+      "after": "Guard your steps when you go to Elohim's house; for to draw near to listen is better than to give the sacrifice of fools, for they don't know that they do wrong."
+    },
+    {
+      "reference": "Ecclesiastes 5:11",
+      "book": "ecclesiastes",
+      "chapter": 5,
+      "verse": 11,
+      "category": "generic",
+      "before": "When goods increase, those who eat them are increased; and what advantage is there to its owner, except to feast on them with his eyes?",
+      "after": "When goods increase, those who eat them are increased; and what advantage is there to its owner, except to feast on them with their eyes?"
+    },
+    {
+      "reference": "Ecclesiastes 5:13",
+      "book": "ecclesiastes",
+      "chapter": 5,
+      "verse": 13,
+      "category": "mixed",
+      "before": "There is a grievous brokenness which I have seen under the sun: wealth kept by its owner to his harm.",
+      "after": "There is a grievous misfortune which I have seen under the sun: wealth kept by its owner to their harm."
+    },
+    {
+      "reference": "Ecclesiastes 5:16",
+      "book": "ecclesiastes",
+      "chapter": 5,
+      "verse": 16,
+      "category": "lexical",
+      "before": "This also is a grievous brokenness, that in all points as they came, so shall they go. And what profit do they have who labor for the wind?",
+      "after": "This also is a grievous misfortune, that in all points as they came, so shall they go. And what profit do they have who labor for the wind?"
+    },
+    {
+      "reference": "Ecclesiastes 6:1",
+      "book": "ecclesiastes",
+      "chapter": 6,
+      "verse": 1,
+      "category": "mixed",
+      "before": "There is a brokenness which I have seen under the sun, and it is heavy on men:",
+      "after": "There is a misfortune I have seen under the sun, and it weighs heavily on humanity:"
+    },
+    {
+      "reference": "Ecclesiastes 6:3",
+      "book": "ecclesiastes",
+      "chapter": 6,
+      "verse": 3,
+      "category": "generic",
+      "before": "If someone fathers a hundred children, and lives many years, so that the days of their years are many, but their soul is not filled with good, and moreover they have no burial; I say, that an untimely birth is better than he:",
+      "after": "If someone has a hundred children, and lives many years, so that the days of their years are many, but their soul is not filled with good, and moreover they have no burial; I say that a stillbirth is better off than they are:"
+    },
+    {
+      "reference": "Ecclesiastes 6:6",
+      "book": "ecclesiastes",
+      "chapter": 6,
+      "verse": 6,
+      "category": "generic",
+      "before": "Yes, though he live a thousand years twice told, and yet fails to enjoy good, don't all go to one place?",
+      "after": "Yes, though they live a thousand years twice told, and yet fail to enjoy good, don't all go to one place?"
+    },
+    {
+      "reference": "Ecclesiastes 7:15",
+      "book": "ecclesiastes",
+      "chapter": 7,
+      "verse": 15,
+      "category": "lexical",
+      "before": "All this have I seen in my days of vanity: there is a righteous person who perishes in their righteousness, and there is a broken person who lives long in their brokenness-doing.",
+      "after": "All this have I seen in my days of vanity: there is a righteous person who perishes in their righteousness, and there is a wicked person who lives long in their wrongdoing."
+    },
+    {
+      "reference": "Ecclesiastes 8:6",
+      "book": "ecclesiastes",
+      "chapter": 8,
+      "verse": 6,
+      "category": "generic",
+      "before": "For there is a time and procedure for every purpose, although the misery of a person is heavy on him.",
+      "after": "For there is a time and procedure for every purpose, although the misery of a person is heavy on them."
+    },
+    {
+      "reference": "Ecclesiastes 8:7",
+      "book": "ecclesiastes",
+      "chapter": 8,
+      "verse": 7,
+      "category": "generic",
+      "before": "For he doesn't know that which will be; for who can tell him how it will be?",
+      "after": "For they don't know what will be; for who can tell them how it will be?"
+    },
+    {
+      "reference": "Ecclesiastes 8:9",
+      "book": "ecclesiastes",
+      "chapter": 8,
+      "verse": 9,
+      "category": "mixed",
+      "before": "All this have I seen, and applied my mind to every work that is done under the sun. There is a time in which one a person has power over another to their hurt.",
+      "after": "All this have I seen, and applied my mind to every work that is done under the sun. There is a time in which one person has power over another to their harm."
+    },
+    {
+      "reference": "Ecclesiastes 8:11",
+      "book": "ecclesiastes",
+      "chapter": 8,
+      "verse": 11,
+      "category": "lexical",
+      "before": "Because sentence against a work of brokenness is not executed speedily, therefore the heart of the human beings is fully set in them to do brokenness.",
+      "after": "Because sentence against a harmful deed is not executed speedily, the hearts of human beings are fully set on doing harm."
+    },
+    {
+      "reference": "Ecclesiastes 8:13",
+      "book": "ecclesiastes",
+      "chapter": 8,
+      "verse": 13,
+      "category": "generic",
+      "before": "But it shall not be well with the wicked, neither shall he lengthen days like a shadow; because he doesn't revere Elohim.",
+      "after": "But it shall not be well with the wicked person, neither shall they lengthen their days like a shadow, because they don't revere Elohim."
+    },
+    {
+      "reference": "Ecclesiastes 8:14",
+      "book": "ecclesiastes",
+      "chapter": 8,
+      "verse": 14,
+      "category": "generic",
+      "before": "There is a vanity which is done on the earth, that there are righteous men to whom it happens according to the work of the wicked. Again, there are wicked men to whom it happens according to the work of the righteous. I said that this also is vanity.",
+      "after": "There is a vanity which is done on the earth, that there are righteous people to whom it happens according to the work of the wicked. Again, there are wicked people to whom it happens according to the work of the righteous. I said that this also is vanity."
+    },
+    {
+      "reference": "Ecclesiastes 8:16",
+      "book": "ecclesiastes",
+      "chapter": 8,
+      "verse": 16,
+      "category": "generic",
+      "before": "When I applied my heart to know wisdom, and to see the business that is done on the earth (for also there is that neither day nor night sees sleep with his eyes),",
+      "after": "When I applied my heart to know wisdom, and to see the business that is done on the earth (for there are those whose eyes see no sleep by day or night),"
+    },
+    {
+      "reference": "Ecclesiastes 9:3",
+      "book": "ecclesiastes",
+      "chapter": 9,
+      "verse": 3,
+      "category": "lexical",
+      "before": "This is a brokenness in all that is done under the sun, that there is one event to all: yes also, the heart of the human beings is full of brokenness, and madness is in their heart while they live, and after that they go to the dead.",
+      "after": "This is a grievous thing in all that is done under the sun: there is one event to all; yes, the hearts of human beings are full of wrongdoing, and madness is in their hearts while they live, and after that they go to the dead."
+    },
+    {
+      "reference": "Ecclesiastes 9:9",
+      "book": "ecclesiastes",
+      "chapter": 9,
+      "verse": 9,
+      "category": "divine",
+      "before": "Live joyfully with the wife whom you love all the days of your life of vanity, which he has given you under the sun, all your days of vanity: for that is your portion in life, and in your labor in which you labor under the sun.",
+      "after": "Live joyfully with the wife whom you love all the days of your life of vanity, which Elohim has given you under the sun, all your days of vanity: for that is your portion in life, and in your labor in which you labor under the sun."
+    },
+    {
+      "reference": "Ecclesiastes 9:12",
+      "book": "ecclesiastes",
+      "chapter": 9,
+      "verse": 12,
+      "category": "lexical",
+      "before": "For a person also doesn't know their time. As the fish that are taken in a brokenness net, and as the birds that are caught in the snare, even so are the human beings snared in a time of trouble, when it falls suddenly on them.",
+      "after": "For a person also doesn't know their time. As the fish that are taken in a deadly net, and as the birds that are caught in the snare, even so are the human beings snared in a time of trouble, when it falls suddenly on them."
+    },
+    {
+      "reference": "Ecclesiastes 9:14",
+      "book": "ecclesiastes",
+      "chapter": 9,
+      "verse": 14,
+      "category": "generic",
+      "before": "There was a little city, and few men within it; and a great king came against it, besieged it, and built great bulwarks against it.",
+      "after": "There was a little city, and few people within it; and a great king came against it, besieged it, and built great bulwarks against it."
+    },
+    {
+      "reference": "Ecclesiastes 10:1",
+      "book": "ecclesiastes",
+      "chapter": 10,
+      "verse": 1,
+      "category": "lexical",
+      "before": "Dead flies cause the oil of the perfumer to send forth a brokenness odor; so does a little folly outweigh wisdom and honor.",
+      "after": "Dead flies cause the oil of the perfumer to send forth a foul odor; so does a little folly outweigh wisdom and honor."
+    },
+    {
+      "reference": "Ecclesiastes 10:5",
+      "book": "ecclesiastes",
+      "chapter": 10,
+      "verse": 5,
+      "category": "lexical",
+      "before": "There is a brokenness which I have seen under the sun, the sort of error which proceeds from the ruler.",
+      "after": "There is an error I have seen under the sun, the sort of mistake that proceeds from a ruler."
+    },
+    {
+      "reference": "Ecclesiastes 10:10",
+      "book": "ecclesiastes",
+      "chapter": 10,
+      "verse": 10,
+      "category": "generic",
+      "before": "If the axe is blunt, and one doesn't sharpen the edge, then he must use more strength; but skill brings success.",
+      "after": "If the axe is blunt, and one doesn't sharpen the edge, then they must use more strength; but skill brings success."
+    },
+    {
+      "reference": "Ecclesiastes 10:13",
+      "book": "ecclesiastes",
+      "chapter": 10,
+      "verse": 13,
+      "category": "generic",
+      "before": "The beginning of the words of his mouth is foolishness; and the end of his talk is mischievous madness.",
+      "after": "The beginning of the words of their mouth is foolishness; and the end of their talk is mischievous madness."
+    },
+    {
+      "reference": "Ecclesiastes 10:14",
+      "book": "ecclesiastes",
+      "chapter": 10,
+      "verse": 14,
+      "category": "generic",
+      "before": "A fool also multiplies words. Man doesn't know what will be; and that which will be after him, who can tell him?",
+      "after": "A fool also multiplies words. A person doesn't know what will be; and that which will be after them, who can tell them?"
+    },
+    {
+      "reference": "Ecclesiastes 10:15",
+      "book": "ecclesiastes",
+      "chapter": 10,
+      "verse": 15,
+      "category": "generic",
+      "before": "The labor of fools wearies every one of them; for he doesn't know how to go to the city.",
+      "after": "The labor of fools wearies every one of them; for they don't know how to go to the city."
+    },
+    {
+      "reference": "Ecclesiastes 11:2",
+      "book": "ecclesiastes",
+      "chapter": 11,
+      "verse": 2,
+      "category": "lexical",
+      "before": "Give a portion to seven, yes, even to eight; for you don't know what brokenness will be on the earth.",
+      "after": "Give a portion to seven, yes, even to eight; for you don't know what misfortune may come upon the earth."
+    },
+    {
+      "reference": "Ecclesiastes 11:10",
+      "book": "ecclesiastes",
+      "chapter": 11,
+      "verse": 10,
+      "category": "lexical",
+      "before": "Therefore remove sorrow from your heart, and put away brokenness from your flesh; for youth and the dawn of life are vanity.",
+      "after": "Therefore remove worry from your heart, and put away pain from your body; for youth and the dawn of life are vanity."
+    },
+    {
+      "reference": "Ecclesiastes 12:1",
+      "book": "ecclesiastes",
+      "chapter": 12,
+      "verse": 1,
+      "category": "lexical",
+      "before": "Remember also your Creator in the days of your youth, before the brokenness days come, and the years draw near, when you will say, \"I have no pleasure in them;\"",
+      "after": "Remember also your Creator in the days of your youth, before the days of sorrow come, and the years draw near, when you will say, \"I have no pleasure in them;\""
+    },
+    {
+      "reference": "Ecclesiastes 12:14",
+      "book": "ecclesiastes",
+      "chapter": 12,
+      "verse": 14,
+      "category": "lexical",
+      "before": "For Elohim will bring every work into judgment, with every hidden thing, whether it is good, or whether it is brokenness.",
+      "after": "For Elohim will bring every work into judgment, with every hidden thing, whether it is good, or whether it is bad."
+    },
+    {
+      "reference": "Isaiah 1:16",
+      "book": "isaiah",
+      "chapter": 1,
+      "verse": 16,
+      "category": "lexical",
+      "before": "Wash yourselves, make yourself clean. Put away the brokenness of your doings from before my eyes. Cease to do brokenness.",
+      "after": "Wash yourselves, make yourselves clean. Put away the harm of your doings from before my eyes. Cease doing harm."
+    }
+  ],
+  "preserved_decisions": [
+    {
+      "reference": "Ecclesiastes 4:14-16",
+      "reason": "The youth/king sequence is a specific royal male referent; masculine pronouns retained."
+    },
+    {
+      "reference": "Ecclesiastes 5:14-15",
+      "reason": "The immediate hypothetical explicitly describes someone who begets/fathers a son; retained rather than mechanically neutralized."
+    },
+    {
+      "reference": "Ecclesiastes 7:28",
+      "reason": "The verse explicitly contrasts a man and a woman; gender is semantically meaningful and retained."
+    },
+    {
+      "reference": "Ecclesiastes 8:3-4",
+      "reason": "Masculine pronouns refer to the king in the immediate royal context; retained."
+    },
+    {
+      "reference": "Ecclesiastes 12:9",
+      "reason": "Masculine pronouns refer to the male Preacher/narrator established in the book; retained."
+    },
+    {
+      "reference": "Ecclesiastes 12:12",
+      "reason": "Direct \"my son\" address retained as a source-marked kinship/student address rather than mechanically neutralized."
+    }
+  ],
+  "mobileFallback": {
+    "schemaVersion": 1,
+    "releaseId": "canonical-0e66242a07b53033",
+    "canonicalEpubSha256": "0e66242a07b5303337f90078ae8639a1fca264031b63962fb109f79033e48c30",
+    "generatedAt": "2026-09-14T18:18:55Z",
+    "contentSha256": "9210bbbf4982d30d4c3756106106317a029a21a2222857a776c9f90cbed66946",
+    "contentBytes": 30120482,
+    "contentUrl": "https://raw.githubusercontent.com/Wayback-Project/thewaytranslations/main/current-form-documents/mobile-reader/content.json",
+    "source": "canonical-github-fallback",
+    "bookCount": 66,
+    "chapterCount": 1189,
+    "verseSearchCount": 31102
+  },
+  "qa": {
+    "book_count": 66,
+    "chapter_count": 1189,
+    "verse_search_records": 31102,
+    "zip_crc": "pass",
+    "xml_parse": "pass",
+    "internal_links": "pass",
+    "changed_book_members": [
+      "OEBPS/Text/ecclesiastes.xhtml",
+      "OEBPS/Text/isaiah.xhtml"
+    ],
+    "post_release_actionable_article_mismatches": 0,
+    "article_sound_exceptions_preserved": 29,
+    "exact_before_after_inventory": "pass",
+    "scope_guard": "Ecclesiastes plus Isaiah 1:16 only"
+  }
+}

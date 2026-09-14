@@ -19,3 +19,5 @@
 - **2026-09-14_0657UTC** — English grammar consistency update released: 38 `a`/`an` corrections across 16 books. Prior canonical EPUB archived at `rendered-documents-history/2026-09-14_0657UTC/the-way-current.epub`; new SHA-256 `bfd2e746afdb810d4b0b35abf66fe71da394abee77099f9c8f481102ab242f53`.
 
 - **2026-09-14_1734UTC** — Psalms/Proverbs inclusive human and divine-pronoun consistency update released: 254 reviewed verse-level edits. Prior canonical EPUB archived at `rendered-documents-history/2026-09-14_1734UTC/the-way-current.epub`; new SHA-256 `feb0a7ad83de3c31df389a61db02dda4b5eecf2655caaad7cda4be911df3f55a`.
+
+- **2026-09-14_1818UTC** — Ecclesiastes inclusive-language/contextual `ra/ra'ah` update plus Isaiah 1:16 harm wording released: 37 verse-level edits. Prior EPUB archived at `rendered-documents-history/2026-09-14_1818UTC/the-way-current.epub`; new SHA-256 `0e66242a07b5303337f90078ae8639a1fca264031b63962fb109f79033e48c30`.
