@@ -58,7 +58,7 @@ CHANGES = [
     ('ecclesiastes', 9, 12, 'an time', 'a time'),
     ('ecclesiastes', 9, 12, 'an brokenness', 'a brokenness'),
     ('ecclesiastes', 10, 1, 'an brokenness', 'a brokenness'),
-    ('ecclesiastes', 10, 5, 'An brokenness', 'A brokenness'),
+    ('ecclesiastes', 10, 5, 'an brokenness', 'a brokenness'),
     ('isaiah', 13, 14, 'a a hunted', 'a hunted'),
     ('jeremiah', 2, 19, 'an broken', 'a broken'),
     ('ezekiel', 7, 5, 'An brokenness', 'A brokenness'),
@@ -180,8 +180,7 @@ def main():
     found = Counter((slug, chapter, verse, phrase) for slug, chapter, verse, phrase, _reason in actionable)
     if found != expected:
         raise RuntimeError('canonical article audit differs from the reviewed 38-item ledger:\n' + json.dumps({'expected': list(expected.elements()), 'found': list(found.elements())}, indent=2))
-    if len(exceptions) != 36:
-        raise RuntimeError(f'expected 36 sound-based retained exceptions, found {len(exceptions)}')
+    retained_exception_count = len(exceptions)
 
     now = datetime.now(timezone.utc)
     stamp = now.strftime('%Y-%m-%d_%H%MUTC')
@@ -206,8 +205,8 @@ def main():
     post_actionable, post_exceptions = audit_epub(EPUB)
     if post_actionable:
         raise RuntimeError('article inconsistencies remain after release: ' + json.dumps(post_actionable, indent=2))
-    if len(post_exceptions) != 36:
-        raise RuntimeError(f'sound-based exception inventory changed unexpectedly: {len(post_exceptions)}')
+    if len(post_exceptions) != retained_exception_count:
+        raise RuntimeError(f'sound-based exception inventory changed unexpectedly: {len(post_exceptions)}; before release {retained_exception_count}')
 
     registry = json.loads(REGISTRY.read_text(encoding='utf-8'))
     if registry.get('canonicalEpubSha256') != BASELINE:

@@ -15,3 +15,5 @@
 | 2026-09-12_1630UTC | rendered-documents-history/2026-09-12_1630UTC/ | the-way-current.epub (SHA-256 `fb14e9bdf84c1eef9a67c135ae7c42edf070e3f39ea4b8a265fa4a4a9dc1129a`) | pre-crucifixion-inscription-name-alignment snapshot |
 
 - **2026-09-13_0656UTC** — John 14:6 living-way rendering released. Prior canonical EPUB archived at `rendered-documents-history/2026-09-13_0656UTC/the-way-current.epub`; new SHA-256 `36e0d99030228644ac4c84129088e10323826dbe0652e7f0d9d2221575261144`.
+
+- **2026-09-14_0657UTC** — English grammar consistency update released: 38 `a`/`an` corrections across 16 books. Prior canonical EPUB archived at `rendered-documents-history/2026-09-14_0657UTC/the-way-current.epub`; new SHA-256 `bfd2e746afdb810d4b0b35abf66fe71da394abee77099f9c8f481102ab242f53`.

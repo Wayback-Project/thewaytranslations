@@ -1,0 +1,393 @@
+{
+  "release": "2026-09-14 English grammar consistency updates",
+  "scope": "Indefinite-article agreement (a/an) in the canonical current-form EPUB",
+  "prior_epub_sha256": "36e0d99030228644ac4c84129088e10323826dbe0652e7f0d9d2221575261144",
+  "released_epub_sha256": "bfd2e746afdb810d4b0b35abf66fe71da394abee77099f9c8f481102ab242f53",
+  "archive_path": "rendered-documents-history/2026-09-14_0657UTC/the-way-current.epub",
+  "change_count": 38,
+  "retained_sound_based_exception_count": 29,
+  "changes": [
+    {
+      "reference": "Genesis 37:2",
+      "book": "genesis",
+      "chapter": 37,
+      "verse": 2,
+      "before": "an harmful",
+      "after": "a harmful",
+      "reason": "English indefinite-article grammar consistency; wording and meaning otherwise unchanged."
+    },
+    {
+      "reference": "Genesis 37:20",
+      "book": "genesis",
+      "chapter": 37,
+      "verse": 20,
+      "before": "An brokenness",
+      "after": "A brokenness",
+      "reason": "English indefinite-article grammar consistency; wording and meaning otherwise unchanged."
+    },
+    {
+      "reference": "Genesis 37:33",
+      "book": "genesis",
+      "chapter": 37,
+      "verse": 33,
+      "before": "An brokenness",
+      "after": "A brokenness",
+      "reason": "English indefinite-article grammar consistency; wording and meaning otherwise unchanged."
+    },
+    {
+      "reference": "Numbers 13:32",
+      "book": "numbers",
+      "chapter": 13,
+      "verse": 32,
+      "before": "an harmful",
+      "after": "a harmful",
+      "reason": "English indefinite-article grammar consistency; wording and meaning otherwise unchanged."
+    },
+    {
+      "reference": "Numbers 14:36",
+      "book": "numbers",
+      "chapter": 14,
+      "verse": 36,
+      "before": "an harmful",
+      "after": "a harmful",
+      "reason": "English indefinite-article grammar consistency; wording and meaning otherwise unchanged."
+    },
+    {
+      "reference": "Numbers 14:37",
+      "book": "numbers",
+      "chapter": 14,
+      "verse": 37,
+      "before": "an harmful",
+      "after": "a harmful",
+      "reason": "English indefinite-article grammar consistency; wording and meaning otherwise unchanged."
+    },
+    {
+      "reference": "Deuteronomy 22:14",
+      "book": "deuteronomy",
+      "chapter": 22,
+      "verse": 14,
+      "before": "an harmful",
+      "after": "a harmful",
+      "reason": "English indefinite-article grammar consistency; wording and meaning otherwise unchanged."
+    },
+    {
+      "reference": "Deuteronomy 22:19",
+      "book": "deuteronomy",
+      "chapter": 22,
+      "verse": 19,
+      "before": "an harmful",
+      "after": "a harmful",
+      "reason": "English indefinite-article grammar consistency; wording and meaning otherwise unchanged."
+    },
+    {
+      "reference": "Judges 9:23",
+      "book": "judges",
+      "chapter": 9,
+      "verse": 23,
+      "before": "an troubling",
+      "after": "a troubling",
+      "reason": "English indefinite-article grammar consistency; wording and meaning otherwise unchanged."
+    },
+    {
+      "reference": "1 Samuel 16:14",
+      "book": "1-samuel",
+      "chapter": 16,
+      "verse": 14,
+      "before": "an troubling",
+      "after": "a troubling",
+      "reason": "English indefinite-article grammar consistency; wording and meaning otherwise unchanged."
+    },
+    {
+      "reference": "1 Samuel 16:15",
+      "book": "1-samuel",
+      "chapter": 16,
+      "verse": 15,
+      "before": "an troubling",
+      "after": "a troubling",
+      "reason": "English indefinite-article grammar consistency; wording and meaning otherwise unchanged."
+    },
+    {
+      "reference": "1 Samuel 18:10",
+      "book": "1-samuel",
+      "chapter": 18,
+      "verse": 10,
+      "before": "an troubling",
+      "after": "a troubling",
+      "reason": "English indefinite-article grammar consistency; wording and meaning otherwise unchanged."
+    },
+    {
+      "reference": "1 Samuel 19:9",
+      "book": "1-samuel",
+      "chapter": 19,
+      "verse": 9,
+      "before": "An troubling",
+      "after": "A troubling",
+      "reason": "English indefinite-article grammar consistency; wording and meaning otherwise unchanged."
+    },
+    {
+      "reference": "Nehemiah 6:13",
+      "book": "nehemiah",
+      "chapter": 6,
+      "verse": 13,
+      "before": "an harmful",
+      "after": "a harmful",
+      "reason": "English indefinite-article grammar consistency; wording and meaning otherwise unchanged."
+    },
+    {
+      "reference": "Psalms 41:8",
+      "book": "psalms",
+      "chapter": 41,
+      "verse": 8,
+      "before": "An grievous",
+      "after": "A grievous",
+      "reason": "English indefinite-article grammar consistency; wording and meaning otherwise unchanged."
+    },
+    {
+      "reference": "Psalms 140:11",
+      "book": "psalms",
+      "chapter": 140,
+      "verse": 11,
+      "before": "An brokenness",
+      "after": "A brokenness",
+      "reason": "English indefinite-article grammar consistency; wording and meaning otherwise unchanged."
+    },
+    {
+      "reference": "Proverbs 12:13",
+      "book": "proverbs",
+      "chapter": 12,
+      "verse": 13,
+      "before": "An brokenness",
+      "after": "A brokenness",
+      "reason": "English indefinite-article grammar consistency; wording and meaning otherwise unchanged."
+    },
+    {
+      "reference": "Proverbs 17:11",
+      "book": "proverbs",
+      "chapter": 17,
+      "verse": 11,
+      "before": "An brokenness",
+      "after": "A brokenness",
+      "reason": "English indefinite-article grammar consistency; wording and meaning otherwise unchanged."
+    },
+    {
+      "reference": "Proverbs 26:23",
+      "book": "proverbs",
+      "chapter": 26,
+      "verse": 23,
+      "before": "an broken",
+      "after": "a broken",
+      "reason": "English indefinite-article grammar consistency; wording and meaning otherwise unchanged."
+    },
+    {
+      "reference": "Proverbs 28:10",
+      "book": "proverbs",
+      "chapter": 28,
+      "verse": 10,
+      "before": "an broken",
+      "after": "a broken",
+      "reason": "English indefinite-article grammar consistency; wording and meaning otherwise unchanged."
+    },
+    {
+      "reference": "Proverbs 29:6",
+      "book": "proverbs",
+      "chapter": 29,
+      "verse": 6,
+      "before": "An brokenness",
+      "after": "A brokenness",
+      "reason": "English indefinite-article grammar consistency; wording and meaning otherwise unchanged."
+    },
+    {
+      "reference": "Ecclesiastes 6:1",
+      "book": "ecclesiastes",
+      "chapter": 6,
+      "verse": 1,
+      "before": "an brokenness",
+      "after": "a brokenness",
+      "reason": "English indefinite-article grammar consistency; wording and meaning otherwise unchanged."
+    },
+    {
+      "reference": "Ecclesiastes 6:2",
+      "book": "ecclesiastes",
+      "chapter": 6,
+      "verse": 2,
+      "before": "an grievous",
+      "after": "a grievous",
+      "reason": "English indefinite-article grammar consistency; wording and meaning otherwise unchanged."
+    },
+    {
+      "reference": "Ecclesiastes 8:3",
+      "book": "ecclesiastes",
+      "chapter": 8,
+      "verse": 3,
+      "before": "an broken",
+      "after": "a broken",
+      "reason": "English indefinite-article grammar consistency; wording and meaning otherwise unchanged."
+    },
+    {
+      "reference": "Ecclesiastes 8:11",
+      "book": "ecclesiastes",
+      "chapter": 8,
+      "verse": 11,
+      "before": "an work",
+      "after": "a work",
+      "reason": "English indefinite-article grammar consistency; wording and meaning otherwise unchanged."
+    },
+    {
+      "reference": "Ecclesiastes 9:3",
+      "book": "ecclesiastes",
+      "chapter": 9,
+      "verse": 3,
+      "before": "an brokenness",
+      "after": "a brokenness",
+      "reason": "English indefinite-article grammar consistency; wording and meaning otherwise unchanged."
+    },
+    {
+      "reference": "Ecclesiastes 9:12",
+      "book": "ecclesiastes",
+      "chapter": 9,
+      "verse": 12,
+      "before": "an time",
+      "after": "a time",
+      "reason": "English indefinite-article grammar consistency; wording and meaning otherwise unchanged."
+    },
+    {
+      "reference": "Ecclesiastes 9:12",
+      "book": "ecclesiastes",
+      "chapter": 9,
+      "verse": 12,
+      "before": "an brokenness",
+      "after": "a brokenness",
+      "reason": "English indefinite-article grammar consistency; wording and meaning otherwise unchanged."
+    },
+    {
+      "reference": "Ecclesiastes 10:1",
+      "book": "ecclesiastes",
+      "chapter": 10,
+      "verse": 1,
+      "before": "an brokenness",
+      "after": "a brokenness",
+      "reason": "English indefinite-article grammar consistency; wording and meaning otherwise unchanged."
+    },
+    {
+      "reference": "Ecclesiastes 10:5",
+      "book": "ecclesiastes",
+      "chapter": 10,
+      "verse": 5,
+      "before": "an brokenness",
+      "after": "a brokenness",
+      "reason": "English indefinite-article grammar consistency; wording and meaning otherwise unchanged."
+    },
+    {
+      "reference": "Isaiah 13:14",
+      "book": "isaiah",
+      "chapter": 13,
+      "verse": 14,
+      "before": "a a hunted",
+      "after": "a hunted",
+      "reason": "English indefinite-article grammar consistency; wording and meaning otherwise unchanged."
+    },
+    {
+      "reference": "Jeremiah 2:19",
+      "book": "jeremiah",
+      "chapter": 2,
+      "verse": 19,
+      "before": "an broken",
+      "after": "a broken",
+      "reason": "English indefinite-article grammar consistency; wording and meaning otherwise unchanged."
+    },
+    {
+      "reference": "Ezekiel 7:5",
+      "book": "ezekiel",
+      "chapter": 7,
+      "verse": 5,
+      "before": "An brokenness",
+      "after": "A brokenness",
+      "reason": "English indefinite-article grammar consistency; wording and meaning otherwise unchanged."
+    },
+    {
+      "reference": "Ezekiel 38:10",
+      "book": "ezekiel",
+      "chapter": 38,
+      "verse": 10,
+      "before": "an brokenness",
+      "after": "a brokenness",
+      "reason": "English indefinite-article grammar consistency; wording and meaning otherwise unchanged."
+    },
+    {
+      "reference": "Amos 5:13",
+      "book": "amos",
+      "chapter": 5,
+      "verse": 13,
+      "before": "an time",
+      "after": "a time",
+      "reason": "English indefinite-article grammar consistency; wording and meaning otherwise unchanged."
+    },
+    {
+      "reference": "Micah 2:3",
+      "book": "micah",
+      "chapter": 2,
+      "verse": 3,
+      "before": "an time",
+      "after": "a time",
+      "reason": "English indefinite-article grammar consistency; wording and meaning otherwise unchanged."
+    },
+    {
+      "reference": "Habakkuk 2:9",
+      "book": "habakkuk",
+      "chapter": 2,
+      "verse": 9,
+      "before": "an brokenness",
+      "after": "a brokenness",
+      "reason": "English indefinite-article grammar consistency; wording and meaning otherwise unchanged."
+    },
+    {
+      "reference": "Luke 12:50",
+      "book": "luke",
+      "chapter": 12,
+      "verse": 50,
+      "before": "a immersion",
+      "after": "an immersion",
+      "reason": "English indefinite-article grammar consistency; wording and meaning otherwise unchanged."
+    }
+  ],
+  "mobileFallback": {
+    "schemaVersion": 1,
+    "releaseId": "canonical-bfd2e746afdb810d",
+    "canonicalEpubSha256": "bfd2e746afdb810d4b0b35abf66fe71da394abee77099f9c8f481102ab242f53",
+    "generatedAt": "2026-09-14T06:57:25Z",
+    "contentSha256": "28fcfaabd5ca087f9bcec538e59603f53fd625e4331a1bebc7336adad91b3c03",
+    "contentBytes": 30114931,
+    "contentUrl": "https://raw.githubusercontent.com/Wayback-Project/thewaytranslations/main/current-form-documents/mobile-reader/content.json",
+    "source": "canonical-github-fallback",
+    "bookCount": 66,
+    "chapterCount": 1189,
+    "verseSearchCount": 31102
+  },
+  "qa": {
+    "book_count": 66,
+    "chapter_count": 1189,
+    "verse_search_records": 31102,
+    "zip_crc": "pass",
+    "xml_parse": "pass",
+    "internal_links": "pass",
+    "post_release_actionable_article_mismatches": 0,
+    "changed_book_members": [
+      "OEBPS/Text/1-samuel.xhtml",
+      "OEBPS/Text/amos.xhtml",
+      "OEBPS/Text/deuteronomy.xhtml",
+      "OEBPS/Text/ecclesiastes.xhtml",
+      "OEBPS/Text/ezekiel.xhtml",
+      "OEBPS/Text/genesis.xhtml",
+      "OEBPS/Text/habakkuk.xhtml",
+      "OEBPS/Text/isaiah.xhtml",
+      "OEBPS/Text/jeremiah.xhtml",
+      "OEBPS/Text/judges.xhtml",
+      "OEBPS/Text/luke.xhtml",
+      "OEBPS/Text/micah.xhtml",
+      "OEBPS/Text/nehemiah.xhtml",
+      "OEBPS/Text/numbers.xhtml",
+      "OEBPS/Text/proverbs.xhtml",
+      "OEBPS/Text/psalms.xhtml"
+    ]
+  }
+}
