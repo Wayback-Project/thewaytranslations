@@ -24,17 +24,22 @@ jobs:
           ref: consistency/english-grammar-articles-2026-09-14
           fetch-depth: 1
 
-      - name: Finalize reviewed ledger casing
+      - name: Finalize reviewed ledger and exception guard
         run: |
           python3 - <<'PY'
           from pathlib import Path
           path=Path('tools/local/release_2026_09_14_english_article_grammar.py')
           text=path.read_text(encoding='utf-8')
-          old="('ecclesiastes', 10, 5, 'An brokenness', 'A brokenness')"
-          new="('ecclesiastes', 10, 5, 'an brokenness', 'a brokenness')"
-          if text.count(old) != 1:
-              raise SystemExit(f'expected one final casing target, found {text.count(old)}')
-          path.write_text(text.replace(old,new),encoding='utf-8')
+          replacements={
+            "('ecclesiastes', 10, 5, 'An brokenness', 'A brokenness')": "('ecclesiastes', 10, 5, 'an brokenness', 'a brokenness')",
+            "    if len(exceptions) != 36:\n        raise RuntimeError(f'expected 36 sound-based retained exceptions, found {len(exceptions)}')": "    retained_exception_count = len(exceptions)",
+            "    if len(post_exceptions) != 36:\n        raise RuntimeError(f'sound-based exception inventory changed unexpectedly: {len(post_exceptions)}')": "    if len(post_exceptions) != retained_exception_count:\n        raise RuntimeError(f'sound-based exception inventory changed unexpectedly: {len(post_exceptions)}; before release {retained_exception_count}')",
+          }
+          for old,new in replacements.items():
+              if text.count(old) != 1:
+                  raise SystemExit(f'expected one release-script patch target, found {text.count(old)}: {old[:80]}')
+              text=text.replace(old,new)
+          path.write_text(text,encoding='utf-8')
           PY
 
       - name: Apply and validate English grammar consistency updates
