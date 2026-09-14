@@ -17,3 +17,5 @@
 - **2026-09-13_0656UTC** — John 14:6 living-way rendering released. Prior canonical EPUB archived at `rendered-documents-history/2026-09-13_0656UTC/the-way-current.epub`; new SHA-256 `36e0d99030228644ac4c84129088e10323826dbe0652e7f0d9d2221575261144`.
 
 - **2026-09-14_0657UTC** — English grammar consistency update released: 38 `a`/`an` corrections across 16 books. Prior canonical EPUB archived at `rendered-documents-history/2026-09-14_0657UTC/the-way-current.epub`; new SHA-256 `bfd2e746afdb810d4b0b35abf66fe71da394abee77099f9c8f481102ab242f53`.
+
+- **2026-09-14_1734UTC** — Psalms/Proverbs inclusive human and divine-pronoun consistency update released: 254 reviewed verse-level edits. Prior canonical EPUB archived at `rendered-documents-history/2026-09-14_1734UTC/the-way-current.epub`; new SHA-256 `feb0a7ad83de3c31df389a61db02dda4b5eecf2655caaad7cda4be911df3f55a`.

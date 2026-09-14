@@ -1,0 +1,2610 @@
+{
+  "release": "2026-09-14 Psalms and Proverbs inclusive human/divine pronoun update",
+  "scope": "Psalms and Proverbs only; reviewed PRONOUN REVIEW, HIGH-PRIORITY UPDATE, and unmistakable divine-referent cases.",
+  "prior_epub_sha256": "bfd2e746afdb810d4b0b35abf66fe71da394abee77099f9c8f481102ab242f53",
+  "released_epub_sha256": "feb0a7ad83de3c31df389a61db02dda4b5eecf2655caaad7cda4be911df3f55a",
+  "archive_path": "rendered-documents-history/2026-09-14_1734UTC/the-way-current.epub",
+  "change_count": 254,
+  "category_counts": {
+    "generic": 146,
+    "divine": 103,
+    "mixed": 5
+  },
+  "changes": [
+    {
+      "reference": "Psalms 1:2",
+      "book": "psalms",
+      "chapter": 1,
+      "verse": 2,
+      "category": "generic",
+      "before": "but his delight is in YHWH's law. On his law he meditates day and night.",
+      "after": "but their delight is in YHWH's law. On YHWH's law they meditate day and night.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Psalms 1:3",
+      "book": "psalms",
+      "chapter": 1,
+      "verse": 3,
+      "category": "generic",
+      "before": "He will be like a tree planted by the streams of water, that brings forth its fruit in its season, whose leaf also does not wither. Whatever he does shall prosper.",
+      "after": "They will be like a tree planted by the streams of water, that brings forth its fruit in its season, whose leaf also does not wither. Whatever they do shall prosper.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Psalms 2:2",
+      "book": "psalms",
+      "chapter": 2,
+      "verse": 2,
+      "category": "divine",
+      "before": "The kings of the earth take a stand, and the rulers take counsel together, against YHWH, and against his Anointed, saying,",
+      "after": "The kings of the earth take a stand, and the rulers take counsel together, against YHWH, and against YHWH's Anointed, saying,",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 2:5",
+      "book": "psalms",
+      "chapter": 2,
+      "verse": 5,
+      "category": "divine",
+      "before": "Then he will speak to them in his anger, and terrify them in his wrath:",
+      "after": "Then YHWH will speak to them in YHWH's anger, and terrify them in YHWH's wrath:",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 3:4",
+      "book": "psalms",
+      "chapter": 3,
+      "verse": 4,
+      "category": "divine",
+      "before": "I cry to YHWH with my voice, and he answers me out of his holy hill. Selah.",
+      "after": "I cry to YHWH with my voice, and YHWH answers me out of YHWH's holy hill. Selah.",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 4:3",
+      "book": "psalms",
+      "chapter": 4,
+      "verse": 3,
+      "category": "divine",
+      "before": "But know that YHWH has set apart for themselves the one who is godly: YHWH will hear when I call to him.",
+      "after": "But know that YHWH has set apart for themselves the one who is godly: YHWH will hear when I call to YHWH.",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 8:4",
+      "book": "psalms",
+      "chapter": 8,
+      "verse": 4,
+      "category": "generic",
+      "before": "what is man, that you think of him? What is the child of humanity, that you care for them?",
+      "after": "what is a human being, that you think of them? What is the child of humanity, that you care for them?",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Psalms 8:5",
+      "book": "psalms",
+      "chapter": 8,
+      "verse": 5,
+      "category": "generic",
+      "before": "For you have made him a little lower than Elohim, and crowned him with glory and honor.",
+      "after": "For you have made them a little lower than Elohim, and crowned them with glory and honor.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Psalms 8:6",
+      "book": "psalms",
+      "chapter": 8,
+      "verse": 6,
+      "category": "generic",
+      "before": "You make him ruler over the works of your hands. You have put all things under his feet:",
+      "after": "You make them ruler over the works of your hands. You have put all things under their feet:",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Psalms 9:12",
+      "book": "psalms",
+      "chapter": 9,
+      "verse": 12,
+      "category": "divine",
+      "before": "For the one who avenges blood remembers them. He doesn't forget the cry of the afflicted.",
+      "after": "For the one who avenges blood remembers them. YHWH doesn't forget the cry of the afflicted.",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 10:3",
+      "book": "psalms",
+      "chapter": 10,
+      "verse": 3,
+      "category": "generic",
+      "before": "For the wicked boasts of his heart's cravings. He blesses the greedy, and condemns YHWH.",
+      "after": "For the wicked person boasts of their heart's cravings. They bless the greedy, and condemn YHWH.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Psalms 10:4",
+      "book": "psalms",
+      "chapter": 10,
+      "verse": 4,
+      "category": "generic",
+      "before": "The wicked, in the pride of his face, has no room in his thoughts for Elohim.",
+      "after": "The wicked person, in the pride of their face, has no room in their thoughts for Elohim.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Psalms 10:5",
+      "book": "psalms",
+      "chapter": 10,
+      "verse": 5,
+      "category": "generic",
+      "before": "His ways are prosperous at all times. He is haughty, and your laws are far from his sight. As for all his adversaries, he sneers at them.",
+      "after": "Their ways are prosperous at all times. They are haughty, and your laws are far from their sight. As for all their adversaries, they sneer at them.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Psalms 10:6",
+      "book": "psalms",
+      "chapter": 10,
+      "verse": 6,
+      "category": "generic",
+      "before": "He says in his heart, \"I shall not be shaken. For generations I shall have no trouble.\"",
+      "after": "They say in their heart, \"I shall not be shaken. For generations I shall have no trouble.\"",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Psalms 10:7",
+      "book": "psalms",
+      "chapter": 10,
+      "verse": 7,
+      "category": "generic",
+      "before": "His mouth is full of cursing, deceit, and oppression. Under his tongue is mischief and iniquity.",
+      "after": "Their mouth is full of cursing, deceit, and oppression. Under their tongue is mischief and iniquity.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Psalms 10:8",
+      "book": "psalms",
+      "chapter": 10,
+      "verse": 8,
+      "category": "generic",
+      "before": "He lies in wait near the villages. From ambushes, he murders the innocent. His eyes are secretly set against the helpless.",
+      "after": "They lie in wait near the villages. From ambushes, they murder the innocent. Their eyes are secretly set against the helpless.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Psalms 10:9",
+      "book": "psalms",
+      "chapter": 10,
+      "verse": 9,
+      "category": "generic",
+      "before": "He lurks in secret as a lion in his ambush. He lies in wait to catch the helpless. He catches the helpless, when he draws him in his net.",
+      "after": "They lurk in secret as a lion in their ambush. They lie in wait to catch the helpless. They catch the helpless, when they draw them in their net.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Psalms 10:10",
+      "book": "psalms",
+      "chapter": 10,
+      "verse": 10,
+      "category": "generic",
+      "before": "The helpless are crushed. They collapse. They fall under his strength.",
+      "after": "The helpless are crushed. They collapse. They fall under their oppressor’s strength.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Psalms 10:13",
+      "book": "psalms",
+      "chapter": 10,
+      "verse": 13,
+      "category": "generic",
+      "before": "Why does the wicked person condemn Elohim, and say in his heart, \"Elohim won't call me into account?\"",
+      "after": "Why does the wicked person condemn Elohim, and say in their heart, \"Elohim won't call me into account?\"",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Psalms 10:16",
+      "book": "psalms",
+      "chapter": 10,
+      "verse": 16,
+      "category": "divine",
+      "before": "YHWH is King forever and ever! The nations will perish out of his land.",
+      "after": "YHWH is King forever and ever! The nations will perish out of YHWH's land.",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 13:6",
+      "book": "psalms",
+      "chapter": 13,
+      "verse": 6,
+      "category": "divine",
+      "before": "I will sing to YHWH, because he has been good to me.",
+      "after": "I will sing to YHWH, because YHWH has been good to me.",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 16:8",
+      "book": "psalms",
+      "chapter": 16,
+      "verse": 8,
+      "category": "divine",
+      "before": "I have set YHWH always before me. Because he is at my right hand, I shall not be moved.",
+      "after": "I have set YHWH always before me. Because YHWH is at my right hand, I shall not be moved.",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 19:1",
+      "book": "psalms",
+      "chapter": 19,
+      "verse": 1,
+      "category": "divine",
+      "before": "The heavens declare the glory of Elohim. The expanse shows his handiwork.",
+      "after": "The heavens declare the glory of Elohim. The expanse shows Elohim's handiwork.",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 19:4",
+      "book": "psalms",
+      "chapter": 19,
+      "verse": 4,
+      "category": "divine",
+      "before": "Their voice has gone out through all the earth, their words to the end of the world. In them he has set a tent for the sun,",
+      "after": "Their voice has gone out through all the earth, their words to the end of the world. In them Elohim has set a tent for the sun,",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 19:12",
+      "book": "psalms",
+      "chapter": 19,
+      "verse": 12,
+      "category": "generic",
+      "before": "Who can discern his errors? Forgive me from hidden errors.",
+      "after": "Who can discern their errors? Forgive me from hidden errors.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Psalms 20:4",
+      "book": "psalms",
+      "chapter": 20,
+      "verse": 4,
+      "category": "divine",
+      "before": "May He grant you your heart's desire, and fulfill all your counsel.",
+      "after": "May YHWH grant you your heart's desire, and fulfill all your counsel.",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 22:25",
+      "book": "psalms",
+      "chapter": 22,
+      "verse": 25,
+      "category": "divine",
+      "before": "Of you comes my praise in the great assembly. I will pay my vows before those who revere him.",
+      "after": "Of you comes my praise in the great assembly. I will pay my vows before those who revere YHWH.",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 22:29",
+      "book": "psalms",
+      "chapter": 22,
+      "verse": 29,
+      "category": "divine",
+      "before": "All the rich ones of the earth shall eat and worship. All those who go down to the dust shall bow before him, even the one who can't keep their soul alive.",
+      "after": "All the rich ones of the earth shall eat and worship. All those who go down to the dust shall bow before YHWH, even the one who can't keep their soul alive.",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 22:30",
+      "book": "psalms",
+      "chapter": 22,
+      "verse": 30,
+      "category": "divine",
+      "before": "Posterity shall serve him. Future generations shall be told about YHWH.",
+      "after": "Posterity shall serve YHWH. Future generations shall be told about YHWH.",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 24:6",
+      "book": "psalms",
+      "chapter": 24,
+      "verse": 6,
+      "category": "divine",
+      "before": "This is the generation of those who seek Him, who seek your face-- even Ya'akov. Selah.",
+      "after": "This is the generation of those who seek YHWH, who seek your face-- even Ya'akov. Selah.",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 25:12",
+      "book": "psalms",
+      "chapter": 25,
+      "verse": 12,
+      "category": "generic",
+      "before": "What a person is the one who reveres YHWH? YHWH shall instruct him in the way that he shall choose.",
+      "after": "What a person is the one who reveres YHWH? YHWH shall instruct them in the way that they shall choose.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Psalms 25:13",
+      "book": "psalms",
+      "chapter": 25,
+      "verse": 13,
+      "category": "generic",
+      "before": "His soul shall dwell at ease. His seed shall inherit the land.",
+      "after": "Their soul shall dwell at ease. Their seed shall inherit the land.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Psalms 25:15",
+      "book": "psalms",
+      "chapter": 25,
+      "verse": 15,
+      "category": "divine",
+      "before": "My eyes are ever on YHWH, for he will pluck my feet out of the net.",
+      "after": "My eyes are ever on YHWH, for YHWH will pluck my feet out of the net.",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 27:4",
+      "book": "psalms",
+      "chapter": 27,
+      "verse": 4,
+      "category": "divine",
+      "before": "One thing I have asked of YHWH, that I will seek after, that I may dwell in the house of YHWH all the days of my life, to see YHWH's beauty, and to inquire in his temple.",
+      "after": "One thing I have asked of YHWH, that I will seek after, that I may dwell in the house of YHWH all the days of my life, to see YHWH's beauty, and to inquire in YHWH's temple.",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 27:5",
+      "book": "psalms",
+      "chapter": 27,
+      "verse": 5,
+      "category": "divine",
+      "before": "For in the day of trouble he will keep me secretly in his pavilion. In the covert of his tent he will hide me. He will lift me up on a rock.",
+      "after": "For in the day of trouble YHWH will keep me secretly in YHWH's pavilion. In the covert of YHWH's tent YHWH will hide me. YHWH will lift me up on a rock.",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 27:6",
+      "book": "psalms",
+      "chapter": 27,
+      "verse": 6,
+      "category": "divine",
+      "before": "Now my head will be lifted up above my enemies around me. I will offer sacrifices of joy in his tent. I will sing, yes, I will sing praises to YHWH.",
+      "after": "Now my head will be lifted up above my enemies around me. I will offer sacrifices of joy in YHWH's tent. I will sing, yes, I will sing praises to YHWH.",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 28:5",
+      "book": "psalms",
+      "chapter": 28,
+      "verse": 5,
+      "category": "divine",
+      "before": "Because they don't regard the works of YHWH, nor the operation of his hands, he will break them down and not build them up.",
+      "after": "Because they don't regard the works of YHWH, nor the operation of YHWH's hands, YHWH will break them down and not build them up.",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 28:7",
+      "book": "psalms",
+      "chapter": 28,
+      "verse": 7,
+      "category": "divine",
+      "before": "YHWH is my strength and my shield. My heart has trusted in him, and I am helped. Therefore my heart greatly rejoices. With my song I will thank him.",
+      "after": "YHWH is my strength and my shield. My heart has trusted in YHWH, and I am helped. Therefore my heart greatly rejoices. With my song I will thank YHWH.",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 30:4",
+      "book": "psalms",
+      "chapter": 30,
+      "verse": 4,
+      "category": "divine",
+      "before": "Sing praise to YHWH, you saints of his. Give thanks to his holy name.",
+      "after": "Sing praise to YHWH, you saints of YHWH. Give thanks to YHWH's holy name.",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 30:5",
+      "book": "psalms",
+      "chapter": 30,
+      "verse": 5,
+      "category": "divine",
+      "before": "For his anger is but for a moment. His favor is for a lifetime. Weeping may stay for the night, but joy comes in the morning.",
+      "after": "For YHWH's anger is but for a moment. YHWH's favor is for a lifetime. Weeping may stay for the night, but joy comes in the morning.",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 31:21",
+      "book": "psalms",
+      "chapter": 31,
+      "verse": 21,
+      "category": "divine",
+      "before": "Praise be to YHWH, for he has shown me his marvelous loving kindness in a strong city.",
+      "after": "Praise be to YHWH, for YHWH has shown me YHWH's marvelous loving kindness in a strong city.",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 31:23",
+      "book": "psalms",
+      "chapter": 31,
+      "verse": 23,
+      "category": "divine",
+      "before": "Oh love YHWH, all you his saints! YHWH preserves the faithful, and fully recompenses the one who behaves arrogantly.",
+      "after": "Oh love YHWH, all you saints of YHWH! YHWH preserves the faithful, and fully recompenses the one who behaves arrogantly.",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 32:6",
+      "book": "psalms",
+      "chapter": 32,
+      "verse": 6,
+      "category": "generic",
+      "before": "For this, let everyone who is godly pray to you in a time when you may be found. Surely when the great waters overflow, they shall not reach to him.",
+      "after": "For this, let everyone who is godly pray to you in a time when you may be found. Surely when the great waters overflow, they shall not reach to them.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Psalms 33:8",
+      "book": "psalms",
+      "chapter": 33,
+      "verse": 8,
+      "category": "divine",
+      "before": "Let all the earth revere YHWH. Let all the inhabitants of the world stand in awe of him.",
+      "after": "Let all the earth revere YHWH. Let all the inhabitants of the world stand in awe of YHWH.",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 33:11",
+      "book": "psalms",
+      "chapter": 33,
+      "verse": 11,
+      "category": "divine",
+      "before": "The counsel of YHWH stands fast forever, the thoughts of his heart to all generations.",
+      "after": "The counsel of YHWH stands fast forever, the thoughts of YHWH's heart to all generations.",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 34:5",
+      "book": "psalms",
+      "chapter": 34,
+      "verse": 5,
+      "category": "divine",
+      "before": "They looked to him, and were radiant. Their faces shall never be covered with shame.",
+      "after": "They looked to YHWH, and were radiant. Their faces shall never be covered with shame.",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 34:7",
+      "book": "psalms",
+      "chapter": 34,
+      "verse": 7,
+      "category": "divine",
+      "before": "The angel of YHWH encamps round about those who revere him, and delivers them.",
+      "after": "The angel of YHWH encamps round about those who revere YHWH, and delivers them.",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 34:8",
+      "book": "psalms",
+      "chapter": 34,
+      "verse": 8,
+      "category": "divine",
+      "before": "Oh taste and see that YHWH is good. Blessed is the one who takes refuge in him.",
+      "after": "Oh taste and see that YHWH is good. Blessed is the one who takes refuge in YHWH.",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 34:19",
+      "book": "psalms",
+      "chapter": 34,
+      "verse": 19,
+      "category": "generic",
+      "before": "Many are the afflictions of the righteous, but YHWH delivers him out of them all.",
+      "after": "Many are the afflictions of the righteous, but YHWH delivers them out of them all.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Psalms 34:20",
+      "book": "psalms",
+      "chapter": 34,
+      "verse": 20,
+      "category": "generic",
+      "before": "YHWH protects all of his bones. Not one of them is broken.",
+      "after": "YHWH protects all of their bones. Not one of them is broken.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Psalms 35:9",
+      "book": "psalms",
+      "chapter": 35,
+      "verse": 9,
+      "category": "divine",
+      "before": "My soul shall be joyful in YHWH. It shall rejoice in his salvation.",
+      "after": "My soul shall be joyful in YHWH. It shall rejoice in YHWH’s salvation.",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 35:10",
+      "book": "psalms",
+      "chapter": 35,
+      "verse": 10,
+      "category": "generic",
+      "before": "All my bones shall say, \"YHWH, who is like you, who delivers the poor from the one who is too strong for them; yes, the poor and the needy from the one who robs him?\"",
+      "after": "All my bones shall say, \"YHWH, who is like you, who delivers the poor from the one who is too strong for them; yes, the poor and the needy from the one who robs them?\"",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Psalms 36:1",
+      "book": "psalms",
+      "chapter": 36,
+      "verse": 1,
+      "category": "generic",
+      "before": "An oracle is within my heart about the disobedience of the wicked: \"There is no reverence for God before his eyes.\"",
+      "after": "An oracle is within my heart about the disobedience of the wicked: \"There is no reverence for God before their eyes.\"",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Psalms 36:2",
+      "book": "psalms",
+      "chapter": 36,
+      "verse": 2,
+      "category": "generic",
+      "before": "For he flatters himself in his own eyes, too much to detect and hate his sin.",
+      "after": "For they flatter themselves in their own eyes, too much to detect and hate their sin.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Psalms 36:3",
+      "book": "psalms",
+      "chapter": 36,
+      "verse": 3,
+      "category": "generic",
+      "before": "The words of his mouth are iniquity and deceit. He has ceased to be wise and to do good.",
+      "after": "The words of their mouth are iniquity and deceit. They have ceased to be wise and to do good.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Psalms 36:4",
+      "book": "psalms",
+      "chapter": 36,
+      "verse": 4,
+      "category": "generic",
+      "before": "He plots iniquity on his bed. He sets himself in a way that is not good. He doesn't abhor brokenness.",
+      "after": "They plot iniquity on their bed. They set themselves in a way that is not good. They don't abhor brokenness.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Psalms 37:4",
+      "book": "psalms",
+      "chapter": 37,
+      "verse": 4,
+      "category": "divine",
+      "before": "Also delight yourself in YHWH, and he will give you the desires of your heart.",
+      "after": "Also delight yourself in YHWH, and YHWH will give you the desires of your heart.",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 37:5",
+      "book": "psalms",
+      "chapter": 37,
+      "verse": 5,
+      "category": "divine",
+      "before": "Commit your way to YHWH. Trust also in him, and he will do this:",
+      "after": "Commit your way to YHWH. Trust also in YHWH, and YHWH will do this:",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 37:6",
+      "book": "psalms",
+      "chapter": 37,
+      "verse": 6,
+      "category": "divine",
+      "before": "he will make your righteousness go forth as the light, and your justice as the noon day sun.",
+      "after": "YHWH will make your righteousness go forth as the light, and your justice as the noon day sun.",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 37:7",
+      "book": "psalms",
+      "chapter": 37,
+      "verse": 7,
+      "category": "divine",
+      "before": "Rest in YHWH, and wait patiently for him. Don't fret because of the one who prospers in their way, because of the one who makes wicked plots happen.",
+      "after": "Rest in YHWH, and wait patiently for YHWH. Don't fret because of the one who prospers in their way, because of the one who makes wicked plots happen.",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 37:10",
+      "book": "psalms",
+      "chapter": 37,
+      "verse": 10,
+      "category": "generic",
+      "before": "For yet a little while, and the wicked will be no more. Yes, though you look for his place, he isn't there.",
+      "after": "For yet a little while, and the wicked will be no more. Yes, though you look for their place, they aren't there.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Psalms 37:12",
+      "book": "psalms",
+      "chapter": 37,
+      "verse": 12,
+      "category": "generic",
+      "before": "The wicked plots against the just, and gnashes at him with his teeth.",
+      "after": "The wicked person plots against the just, and gnashes at them with their teeth.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Psalms 37:22",
+      "book": "psalms",
+      "chapter": 37,
+      "verse": 22,
+      "category": "divine",
+      "before": "For such as are blessed by him shall inherit the land. Those who are cursed by him shall be cut off.",
+      "after": "For such as are blessed by YHWH shall inherit the land. Those who are cursed by YHWH shall be cut off.",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 37:23",
+      "book": "psalms",
+      "chapter": 37,
+      "verse": 23,
+      "category": "generic",
+      "before": "A person's goings are established by YHWH. YHWH delights in his way.",
+      "after": "A person's goings are established by YHWH. YHWH delights in their way.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Psalms 37:24",
+      "book": "psalms",
+      "chapter": 37,
+      "verse": 24,
+      "category": "mixed",
+      "before": "Though he stumble, he shall not fall, for YHWH holds him up with his hand.",
+      "after": "Though they stumble, they shall not fall, for YHWH holds them up with YHWH's hand.",
+      "reason": "Mixed verse: apply both the established divine-name repetition rule and generic-human pronoun consistency."
+    },
+    {
+      "reference": "Psalms 37:25",
+      "book": "psalms",
+      "chapter": 37,
+      "verse": 25,
+      "category": "generic",
+      "before": "I have been young, and now am old, yet I have not seen the righteous forsaken, nor his children begging for bread.",
+      "after": "I have been young, and now am old, yet I have not seen the righteous forsaken, nor their children begging for bread.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Psalms 37:26",
+      "book": "psalms",
+      "chapter": 37,
+      "verse": 26,
+      "category": "generic",
+      "before": "All day long he deals graciously, and lends. His seed is blessed.",
+      "after": "All day long they deal graciously, and lend. Their seed is blessed.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Psalms 37:28",
+      "book": "psalms",
+      "chapter": 37,
+      "verse": 28,
+      "category": "divine",
+      "before": "For YHWH loves justice, and doesn't forsake his saints. They are preserved forever, but the children of the wicked shall be cut off.",
+      "after": "For YHWH loves justice, and doesn't forsake YHWH's saints. They are preserved forever, but the children of the wicked shall be cut off.",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 37:30",
+      "book": "psalms",
+      "chapter": 37,
+      "verse": 30,
+      "category": "generic",
+      "before": "The mouth of the righteous talks of wisdom. His tongue speaks justice.",
+      "after": "The mouth of the righteous talks of wisdom. Their tongue speaks justice.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Psalms 37:31",
+      "book": "psalms",
+      "chapter": 37,
+      "verse": 31,
+      "category": "generic",
+      "before": "The law of his God is in his heart. None of his steps shall slide.",
+      "after": "The law of their God is in their heart. None of their steps shall slide.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Psalms 37:32",
+      "book": "psalms",
+      "chapter": 37,
+      "verse": 32,
+      "category": "generic",
+      "before": "The wicked watches the righteous, and seeks to kill him.",
+      "after": "The wicked person watches the righteous, and seeks to kill them.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Psalms 37:33",
+      "book": "psalms",
+      "chapter": 37,
+      "verse": 33,
+      "category": "generic",
+      "before": "YHWH will not leave him in his hand, nor condemn him when he is judged.",
+      "after": "YHWH will not leave them in their hand, nor condemn them when they are judged.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Psalms 37:35",
+      "book": "psalms",
+      "chapter": 37,
+      "verse": 35,
+      "category": "generic",
+      "before": "I have seen the wicked in great power, spreading himself like a green tree in its native soil.",
+      "after": "I have seen the wicked person in great power, spreading themselves like a green tree in its native soil.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Psalms 37:36",
+      "book": "psalms",
+      "chapter": 37,
+      "verse": 36,
+      "category": "generic",
+      "before": "But he passed away, and behold, he was not. Yes, I sought him, but he could not be found.",
+      "after": "But they passed away, and behold, they were not. Yes, I sought them, but they could not be found.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Psalms 39:6",
+      "book": "psalms",
+      "chapter": 39,
+      "verse": 6,
+      "category": "generic",
+      "before": "\"Surely everyone walks like a shadow. Surely they busy themselves in vain. He heaps up, and doesn't know who shall gather.",
+      "after": "\"Surely everyone walks like a shadow. Surely they busy themselves in vain. They heap up, and don't know who shall gather.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Psalms 39:11",
+      "book": "psalms",
+      "chapter": 39,
+      "verse": 11,
+      "category": "generic",
+      "before": "When you rebuke and correct man for iniquity, You consume his wealth like a moth. Surely everyone is but a breath.\" Selah.",
+      "after": "When you rebuke and correct a person for iniquity, You consume their wealth like a moth. Surely everyone is but a breath.\" Selah.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Psalms 41:1",
+      "book": "psalms",
+      "chapter": 41,
+      "verse": 1,
+      "category": "generic",
+      "before": "Blessed is the one who considers the poor. YHWH will deliver him in the day of brokenness.",
+      "after": "Blessed is the one who considers the poor. YHWH will deliver them in the day of brokenness.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Psalms 41:2",
+      "book": "psalms",
+      "chapter": 41,
+      "verse": 2,
+      "category": "generic",
+      "before": "YHWH will preserve him, and keep him alive. He shall be blessed on the earth, and YHWH will not surrender him to the will of his enemies.",
+      "after": "YHWH will preserve them, and keep them alive. They shall be blessed on the earth, and YHWH will not surrender them to the will of their enemies.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Psalms 41:3",
+      "book": "psalms",
+      "chapter": 41,
+      "verse": 3,
+      "category": "generic",
+      "before": "YHWH will sustain him on his sickbed, and restore him from his bed of illness.",
+      "after": "YHWH will sustain them on their sickbed, and restore them from their bed of illness.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Psalms 42:5",
+      "book": "psalms",
+      "chapter": 42,
+      "verse": 5,
+      "category": "divine",
+      "before": "Why are you in despair, my soul? Why are you disturbed within me? Hope in Elohim! For I shall still praise him for the saving help of his presence.",
+      "after": "Why are you in despair, my soul? Why are you disturbed within me? Hope in Elohim! For I shall still praise Elohim for the saving help of Elohim's presence.",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 42:11",
+      "book": "psalms",
+      "chapter": 42,
+      "verse": 11,
+      "category": "divine",
+      "before": "Why are you in despair, my soul? Why are you disturbed within me? Hope in Elohim! For I shall still praise him, the saving help of my countenance, and my God.",
+      "after": "Why are you in despair, my soul? Why are you disturbed within me? Hope in Elohim! For I shall still praise Elohim, the saving help of my countenance, and my God.",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 43:5",
+      "book": "psalms",
+      "chapter": 43,
+      "verse": 5,
+      "category": "divine",
+      "before": "Why are you in despair, my soul? Why are you disturbed within me? Hope in Elohim! For I shall still praise him: my Savior, my helper, and my God.",
+      "after": "Why are you in despair, my soul? Why are you disturbed within me? Hope in Elohim! For I shall still praise Elohim: my Savior, my helper, and my God.",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 44:21",
+      "book": "psalms",
+      "chapter": 44,
+      "verse": 21,
+      "category": "divine",
+      "before": "won't Elohim search this out? For he knows the secrets of the heart.",
+      "after": "won't Elohim search this out? For Elohim knows the secrets of the heart.",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 47:8",
+      "book": "psalms",
+      "chapter": 47,
+      "verse": 8,
+      "category": "divine",
+      "before": "Elohim reigns over the nations. Elohim sits on his holy throne.",
+      "after": "Elohim reigns over the nations. Elohim sits on Elohim’s holy throne.",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 49:7",
+      "book": "psalms",
+      "chapter": 49,
+      "verse": 7,
+      "category": "generic",
+      "before": "none of them can by any means redeem his brother, nor give Elohim a ransom for him.",
+      "after": "none of them can by any means redeem their brother, nor give Elohim a ransom for them.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Psalms 49:9",
+      "book": "psalms",
+      "chapter": 49,
+      "verse": 9,
+      "category": "generic",
+      "before": "That he should live on forever, that he should not see corruption.",
+      "after": "That they should live on forever, that they should not see corruption.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Psalms 49:10",
+      "book": "psalms",
+      "chapter": 49,
+      "verse": 10,
+      "category": "generic",
+      "before": "For he sees that wise people die; likewise the fool and the senseless perish, and leave their wealth to others.",
+      "after": "For they see that wise people die; likewise the fool and the senseless perish, and leave their wealth to others.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Psalms 49:17",
+      "book": "psalms",
+      "chapter": 49,
+      "verse": 17,
+      "category": "generic",
+      "before": "For when he dies he shall carry nothing away. His glory shall not descend after him.",
+      "after": "For when they die they shall carry nothing away. Their glory shall not descend after them.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Psalms 49:19",
+      "book": "psalms",
+      "chapter": 49,
+      "verse": 19,
+      "category": "generic",
+      "before": "he shall go to the generation of his fathers. They shall never see the light.",
+      "after": "they shall go to the generation of their fathers. They shall never see the light.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Psalms 50:3",
+      "book": "psalms",
+      "chapter": 50,
+      "verse": 3,
+      "category": "divine",
+      "before": "our God comes, and does not keep silent. A fire devours before him. It is very stormy around him.",
+      "after": "our God comes, and does not keep silent. A fire devours before God. It is very stormy around God.",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 50:18",
+      "book": "psalms",
+      "chapter": 50,
+      "verse": 18,
+      "category": "generic",
+      "before": "When you saw a thief, you consented with him, and have participated with adulterers.",
+      "after": "When you saw a thief, you consented with them, and have participated with adulterers.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Psalms 54:7",
+      "book": "psalms",
+      "chapter": 54,
+      "verse": 7,
+      "category": "divine",
+      "before": "For he has delivered me out of all trouble. My eye has seen triumph over my enemies.",
+      "after": "For YHWH has delivered me out of all trouble. My eye has seen triumph over my enemies.",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 56:4",
+      "book": "psalms",
+      "chapter": 56,
+      "verse": 4,
+      "category": "divine",
+      "before": "In Elohim, I praise his word. In Elohim, I put my trust. I will not be afraid. What can flesh do to me?",
+      "after": "In Elohim, I praise Elohim's word. In Elohim, I put my trust. I will not be afraid. What can flesh do to me?",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 56:10",
+      "book": "psalms",
+      "chapter": 56,
+      "verse": 10,
+      "category": "divine",
+      "before": "In Elohim, I will praise his word. In YHWH, I will praise his word.",
+      "after": "In Elohim, I will praise Elohim's word. In YHWH, I will praise YHWH's word.",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 58:10",
+      "book": "psalms",
+      "chapter": 58,
+      "verse": 10,
+      "category": "generic",
+      "before": "The righteous shall rejoice when he sees the vengeance. He shall wash his feet in the blood of the wicked;",
+      "after": "The righteous person shall rejoice when they see the vengeance. They shall wash their feet in the blood of the wicked;",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Psalms 60:6",
+      "book": "psalms",
+      "chapter": 60,
+      "verse": 6,
+      "category": "divine",
+      "before": "Elohim has spoken from his sanctuary: \"I will triumph. I will divide Shekhem, and measure out the valley of Succoth.",
+      "after": "Elohim has spoken from Elohim’s sanctuary: \"I will triumph. I will divide Shekhem, and measure out the valley of Succoth.",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 62:3",
+      "book": "psalms",
+      "chapter": 62,
+      "verse": 3,
+      "category": "generic",
+      "before": "How long will you assault a person, would all of you throw him down, Like a leaning wall, like a tottering fence?",
+      "after": "How long will you assault a person, would all of you throw them down, Like a leaning wall, like a tottering fence?",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Psalms 62:4",
+      "book": "psalms",
+      "chapter": 62,
+      "verse": 4,
+      "category": "generic",
+      "before": "They fully intend to throw him down from his lofty place. They delight in lies. They bless with their mouth, but they curse inwardly. Selah.",
+      "after": "They fully intend to throw them down from their lofty place. They delight in lies. They bless with their mouth, but they curse inwardly. Selah.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Psalms 63:11",
+      "book": "psalms",
+      "chapter": 63,
+      "verse": 11,
+      "category": "divine",
+      "before": "But the king shall rejoice in Elohim. Everyone who swears by him will praise him, for the mouth of those who speak lies shall be silenced.",
+      "after": "But the king shall rejoice in Elohim. Everyone who swears by Elohim will praise Elohim, for the mouth of those who speak lies shall be silenced.",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 64:4",
+      "book": "psalms",
+      "chapter": 64,
+      "verse": 4,
+      "category": "generic",
+      "before": "to shoot innocent men from ambushes. They shoot at him suddenly and fearlessly.",
+      "after": "to shoot innocent people from ambushes. They shoot at them suddenly and fearlessly.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Psalms 64:9",
+      "book": "psalms",
+      "chapter": 64,
+      "verse": 9,
+      "category": "divine",
+      "before": "All humanity shall be afraid. They shall declare the work of Elohim, and shall wisely ponder what he has done.",
+      "after": "All humanity shall be afraid. They shall declare the work of Elohim, and shall wisely ponder what Elohim has done.",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 64:10",
+      "book": "psalms",
+      "chapter": 64,
+      "verse": 10,
+      "category": "divine",
+      "before": "The righteous shall be glad in YHWH, and shall take refuge in him. All the upright in heart shall praise him!",
+      "after": "The righteous shall be glad in YHWH, and shall take refuge in YHWH. All the upright in heart shall praise YHWH!",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 65:4",
+      "book": "psalms",
+      "chapter": 65,
+      "verse": 4,
+      "category": "generic",
+      "before": "Blessed is one whom you choose, and cause to come near, that he may live in your courts. We will be filled with the goodness of your house, your holy temple.",
+      "after": "Blessed is one whom you choose, and cause to come near, that they may live in your courts. We will be filled with the goodness of your house, your holy temple.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Psalms 65:6",
+      "book": "psalms",
+      "chapter": 65,
+      "verse": 6,
+      "category": "divine",
+      "before": "Who by his power forms the mountains, having armed yourself with strength;",
+      "after": "Who by your power forms the mountains, having armed yourself with strength;",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 67:7",
+      "book": "psalms",
+      "chapter": 67,
+      "verse": 7,
+      "category": "divine",
+      "before": "Elohim will bless us. All the ends of the earth shall revere him.",
+      "after": "Elohim will bless us. All the ends of the earth shall revere Elohim.",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 69:33",
+      "book": "psalms",
+      "chapter": 69,
+      "verse": 33,
+      "category": "divine",
+      "before": "For YHWH hears the needy, and doesn't despise his captive people.",
+      "after": "For YHWH hears the needy, and doesn't despise YHWH's captive people.",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 69:34",
+      "book": "psalms",
+      "chapter": 69,
+      "verse": 34,
+      "category": "divine",
+      "before": "Let heavens and earth praise him; the seas, and everything that moves therein!",
+      "after": "Let heavens and earth praise YHWH; the seas, and everything that moves therein!",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 75:8",
+      "book": "psalms",
+      "chapter": 75,
+      "verse": 8,
+      "category": "divine",
+      "before": "For in the hand of YHWH there is a cup, full of foaming wine mixed with spices. He pours it out. Indeed the wicked of the earth drink and drink it to its very dregs.",
+      "after": "For in the hand of YHWH there is a cup, full of foaming wine mixed with spices. YHWH pours it out. Indeed the wicked of the earth drink and drink it to its very dregs.",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 77:1",
+      "book": "psalms",
+      "chapter": 77,
+      "verse": 1,
+      "category": "divine",
+      "before": "My cry goes to Elohim! Indeed, I cry to Elohim for help, and for him to listen to me.",
+      "after": "My cry goes to Elohim! Indeed, I cry to Elohim for help, and for Elohim to listen to me.",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 77:7",
+      "book": "psalms",
+      "chapter": 77,
+      "verse": 7,
+      "category": "divine",
+      "before": "\"Will YHWH reject us forever? Will he be favorable no more?",
+      "after": "\"Will YHWH reject us forever? Will YHWH be favorable no more?",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 77:9",
+      "book": "psalms",
+      "chapter": 77,
+      "verse": 9,
+      "category": "divine",
+      "before": "Has Elohim forgotten to be gracious? Has he, in anger, withheld his compassion?\" Selah.",
+      "after": "Has Elohim forgotten to be gracious? Has Elohim, in anger, withheld Elohim’s compassion?\" Selah.",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 81:15",
+      "book": "psalms",
+      "chapter": 81,
+      "verse": 15,
+      "category": "divine",
+      "before": "The haters of YHWH would cringe before him, and their punishment would last forever.",
+      "after": "The haters of YHWH would cringe before YHWH, and their punishment would last forever.",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 81:16",
+      "book": "psalms",
+      "chapter": 81,
+      "verse": 16,
+      "category": "divine",
+      "before": "But he would have also fed them with the finest of the wheat. I will satisfy you with honey out of the rock.\"",
+      "after": "But YHWH would have also fed them with the finest of the wheat. I will satisfy you with honey out of the rock.\"",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 85:9",
+      "book": "psalms",
+      "chapter": 85,
+      "verse": 9,
+      "category": "divine",
+      "before": "Surely his salvation is near those who revere him, that glory may dwell in our land.",
+      "after": "Surely YHWH’s salvation is near those who revere YHWH, that glory may dwell in our land.",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 85:13",
+      "book": "psalms",
+      "chapter": 85,
+      "verse": 13,
+      "category": "divine",
+      "before": "Righteousness goes before him, And prepares the way for his steps.",
+      "after": "Righteousness goes before YHWH, And prepares the way for YHWH’s steps.",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 89:7",
+      "book": "psalms",
+      "chapter": 89,
+      "verse": 7,
+      "category": "divine",
+      "before": "a very awesome Elohim in the council of the holy ones, to be feared above all those who are around him?",
+      "after": "a very awesome Elohim in the council of the holy ones, to be feared above all those who are around Elohim?",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 91:2",
+      "book": "psalms",
+      "chapter": 91,
+      "verse": 2,
+      "category": "divine",
+      "before": "I will say of YHWH, \"He is my refuge and my fortress; my God, in whom I trust.\"",
+      "after": "I will say of YHWH, \"YHWH is my refuge and my fortress; my God, in whom I trust.\"",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 91:14",
+      "book": "psalms",
+      "chapter": 91,
+      "verse": 14,
+      "category": "generic",
+      "before": "\"Because he has set his love on me, therefore I will deliver him. I will set him on high, because he has known my name.",
+      "after": "\"Because they have set their love on me, therefore I will deliver them. I will set them on high, because they have known my name.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Psalms 91:15",
+      "book": "psalms",
+      "chapter": 91,
+      "verse": 15,
+      "category": "generic",
+      "before": "He will call on me, and I will answer him. I will be with him in trouble. I will deliver him, and honor him.",
+      "after": "They will call on me, and I will answer them. I will be with them in trouble. I will deliver them, and honor them.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Psalms 91:16",
+      "book": "psalms",
+      "chapter": 91,
+      "verse": 16,
+      "category": "generic",
+      "before": "I will satisfy him with long life, and show him my salvation.\"",
+      "after": "I will satisfy them with long life, and show them my salvation.\"",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Psalms 92:12",
+      "book": "psalms",
+      "chapter": 92,
+      "verse": 12,
+      "category": "generic",
+      "before": "The righteous shall flourish like the palm tree. He will grow like a cedar in Levanon.",
+      "after": "The righteous shall flourish like the palm tree. They will grow like a cedar in Levanon.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Psalms 94:13",
+      "book": "psalms",
+      "chapter": 94,
+      "verse": 13,
+      "category": "generic",
+      "before": "that you may give him rest from the days of adversity, until the pit is dug for the wicked.",
+      "after": "that you may give them rest from the days of adversity, until the pit is dug for the wicked.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Psalms 96:9",
+      "book": "psalms",
+      "chapter": 96,
+      "verse": 9,
+      "category": "divine",
+      "before": "Worship YHWH in holy array. Tremble before him, all the earth.",
+      "after": "Worship YHWH in holy array. Tremble before YHWH, all the earth.",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 97:7",
+      "book": "psalms",
+      "chapter": 97,
+      "verse": 7,
+      "category": "divine",
+      "before": "Let all them be shamed who serve engraved images, who boast in their idols. Worship him, all you gods!",
+      "after": "Let all them be shamed who serve engraved images, who boast in their idols. Worship YHWH, all you gods!",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 104:34",
+      "book": "psalms",
+      "chapter": 104,
+      "verse": 34,
+      "category": "divine",
+      "before": "Let your meditation be sweet to him. I will rejoice in YHWH.",
+      "after": "Let your meditation be sweet to YHWH. I will rejoice in YHWH.",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 106:43",
+      "book": "psalms",
+      "chapter": 106,
+      "verse": 43,
+      "category": "divine",
+      "before": "Many times he delivered them, but they were rebellious in their counsel, and were brought low in their iniquity.",
+      "after": "Many times YHWH delivered them, but they were rebellious in their counsel, and were brought low in their iniquity.",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 106:44",
+      "book": "psalms",
+      "chapter": 106,
+      "verse": 44,
+      "category": "divine",
+      "before": "Nevertheless he regarded their distress, when he heard their cry.",
+      "after": "Nevertheless YHWH regarded their distress, when YHWH heard their cry.",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 108:7",
+      "book": "psalms",
+      "chapter": 108,
+      "verse": 7,
+      "category": "divine",
+      "before": "Elohim has spoken from his sanctuary: \"In triumph, I will divide Shekhem, and measure out the valley of Succoth.",
+      "after": "Elohim has spoken from Elohim’s sanctuary: \"In triumph, I will divide Shekhem, and measure out the valley of Succoth.",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 109:15",
+      "book": "psalms",
+      "chapter": 109,
+      "verse": 15,
+      "category": "divine",
+      "before": "Let them be before YHWH continually, that he may cut off the memory of them from the earth;",
+      "after": "Let them be before YHWH continually, that YHWH may cut off the memory of them from the earth;",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 109:30",
+      "book": "psalms",
+      "chapter": 109,
+      "verse": 30,
+      "category": "divine",
+      "before": "I will give great thanks to YHWH with my mouth. Yes, I will praise him among the multitude.",
+      "after": "I will give great thanks to YHWH with my mouth. Yes, I will praise YHWH among the multitude.",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 109:31",
+      "book": "psalms",
+      "chapter": 109,
+      "verse": 31,
+      "category": "mixed",
+      "before": "For he will stand at the right hand of the needy, to save him from those who judge his soul.",
+      "after": "For YHWH will stand at the right hand of the needy, to save them from those who judge their soul.",
+      "reason": "Mixed verse: apply both the established divine-name repetition rule and generic-human pronoun consistency."
+    },
+    {
+      "reference": "Psalms 111:4",
+      "book": "psalms",
+      "chapter": 111,
+      "verse": 4,
+      "category": "divine",
+      "before": "He has caused his wonderful works to be remembered. YHWH is gracious and merciful.",
+      "after": "YHWH has caused YHWH's wonderful works to be remembered. YHWH is gracious and merciful.",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 112:2",
+      "book": "psalms",
+      "chapter": 112,
+      "verse": 2,
+      "category": "generic",
+      "before": "His seed will be mighty in the land. The generation of the upright will be blessed.",
+      "after": "Their seed will be mighty in the land. The generation of the upright will be blessed.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Psalms 112:3",
+      "book": "psalms",
+      "chapter": 112,
+      "verse": 3,
+      "category": "generic",
+      "before": "Wealth and riches are in his house. His righteousness endures forever.",
+      "after": "Wealth and riches are in their house. Their righteousness endures forever.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Psalms 112:5",
+      "book": "psalms",
+      "chapter": 112,
+      "verse": 5,
+      "category": "generic",
+      "before": "It is well with the one who deals graciously and lends. He will maintain his cause in judgment.",
+      "after": "It is well with the one who deals graciously and lends. They will maintain their cause in judgment.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Psalms 112:6",
+      "book": "psalms",
+      "chapter": 112,
+      "verse": 6,
+      "category": "generic",
+      "before": "For he will never be shaken. The righteous will be remembered forever.",
+      "after": "For they will never be shaken. The righteous will be remembered forever.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Psalms 112:7",
+      "book": "psalms",
+      "chapter": 112,
+      "verse": 7,
+      "category": "generic",
+      "before": "He will not be afraid of brokenness news. His heart is steadfast, trusting in YHWH.",
+      "after": "They will not be afraid of brokenness news. Their heart is steadfast, trusting in YHWH.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Psalms 112:8",
+      "book": "psalms",
+      "chapter": 112,
+      "verse": 8,
+      "category": "generic",
+      "before": "His heart is established. He will not be afraid in the end when he sees his adversaries.",
+      "after": "Their heart is established. They will not be afraid in the end when they see their adversaries.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Psalms 112:9",
+      "book": "psalms",
+      "chapter": 112,
+      "verse": 9,
+      "category": "generic",
+      "before": "He has dispersed, he has given to the poor. His righteousness endures forever. His horn will be exalted with honor.",
+      "after": "They have dispersed, they have given to the poor. Their righteousness endures forever. Their horn will be exalted with honor.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Psalms 112:10",
+      "book": "psalms",
+      "chapter": 112,
+      "verse": 10,
+      "category": "generic",
+      "before": "The wicked will see it, and be grieved. He shall gnash with his teeth, and melt away. The desire of the wicked will perish.",
+      "after": "The wicked will see it, and be grieved. They shall gnash with their teeth, and melt away. The desire of the wicked will perish.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Psalms 113:8",
+      "book": "psalms",
+      "chapter": 113,
+      "verse": 8,
+      "category": "mixed",
+      "before": "that he may set him with princes, even with the princes of his people.",
+      "after": "that YHWH may set them with princes, even with the princes of YHWH's people.",
+      "reason": "Mixed verse: apply both the established divine-name repetition rule and generic-human pronoun consistency."
+    },
+    {
+      "reference": "Psalms 114:2",
+      "book": "psalms",
+      "chapter": 114,
+      "verse": 2,
+      "category": "divine",
+      "before": "Yehudah became his sanctuary, Israel his dominion.",
+      "after": "Yehudah became YHWH’s sanctuary, Israel YHWH’s dominion.",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 117:1",
+      "book": "psalms",
+      "chapter": 117,
+      "verse": 1,
+      "category": "divine",
+      "before": "Praise YHWH, all you nations! Extol him, all you peoples!",
+      "after": "Praise YHWH, all you nations! Extol YHWH, all you peoples!",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 119:9",
+      "book": "psalms",
+      "chapter": 119,
+      "verse": 9,
+      "category": "generic",
+      "before": "How can a young person keep his way pure? By living according to your word.",
+      "after": "How can a young person keep their way pure? By living according to your word.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Psalms 120:1",
+      "book": "psalms",
+      "chapter": 120,
+      "verse": 1,
+      "category": "divine",
+      "before": "In my distress, I cried to YHWH. He answered me.",
+      "after": "In my distress, I cried to YHWH. YHWH answered me.",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 127:2",
+      "book": "psalms",
+      "chapter": 127,
+      "verse": 2,
+      "category": "divine",
+      "before": "It is vain for you to rise up early, to stay up late, eating the bread of toil; for he gives sleep to his loved ones.",
+      "after": "It is vain for you to rise up early, to stay up late, eating the bread of toil; for YHWH gives sleep to those YHWH loves.",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 127:3",
+      "book": "psalms",
+      "chapter": 127,
+      "verse": 3,
+      "category": "divine",
+      "before": "Behold, children are a heritage of YHWH. The fruit of the womb is his reward.",
+      "after": "Behold, children are a heritage of YHWH. The fruit of the womb is YHWH’s reward.",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 131:2",
+      "book": "psalms",
+      "chapter": 131,
+      "verse": 2,
+      "category": "generic",
+      "before": "Surely I have stilled and quieted my soul, like a weaned child with his mother, like a weaned child is my soul within me.",
+      "after": "Surely I have stilled and quieted my soul, like a weaned child with their mother, like a weaned child is my soul within me.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Psalms 132:7",
+      "book": "psalms",
+      "chapter": 132,
+      "verse": 7,
+      "category": "divine",
+      "before": "\"We will go into his dwelling place. We will worship at his footstool.",
+      "after": "\"We will go into YHWH’s dwelling place. We will worship at YHWH’s footstool.",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 135:1",
+      "book": "psalms",
+      "chapter": 135,
+      "verse": 1,
+      "category": "divine",
+      "before": "Praise Yah! Praise the name of YHWH! Praise him, you servants of YHWH,",
+      "after": "Praise Yah! Praise the name of YHWH! Praise YHWH, you servants of YHWH,",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 141:5",
+      "book": "psalms",
+      "chapter": 141,
+      "verse": 5,
+      "category": "generic",
+      "before": "Let the righteous strike me, it is kindness; let him reprove me, it is like oil on the head; don't let my head refuse it; Yet my prayer is always against broken deeds.",
+      "after": "Let the righteous strike me, it is kindness; let them reprove me, it is like oil on the head; don't let my head refuse it; Yet my prayer is always against broken deeds.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Psalms 142:2",
+      "book": "psalms",
+      "chapter": 142,
+      "verse": 2,
+      "category": "divine",
+      "before": "I pour out my complaint before him. I tell him my troubles.",
+      "after": "I pour out my complaint before YHWH. I tell YHWH my troubles.",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 144:2",
+      "book": "psalms",
+      "chapter": 144,
+      "verse": 2,
+      "category": "divine",
+      "before": "my loving kindness, my fortress, my high tower, my deliverer, my shield, and he in whom I take refuge; who subdues my people under me.",
+      "after": "my loving kindness, my fortress, my high tower, my deliverer, my shield, and YHWH in whom I take refuge; who subdues my people under me.",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 144:3",
+      "book": "psalms",
+      "chapter": 144,
+      "verse": 3,
+      "category": "generic",
+      "before": "YHWH, what is man, that you care for him? Or the child of humanity, that you think of them?",
+      "after": "YHWH, what is a human being, that you care for them? Or the child of humanity, that you think of them?",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Psalms 144:4",
+      "book": "psalms",
+      "chapter": 144,
+      "verse": 4,
+      "category": "generic",
+      "before": "A person is like a breath. His days are like a shadow that passes away.",
+      "after": "A person is like a breath. Their days are like a shadow that passes away.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Psalms 146:4",
+      "book": "psalms",
+      "chapter": 146,
+      "verse": 4,
+      "category": "generic",
+      "before": "His spirit departs, and he returns to the earth. In that very day, his thoughts perish.",
+      "after": "Their spirit departs, and they return to the earth. In that very day, their thoughts perish.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Psalms 147:1",
+      "book": "psalms",
+      "chapter": 147,
+      "verse": 1,
+      "category": "divine",
+      "before": "Praise Yah, for it is good to sing praises to our God; for it is pleasant and fitting to praise him.",
+      "after": "Praise Yah, for it is good to sing praises to our God; for it is pleasant and fitting to praise God.",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 149:1",
+      "book": "psalms",
+      "chapter": 149,
+      "verse": 1,
+      "category": "divine",
+      "before": "Praise YHWH! Sing to YHWH a new song, his praise in the assembly of the saints.",
+      "after": "Praise YHWH! Sing to YHWH a new song, YHWH’s praise in the assembly of the saints.",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 149:9",
+      "book": "psalms",
+      "chapter": 149,
+      "verse": 9,
+      "category": "divine",
+      "before": "to execute on them the written judgment. All his saints have this honor. Praise Yah!",
+      "after": "to execute on them the written judgment. All YHWH’s saints have this honor. Praise Yah!",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 150:1",
+      "book": "psalms",
+      "chapter": 150,
+      "verse": 1,
+      "category": "divine",
+      "before": "Praise Yah! Praise Elohim in his sanctuary! Praise him in his heavens for his acts of power!",
+      "after": "Praise Yah! Praise Elohim in Elohim’s sanctuary! Praise Elohim in Elohim’s heavens for Elohim’s acts of power!",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 150:2",
+      "book": "psalms",
+      "chapter": 150,
+      "verse": 2,
+      "category": "divine",
+      "before": "Praise him for his mighty acts! Praise him according to his excellent greatness!",
+      "after": "Praise Elohim for Elohim’s mighty acts! Praise Elohim according to Elohim’s excellent greatness!",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 150:3",
+      "book": "psalms",
+      "chapter": 150,
+      "verse": 3,
+      "category": "divine",
+      "before": "Praise him with the sounding of the trumpet! Praise him with harp and lyre!",
+      "after": "Praise Elohim with the sounding of the trumpet! Praise Elohim with harp and lyre!",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 150:4",
+      "book": "psalms",
+      "chapter": 150,
+      "verse": 4,
+      "category": "divine",
+      "before": "Praise him with tambourine and dancing! Praise him with stringed instruments and flute!",
+      "after": "Praise Elohim with tambourine and dancing! Praise Elohim with stringed instruments and flute!",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Psalms 150:5",
+      "book": "psalms",
+      "chapter": 150,
+      "verse": 5,
+      "category": "divine",
+      "before": "Praise him with loud cymbals! Praise him with resounding cymbals!",
+      "after": "Praise Elohim with loud cymbals! Praise Elohim with resounding cymbals!",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Proverbs 2:8",
+      "book": "proverbs",
+      "chapter": 2,
+      "verse": 8,
+      "category": "divine",
+      "before": "that he may guard the paths of justice, and preserve the way of his saints.",
+      "after": "that YHWH may guard the paths of justice, and preserve the way of YHWH's saints.",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Proverbs 3:6",
+      "book": "proverbs",
+      "chapter": 3,
+      "verse": 6,
+      "category": "divine",
+      "before": "In all your ways acknowledge him, and he will make your paths straight.",
+      "after": "In all your ways acknowledge YHWH, and YHWH will make your paths straight.",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Proverbs 3:20",
+      "book": "proverbs",
+      "chapter": 3,
+      "verse": 20,
+      "category": "divine",
+      "before": "By his knowledge, the depths were broken up, and the skies drop down the dew.",
+      "after": "By YHWH’s knowledge, the depths were broken up, and the skies drop down the dew.",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Proverbs 3:29",
+      "book": "proverbs",
+      "chapter": 3,
+      "verse": 29,
+      "category": "generic",
+      "before": "Don't devise brokenness against your neighbor, seeing he dwells securely by you.",
+      "after": "Don't devise brokenness against your neighbor, seeing they dwell securely by you.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Proverbs 3:31",
+      "book": "proverbs",
+      "chapter": 3,
+      "verse": 31,
+      "category": "generic",
+      "before": "Don't envy the violent person. Choose none of his ways.",
+      "after": "Don't envy the violent person. Choose none of their ways.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Proverbs 3:34",
+      "book": "proverbs",
+      "chapter": 3,
+      "verse": 34,
+      "category": "divine",
+      "before": "Surely he mocks the mockers, but he gives grace to the humble.",
+      "after": "Surely YHWH mocks the mockers, but YHWH gives grace to the humble.",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Proverbs 5:22",
+      "book": "proverbs",
+      "chapter": 5,
+      "verse": 22,
+      "category": "generic",
+      "before": "The broken deeds of the wicked ensnare him. The cords of his sin hold him firmly.",
+      "after": "The broken deeds of the wicked ensnare them. The cords of their sin hold them firmly.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Proverbs 5:23",
+      "book": "proverbs",
+      "chapter": 5,
+      "verse": 23,
+      "category": "generic",
+      "before": "He will die for lack of instruction. In the greatness of his folly, he will go astray.",
+      "after": "They will die for lack of instruction. In the greatness of their folly, they will go astray.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Proverbs 6:13",
+      "book": "proverbs",
+      "chapter": 6,
+      "verse": 13,
+      "category": "generic",
+      "before": "who winks with his eyes, who signals with his feet, who motions with his fingers;",
+      "after": "who winks with their eyes, who signals with their feet, who motions with their fingers;",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Proverbs 6:15",
+      "book": "proverbs",
+      "chapter": 6,
+      "verse": 15,
+      "category": "generic",
+      "before": "Therefore his calamity will come suddenly. He will be broken suddenly, and that without remedy.",
+      "after": "Therefore their calamity will come suddenly. They will be broken suddenly, and that without remedy.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Proverbs 6:28",
+      "book": "proverbs",
+      "chapter": 6,
+      "verse": 28,
+      "category": "generic",
+      "before": "Or can one walk on hot coals, and his feet not be scorched?",
+      "after": "Or can one walk on hot coals, and their feet not be scorched?",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Proverbs 6:31",
+      "book": "proverbs",
+      "chapter": 6,
+      "verse": 31,
+      "category": "generic",
+      "before": "but if he is found, he shall restore seven times. He shall give all the wealth of his house.",
+      "after": "but if they are found, they shall restore seven times. They shall give all the wealth of their house.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Proverbs 8:4",
+      "book": "proverbs",
+      "chapter": 8,
+      "verse": 4,
+      "category": "generic",
+      "before": "\"To you men, I call! I send my voice to the sons of humanity.",
+      "after": "\"To you, people, I call! I send my voice to all humanity.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Proverbs 8:26",
+      "book": "proverbs",
+      "chapter": 8,
+      "verse": 26,
+      "category": "divine",
+      "before": "while as yet he had not made the earth, nor the fields, nor the beginning of the dust of the world.",
+      "after": "while as yet YHWH had not made the earth, nor the fields, nor the beginning of the dust of the world.",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Proverbs 8:27",
+      "book": "proverbs",
+      "chapter": 8,
+      "verse": 27,
+      "category": "divine",
+      "before": "When he established the heavens, I was there; when he set a circle on the surface of the deep,",
+      "after": "When YHWH established the heavens, I was there; when YHWH set a circle on the surface of the deep,",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Proverbs 8:28",
+      "book": "proverbs",
+      "chapter": 8,
+      "verse": 28,
+      "category": "divine",
+      "before": "when he established the clouds above, when the springs of the deep became strong,",
+      "after": "when YHWH established the clouds above, when the springs of the deep became strong,",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Proverbs 8:29",
+      "book": "proverbs",
+      "chapter": 8,
+      "verse": 29,
+      "category": "divine",
+      "before": "when he gave to the sea its boundary, that the waters should not violate his commandment, when he marked out the foundations of the earth;",
+      "after": "when YHWH gave to the sea its boundary, that the waters should not violate YHWH's commandment, when YHWH marked out the foundations of the earth;",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Proverbs 8:30",
+      "book": "proverbs",
+      "chapter": 8,
+      "verse": 30,
+      "category": "divine",
+      "before": "then I was the craftsman by his side. I was a delight day by day, always rejoicing before him,",
+      "after": "then I was the craftsman by YHWH's side. I was a delight day by day, always rejoicing before YHWH,",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Proverbs 8:31",
+      "book": "proverbs",
+      "chapter": 8,
+      "verse": 31,
+      "category": "divine",
+      "before": "Rejoicing in his whole world. My delight was with the human beings.",
+      "after": "Rejoicing in YHWH’s whole world. My delight was with the human beings.",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Proverbs 9:8",
+      "book": "proverbs",
+      "chapter": 9,
+      "verse": 8,
+      "category": "generic",
+      "before": "Don't reprove a scoffer, lest he hate you. Reprove a wise person, and they will love you.",
+      "after": "Don't reprove a scoffer, lest they hate you. Reprove a wise person, and they will love you.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Proverbs 9:18",
+      "book": "proverbs",
+      "chapter": 9,
+      "verse": 18,
+      "category": "generic",
+      "before": "But he doesn't know that the dead are there, that her guests are in the depths of Sheol.",
+      "after": "But they don't know that the dead are there, that her guests are in the depths of Sheol.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Proverbs 10:4",
+      "book": "proverbs",
+      "chapter": 10,
+      "verse": 4,
+      "category": "generic",
+      "before": "He becomes poor who works with a lazy hand, but the hand of the diligent brings wealth.",
+      "after": "They become poor who work with a lazy hand, but the hand of the diligent brings wealth.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Proverbs 10:26",
+      "book": "proverbs",
+      "chapter": 10,
+      "verse": 26,
+      "category": "generic",
+      "before": "As vinegar to the teeth, and as smoke to the eyes, so is the sluggard to those who send him.",
+      "after": "As vinegar to the teeth, and as smoke to the eyes, so is the sluggard to those who send them.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Proverbs 11:5",
+      "book": "proverbs",
+      "chapter": 11,
+      "verse": 5,
+      "category": "generic",
+      "before": "The righteousness of the blameless will direct his way, but the wicked shall fall by his own wickedness.",
+      "after": "The righteousness of the blameless will direct their way, but the wicked shall fall by their own wickedness.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Proverbs 11:17",
+      "book": "proverbs",
+      "chapter": 11,
+      "verse": 17,
+      "category": "generic",
+      "before": "The merciful man does good to their own soul, but the one who is cruel troubles their own flesh.",
+      "after": "The merciful person does good to their own soul, but the one who is cruel troubles their own flesh.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Proverbs 12:2",
+      "book": "proverbs",
+      "chapter": 12,
+      "verse": 2,
+      "category": "mixed",
+      "before": "A good man shall obtain favor from YHWH, but they will condemn a person of wicked devices.",
+      "after": "A good person shall obtain favor from YHWH, but YHWH will condemn a person of wicked devices.",
+      "reason": "Mixed verse: apply both the established divine-name repetition rule and generic-human pronoun consistency."
+    },
+    {
+      "reference": "Proverbs 12:27",
+      "book": "proverbs",
+      "chapter": 12,
+      "verse": 27,
+      "category": "generic",
+      "before": "The slothful man doesn't roast his game, but the possessions of diligent people are prized.",
+      "after": "The slothful person doesn't roast their game, but the possessions of diligent people are prized.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Proverbs 13:22",
+      "book": "proverbs",
+      "chapter": 13,
+      "verse": 22,
+      "category": "generic",
+      "before": "A good man leaves an inheritance to his children's children, but the wealth of the sinner is stored for the righteous.",
+      "after": "A good person leaves an inheritance to their children's children, but the wealth of the sinner is stored for the righteous.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Proverbs 13:25",
+      "book": "proverbs",
+      "chapter": 13,
+      "verse": 25,
+      "category": "generic",
+      "before": "The righteous one eats to the satisfying of his soul, but the belly of the wicked goes hungry.",
+      "after": "The righteous one eats to the satisfying of their soul, but the belly of the wicked goes hungry.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Proverbs 14:31",
+      "book": "proverbs",
+      "chapter": 14,
+      "verse": 31,
+      "category": "divine",
+      "before": "The one who oppresses the poor shows contempt for their Maker, but the one who is kind to the needy honors him.",
+      "after": "The one who oppresses the poor shows contempt for their Maker, but the one who is kind to the needy honors their Maker.",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Proverbs 14:32",
+      "book": "proverbs",
+      "chapter": 14,
+      "verse": 32,
+      "category": "generic",
+      "before": "The wicked is brought down in his calamity, but in death, the righteous has a refuge.",
+      "after": "The wicked person is brought down in their calamity, but in death, the righteous person has a refuge.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Proverbs 15:12",
+      "book": "proverbs",
+      "chapter": 15,
+      "verse": 12,
+      "category": "generic",
+      "before": "A scoffer doesn't love to be reproved; he will not go to the wise.",
+      "after": "A scoffer doesn't love to be reproved; they will not go to the wise.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Proverbs 15:24",
+      "book": "proverbs",
+      "chapter": 15,
+      "verse": 24,
+      "category": "generic",
+      "before": "The path of life leads upward for the wise, to keep him from going downward to Sheol.",
+      "after": "The path of life leads upward for the wise, to keep them from going downward to Sheol.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Proverbs 16:7",
+      "book": "proverbs",
+      "chapter": 16,
+      "verse": 7,
+      "category": "mixed",
+      "before": "When someone's ways please YHWH, they make even their enemies to be at peace with him.",
+      "after": "When someone's ways please YHWH, YHWH makes even their enemies to be at peace with them.",
+      "reason": "Mixed verse: apply both the established divine-name repetition rule and generic-human pronoun consistency."
+    },
+    {
+      "reference": "Proverbs 16:23",
+      "book": "proverbs",
+      "chapter": 16,
+      "verse": 23,
+      "category": "generic",
+      "before": "The heart of the wise instructs his mouth, and adds learning to his lips.",
+      "after": "The heart of the wise instructs their mouth, and adds learning to their lips.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Proverbs 17:8",
+      "book": "proverbs",
+      "chapter": 17,
+      "verse": 8,
+      "category": "generic",
+      "before": "A bribe is a precious stone in the eyes of the one who gives it; wherever he turns, he prospers.",
+      "after": "A bribe is a precious stone in the eyes of the one who gives it; wherever they turn, they prosper.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Proverbs 17:28",
+      "book": "proverbs",
+      "chapter": 17,
+      "verse": 28,
+      "category": "generic",
+      "before": "Even a fool, when they keep silent, is counted wise. When he shuts his lips, he is thought to be discerning.",
+      "after": "Even a fool, when they keep silent, is counted wise. When they shut their lips, they are thought to be discerning.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Proverbs 18:20",
+      "book": "proverbs",
+      "chapter": 18,
+      "verse": 20,
+      "category": "generic",
+      "before": "A person's stomach is filled with the fruit of their mouth. With the harvest of his lips he is satisfied.",
+      "after": "A person's stomach is filled with the fruit of their mouth. With the harvest of their lips they are satisfied.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Proverbs 19:4",
+      "book": "proverbs",
+      "chapter": 19,
+      "verse": 4,
+      "category": "generic",
+      "before": "Wealth adds many friends, but the poor is separated from his friend.",
+      "after": "Wealth adds many friends, but the poor person is separated from their friend.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Proverbs 19:7",
+      "book": "proverbs",
+      "chapter": 19,
+      "verse": 7,
+      "category": "generic",
+      "before": "All the relatives of the poor shun him: how much more do his friends avoid him! He pursues them with pleas, but they are gone.",
+      "after": "All the relatives of the poor person shun them: how much more do their friends avoid them! They pursue them with pleas, but they are gone.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Proverbs 19:11",
+      "book": "proverbs",
+      "chapter": 19,
+      "verse": 11,
+      "category": "generic",
+      "before": "The discretion of a person makes them slow to anger. It is his glory to overlook an offense.",
+      "after": "The discretion of a person makes them slow to anger. It is their glory to overlook an offense.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Proverbs 19:19",
+      "book": "proverbs",
+      "chapter": 19,
+      "verse": 19,
+      "category": "generic",
+      "before": "A hot-tempered person must pay the penalty, for if you rescue him, you must do it again.",
+      "after": "A hot-tempered person must pay the penalty, for if you rescue them, you must do it again.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Proverbs 19:24",
+      "book": "proverbs",
+      "chapter": 19,
+      "verse": 24,
+      "category": "generic",
+      "before": "The sluggard buries his hand in the dish; he will not so much as bring it to his mouth again.",
+      "after": "The sluggard buries their hand in the dish; they will not so much as bring it to their mouth again.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Proverbs 20:4",
+      "book": "proverbs",
+      "chapter": 20,
+      "verse": 4,
+      "category": "generic",
+      "before": "The sluggard will not plow by reason of the winter; therefore he shall beg in harvest, and have nothing.",
+      "after": "The sluggard will not plow by reason of the winter; therefore they shall beg in harvest, and have nothing.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Proverbs 20:7",
+      "book": "proverbs",
+      "chapter": 20,
+      "verse": 7,
+      "category": "generic",
+      "before": "A righteous person walks in integrity. Blessed are his children after him.",
+      "after": "A righteous person walks in integrity. Blessed are their children after them.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Proverbs 20:11",
+      "book": "proverbs",
+      "chapter": 20,
+      "verse": 11,
+      "category": "generic",
+      "before": "Even a child makes himself known by his doings, whether his work is pure, and whether it is right.",
+      "after": "Even a child makes themselves known by their doings, whether their work is pure, and whether it is right.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Proverbs 20:14",
+      "book": "proverbs",
+      "chapter": 20,
+      "verse": 14,
+      "category": "generic",
+      "before": "\"It's no good, it's no good,\" says the buyer; but when he is gone his way, then he boasts.",
+      "after": "\"It's no good, it's no good,\" says the buyer; but when they have gone their way, then they boast.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Proverbs 20:16",
+      "book": "proverbs",
+      "chapter": 20,
+      "verse": 16,
+      "category": "generic",
+      "before": "Take the garment of one who puts up collateral for a stranger; and hold him in pledge for a wayward woman.",
+      "after": "Take the garment of one who puts up collateral for a stranger; and hold them in pledge for a wayward woman.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Proverbs 21:10",
+      "book": "proverbs",
+      "chapter": 21,
+      "verse": 10,
+      "category": "generic",
+      "before": "The soul of the wicked desires brokenness; his neighbor finds no mercy in his eyes.",
+      "after": "The soul of the wicked desires brokenness; their neighbor finds no mercy in their eyes.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Proverbs 21:11",
+      "book": "proverbs",
+      "chapter": 21,
+      "verse": 11,
+      "category": "generic",
+      "before": "When the mocker is punished, the simple gains wisdom. When the wise is instructed, he receives knowledge.",
+      "after": "When the mocker is punished, the simple gains wisdom. When the wise is instructed, they receive knowledge.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Proverbs 21:25",
+      "book": "proverbs",
+      "chapter": 21,
+      "verse": 25,
+      "category": "generic",
+      "before": "The desire of the sluggard kills him, for his hands refuse to labor.",
+      "after": "The desire of the sluggard kills them, for their hands refuse to labor.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Proverbs 21:27",
+      "book": "proverbs",
+      "chapter": 21,
+      "verse": 27,
+      "category": "generic",
+      "before": "The sacrifice of the wicked is an abomination: how much more, when he brings it with a wicked mind!",
+      "after": "The sacrifice of the wicked is an abomination: how much more, when they bring it with a wicked mind!",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Proverbs 21:29",
+      "book": "proverbs",
+      "chapter": 21,
+      "verse": 29,
+      "category": "generic",
+      "before": "A broken person hardens their face; but as for the upright, he establishes his ways.",
+      "after": "A broken person hardens their face; but as for the upright, they establish their ways.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Proverbs 22:6",
+      "book": "proverbs",
+      "chapter": 22,
+      "verse": 6,
+      "category": "generic",
+      "before": "Train up a child in the way he should go, and when he is old he will not depart from it.",
+      "after": "Train up a child in the way they should go, and when they are old they will not depart from it.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Proverbs 22:15",
+      "book": "proverbs",
+      "chapter": 22,
+      "verse": 15,
+      "category": "generic",
+      "before": "Folly is bound up in the heart of a child: the rod of discipline drives it far from him.",
+      "after": "Folly is bound up in the heart of a child: the rod of discipline drives it far from them.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Proverbs 22:22",
+      "book": "proverbs",
+      "chapter": 22,
+      "verse": 22,
+      "category": "generic",
+      "before": "Don't exploit the poor, because he is poor; and don't crush the needy in court;",
+      "after": "Don't exploit the poor, because they are poor; and don't crush the needy in court;",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Proverbs 22:25",
+      "book": "proverbs",
+      "chapter": 22,
+      "verse": 25,
+      "category": "generic",
+      "before": "lest you learn his ways, and ensnare your soul.",
+      "after": "lest you learn their ways, and ensnare your soul.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Proverbs 22:27",
+      "book": "proverbs",
+      "chapter": 22,
+      "verse": 27,
+      "category": "generic",
+      "before": "If you don't have means to pay, why should he take away your bed from under you?",
+      "after": "If you don't have means to pay, why should they take away your bed from under you?",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Proverbs 22:29",
+      "book": "proverbs",
+      "chapter": 22,
+      "verse": 29,
+      "category": "generic",
+      "before": "Do you see a person skilled in their work? He will serve kings. He won't serve obscure men.",
+      "after": "Do you see a person skilled in their work? They will serve kings. They won't serve obscure people.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Proverbs 23:3",
+      "book": "proverbs",
+      "chapter": 23,
+      "verse": 3,
+      "category": "generic",
+      "before": "Don't be desirous of his dainties, seeing they are deceitful food.",
+      "after": "Don't be desirous of their dainties, seeing they are deceitful food.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Proverbs 23:7",
+      "book": "proverbs",
+      "chapter": 23,
+      "verse": 7,
+      "category": "generic",
+      "before": "for as he thinks about the cost, so he is. \"Eat and drink!\" he says to you, but his heart is not with you.",
+      "after": "for as they think about the cost, so they are. \"Eat and drink!\" they say to you, but their heart is not with you.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Proverbs 23:11",
+      "book": "proverbs",
+      "chapter": 23,
+      "verse": 11,
+      "category": "divine",
+      "before": "for their Defender is strong. He will plead their case against you.",
+      "after": "for their Defender is strong. Their Defender will plead their case against you.",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Proverbs 23:13",
+      "book": "proverbs",
+      "chapter": 23,
+      "verse": 13,
+      "category": "generic",
+      "before": "Don't withhold correction from a child. If you punish him with the rod, he will not die.",
+      "after": "Don't withhold correction from a child. If you punish them with the rod, they will not die.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Proverbs 23:14",
+      "book": "proverbs",
+      "chapter": 23,
+      "verse": 14,
+      "category": "generic",
+      "before": "Punish him with the rod, and save his soul from Sheol.",
+      "after": "Punish them with the rod, and save their soul from Sheol.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Proverbs 24:5",
+      "book": "proverbs",
+      "chapter": 24,
+      "verse": 5,
+      "category": "generic",
+      "before": "A wise person has great power; and a knowledgeable man increases strength;",
+      "after": "A wise person has great power; and a knowledgeable person increases strength;",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Proverbs 24:15",
+      "book": "proverbs",
+      "chapter": 24,
+      "verse": 15,
+      "category": "generic",
+      "before": "Don't lay in wait, broken person, against the habitation of the righteous. Don't destroy his resting place:",
+      "after": "Don't lay in wait, broken person, against the habitation of the righteous. Don't destroy their resting place:",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Proverbs 24:17",
+      "book": "proverbs",
+      "chapter": 24,
+      "verse": 17,
+      "category": "generic",
+      "before": "Don't rejoice when your enemy falls. Don't let your heart be glad when he is overthrown;",
+      "after": "Don't rejoice when your enemy falls. Don't let your heart be glad when they are overthrown;",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Proverbs 24:24",
+      "book": "proverbs",
+      "chapter": 24,
+      "verse": 24,
+      "category": "generic",
+      "before": "The one who says to the wicked, \"You are righteous;\" peoples shall curse him, and nations shall abhor him--",
+      "after": "The one who says to the wicked, \"You are righteous;\" peoples shall curse them, and nations shall abhor them--",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Proverbs 24:29",
+      "book": "proverbs",
+      "chapter": 24,
+      "verse": 29,
+      "category": "generic",
+      "before": "Don't say, \"I will do to him as he has done to me; I will render to the person according to their work.\"",
+      "after": "Don't say, \"I will do to them as they have done to me; I will render to the person according to their work.\"",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Proverbs 25:13",
+      "book": "proverbs",
+      "chapter": 25,
+      "verse": 13,
+      "category": "generic",
+      "before": "As the cold of snow in the time of harvest, so is a faithful messenger to those who send him; for he refreshes the soul of his masters.",
+      "after": "As the cold of snow in the time of harvest, so is a faithful messenger to those who send them; for they refresh the soul of their masters.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Proverbs 25:17",
+      "book": "proverbs",
+      "chapter": 25,
+      "verse": 17,
+      "category": "generic",
+      "before": "Let your foot be seldom in your neighbor's house, lest he be weary of you, and hate you.",
+      "after": "Let your foot be seldom in your neighbor's house, lest they be weary of you, and hate you.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Proverbs 25:21",
+      "book": "proverbs",
+      "chapter": 25,
+      "verse": 21,
+      "category": "generic",
+      "before": "If your enemy is hungry, give him food to eat. If he is thirsty, give him water to drink:",
+      "after": "If your enemy is hungry, give them food to eat. If they are thirsty, give them water to drink:",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Proverbs 26:14",
+      "book": "proverbs",
+      "chapter": 26,
+      "verse": 14,
+      "category": "generic",
+      "before": "As the door turns on its hinges, so does the sluggard on his bed.",
+      "after": "As the door turns on its hinges, so does the sluggard on their bed.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Proverbs 26:15",
+      "book": "proverbs",
+      "chapter": 26,
+      "verse": 15,
+      "category": "generic",
+      "before": "The sluggard buries his hand in the dish. He is too lazy to bring it back to his mouth.",
+      "after": "The sluggard buries their hand in the dish. They are too lazy to bring it back to their mouth.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Proverbs 26:16",
+      "book": "proverbs",
+      "chapter": 26,
+      "verse": 16,
+      "category": "generic",
+      "before": "The sluggard is wiser in his own eyes than seven people who answer with discretion.",
+      "after": "The sluggard is wiser in their own eyes than seven people who answer with discretion.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Proverbs 26:25",
+      "book": "proverbs",
+      "chapter": 26,
+      "verse": 25,
+      "category": "generic",
+      "before": "When his speech is charming, don't believe him; for there are seven abominations in his heart.",
+      "after": "When their speech is charming, don't believe them; for there are seven abominations in their heart.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Proverbs 26:26",
+      "book": "proverbs",
+      "chapter": 26,
+      "verse": 26,
+      "category": "generic",
+      "before": "His malice may be concealed by deception, but his wickedness will be exposed in the assembly.",
+      "after": "Their malice may be concealed by deception, but their wickedness will be exposed in the assembly.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Proverbs 28:11",
+      "book": "proverbs",
+      "chapter": 28,
+      "verse": 11,
+      "category": "generic",
+      "before": "The rich a person is wise in their own eyes; but the poor who has understanding sees through him.",
+      "after": "The rich person is wise in their own eyes; but the poor person who has understanding sees through them.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Proverbs 28:17",
+      "book": "proverbs",
+      "chapter": 28,
+      "verse": 17,
+      "category": "generic",
+      "before": "A person who is tormented by life blood will be a fugitive until death; no one will support him.",
+      "after": "A person who is tormented by life blood will be a fugitive until death; no one will support them.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Proverbs 28:24",
+      "book": "proverbs",
+      "chapter": 28,
+      "verse": 24,
+      "category": "generic",
+      "before": "Whoever robs their father or their mother, and says, \"It's not wrong.\" He is a partner with a destroyer.",
+      "after": "Whoever robs their father or their mother, and says, \"It's not wrong.\" They are a partner with a destroyer.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Proverbs 28:26",
+      "book": "proverbs",
+      "chapter": 28,
+      "verse": 26,
+      "category": "generic",
+      "before": "One who trusts in himself is a fool; but one who walks in wisdom is kept safe.",
+      "after": "One who trusts in themselves is a fool; but one who walks in wisdom is kept safe.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Proverbs 29:3",
+      "book": "proverbs",
+      "chapter": 29,
+      "verse": 3,
+      "category": "generic",
+      "before": "Whoever loves wisdom brings joy to their father; but a companion of prostitutes squanders his wealth.",
+      "after": "Whoever loves wisdom brings joy to their father; but a companion of prostitutes squanders their wealth.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Proverbs 29:12",
+      "book": "proverbs",
+      "chapter": 29,
+      "verse": 12,
+      "category": "generic",
+      "before": "If a ruler listens to lies, all of his officials are wicked.",
+      "after": "If a ruler listens to lies, all of their officials are wicked.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Proverbs 29:15",
+      "book": "proverbs",
+      "chapter": 29,
+      "verse": 15,
+      "category": "generic",
+      "before": "The rod of correction gives wisdom, but a child left to himself causes shame to his mother.",
+      "after": "The rod of correction gives wisdom, but a child left to themselves causes shame to their mother.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Proverbs 29:19",
+      "book": "proverbs",
+      "chapter": 29,
+      "verse": 19,
+      "category": "generic",
+      "before": "A servant can't be corrected by words. Though he understands, yet he will not respond.",
+      "after": "A servant can't be corrected by words. Though they understand, yet they will not respond.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Proverbs 29:23",
+      "book": "proverbs",
+      "chapter": 29,
+      "verse": 23,
+      "category": "generic",
+      "before": "A person's pride brings him low, but one of lowly spirit gains honor.",
+      "after": "A person's pride brings them low, but one of lowly spirit gains honor.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Proverbs 29:24",
+      "book": "proverbs",
+      "chapter": 29,
+      "verse": 24,
+      "category": "generic",
+      "before": "Whoever is an accomplice of a thief is an enemy of their own soul. He takes an oath, but dares not testify.",
+      "after": "Whoever is an accomplice of a thief is an enemy of their own soul. They take an oath, but dare not testify.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Proverbs 30:2",
+      "book": "proverbs",
+      "chapter": 30,
+      "verse": 2,
+      "category": "generic",
+      "before": "\"Surely I am the most ignorant man, and don't have a person's understanding.",
+      "after": "\"Surely I am the most ignorant person, and don't have a person's understanding.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    },
+    {
+      "reference": "Proverbs 30:6",
+      "book": "proverbs",
+      "chapter": 30,
+      "verse": 6,
+      "category": "divine",
+      "before": "Don't you add to his words, lest he reprove you, and you be found a liar.",
+      "after": "Don't you add to Elohim's words, lest Elohim reprove you, and you be found a liar.",
+      "reason": "Unmistakably divine antecedent: replace masculine divine pronoun with the established divine name/title."
+    },
+    {
+      "reference": "Proverbs 31:7",
+      "book": "proverbs",
+      "chapter": 31,
+      "verse": 7,
+      "category": "generic",
+      "before": "Let him drink, and forget his poverty, and remember his misery no more.",
+      "after": "Let them drink, and forget their poverty, and remember their misery no more.",
+      "reason": "Generic-human antecedent: use an inclusive pronoun/noun chain without changing an actual male referent."
+    }
+  ],
+  "preserved_decisions": [
+    {
+      "reference": "Psalms 72:1-17",
+      "reason": "Royal psalm: the masculine chain refers to the king/royal son and is intentionally preserved."
+    },
+    {
+      "reference": "Psalms 89:20-45",
+      "reason": "Covenant/royal chain refers to Dawid or the royal servant; masculine identity is preserved."
+    },
+    {
+      "reference": "Psalms 109:6-19",
+      "reason": "The adversary is presented as a specific male figure (including wife/widow language); human masculine references are preserved. Only unmistakably divine YHWH references elsewhere in the psalm are updated."
+    },
+    {
+      "reference": "Psalms 110:5-7",
+      "reason": "Known disputed royal/Messianic/divine referent; preserved for explicit editorial review rather than mechanically resolved."
+    },
+    {
+      "reference": "Proverbs 7",
+      "reason": "Narrative young man/husband and woman encounter; sex-specific participants remain sex-specific."
+    },
+    {
+      "reference": "Proverbs 31:1-31",
+      "reason": "Actual king/son/husband/woman kinship and narrative roles remain gendered. Only the generic poor-person chain in 31:7 is normalized."
+    }
+  ],
+  "mobileFallback": {
+    "schemaVersion": 1,
+    "releaseId": "canonical-feb0a7ad83de3c31",
+    "canonicalEpubSha256": "feb0a7ad83de3c31df389a61db02dda4b5eecf2655caaad7cda4be911df3f55a",
+    "generatedAt": "2026-09-14T17:34:15Z",
+    "contentSha256": "a8e6435a2b4bd990c2876c3c2998a8206960f60016edb21a3859a6ba2e47fd46",
+    "contentBytes": 30120816,
+    "contentUrl": "https://raw.githubusercontent.com/Wayback-Project/thewaytranslations/main/current-form-documents/mobile-reader/content.json",
+    "source": "canonical-github-fallback",
+    "bookCount": 66,
+    "chapterCount": 1189,
+    "verseSearchCount": 31102
+  },
+  "qa": {
+    "book_count": 66,
+    "chapter_count": 1189,
+    "verse_search_records": 31102,
+    "zip_crc": "pass",
+    "xml_parse": "pass",
+    "internal_links": "pass",
+    "changed_book_members": [
+      "OEBPS/Text/proverbs.xhtml",
+      "OEBPS/Text/psalms.xhtml"
+    ],
+    "post_release_actionable_article_mismatches": 0,
+    "article_sound_exceptions_preserved": 29,
+    "exact_before_after_inventory": "pass",
+    "scope_guard": "Psalms and Proverbs only"
+  }
+}

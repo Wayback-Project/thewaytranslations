@@ -31,3 +31,7 @@ The September 2026 release line also carries forward the accepted source-sensiti
 ## 2026-09-14 English article grammar consistency
 
 A whole-Bible `a`/`an` audit corrected **38** genuine English article-agreement errors while retaining **29** pronunciation-based exceptions. No theological or lexical wording was changed. Canonical SHA-256: `bfd2e746afdb810d4b0b35abf66fe71da394abee77099f9c8f481102ab242f53`. See `../editor-notes/consistency/2026-09-14-english-article-grammar-consistency.md` and `../change-logs/reports/2026-09-14-english-article-grammar-consistency.json`.
+
+## 2026-09-14 Psalms and Proverbs inclusive human/divine pronouns
+
+A source-sensitive reviewed release corrected **254** verse-level pronoun/inclusive-language inconsistencies in Psalms and Proverbs only. Actual male persons and male kinship/royal referents were preserved; Psalm 110:5–7 remains explicitly unresolved. Unmistakably divine masculine pronouns were replaced by the established divine name/title. Canonical SHA-256: `feb0a7ad83de3c31df389a61db02dda4b5eecf2655caaad7cda4be911df3f55a`. See `../editor-notes/consistency/2026-09-14-psalms-proverbs-inclusive-pronouns.md` and `../change-logs/reports/2026-09-14-psalms-proverbs-inclusive-pronouns.json`.
