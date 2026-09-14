@@ -1,0 +1,30 @@
+name: Compare brokenness audit to legacy text 2026-09-14
+
+on:
+  push:
+    branches:
+      - audit/old-testament-gender-brokenness-2026-09-14
+    paths:
+      - tools/local/compare_brokenness_to_legacy_2026_09_14.py
+      - .github/workflows/compare-brokenness-legacy-2026-09-14.yml
+
+permissions:
+  contents: write
+
+jobs:
+  compare:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: audit/old-testament-gender-brokenness-2026-09-14
+      - name: Compare current brokenness candidates with April legacy wording
+        run: python tools/local/compare_brokenness_to_legacy_2026_09_14.py
+      - name: Commit comparison output
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add audit-output/old-testament-gender-brokenness-2026-09-14/brokenness-legacy-comparison.tsv
+          git diff --cached --quiet && exit 0
+          git commit -m "Add brokenness legacy comparison"
+          git push
