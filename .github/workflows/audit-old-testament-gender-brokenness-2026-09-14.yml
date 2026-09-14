@@ -1,0 +1,32 @@
+name: Audit Old Testament gender and brokenness 2026-09-14
+
+on:
+  push:
+    branches:
+      - audit/old-testament-gender-brokenness-2026-09-14
+    paths:
+      - 'tools/local/audit_old_testament_gender_brokenness_2026_09_14.py'
+      - '.github/workflows/audit-old-testament-gender-brokenness-2026-09-14.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: audit/old-testament-gender-brokenness-2026-09-14
+          fetch-depth: 0
+      - name: Run audit
+        run: python3 tools/local/audit_old_testament_gender_brokenness_2026_09_14.py
+      - name: Commit audit output
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add audit-output/old-testament-gender-brokenness-2026-09-14
+          git diff --cached --quiet && exit 0
+          git commit -m "Add Old Testament gender and brokenness audit output"
+          git push origin HEAD:audit/old-testament-gender-brokenness-2026-09-14
