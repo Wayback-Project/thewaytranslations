@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 from __future__ import annotations
 
-import html
 import json
 import os
 import re
@@ -51,11 +50,11 @@ CHANGES = [
     ('proverbs', 26, 23, 'an broken', 'a broken'),
     ('proverbs', 28, 10, 'an broken', 'a broken'),
     ('proverbs', 29, 6, 'An brokenness', 'A brokenness'),
-    ('ecclesiastes', 6, 1, 'An brokenness', 'A brokenness'),
+    ('ecclesiastes', 6, 1, 'an brokenness', 'a brokenness'),
     ('ecclesiastes', 6, 2, 'an grievous', 'a grievous'),
     ('ecclesiastes', 8, 3, 'an broken', 'a broken'),
     ('ecclesiastes', 8, 11, 'an work', 'a work'),
-    ('ecclesiastes', 9, 3, 'An brokenness', 'A brokenness'),
+    ('ecclesiastes', 9, 3, 'an brokenness', 'a brokenness'),
     ('ecclesiastes', 9, 12, 'an time', 'a time'),
     ('ecclesiastes', 9, 12, 'an brokenness', 'a brokenness'),
     ('ecclesiastes', 10, 1, 'an brokenness', 'a brokenness'),
@@ -164,16 +163,23 @@ def fmt_ref(slug: str, chapter: int, verse: int) -> str:
     return f'{BOOK_NAME[slug]} {chapter}:{verse}'
 
 
+def expected_audit_key(slug: str, chapter: int, verse: int, before: str):
+    # The scanner reports the duplicated article token pair itself; the release
+    # replacement still removes the full malformed phrase `a a hunted` safely.
+    phrase = 'a a' if before.startswith('a a ') else before
+    return slug, chapter, verse, phrase
+
+
 def main():
     actual = base.sha256(EPUB)
     if actual != BASELINE:
         raise SystemExit(f'baseline SHA mismatch: expected {BASELINE}, got {actual}')
 
     actionable, exceptions = audit_epub(EPUB)
-    expected = [(slug, chapter, verse, before) for slug, chapter, verse, before, _after in CHANGES]
-    found = [(slug, chapter, verse, phrase) for slug, chapter, verse, phrase, _reason in actionable]
+    expected = Counter(expected_audit_key(slug, chapter, verse, before) for slug, chapter, verse, before, _after in CHANGES)
+    found = Counter((slug, chapter, verse, phrase) for slug, chapter, verse, phrase, _reason in actionable)
     if found != expected:
-        raise RuntimeError('canonical article audit differs from the reviewed 38-item ledger:\n' + json.dumps({'expected': expected, 'found': found}, indent=2))
+        raise RuntimeError('canonical article audit differs from the reviewed 38-item ledger:\n' + json.dumps({'expected': list(expected.elements()), 'found': list(found.elements())}, indent=2))
     if len(exceptions) != 36:
         raise RuntimeError(f'expected 36 sound-based retained exceptions, found {len(exceptions)}')
 
@@ -250,9 +256,10 @@ def main():
     for change in changes:
         by_book[change['book']].append(change)
     detail_lines = []
-    for slug in sorted(by_book, key=lambda s: next(i for i, (_, group) in enumerate(base.BOOKS) if any(x[0] == s for x in group))):
-        for item in by_book[slug]:
-            detail_lines.append(f"- {item['reference']}: `{item['before']}` → `{item['after']}`")
+    for _, group in base.BOOKS:
+        for slug, _name in group:
+            for item in by_book.get(slug, []):
+                detail_lines.append(f"- {item['reference']}: `{item['before']}` → `{item['after']}`")
 
     NOTE.parent.mkdir(parents=True, exist_ok=True)
     NOTE.write_text(f'''# English article grammar consistency — 2026-09-14
