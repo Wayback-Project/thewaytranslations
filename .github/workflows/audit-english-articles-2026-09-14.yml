@@ -1,0 +1,20 @@
+name: Audit 2026-09-14 English article consistency
+
+on:
+  push:
+    branches:
+      - audit/english-article-consistency-2026-09-14
+    paths:
+      - tools/local/audit_english_articles_2026_09_14.py
+      - .github/workflows/audit-english-articles-2026-09-14.yml
+  workflow_dispatch:
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: audit/english-article-consistency-2026-09-14
+      - name: Scan canonical EPUB for a/an inconsistencies
+        run: python3 tools/local/audit_english_articles_2026_09_14.py
