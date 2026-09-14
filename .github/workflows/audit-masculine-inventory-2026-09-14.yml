@@ -7,6 +7,7 @@ on:
     paths:
       - current-form-documents/the-way-current.epub
       - tools/local/audit_masculine_inventory_2026_09_14.py
+      - tools/local/build_masculine_inventory_report_2026_09_14.py
       - .github/workflows/audit-masculine-inventory-2026-09-14.yml
 
 permissions:
@@ -24,6 +25,8 @@ jobs:
           python-version: '3.12'
       - name: Extract current canonical candidates
         run: python tools/local/audit_masculine_inventory_2026_09_14.py
+      - name: Build full editorial inventory
+        run: python tools/local/build_masculine_inventory_report_2026_09_14.py
       - name: Commit audit output
         run: |
           git config user.name "github-actions[bot]"
@@ -32,6 +35,12 @@ jobs:
           if git diff --cached --quiet; then
             echo "No audit output changes"
           else
-            git commit -m "Generate masculine language inventory candidates"
+            git commit -m "Generate masculine language editorial inventory"
             git push
           fi
+      - name: Upload Google Docs import artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: masculine-update-bible-with-original-names
+          path: audit-output/masculine-inventory-2026-09-14/Masculine-update-Bible-with-Original-Names.html
+          if-no-files-found: error
