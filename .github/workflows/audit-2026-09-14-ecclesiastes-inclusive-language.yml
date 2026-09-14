@@ -1,0 +1,34 @@
+name: Audit 2026-09-14 Ecclesiastes inclusive language
+
+on:
+  push:
+    branches:
+      - consistency/ecclesiastes-inclusive-language-2026-09-14
+    paths:
+      - 'tools/local/audit_2026_09_14_ecclesiastes_inclusive_language.py'
+      - '.github/workflows/audit-2026-09-14-ecclesiastes-inclusive-language.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: consistency/ecclesiastes-inclusive-language-2026-09-14
+          fetch-depth: 1
+      - name: Run audit
+        run: python3 tools/local/audit_2026_09_14_ecclesiastes_inclusive_language.py
+      - name: Commit audit output
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add audit-output/ecclesiastes-inclusive-language-2026-09-14
+          if ! git diff --cached --quiet; then
+            git commit -m "Add Ecclesiastes inclusive-language audit output"
+            git push origin HEAD:consistency/ecclesiastes-inclusive-language-2026-09-14
+          fi

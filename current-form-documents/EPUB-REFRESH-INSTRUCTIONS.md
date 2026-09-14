@@ -35,3 +35,7 @@ A whole-Bible `a`/`an` audit corrected **38** genuine English article-agreement 
 ## 2026-09-14 Psalms and Proverbs inclusive human/divine pronouns
 
 A source-sensitive reviewed release corrected **254** verse-level pronoun/inclusive-language inconsistencies in Psalms and Proverbs only. Actual male persons and male kinship/royal referents were preserved; Psalm 110:5–7 remains explicitly unresolved. Unmistakably divine masculine pronouns were replaced by the established divine name/title. Canonical SHA-256: `feb0a7ad83de3c31df389a61db02dda4b5eecf2655caaad7cda4be911df3f55a`. See `../editor-notes/consistency/2026-09-14-psalms-proverbs-inclusive-pronouns.md` and `../change-logs/reports/2026-09-14-psalms-proverbs-inclusive-pronouns.json`.
+
+## 2026-09-14 Ecclesiastes inclusive language + Isaiah 1:16
+
+A whole-book Ecclesiastes review corrected generic-human pronoun chains, unmistakable divine-pronoun remnants, and contextually inappropriate `brokenness` renderings. Source-marked male referents were preserved. Isaiah 1:16 was separately corrected to `Put away the harm of your doings ... Cease doing harm.` Canonical SHA-256: `0e66242a07b5303337f90078ae8639a1fca264031b63962fb109f79033e48c30`. See `../editor-notes/consistency/2026-09-14-ecclesiastes-inclusive-language-isaiah-harm.md` and `../change-logs/reports/2026-09-14-ecclesiastes-inclusive-language-isaiah-harm.json`.

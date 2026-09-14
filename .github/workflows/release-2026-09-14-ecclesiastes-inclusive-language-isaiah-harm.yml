@@ -1,0 +1,52 @@
+name: Release Ecclesiastes inclusive language and Isaiah harm 2026-09-14
+
+on:
+  push:
+    branches:
+      - consistency/ecclesiastes-inclusive-language-2026-09-14
+    paths:
+      - tools/local/release_2026_09_14_ecclesiastes_inclusive_language_isaiah_harm.py
+      - .github/workflows/release-2026-09-14-ecclesiastes-inclusive-language-isaiah-harm.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out release branch
+        uses: actions/checkout@v4
+        with:
+          ref: consistency/ecclesiastes-inclusive-language-2026-09-14
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Apply reviewed Ecclesiastes and Isaiah ledger and validate canonical EPUB
+        run: python tools/local/release_2026_09_14_ecclesiastes_inclusive_language_isaiah_harm.py
+
+      - name: Commit validated release outputs
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md current-form-documents rendered-documents-history change-logs editor-notes
+          if git diff --cached --quiet; then
+            echo "No release outputs changed" >&2
+            exit 1
+          fi
+          git commit -m "Ecclesiastes inclusive language and Isaiah harm wording"
+          git push origin HEAD:consistency/ecclesiastes-inclusive-language-2026-09-14
+
+      - name: Upload reviewed release ledger
+        uses: actions/upload-artifact@v4
+        with:
+          name: ecclesiastes-inclusive-language-isaiah-harm-2026-09-14
+          path: |
+            change-logs/reports/2026-09-14-ecclesiastes-inclusive-language-isaiah-harm.json
+            editor-notes/consistency/2026-09-14-ecclesiastes-inclusive-language-isaiah-harm.md
