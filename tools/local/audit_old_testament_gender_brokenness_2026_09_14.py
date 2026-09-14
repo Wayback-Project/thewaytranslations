@@ -30,10 +30,11 @@ SUBJECT_AFTER = re.compile(rf'\b(?P<d>{DIV})\b(?P<mid>[^.!?]{{0,110}}?)(?:;|,|\b
 SENTENCE_AFTER = re.compile(rf'\b(?P<d>{DIV})\b(?P<mid>[^.!?]{{0,140}}?)[.!?]\s*[\"“‘\']*(?P<p>He|His|Himself)\b')
 
 BROKENNESS = re.compile(r'\bbrokenness\b|\bbroken deeds?\b|\bbroken person\b|\bbroken people\b|\bbrokenness news\b', re.I)
-GENERIC_NOUN = re.compile(r'\b(?:a person|the person|someone|anyone|everyone|whoever|one who|the one who|a child|the child|your neighbor|the neighbor|your enemy|the enemy|the poor|the rich|the righteous|the wicked|a fool|the fool|the wise|a sluggard|the sluggard|a servant|the servant|a stranger|the stranger|a foreigner|the foreigner|a sinner|the sinner|a buyer|the buyer|a messenger|the messenger|a worker|the worker)\b', re.I)
+GENERIC_STRONG = re.compile(r'\b(?:a person|any person|each person|someone|anyone|everyone|whoever|one who|the one who)\b', re.I)
+GENERIC_SECONDARY = re.compile(r'\b(?:a child|a servant|a stranger|a foreigner|your neighbor|your enemy|the poor|the rich|the righteous|the wicked|a fool|the fool|the wise|a sluggard|the sluggard|a sinner|the sinner|a buyer|the buyer|a messenger|the messenger|a worker|the worker)\b', re.I)
 GENERIC_MAN = re.compile(r'\b(?:any man|every man|each man|no man|a man who|the man who|man who|men who|all men|mankind)\b', re.I)
 MASC_TERM = re.compile(r'\b(?:man|men|mankind|watchman|watchmen|workman|workmen|craftsman|craftsmen)\b', re.I)
-ARTICLE_BAD = re.compile(r'\ban\s+(?:person|people|man|woman|child|human|worker|servant|neighbor|enemy)\b', re.I)
+ARTICLE_BAD = re.compile(r'\ban\s+(?:person|people|man|woman|child|human|worker|servant|neighbor)\b', re.I)
 
 
 def sha256(path: Path) -> str:
@@ -92,7 +93,7 @@ def main():
     for slug,book,ch,vs,text in verses():
         allv.append((book,ch,vs,text))
         if ARTICLE_BAD.search(text):
-            add(rows,seen,book,ch,vs,text,'ARTICLE REGRESSION','CRITICAL',[ARTICLE_BAD.search(text).group(0)],'Invalid English article before a human noun; release blocker.')
+            add(rows,seen,book,ch,vs,text,'ARTICLE REGRESSION','CRITICAL',[ARTICLE_BAD.search(text).group(0)],'Invalid English article before a consonant-sound human noun; release blocker.')
         b=BROKENNESS.findall(text)
         if b:
             add(rows,seen,book,ch,vs,text,'BROKENNESS LEXICAL REVIEW','HIGH',sorted(set(x.lower() for x in b)),'The English brokenness/broken wording may flatten distinct Hebrew senses such as harm, wrongdoing, calamity, trouble, wickedness, misfortune, or destruction. Requires source/context review.')
@@ -101,11 +102,13 @@ def main():
             add(rows,seen,book,ch,vs,text,'GENERIC-HUMAN HIGH PRIORITY','HIGH',sorted(set(x.lower() for x in gm)),'Universal/generic human language is explicitly male-coded and should be checked against Hebrew for inclusive rendering.')
         elif MASC_TERM.search(text):
             add(rows,seen,book,ch,vs,text,'MASCULINE TERM REVIEW','REVIEW',sorted(set(x.lower() for x in MASC_TERM.findall(text))),'Masculine English term present. Preserve if the referent is actually male; revise only if the Hebrew/context is generic.')
-        if GENERIC_NOUN.search(text) and PRON_RE.search(text):
-            add(rows,seen,book,ch,vs,text,'GENERIC PRONOUN HIGH PRIORITY','HIGH',[GENERIC_NOUN.search(text).group(0)] + sorted(set(x.lower() for x in PRON_RE.findall(text))),'An explicitly generic English antecedent is paired with masculine pronouns; likely inclusive-language inconsistency.')
+        if GENERIC_STRONG.search(text) and PRON_RE.search(text):
+            add(rows,seen,book,ch,vs,text,'GENERIC PRONOUN HIGH PRIORITY','HIGH',[GENERIC_STRONG.search(text).group(0)] + sorted(set(x.lower() for x in PRON_RE.findall(text))),'A strongly generic English antecedent is paired with masculine pronouns; likely inclusive-language inconsistency.')
+        elif GENERIC_SECONDARY.search(text) and PRON_RE.search(text):
+            add(rows,seen,book,ch,vs,text,'GENERIC PRONOUN REVIEW','REVIEW',[GENERIC_SECONDARY.search(text).group(0)] + sorted(set(x.lower() for x in PRON_RE.findall(text))),'A potentially generic antecedent is paired with masculine pronouns, but the referent may be a specific person. Context/source review required.')
         dh=divine_hits(text)
         if dh:
-            add(rows,seen,book,ch,vs,text,'DIVINE-REFERENT HIGH PRIORITY','HIGH',dh,'Conservative heuristic indicates a masculine English pronoun probably refers to an unmistakably divine antecedent; project method prefers repeating the established divine name/title.')
+            add(rows,seen,book,ch,vs,text,'DIVINE-REFERENT REVIEW','HIGH',dh,'Conservative heuristic indicates a masculine English pronoun may refer to an unmistakably divine antecedent. Verify coreference; if divine, project method prefers repeating the established divine name/title.')
     OUT.mkdir(parents=True,exist_ok=True)
     fields=['reference','book','chapter','verse','handledBook','category','priority','signals','reason','text']
     with (OUT/'candidates.tsv').open('w',encoding='utf-8',newline='') as f:
@@ -115,10 +118,10 @@ def main():
         for b,c,v,t in allv: w.writerow([f'{b} {c}:{v}',t])
     bycat=Counter(r['category'] for r in rows); bypri=Counter(r['priority'] for r in rows); bybook=defaultdict(Counter)
     for r in rows: bybook[r['book']][r['category']]+=1
-    summary={'canonicalEpubSha256':actual,'scope':'All 39 Old Testament books, including a residual recheck of Psalms, Proverbs, Ecclesiastes, and Isaiah.','extractedVerseCount':len(allv),'candidateRowCount':len(rows),'countsByCategory':dict(bycat),'countsByPriority':dict(bypri),'handledBooks':sorted(HANDLED),'countsByBook':{b:dict(c) for b,c in bybook.items()},'rule':'Diagnostic only. HIGH means strong editorial priority, not authorization to edit. Actual male characters/kinship/royal figures remain masculine; divine edits require unmistakable divine antecedent; brokenness requires Hebrew/context review.'}
+    summary={'canonicalEpubSha256':actual,'scope':'All 39 Old Testament books, including a residual recheck of Psalms, Proverbs, Ecclesiastes, and Isaiah.','extractedVerseCount':len(allv),'candidateRowCount':len(rows),'countsByCategory':dict(bycat),'countsByPriority':dict(bypri),'handledBooks':sorted(HANDLED),'countsByBook':{b:dict(c) for b,c in bybook.items()},'rule':'Diagnostic only. HIGH means strong editorial priority, not authorization to edit. Actual male characters/kinship/royal figures remain masculine; divine edits require unmistakable divine antecedent; brokenness requires Hebrew/context review. Review-tier rows intentionally include possible false positives.'}
     (OUT/'summary.json').write_text(json.dumps(summary,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
     high=[r for r in rows if r['priority'] in {'CRITICAL','HIGH'}]
-    lines=['# Old Testament gender / divine-pronoun / brokenness residual audit — 2026-09-14','',f'Canonical EPUB SHA: `{actual}`','',f'Extracted verses: **{len(allv)}** · candidate rows: **{len(rows)}** · high/critical rows: **{len(high)}**.','', 'This is diagnostic only. It does not authorize global replacement. Preserve actual male characters, male kinship, kings/royal figures, and source-significant gender. Repeat the established divine name/title only when the referent is unmistakably divine. Review every brokenness rendering against Hebrew/context rather than replacing the word globally.','', '## High / critical candidates','']
+    lines=['# Old Testament gender / divine-pronoun / brokenness residual audit — 2026-09-14','',f'Canonical EPUB SHA: `{actual}`','',f'Extracted verses: **{len(allv)}** · candidate rows: **{len(rows)}** · high/critical rows: **{len(high)}**.','', 'This is diagnostic only. It does not authorize global replacement. Preserve actual male characters, male kinship, kings/royal figures, and source-significant gender. Repeat the established divine name/title only when the referent is unmistakably divine. Review every brokenness rendering against Hebrew/context rather than replacing the word globally. Review-tier rows intentionally include possible false positives.','', '## High / critical candidates','']
     for r in high:
         lines.append(f"- **{r['reference']} — {r['category']}** — {r['text']}")
     (OUT/'high-priority.md').write_text('\n'.join(lines)+'\n',encoding='utf-8')
