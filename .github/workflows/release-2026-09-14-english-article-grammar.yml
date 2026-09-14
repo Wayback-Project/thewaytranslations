@@ -5,7 +5,6 @@ on:
     branches:
       - consistency/english-grammar-articles-2026-09-14
     paths:
-      - tools/local/release_2026_09_14_english_article_grammar.py
       - .github/workflows/release-2026-09-14-english-article-grammar.yml
   workflow_dispatch:
 
@@ -25,6 +24,19 @@ jobs:
           ref: consistency/english-grammar-articles-2026-09-14
           fetch-depth: 1
 
+      - name: Finalize reviewed ledger casing
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          path=Path('tools/local/release_2026_09_14_english_article_grammar.py')
+          text=path.read_text(encoding='utf-8')
+          old="('ecclesiastes', 10, 5, 'An brokenness', 'A brokenness')"
+          new="('ecclesiastes', 10, 5, 'an brokenness', 'a brokenness')"
+          if text.count(old) != 1:
+              raise SystemExit(f'expected one final casing target, found {text.count(old)}')
+          path.write_text(text.replace(old,new),encoding='utf-8')
+          PY
+
       - name: Apply and validate English grammar consistency updates
         run: python3 tools/local/release_2026_09_14_english_article_grammar.py
 
@@ -32,7 +44,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md current-form-documents rendered-documents-history change-logs editor-notes
+          git add README.md current-form-documents rendered-documents-history change-logs editor-notes tools/local/release_2026_09_14_english_article_grammar.py
           if ! git diff --cached --quiet; then
             git commit -m "English grammar consistency updates"
             git push origin HEAD:consistency/english-grammar-articles-2026-09-14
