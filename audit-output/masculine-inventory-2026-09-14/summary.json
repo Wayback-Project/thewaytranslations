@@ -1,0 +1,28 @@
+{
+  "canonicalEpubSha256": "bfd2e746afdb810d4b0b35abf66fe71da394abee77099f9c8f481102ab242f53",
+  "scope": [
+    "Psalms",
+    "Proverbs",
+    "Song of Solomon"
+  ],
+  "candidateRule": "Broad mechanical extraction only; every row requires contextual/source-language editorial classification.",
+  "counts": {
+    "Psalms": {
+      "chapters": 150,
+      "verses": 2461,
+      "candidateVerses": 441
+    },
+    "Proverbs": {
+      "chapters": 31,
+      "verses": 915,
+      "candidateVerses": 234
+    },
+    "Song of Solomon": {
+      "chapters": 8,
+      "verses": 117,
+      "candidateVerses": 36
+    }
+  },
+  "candidateVerseCount": 711,
+  "extractedVerseCount": 3493
+}
