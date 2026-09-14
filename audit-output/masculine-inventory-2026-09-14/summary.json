@@ -10,19 +10,19 @@
     "Psalms": {
       "chapters": 150,
       "verses": 2461,
-      "candidateVerses": 441
+      "candidateVerses": 448
     },
     "Proverbs": {
       "chapters": 31,
       "verses": 915,
-      "candidateVerses": 234
+      "candidateVerses": 235
     },
     "Song of Solomon": {
       "chapters": 8,
       "verses": 117,
-      "candidateVerses": 36
+      "candidateVerses": 38
     }
   },
-  "candidateVerseCount": 711,
+  "candidateVerseCount": 721,
   "extractedVerseCount": 3493
 }
