@@ -34,7 +34,9 @@ A_VOWEL_EXCEPTIONS = (
     'uni', 'use', 'user', 'usual', 'utility', 'utensil', 'ufo',
 )
 
-ARTICLE_RE = re.compile(r"\b(a|an)\s+([A-Za-z][A-Za-z'’\-]*)", re.I)
+# The negative lookbehind prevents the "an" inside restored names such as
+# Kena'an / She'an from being mistaken for the indefinite article.
+ARTICLE_RE = re.compile(r"(?<![A-Za-z'’])(a|an)\b\s+([A-Za-z][A-Za-z'’\-]*)", re.I)
 VERSE_RE = re.compile(r'^(\d+)\.\s*(.*)$', re.S)
 
 
@@ -55,6 +57,8 @@ def classify(article: str, word: str) -> tuple[bool, str]:
     w = word.lower().lstrip("'’-")
     if not w:
         return False, 'no-word'
+    if w in {'a', 'an'}:
+        return True, 'duplicate-article'
     vowel = w[0] in 'aeiou'
     if a == 'an' and not vowel:
         if w.startswith(AN_CONSONANT_EXCEPTIONS):
