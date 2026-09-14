@@ -7,6 +7,7 @@ on:
     paths:
       - tools/local/approved_lexicon_cleanup_2026_09_14.tsv
       - tools/local/release_2026_09_14_lexicon_update_ai_cleanup.py
+      - tools/local/release_2026_09_14_lexicon_update_ai_cleanup_v2.py
       - .github/workflows/release-2026-09-14-lexicon-update-ai-cleanup.yml
 
 permissions:
@@ -20,7 +21,7 @@ jobs:
         with:
           ref: release/lexicon-update-ai-cleanup-2026-09-14
       - name: Run exact canonical lexicon release
-        run: python tools/local/release_2026_09_14_lexicon_update_ai_cleanup.py
+        run: python tools/local/release_2026_09_14_lexicon_update_ai_cleanup_v2.py
       - name: Commit canonical release artifacts
         run: |
           git config user.name "github-actions[bot]"
