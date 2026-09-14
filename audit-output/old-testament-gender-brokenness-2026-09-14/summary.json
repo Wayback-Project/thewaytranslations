@@ -1,0 +1,209 @@
+{
+  "canonicalEpubSha256": "0e66242a07b5303337f90078ae8639a1fca264031b63962fb109f79033e48c30",
+  "scope": "All 39 Old Testament books, including a residual recheck of Psalms, Proverbs, Ecclesiastes, and Isaiah.",
+  "extractedVerseCount": 14581,
+  "candidateRowCount": 1788,
+  "countsByCategory": {
+    "GENERIC PRONOUN HIGH PRIORITY": 462,
+    "MASCULINE TERM REVIEW": 798,
+    "DIVINE-REFERENT HIGH PRIORITY": 330,
+    "BROKENNESS LEXICAL REVIEW": 185,
+    "ARTICLE REGRESSION": 7,
+    "GENERIC-HUMAN HIGH PRIORITY": 6
+  },
+  "countsByPriority": {
+    "HIGH": 983,
+    "REVIEW": 798,
+    "CRITICAL": 7
+  },
+  "handledBooks": [
+    "Ecclesiastes",
+    "Isaiah",
+    "Proverbs",
+    "Psalms"
+  ],
+  "countsByBook": {
+    "Exodus": {
+      "GENERIC PRONOUN HIGH PRIORITY": 37,
+      "MASCULINE TERM REVIEW": 44,
+      "DIVINE-REFERENT HIGH PRIORITY": 18,
+      "BROKENNESS LEXICAL REVIEW": 5,
+      "ARTICLE REGRESSION": 1
+    },
+    "Leviticus": {
+      "GENERIC PRONOUN HIGH PRIORITY": 43,
+      "DIVINE-REFERENT HIGH PRIORITY": 14,
+      "MASCULINE TERM REVIEW": 18,
+      "BROKENNESS LEXICAL REVIEW": 2
+    },
+    "Numbers": {
+      "MASCULINE TERM REVIEW": 44,
+      "GENERIC PRONOUN HIGH PRIORITY": 25,
+      "DIVINE-REFERENT HIGH PRIORITY": 27,
+      "BROKENNESS LEXICAL REVIEW": 5
+    },
+    "Deuteronomy": {
+      "GENERIC PRONOUN HIGH PRIORITY": 37,
+      "MASCULINE TERM REVIEW": 37,
+      "BROKENNESS LEXICAL REVIEW": 24,
+      "DIVINE-REFERENT HIGH PRIORITY": 15
+    },
+    "Joshua": {
+      "MASCULINE TERM REVIEW": 49,
+      "GENERIC PRONOUN HIGH PRIORITY": 13,
+      "DIVINE-REFERENT HIGH PRIORITY": 13,
+      "BROKENNESS LEXICAL REVIEW": 2
+    },
+    "Judges": {
+      "DIVINE-REFERENT HIGH PRIORITY": 28,
+      "MASCULINE TERM REVIEW": 96,
+      "GENERIC PRONOUN HIGH PRIORITY": 32,
+      "BROKENNESS LEXICAL REVIEW": 4,
+      "GENERIC-HUMAN HIGH PRIORITY": 1
+    },
+    "Ruth": {
+      "MASCULINE TERM REVIEW": 6,
+      "GENERIC PRONOUN HIGH PRIORITY": 2,
+      "DIVINE-REFERENT HIGH PRIORITY": 1
+    },
+    "1 Samuel": {
+      "MASCULINE TERM REVIEW": 84,
+      "GENERIC PRONOUN HIGH PRIORITY": 43,
+      "DIVINE-REFERENT HIGH PRIORITY": 34,
+      "BROKENNESS LEXICAL REVIEW": 17,
+      "GENERIC-HUMAN HIGH PRIORITY": 2
+    },
+    "1 Kings": {
+      "MASCULINE TERM REVIEW": 36,
+      "DIVINE-REFERENT HIGH PRIORITY": 28,
+      "BROKENNESS LEXICAL REVIEW": 8,
+      "GENERIC PRONOUN HIGH PRIORITY": 31
+    },
+    "2 Kings": {
+      "GENERIC PRONOUN HIGH PRIORITY": 47,
+      "MASCULINE TERM REVIEW": 46,
+      "DIVINE-REFERENT HIGH PRIORITY": 39,
+      "BROKENNESS LEXICAL REVIEW": 6
+    },
+    "2 Chronicles": {
+      "GENERIC PRONOUN HIGH PRIORITY": 17,
+      "DIVINE-REFERENT HIGH PRIORITY": 41,
+      "MASCULINE TERM REVIEW": 44,
+      "BROKENNESS LEXICAL REVIEW": 7
+    },
+    "Ezra": {
+      "DIVINE-REFERENT HIGH PRIORITY": 4,
+      "GENERIC PRONOUN HIGH PRIORITY": 6,
+      "MASCULINE TERM REVIEW": 15,
+      "BROKENNESS LEXICAL REVIEW": 1
+    },
+    "Nehemiah": {
+      "MASCULINE TERM REVIEW": 30,
+      "BROKENNESS LEXICAL REVIEW": 5,
+      "GENERIC PRONOUN HIGH PRIORITY": 2
+    },
+    "Esther": {
+      "MASCULINE TERM REVIEW": 4,
+      "GENERIC PRONOUN HIGH PRIORITY": 4,
+      "ARTICLE REGRESSION": 1,
+      "BROKENNESS LEXICAL REVIEW": 2
+    },
+    "Job": {
+      "MASCULINE TERM REVIEW": 65,
+      "GENERIC PRONOUN HIGH PRIORITY": 39,
+      "DIVINE-REFERENT HIGH PRIORITY": 9,
+      "BROKENNESS LEXICAL REVIEW": 11,
+      "GENERIC-HUMAN HIGH PRIORITY": 1
+    },
+    "Proverbs": {
+      "BROKENNESS LEXICAL REVIEW": 44,
+      "MASCULINE TERM REVIEW": 48,
+      "GENERIC PRONOUN HIGH PRIORITY": 9,
+      "DIVINE-REFERENT HIGH PRIORITY": 1,
+      "ARTICLE REGRESSION": 2,
+      "GENERIC-HUMAN HIGH PRIORITY": 1
+    },
+    "Song of Solomon": {
+      "MASCULINE TERM REVIEW": 4
+    },
+    "Lamentations": {
+      "GENERIC PRONOUN HIGH PRIORITY": 2,
+      "MASCULINE TERM REVIEW": 6,
+      "DIVINE-REFERENT HIGH PRIORITY": 6,
+      "ARTICLE REGRESSION": 2,
+      "BROKENNESS LEXICAL REVIEW": 1
+    },
+    "Ezekiel": {
+      "GENERIC PRONOUN HIGH PRIORITY": 35,
+      "DIVINE-REFERENT HIGH PRIORITY": 10,
+      "MASCULINE TERM REVIEW": 60,
+      "BROKENNESS LEXICAL REVIEW": 15
+    },
+    "Daniel": {
+      "DIVINE-REFERENT HIGH PRIORITY": 8,
+      "GENERIC PRONOUN HIGH PRIORITY": 15,
+      "MASCULINE TERM REVIEW": 16,
+      "BROKENNESS LEXICAL REVIEW": 4
+    },
+    "Hosea": {
+      "DIVINE-REFERENT HIGH PRIORITY": 7,
+      "MASCULINE TERM REVIEW": 7,
+      "BROKENNESS LEXICAL REVIEW": 1,
+      "GENERIC PRONOUN HIGH PRIORITY": 4
+    },
+    "Joel": {
+      "MASCULINE TERM REVIEW": 4,
+      "DIVINE-REFERENT HIGH PRIORITY": 3
+    },
+    "Amos": {
+      "DIVINE-REFERENT HIGH PRIORITY": 4,
+      "GENERIC PRONOUN HIGH PRIORITY": 4,
+      "BROKENNESS LEXICAL REVIEW": 5,
+      "MASCULINE TERM REVIEW": 3
+    },
+    "Obadiah": {
+      "MASCULINE TERM REVIEW": 2
+    },
+    "Jonah": {
+      "DIVINE-REFERENT HIGH PRIORITY": 4,
+      "GENERIC PRONOUN HIGH PRIORITY": 1,
+      "BROKENNESS LEXICAL REVIEW": 2,
+      "MASCULINE TERM REVIEW": 5
+    },
+    "Micah": {
+      "DIVINE-REFERENT HIGH PRIORITY": 2,
+      "BROKENNESS LEXICAL REVIEW": 5,
+      "GENERIC PRONOUN HIGH PRIORITY": 4,
+      "ARTICLE REGRESSION": 1,
+      "MASCULINE TERM REVIEW": 5
+    },
+    "Nahum": {
+      "DIVINE-REFERENT HIGH PRIORITY": 2,
+      "BROKENNESS LEXICAL REVIEW": 1,
+      "GENERIC PRONOUN HIGH PRIORITY": 1,
+      "MASCULINE TERM REVIEW": 2
+    },
+    "Habakkuk": {
+      "BROKENNESS LEXICAL REVIEW": 2,
+      "MASCULINE TERM REVIEW": 1,
+      "DIVINE-REFERENT HIGH PRIORITY": 1,
+      "GENERIC PRONOUN HIGH PRIORITY": 2,
+      "GENERIC-HUMAN HIGH PRIORITY": 1
+    },
+    "Zephaniah": {
+      "MASCULINE TERM REVIEW": 4,
+      "BROKENNESS LEXICAL REVIEW": 2,
+      "DIVINE-REFERENT HIGH PRIORITY": 3
+    },
+    "Haggai": {
+      "MASCULINE TERM REVIEW": 1
+    },
+    "Zechariah": {
+      "BROKENNESS LEXICAL REVIEW": 4,
+      "GENERIC PRONOUN HIGH PRIORITY": 7,
+      "MASCULINE TERM REVIEW": 12,
+      "DIVINE-REFERENT HIGH PRIORITY": 8
+    }
+  },
+  "rule": "Diagnostic only. HIGH means strong editorial priority, not authorization to edit. Actual male characters/kinship/royal figures remain masculine; divine edits require unmistakable divine antecedent; brokenness requires Hebrew/context review."
+}
