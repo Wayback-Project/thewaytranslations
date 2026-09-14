@@ -1,0 +1,30 @@
+name: Propose lexicon inclusive cleanup 2026-09-14
+
+on:
+  push:
+    branches:
+      - audit/old-testament-gender-brokenness-2026-09-14
+    paths:
+      - tools/local/propose_lexicon_inclusive_cleanup_2026_09_14.py
+      - .github/workflows/propose-lexicon-inclusive-cleanup-2026-09-14.yml
+
+permissions:
+  contents: write
+
+jobs:
+  propose:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: audit/old-testament-gender-brokenness-2026-09-14
+      - name: Build conservative proposal
+        run: python tools/local/propose_lexicon_inclusive_cleanup_2026_09_14.py
+      - name: Commit proposal
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add audit-output/old-testament-gender-brokenness-2026-09-14/proposed-cleanup.tsv audit-output/old-testament-gender-brokenness-2026-09-14/proposed-cleanup-summary.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Add conservative lexicon inclusive cleanup proposal"
+          git push
