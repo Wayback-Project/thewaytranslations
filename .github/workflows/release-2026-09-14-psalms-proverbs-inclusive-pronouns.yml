@@ -1,0 +1,51 @@
+name: Release Psalms and Proverbs inclusive pronouns 2026-09-14
+
+on:
+  push:
+    branches:
+      - consistency/psalms-proverbs-inclusive-pronouns-2026-09-14
+    paths:
+      - tools/local/release_2026_09_14_psalms_proverbs_inclusive_pronouns.py
+      - .github/workflows/release-2026-09-14-psalms-proverbs-inclusive-pronouns.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out release branch
+        uses: actions/checkout@v4
+        with:
+          ref: consistency/psalms-proverbs-inclusive-pronouns-2026-09-14
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Apply reviewed Psalms and Proverbs ledger and validate canonical EPUB
+        run: python tools/local/release_2026_09_14_psalms_proverbs_inclusive_pronouns.py
+
+      - name: Commit validated release outputs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md current-form-documents rendered-documents-history change-logs editor-notes
+          if git diff --cached --quiet; then
+            echo "No release outputs changed"
+            exit 1
+          fi
+          git commit -m "Psalms and Proverbs inclusive pronoun updates"
+          git push origin HEAD:consistency/psalms-proverbs-inclusive-pronouns-2026-09-14
+
+      - name: Upload reviewed release ledger
+        uses: actions/upload-artifact@v4
+        with:
+          name: psalms-proverbs-inclusive-pronouns-2026-09-14
+          path: |
+            change-logs/reports/2026-09-14-psalms-proverbs-inclusive-pronouns.json
+            editor-notes/consistency/2026-09-14-psalms-proverbs-inclusive-pronouns.md
