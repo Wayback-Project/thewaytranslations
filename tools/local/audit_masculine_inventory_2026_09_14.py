@@ -29,8 +29,11 @@ TRIGGERS = [
     r"\bking\b", r"\bkings\b", r"\bprince\b", r"\bprinces\b",
     r"\bmaster\b", r"\bmasters\b", r"\blord\b", r"\blords\b",
     r"\bbridegroom\b",
+    # Compound modern-English masculine forms that a plain \bman\b/\bmen\b scan misses.
+    r"\b[a-z]+man\b", r"\b[a-z]+men\b",
 ]
 TRIGGER_RE = re.compile("|".join(f"(?P<t{i}>{p})" for i, p in enumerate(TRIGGERS)), re.I)
+SAFE_COMPOUNDS = {"woman", "women", "human", "humans"}
 
 
 def sha256(path: Path) -> str:
@@ -135,42 +138,35 @@ def main():
         if bad:
             raise SystemExit(f"EPUB CRC failure: {bad}")
         for slug, name in BOOKS.items():
-            member = find_book_member(zf, slug)
-            verses.extend(extract_book(zf.read(member), slug, name))
+            verses.extend(extract_book(zf.read(find_book_member(zf, slug)), slug, name))
 
     rows = []
     for slug, ch, vs, text in verses:
         found = []
         for m in TRIGGER_RE.finditer(text):
             token = m.group(0).lower()
+            if token in SAFE_COMPOUNDS:
+                continue
             if token not in found:
                 found.append(token)
         if found:
-            rows.append({
-                "slug": slug,
-                "reference": f"{BOOKS[slug]} {ch}:{vs}",
-                "triggers": ", ".join(found),
-                "text": text,
-            })
+            rows.append({"slug": slug, "reference": f"{BOOKS[slug]} {ch}:{vs}", "triggers": ", ".join(found), "text": text})
 
     OUT_DIR.mkdir(parents=True, exist_ok=True)
     with (OUT_DIR / "candidates.tsv").open("w", encoding="utf-8", newline="") as f:
         w = csv.DictWriter(f, fieldnames=["reference", "triggers", "text"], delimiter="\t")
-        w.writeheader()
-        for r in rows:
-            w.writerow({k: r[k] for k in ["reference", "triggers", "text"]})
-
+        w.writeheader(); [w.writerow({k:r[k] for k in ["reference","triggers","text"]}) for r in rows]
     with (OUT_DIR / "all-verses.tsv").open("w", encoding="utf-8", newline="") as f:
-        w = csv.writer(f, delimiter="\t")
-        w.writerow(["reference", "text"])
-        for slug, ch, vs, text in verses:
-            w.writerow([f"{BOOKS[slug]} {ch}:{vs}", text])
+        w = csv.writer(f, delimiter="\t"); w.writerow(["reference", "text"])
+        for slug, ch, vs, text in verses: w.writerow([f"{BOOKS[slug]} {ch}:{vs}", text])
 
     by_book = {}
     for slug, name in BOOKS.items():
-        total = sum(1 for v in verses if v[0] == slug)
-        cand = sum(1 for r in rows if r["slug"] == slug)
-        by_book[name] = {"chapters": EXPECTED_CHAPTERS[slug], "verses": total, "candidateVerses": cand}
+        by_book[name] = {
+            "chapters": EXPECTED_CHAPTERS[slug],
+            "verses": sum(1 for v in verses if v[0] == slug),
+            "candidateVerses": sum(1 for r in rows if r["slug"] == slug),
+        }
     summary = {
         "canonicalEpubSha256": actual_sha,
         "scope": list(BOOKS.values()),
@@ -181,7 +177,6 @@ def main():
     }
     (OUT_DIR / "summary.json").write_text(json.dumps(summary, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(json.dumps(summary, indent=2))
-
 
 if __name__ == "__main__":
     main()
