@@ -1,0 +1,230 @@
+{
+  "canonicalCommit": "91b6e7b9eb3f5a9f46efe63a04cedda1e49d527b",
+  "canonicalEpubSha256": "d48ec5b7da0db10c7c44c518793228dc5b2d69edc6e57de838486d2aefbcf62f",
+  "scope": "All 27 New Testament books. Candidate scan only; rows are not automatically translation errors.",
+  "methodNotes": [
+    "Greek/Aramaic source and immediate literary context govern; English surface forms only identify review candidates.",
+    "Actual male referents, historical men, male kinship, and Yeshua/Mashiach references are preserved when source/context is male-specific.",
+    "Plural brothers/brethren are surfaced because Greek adelphoi can address mixed communities in some contexts; every occurrence still requires source/context review.",
+    "Plural sons are surfaced because some constructions may have broader family/community scope; literal sons and male-specific expressions must remain male.",
+    "Divine-pronoun surfacing is conservative and excludes Yeshua/Mashiach and ambiguous Lord references from heuristic classification.",
+    "No Scripture is modified by this audit."
+  ],
+  "extractedVerseCount": 7956,
+  "expectedNewTestamentVerseCount": 7956,
+  "verseCountValidation": "PASS WITH DOCUMENTED ROMANS STRUCTURAL EXCEPTION",
+  "bookCount": 27,
+  "chapterCount": 260,
+  "versesByBook": {
+    "Matthew": 1071,
+    "Mark": 678,
+    "Luke": 1151,
+    "John": 879,
+    "Acts": 1007,
+    "Romans": 432,
+    "1 Corinthians": 437,
+    "2 Corinthians": 257,
+    "Galatians": 149,
+    "Ephesians": 155,
+    "Philippians": 104,
+    "Colossians": 95,
+    "1 Thessalonians": 89,
+    "2 Thessalonians": 47,
+    "1 Timothy": 113,
+    "2 Timothy": 83,
+    "Titus": 46,
+    "Philemon": 25,
+    "Hebrews": 303,
+    "James": 108,
+    "1 Peter": 105,
+    "2 Peter": 61,
+    "1 John": 105,
+    "2 John": 13,
+    "3 John": 14,
+    "Jude": 25,
+    "Revelation": 404
+  },
+  "candidateRowCount": 743,
+  "uniqueCandidateVerseCount": 710,
+  "countsByCategory": {
+    "STRUCTURAL VERSE MAPPING": 3,
+    "GENERIC PRONOUN HIGH PRIORITY": 203,
+    "UNRIPENESS LEXICAL REVIEW": 109,
+    "GENERIC-HUMAN HIGH PRIORITY": 6,
+    "DIVINE-REFERENT REVIEW": 70,
+    "MALFORMED LANGUAGE REVIEW": 3,
+    "BROKENNESS LEXICAL REVIEW": 1,
+    "BROTHERS / SIBLING LANGUAGE REVIEW": 46,
+    "MASCULINE TERM REVIEW": 234,
+    "GENERIC PRONOUN REVIEW": 51,
+    "SONS / CHILDREN LANGUAGE REVIEW": 17
+  },
+  "countsByPriority": {
+    "CRITICAL": 3,
+    "HIGH": 392,
+    "REVIEW": 348
+  },
+  "countsByBook": {
+    "Romans": {
+      "STRUCTURAL VERSE MAPPING": 3,
+      "UNRIPENESS LEXICAL REVIEW": 13,
+      "DIVINE-REFERENT REVIEW": 5,
+      "MALFORMED LANGUAGE REVIEW": 3,
+      "GENERIC PRONOUN HIGH PRIORITY": 5,
+      "MASCULINE TERM REVIEW": 6,
+      "GENERIC PRONOUN REVIEW": 1
+    },
+    "Matthew": {
+      "GENERIC PRONOUN HIGH PRIORITY": 32,
+      "UNRIPENESS LEXICAL REVIEW": 20,
+      "GENERIC-HUMAN HIGH PRIORITY": 1,
+      "DIVINE-REFERENT REVIEW": 2,
+      "BROTHERS / SIBLING LANGUAGE REVIEW": 14,
+      "MASCULINE TERM REVIEW": 26,
+      "GENERIC PRONOUN REVIEW": 4,
+      "SONS / CHILDREN LANGUAGE REVIEW": 5
+    },
+    "Mark": {
+      "GENERIC PRONOUN HIGH PRIORITY": 19,
+      "UNRIPENESS LEXICAL REVIEW": 3,
+      "DIVINE-REFERENT REVIEW": 1,
+      "MASCULINE TERM REVIEW": 15,
+      "GENERIC PRONOUN REVIEW": 5,
+      "SONS / CHILDREN LANGUAGE REVIEW": 2,
+      "BROTHERS / SIBLING LANGUAGE REVIEW": 7
+    },
+    "Luke": {
+      "DIVINE-REFERENT REVIEW": 9,
+      "GENERIC PRONOUN HIGH PRIORITY": 34,
+      "UNRIPENESS LEXICAL REVIEW": 11,
+      "GENERIC-HUMAN HIGH PRIORITY": 2,
+      "MASCULINE TERM REVIEW": 50,
+      "GENERIC PRONOUN REVIEW": 13,
+      "SONS / CHILDREN LANGUAGE REVIEW": 2,
+      "BROTHERS / SIBLING LANGUAGE REVIEW": 10
+    },
+    "John": {
+      "DIVINE-REFERENT REVIEW": 15,
+      "GENERIC PRONOUN HIGH PRIORITY": 49,
+      "UNRIPENESS LEXICAL REVIEW": 7,
+      "BROTHERS / SIBLING LANGUAGE REVIEW": 6,
+      "GENERIC PRONOUN REVIEW": 12,
+      "MASCULINE TERM REVIEW": 28,
+      "SONS / CHILDREN LANGUAGE REVIEW": 1
+    },
+    "Acts": {
+      "GENERIC PRONOUN HIGH PRIORITY": 24,
+      "DIVINE-REFERENT REVIEW": 15,
+      "GENERIC-HUMAN HIGH PRIORITY": 2,
+      "UNRIPENESS LEXICAL REVIEW": 5,
+      "MASCULINE TERM REVIEW": 88,
+      "BROTHERS / SIBLING LANGUAGE REVIEW": 8,
+      "SONS / CHILDREN LANGUAGE REVIEW": 3,
+      "GENERIC PRONOUN REVIEW": 3
+    },
+    "1 Corinthians": {
+      "BROKENNESS LEXICAL REVIEW": 1,
+      "GENERIC PRONOUN HIGH PRIORITY": 4,
+      "GENERIC-HUMAN HIGH PRIORITY": 1,
+      "UNRIPENESS LEXICAL REVIEW": 3,
+      "MASCULINE TERM REVIEW": 7
+    },
+    "2 Corinthians": {
+      "GENERIC PRONOUN HIGH PRIORITY": 1,
+      "DIVINE-REFERENT REVIEW": 1,
+      "UNRIPENESS LEXICAL REVIEW": 1,
+      "SONS / CHILDREN LANGUAGE REVIEW": 1,
+      "GENERIC PRONOUN REVIEW": 1
+    },
+    "Galatians": {
+      "UNRIPENESS LEXICAL REVIEW": 1,
+      "GENERIC PRONOUN REVIEW": 1,
+      "SONS / CHILDREN LANGUAGE REVIEW": 1
+    },
+    "Ephesians": {
+      "UNRIPENESS LEXICAL REVIEW": 3,
+      "GENERIC PRONOUN HIGH PRIORITY": 1
+    },
+    "Philippians": {
+      "DIVINE-REFERENT REVIEW": 1,
+      "UNRIPENESS LEXICAL REVIEW": 1,
+      "GENERIC PRONOUN REVIEW": 2
+    },
+    "Colossians": {
+      "UNRIPENESS LEXICAL REVIEW": 2,
+      "GENERIC PRONOUN REVIEW": 1
+    },
+    "1 Thessalonians": {
+      "UNRIPENESS LEXICAL REVIEW": 2
+    },
+    "2 Thessalonians": {
+      "DIVINE-REFERENT REVIEW": 1,
+      "GENERIC PRONOUN HIGH PRIORITY": 1,
+      "UNRIPENESS LEXICAL REVIEW": 2
+    },
+    "1 Timothy": {
+      "UNRIPENESS LEXICAL REVIEW": 2,
+      "MASCULINE TERM REVIEW": 4,
+      "BROTHERS / SIBLING LANGUAGE REVIEW": 1
+    },
+    "2 Timothy": {
+      "UNRIPENESS LEXICAL REVIEW": 3,
+      "MASCULINE TERM REVIEW": 1,
+      "GENERIC PRONOUN REVIEW": 1
+    },
+    "Titus": {
+      "UNRIPENESS LEXICAL REVIEW": 2,
+      "MASCULINE TERM REVIEW": 2
+    },
+    "Hebrews": {
+      "DIVINE-REFERENT REVIEW": 8,
+      "GENERIC PRONOUN HIGH PRIORITY": 5,
+      "UNRIPENESS LEXICAL REVIEW": 3,
+      "GENERIC PRONOUN REVIEW": 2,
+      "MASCULINE TERM REVIEW": 3,
+      "SONS / CHILDREN LANGUAGE REVIEW": 2
+    },
+    "James": {
+      "GENERIC PRONOUN HIGH PRIORITY": 1,
+      "UNRIPENESS LEXICAL REVIEW": 5,
+      "DIVINE-REFERENT REVIEW": 3,
+      "GENERIC PRONOUN REVIEW": 1
+    },
+    "1 Peter": {
+      "GENERIC PRONOUN HIGH PRIORITY": 3,
+      "UNRIPENESS LEXICAL REVIEW": 10,
+      "GENERIC PRONOUN REVIEW": 1
+    },
+    "2 Peter": {
+      "GENERIC PRONOUN HIGH PRIORITY": 1
+    },
+    "1 John": {
+      "GENERIC PRONOUN HIGH PRIORITY": 11,
+      "UNRIPENESS LEXICAL REVIEW": 5,
+      "DIVINE-REFERENT REVIEW": 1
+    },
+    "2 John": {
+      "UNRIPENESS LEXICAL REVIEW": 1
+    },
+    "3 John": {
+      "UNRIPENESS LEXICAL REVIEW": 1
+    },
+    "Revelation": {
+      "DIVINE-REFERENT REVIEW": 8,
+      "UNRIPENESS LEXICAL REVIEW": 3,
+      "GENERIC PRONOUN HIGH PRIORITY": 12,
+      "GENERIC PRONOUN REVIEW": 3,
+      "MASCULINE TERM REVIEW": 4
+    }
+  },
+  "nominalStandardNewTestamentVerseCount": 7957,
+  "canonicalExtractedVerseParagraphCount": 7956,
+  "structuralVerseMappingStatus": "CRITICAL REVIEW REQUIRED",
+  "structuralFindings": [
+    "Romans is the only NT book with a paragraph-count discrepancy: 432 extracted verse paragraphs versus a nominal 433.",
+    "Romans 14:23 contains embedded labels (14:24), (14:25), and (14:26) followed by doxology text.",
+    "Romans 16:25 is an empty verse paragraph.",
+    "Romans 16:26 contains the literal artifact 016:027.",
+    "No Scripture was modified by this audit."
+  ]
+}
