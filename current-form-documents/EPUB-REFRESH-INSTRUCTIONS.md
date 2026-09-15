@@ -43,3 +43,7 @@ A whole-book Ecclesiastes review corrected generic-human pronoun chains, unmista
 ## 2026-09-14 Lexicon update — prior AI wording cleanup
 
 Finite 369-verse release repairing prior AI lexical flattening and 23 hand-reviewed generic-person pronoun chains. No heuristic divine-pronoun or broad masculine-term rewrites were included. Canonical SHA-256: `d48ec5b7da0db10c7c44c518793228dc5b2d69edc6e57de838486d2aefbcf62f`. See `../editor-notes/consistency/2026-09-14-lexicon-update-ai-cleanup.md` and `../change-logs/reports/2026-09-14-lexicon-update-ai-cleanup.json`.
+
+## 2026-09-15 Romans structural mapping and malformed-English correction
+
+Controlled release: corrected malformed English at Romans 5:19, 8:9, and 14:2; restored Romans 14:23 and Romans 16:25–27 to a coherent verse structure while preserving Romans 16:24 and the existing doxology wording; removed one pre-existing duplicate Genesis 24:4 paragraph while preserving the canonical “my kin” wording. NT unique verse paragraphs are now 7,957 / 7,957 and the 31,102 search records contain no duplicate verse references. Canonical SHA-256: `edd3182ff57b54471505189628b82238c85d2d9c8b4edbba14339695eac827cd`. See `../editor-notes/consistency/2026-09-15-romans-structural-cleanup.md` and `../change-logs/reports/2026-09-15-romans-structural-cleanup.json`.

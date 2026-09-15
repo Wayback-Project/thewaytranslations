@@ -12,7 +12,7 @@ This folder holds the current canonical reading edition of **The Way Version**.
 |---|---|
 | Artifact | [`the-way-current.epub`](the-way-current.epub) |
 | Coverage | 66 books / 1,189 chapters |
-| SHA-256 | `d48ec5b7da0db10c7c44c518793228dc5b2d69edc6e57de838486d2aefbcf62f` |
+| SHA-256 | `edd3182ff57b54471505189628b82238c85d2d9c8b4edbba14339695eac827cd` |
 | Verified | September 2026 |
 | Previous release | Archived under `rendered-documents-history/2026-09-12_1630UTC/` |
 
