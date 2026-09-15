@@ -1,0 +1,31 @@
+name: Release Romans structural cleanup 2026-09-15
+
+on:
+  push:
+    branches:
+      - release/romans-structural-cleanup-2026-09-15
+    paths:
+      - tools/local/approved_romans_structural_cleanup_2026_09_15.tsv
+      - tools/local/release_2026_09_15_romans_structural_cleanup.py
+      - .github/workflows/release-2026-09-15-romans-structural-cleanup.yml
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: release/romans-structural-cleanup-2026-09-15
+      - name: Run controlled Romans correction release
+        run: python tools/local/release_2026_09_15_romans_structural_cleanup.py
+      - name: Commit canonical release artifacts
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add current-form-documents/the-way-current.epub current-form-documents/mobile-reader current-form-documents/original-name-registry.json rendered-documents-history change-logs/reports/2026-09-15-romans-structural-cleanup.json editor-notes/consistency/2026-09-15-romans-structural-cleanup.md README.md current-form-documents/README.md current-form-documents/EPUB-REFRESH-INSTRUCTIONS.md rendered-documents-history/LOG.md
+          git diff --cached --quiet && { echo 'No release changes produced'; exit 1; }
+          git commit -m "Romans: fix malformed English and verse mapping"
+          git push
