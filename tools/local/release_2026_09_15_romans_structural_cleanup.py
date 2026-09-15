@@ -23,6 +23,7 @@ ROOT_README = prior.ROOT_README
 CURRENT_README = prior.CURRENT_README
 HISTORY_LOG = prior.HISTORY_LOG
 REFRESH = prior.REFRESH
+replace_one_verse = prior.replace_one_verse
 
 BASELINE = 'd48ec5b7da0db10c7c44c518793228dc5b2d69edc6e57de838486d2aefbcf62f'
 LEDGER = ROOT / 'tools' / 'local' / 'approved_romans_structural_cleanup_2026_09_15.tsv'
@@ -30,12 +31,15 @@ REPORT = ROOT / 'change-logs' / 'reports' / '2026-09-15-romans-structural-cleanu
 NOTE = ROOT / 'editor-notes' / 'consistency' / '2026-09-15-romans-structural-cleanup.md'
 RELEASE_NAME = 'Romans structural mapping and malformed-English correction'
 
-NT_SLUGS = {
-    'matthew','mark','luke','john','acts','romans','1-corinthians','2-corinthians','galatians','ephesians',
-    'philippians','colossians','1-thessalonians','2-thessalonians','1-timothy','2-timothy','titus','philemon',
-    'hebrews','james','1-peter','2-peter','1-john','2-john','3-john','jude','revelation'
+NT_CHAPTERS = {
+    'matthew':28,'mark':16,'luke':24,'john':21,'acts':28,'romans':16,'1-corinthians':16,'2-corinthians':13,
+    'galatians':6,'ephesians':6,'philippians':4,'colossians':4,'1-thessalonians':5,'2-thessalonians':3,
+    '1-timothy':6,'2-timothy':4,'titus':3,'philemon':1,'hebrews':13,'james':5,'1-peter':5,'2-peter':3,
+    '1-john':5,'2-john':1,'3-john':1,'jude':1,'revelation':22,
 }
 ROMANS_COUNTS = {1:32,2:29,3:31,4:25,5:21,6:23,7:25,8:39,9:33,10:21,11:36,12:21,13:14,14:23,15:33,16:27}
+P_RE = re.compile(r'(<(?:[A-Za-z_][\w.-]*:)?p\b[^>]*>)(.*?)(</(?:[A-Za-z_][\w.-]*:)?p>)', re.I | re.S)
+VERSE_RE = re.compile(r'^(\d+)\.\s*(.*)$', re.S)
 
 BEFORE = {
     (5,19): "For as through the one a person's disobedience many were made sinners, even so through the obedience of the one, many will be made righteous.",
@@ -56,135 +60,139 @@ AFTER = {
 }
 
 
-def collapse(value: str) -> str:
-    return re.sub(r'\s+', ' ', value or '').strip()
-
-
-def plain_inner(inner: str, verse: int) -> str:
-    text = re.sub(r'<[^>]+>', ' ', inner)
-    text = collapse(html.unescape(text))
-    return re.sub(rf'^\s*{verse}\.\s*', '', text, count=1)
-
-
-def verse_pattern(chapter: int, verse: int) -> re.Pattern[str]:
-    return re.compile(
-        rf'(<p\b(?=[^>]*\bid=["\']v-romans-{chapter}-{verse}["\'])[^>]*>)(.*?)(</p>)',
-        re.I | re.S,
-    )
+def chapter_span(text: str, slug: str, chapter: int):
+    pat=re.compile(rf'\bid=["\']ch-{re.escape(slug)}-{chapter}["\']',re.I)
+    m=pat.search(text)
+    if not m:
+        raise RuntimeError(f'cannot find chapter anchor {slug} {chapter}')
+    start=m.start()
+    nxt=re.compile(rf'\bid=["\']ch-{re.escape(slug)}-{chapter+1}["\']',re.I).search(text,m.end())
+    return start,(nxt.start() if nxt else len(text))
 
 
 def get_verse(text: str, chapter: int, verse: int) -> str | None:
-    matches = list(verse_pattern(chapter, verse).finditer(text))
+    start,end=chapter_span(text,'romans',chapter)
+    matches=[]
+    for m in P_RE.finditer(text[start:end]):
+        plain=base.visible(m.group(2))
+        vm=VERSE_RE.match(plain)
+        if vm and int(vm.group(1))==verse:
+            matches.append(vm.group(2))
     if not matches:
         return None
-    if len(matches) != 1:
-        raise RuntimeError(f'Romans {chapter}:{verse} element count={len(matches)}')
-    return plain_inner(matches[0].group(2), verse)
+    if len(matches)!=1:
+        raise RuntimeError(f'Romans {chapter}:{verse} paragraph count={len(matches)}')
+    return matches[0]
 
 
-def replace_verse(text: str, chapter: int, verse: int, before: str, after: str) -> str:
-    pat = verse_pattern(chapter, verse)
-    matches = list(pat.finditer(text))
-    if len(matches) != 1:
-        raise RuntimeError(f'Romans {chapter}:{verse} element count={len(matches)}')
-    m = matches[0]
-    actual = plain_inner(m.group(2), verse)
-    if actual != before:
-        raise RuntimeError(f'Romans {chapter}:{verse} before mismatch\nEXPECTED: {before}\nACTUAL:   {actual}')
-    new_inner = f'{verse}. {html.escape(after, quote=False)}'
-    return text[:m.start()] + m.group(1) + new_inner + m.group(3) + text[m.end():]
+def collect_book(raw: str, slug: str, expected_chapters: int):
+    anchors=[int(x) for x in re.findall(rf'\bid=["\']ch-{re.escape(slug)}-(\d+)["\']',raw,re.I)]
+    if anchors != list(range(1,expected_chapters+1)):
+        raise RuntimeError(f'{slug} chapter anchors invalid: {anchors}')
+    out={}
+    for chapter in range(1,expected_chapters+1):
+        start,end=chapter_span(raw,slug,chapter)
+        seen=set()
+        for m in P_RE.finditer(raw[start:end]):
+            plain=base.visible(m.group(2))
+            vm=VERSE_RE.match(plain)
+            if not vm:
+                continue
+            verse=int(vm.group(1))
+            if verse in seen:
+                raise RuntimeError(f'duplicate {slug} {chapter}:{verse}')
+            seen.add(verse)
+            out[(slug,chapter,verse)]=vm.group(2)
+        if not seen:
+            raise RuntimeError(f'no verse paragraphs found for {slug} {chapter}')
+    return out
 
 
-def insert_16_27(text: str) -> str:
-    if get_verse(text, 16, 27) is not None:
-        raise RuntimeError('Romans 16:27 already exists before insertion')
-    pat = verse_pattern(16, 26)
-    matches = list(pat.finditer(text))
-    if len(matches) != 1:
-        raise RuntimeError(f'Romans 16:26 element count before insertion={len(matches)}')
-    m = matches[0]
-    new_p = f'\n<p id="v-romans-16-27" data-verse="27">27. {html.escape(AFTER[(16,27)], quote=False)}</p>'
-    return text[:m.end()] + new_p + text[m.end():]
-
-
-def load_ledger() -> list[dict[str,str]]:
-    with LEDGER.open(encoding='utf-8', newline='') as f:
-        rows = list(csv.DictReader(f, delimiter='\t'))
-    if len(rows) != 7:
-        raise RuntimeError(f'approved Romans ledger row count={len(rows)}, expected 7')
-    expected_refs = {'Romans 5:19','Romans 8:9','Romans 14:2','Romans 14:23','Romans 16:25','Romans 16:26','Romans 16:27'}
-    refs = {f"{r['book']} {r['chapter']}:{r['verse']}" for r in rows}
-    if refs != expected_refs:
-        raise RuntimeError(f'approved Romans ledger refs mismatch: {sorted(refs)}')
-    return rows
-
-
-def collect_verse_ids(path: Path):
-    all_ids=[]
-    nt_ids=[]
-    rx=re.compile(r'\bid=["\']v-([a-z0-9-]+)-(\d+)-(\d+)["\']', re.I)
+def collect_nt(path: Path):
+    out={}
     with zipfile.ZipFile(path) as z:
         bad=z.testzip()
         if bad:
             raise RuntimeError(f'EPUB CRC failure: {bad}')
-        for info in z.infolist():
-            if not info.filename.lower().endswith(('.xhtml','.html','.htm')):
-                continue
-            try:
-                text=z.read(info.filename).decode('utf-8')
-            except UnicodeDecodeError:
-                continue
-            for slug,ch,vs in rx.findall(text):
-                ref=(slug.lower(),int(ch),int(vs))
-                all_ids.append(ref)
-                if slug.lower() in NT_SLUGS:
-                    nt_ids.append(ref)
-    return all_ids, nt_ids
+        for slug,chapters in NT_CHAPTERS.items():
+            member=base.find_book_member(z,slug)
+            book=collect_book(z.read(member).decode('utf-8'),slug,chapters)
+            overlap=set(out).intersection(book)
+            if overlap:
+                raise RuntimeError(f'duplicate NT references: {sorted(overlap)[:10]}')
+            out.update(book)
+    return out
+
+
+def load_ledger() -> list[dict[str,str]]:
+    with LEDGER.open(encoding='utf-8', newline='') as f:
+        rows=list(csv.DictReader(f,delimiter='\t'))
+    if len(rows)!=7:
+        raise RuntimeError(f'approved Romans ledger row count={len(rows)}, expected 7')
+    expected={'Romans 5:19','Romans 8:9','Romans 14:2','Romans 14:23','Romans 16:25','Romans 16:26','Romans 16:27'}
+    refs={f"{r['book']} {r['chapter']}:{r['verse']}" for r in rows}
+    if refs!=expected:
+        raise RuntimeError(f'approved Romans ledger refs mismatch: {sorted(refs)}')
+    return rows
 
 
 def validate_inventory(path: Path, expected_nt: int):
-    all_ids, nt_ids = collect_verse_ids(path)
-    if len(all_ids) != len(set(all_ids)):
-        raise RuntimeError('duplicate verse ids exist in EPUB')
-    if len(nt_ids) != len(set(nt_ids)):
-        raise RuntimeError('duplicate New Testament verse ids exist in EPUB')
-    if len(nt_ids) != expected_nt:
-        raise RuntimeError(f'New Testament verse paragraph count {len(nt_ids)} != {expected_nt}')
-    if len(all_ids) != 23145 + expected_nt:
-        raise RuntimeError(f'whole-Bible verse paragraph count {len(all_ids)} != {23145 + expected_nt}')
+    nt=collect_nt(path)
+    if len(nt)!=expected_nt:
+        raise RuntimeError(f'New Testament verse paragraph count {len(nt)} != {expected_nt}')
+    return nt
 
 
 def validate_romans(path: Path, which: str):
     with zipfile.ZipFile(path) as z:
         member=base.find_book_member(z,'romans')
         text=z.read(member).decode('utf-8')
-    if which == 'before':
+    if which=='before':
         for ref,before in BEFORE.items():
             actual=get_verse(text,*ref)
-            if actual != before:
+            if actual!=before:
                 raise RuntimeError(f'pre-release Romans {ref[0]}:{ref[1]} mismatch expected={before!r} actual={actual!r}')
         if get_verse(text,16,27) is not None:
             raise RuntimeError('pre-release Romans 16:27 unexpectedly exists')
         return
-
     for ref,after in AFTER.items():
         actual=get_verse(text,*ref)
-        if actual != after:
+        if actual!=after:
             raise RuntimeError(f'post-release Romans {ref[0]}:{ref[1]} mismatch expected={after!r} actual={actual!r}')
-    expected_ids={(ch,vs) for ch,count in ROMANS_COUNTS.items() for vs in range(1,count+1)}
-    actual_ids={(int(ch),int(vs)) for ch,vs in re.findall(r'\bid=["\']v-romans-(\d+)-(\d+)["\']',text,re.I)}
-    if actual_ids != expected_ids:
-        missing=sorted(expected_ids-actual_ids)
-        extra=sorted(actual_ids-expected_ids)
-        raise RuntimeError(f'Romans canonical verse IDs invalid missing={missing} extra={extra}')
-    if len(actual_ids) != 433:
-        raise RuntimeError(f'Romans verse paragraph count {len(actual_ids)} != 433')
-    if any(x in get_verse(text,14,23) for x in ('(14:24)','(14:25)','(14:26)')):
+    romans=collect_book(text,'romans',16)
+    expected={( 'romans',ch,vs) for ch,count in ROMANS_COUNTS.items() for vs in range(1,count+1)}
+    actual=set(romans)
+    if actual!=expected:
+        missing=sorted(expected-actual)
+        extra=sorted(actual-expected)
+        raise RuntimeError(f'Romans canonical verse inventory invalid missing={missing} extra={extra}')
+    if len(actual)!=433:
+        raise RuntimeError(f'Romans verse paragraph count {len(actual)} != 433')
+    v1423=get_verse(text,14,23) or ''
+    if any(x in v1423 for x in ('(14:24)','(14:25)','(14:26)')):
         raise RuntimeError('embedded Romans 14 doxology labels remain')
     if '016:027' in text:
         raise RuntimeError('literal Romans 016:027 artifact remains')
-    if get_verse(text,16,24) != 'The grace of our Master Yeshua the Messiah be with you all! Amen.':
+    if get_verse(text,16,24)!='The grace of our Master Yeshua the Messiah be with you all! Amen.':
         raise RuntimeError('Romans 16:24 changed unexpectedly')
+
+
+def insert_16_27(text: str) -> str:
+    if get_verse(text,16,27) is not None:
+        raise RuntimeError('Romans 16:27 already exists before insertion')
+    start,end=chapter_span(text,'romans',16)
+    segment=text[start:end]
+    matches=[]
+    expected=f"26. {AFTER[(16,26)]}"
+    for m in P_RE.finditer(segment):
+        if base.visible(m.group(2))==expected:
+            matches.append(m)
+    if len(matches)!=1:
+        raise RuntimeError(f'Romans 16:26 paragraph count before insertion={len(matches)}')
+    m=matches[0]
+    new_p=m.group(1)+html.escape(f"27. {AFTER[(16,27)]}",quote=False)+m.group(3)
+    absolute_end=start+m.end()
+    return text[:absolute_end]+'\n'+new_p+text[absolute_end:]
 
 
 def rewrite_epub() -> str:
@@ -195,7 +203,7 @@ def rewrite_epub() -> str:
     edited=dict(original)
     text=edited[romans_member].decode('utf-8')
     for ref in [(5,19),(8,9),(14,2),(14,23),(16,25),(16,26)]:
-        text=replace_verse(text,*ref,BEFORE[ref],AFTER[ref])
+        text=replace_one_verse(text,'romans',ref[0],ref[1],BEFORE[ref],AFTER[ref])
     text=insert_16_27(text)
     edited[romans_member]=text.encode('utf-8')
 
@@ -207,8 +215,8 @@ def rewrite_epub() -> str:
             for info in infos:
                 zout.writestr(info,edited[info.filename],compress_type=info.compress_type)
         base.validate_epub(tmp)
-        changed=sorted(name for name in original if original[name] != edited[name])
-        if changed != [romans_member]:
+        changed=sorted(name for name in original if original[name]!=edited[name])
+        if changed!=[romans_member]:
             raise RuntimeError(f'changed EPUB members mismatch expected={[romans_member]} actual={changed}')
         shutil.move(tmp,EPUB)
     finally:
@@ -220,12 +228,12 @@ def rewrite_epub() -> str:
 def main():
     ledger=load_ledger()
     actual=base.sha256(EPUB)
-    if actual != BASELINE:
+    if actual!=BASELINE:
         raise SystemExit(f'baseline SHA mismatch expected={BASELINE} got={actual}')
 
     validate_inventory(EPUB,7956)
     validate_romans(EPUB,'before')
-    pre_articles, pre_exceptions=grammar.audit_epub(EPUB)
+    pre_articles,pre_exceptions=grammar.audit_epub(EPUB)
     if pre_articles:
         raise RuntimeError('pre-release English article audit not clean: '+json.dumps(pre_articles[:30],ensure_ascii=False,indent=2))
 
@@ -236,20 +244,20 @@ def main():
     archive_dir.mkdir(parents=True,exist_ok=False)
     archive=archive_dir/EPUB.name
     shutil.copy2(EPUB,archive)
-    if base.sha256(archive) != BASELINE:
+    if base.sha256(archive)!=BASELINE:
         raise RuntimeError('archive SHA mismatch')
 
     changed_member=rewrite_epub()
     newsha=base.sha256(EPUB)
-    if newsha == BASELINE:
+    if newsha==BASELINE:
         raise RuntimeError('EPUB SHA did not change')
 
     validate_inventory(EPUB,7957)
     validate_romans(EPUB,'after')
-    post_articles, post_exceptions=grammar.audit_epub(EPUB)
+    post_articles,post_exceptions=grammar.audit_epub(EPUB)
     if post_articles:
         raise RuntimeError('article inconsistencies introduced: '+json.dumps(post_articles[:30],ensure_ascii=False,indent=2))
-    if len(post_exceptions) != len(pre_exceptions):
+    if len(post_exceptions)!=len(pre_exceptions):
         raise RuntimeError(f'pronunciation article exception inventory changed before={len(pre_exceptions)} after={len(post_exceptions)}')
 
     with zipfile.ZipFile(EPUB) as z:
@@ -260,23 +268,21 @@ def main():
         raise RuntimeError(f'residual malformed/structural strings remain: {remains}')
 
     registry=json.loads(REGISTRY.read_text(encoding='utf-8'))
-    if registry.get('canonicalEpubSha256') != BASELINE:
+    if registry.get('canonicalEpubSha256')!=BASELINE:
         raise RuntimeError('registry baseline SHA mismatch')
     registry['canonicalEpubSha256']=newsha
     REGISTRY.write_text(json.dumps(registry,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
     fallback=base.build_fallback(EPUB,registry,newsha,generated)
     for key,expected in [('bookCount',66),('chapterCount',1189),('verseSearchCount',31102)]:
-        if key in fallback and fallback[key] != expected:
+        if key in fallback and fallback[key]!=expected:
             raise RuntimeError(f'fallback {key} mismatch {fallback[key]} != {expected}')
 
-    changes=[]
-    for row in ledger:
-        changes.append({
-            'reference':f"{row['book']} {row['chapter']}:{row['verse']}",
-            'category':row['category'],
-            'before':row['before'],
-            'after':row['after'],
-        })
+    changes=[{
+        'reference':f"{row['book']} {row['chapter']}:{row['verse']}",
+        'category':row['category'],
+        'before':row['before'],
+        'after':row['after'],
+    } for row in ledger]
 
     report={
         'release':RELEASE_NAME,
