@@ -7,6 +7,7 @@ on:
     paths:
       - 'tools/local/audit_new_testament_gender_brokenness_2026_09_14.py'
       - 'tools/local/diagnose_new_testament_verse_inventory_2026_09_14.py'
+      - 'tools/local/run_new_testament_audit_2026_09_14.py'
       - '.github/workflows/audit-2026-09-14-new-testament-gender-brokenness.yml'
   workflow_dispatch:
 
@@ -23,8 +24,8 @@ jobs:
           fetch-depth: 1
       - name: Diagnose New Testament verse inventory
         run: python3 tools/local/diagnose_new_testament_verse_inventory_2026_09_14.py
-      - name: Run New Testament audit
-        run: python3 tools/local/audit_new_testament_gender_brokenness_2026_09_14.py
+      - name: Run validated New Testament audit
+        run: python3 tools/local/run_new_testament_audit_2026_09_14.py
       - name: Commit audit output
         run: |
           set -euo pipefail
