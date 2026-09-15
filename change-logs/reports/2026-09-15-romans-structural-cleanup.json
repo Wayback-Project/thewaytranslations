@@ -1,0 +1,95 @@
+{
+  "release": "Romans structural mapping, malformed-English, and verse-record cleanup",
+  "prior_epub_sha256": "d48ec5b7da0db10c7c44c518793228dc5b2d69edc6e57de838486d2aefbcf62f",
+  "released_epub_sha256": "edd3182ff57b54471505189628b82238c85d2d9c8b4edbba14339695eac827cd",
+  "archive_path": "rendered-documents-history/2026-09-15_0843UTC/the-way-current.epub",
+  "approved_ledger_rows": 8,
+  "category_counts": {
+    "malformed-english": 3,
+    "verse-mapping": 4,
+    "duplicate-verse-record": 1
+  },
+  "malformed_english_corrections": 3,
+  "romans_structural_mapping_records": 4,
+  "duplicate_verse_record_removals": 1,
+  "romans_verse_paragraphs_before": 432,
+  "romans_verse_paragraphs_after": 433,
+  "new_testament_unique_verse_paragraphs_before": 7956,
+  "new_testament_unique_verse_paragraphs_after": 7957,
+  "raw_search_records_before": 31102,
+  "raw_search_records_after": 31102,
+  "duplicate_references_before": [
+    "Genesis 24:4"
+  ],
+  "duplicate_references_after": [],
+  "changed_epub_members": [
+    "OEBPS/Text/genesis.xhtml",
+    "OEBPS/Text/romans.xhtml"
+  ],
+  "article_mismatch_count": 0,
+  "mobileFallback": {
+    "schemaVersion": 1,
+    "releaseId": "canonical-edd3182ff57b5447",
+    "canonicalEpubSha256": "edd3182ff57b54471505189628b82238c85d2d9c8b4edbba14339695eac827cd",
+    "generatedAt": "2026-09-15T08:43:26Z",
+    "contentSha256": "0411d00ef342798b737cb9965de07ee65aa6fb62a1d1de49adced72775b0b9a3",
+    "contentBytes": 30111572,
+    "contentUrl": "https://raw.githubusercontent.com/Wayback-Project/thewaytranslations/main/current-form-documents/mobile-reader/content.json",
+    "source": "canonical-github-fallback",
+    "bookCount": 66,
+    "chapterCount": 1189,
+    "verseSearchCount": 31102
+  },
+  "changes": [
+    {
+      "reference": "Romans 5:19",
+      "category": "malformed-english",
+      "before": "For as through the one a person's disobedience many were made sinners, even so through the obedience of the one, many will be made righteous.",
+      "after": "For as through the disobedience of one person many were made sinners, even so through the obedience of the one, many will be made righteous."
+    },
+    {
+      "reference": "Romans 8:9",
+      "category": "malformed-english",
+      "before": "But you are not in the flesh but in the Ruach, if it is so that the Ruach of God dwells in you. But if anyone doesn't have the Ruach of Messiah, they are not their.",
+      "after": "But you are not in the flesh but in the Ruach, if it is so that the Ruach of God dwells in you. But if anyone doesn't have the Ruach of Messiah, they do not belong to Messiah."
+    },
+    {
+      "reference": "Romans 14:2",
+      "category": "malformed-english",
+      "before": "One a person has faith to eat all things, but the one who is weak eats only vegetables.",
+      "after": "One person has faith to eat all things, but the one who is weak eats only vegetables."
+    },
+    {
+      "reference": "Romans 14:23",
+      "category": "verse-mapping",
+      "before": "But the one who doubts is condemned if they eat, because it isn't of faith; and whatever is not of faith is sin. (14:24) Now to the one who is able to establish you according to my good news and the preaching of Yeshua the Messiah, according to the revelation of the mystery which has been kept secret through long ages, (14:25) but now is revealed, and by the Scriptures of the prophets, according to the commandment of the age-enduring God, is made known for obedience of faith to all the nations; (14:26) to the only wise God, through Yeshua the Messiah, to whom be the glory forever! Amen.",
+      "after": "But the one who doubts is condemned if they eat, because it isn't of faith; and whatever is not of faith is sin."
+    },
+    {
+      "reference": "Romans 16:25",
+      "category": "verse-mapping",
+      "before": "[empty]",
+      "after": "Now to the one who is able to establish you according to my good news and the preaching of Yeshua the Messiah, according to the revelation of the mystery which has been kept secret through long ages,"
+    },
+    {
+      "reference": "Romans 16:26",
+      "category": "verse-mapping",
+      "before": "016:027",
+      "after": "but now is revealed, and by the Scriptures of the prophets, according to the commandment of the age-enduring God, is made known for obedience of faith to all the nations;"
+    },
+    {
+      "reference": "Romans 16:27",
+      "category": "verse-mapping",
+      "before": "[absent]",
+      "after": "to the only wise God, through Yeshua the Messiah, to whom be the glory forever! Amen."
+    },
+    {
+      "reference": "Genesis 24:4",
+      "category": "duplicate-verse-record",
+      "before": "[duplicate second paragraph] But you shall go to my country, and to my relatives, and take a wife for my son Yitzhak.”",
+      "after": "[removed duplicate paragraph; canonical first paragraph preserved] But you shall go to my country, and to my kin, and take a wife for my son Yitzhak.”"
+    }
+  ],
+  "method": "Finite approved ledger. Three Romans malformed-English repairs; structural relocation of the already-present doxology into Romans 16:25-27 while preserving Romans 16:24; removal of one pre-existing duplicate Genesis 24:4 paragraph while preserving the canonical first paragraph (“my kin”). No other unique Scripture wording changed.",
+  "textual_note": "The manuscript tradition varies on placement of the closing Romans doxology. This release does not adjudicate that textual-critical question; it restores the project canonical data structure to Romans 16:25-27 while preserving the project’s existing doxology wording and Romans 16:24."
+}
