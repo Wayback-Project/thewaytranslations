@@ -1,0 +1,44 @@
+{
+  "status": "inventory-only; non-canonical; no Scripture changes",
+  "canonicalEpubSha256": "edd3182ff57b54471505189628b82238c85d2d9c8b4edbba14339695eac827cd",
+  "wholeBibleVerseCount": 31102,
+  "evilVerseCount": 124,
+  "evilVerseCountsByTestament": {
+    "OT": 124
+  },
+  "evilVerseCountsByBook": {
+    "1 Kings": 4,
+    "1 Samuel": 7,
+    "2 Chronicles": 3,
+    "2 Kings": 2,
+    "2 Samuel": 1,
+    "Amos": 2,
+    "Deuteronomy": 14,
+    "Ezekiel": 3,
+    "Genesis": 7,
+    "Habakkuk": 2,
+    "Isaiah": 8,
+    "Jeremiah": 16,
+    "Job": 2,
+    "Judges": 1,
+    "Malachi": 2,
+    "Micah": 2,
+    "Nehemiah": 2,
+    "Numbers": 1,
+    "Proverbs": 17,
+    "Psalms": 26,
+    "Zechariah": 1,
+    "Zephaniah": 1
+  },
+  "evilRowsFrom2026_09_14LexicalLedger": 124,
+  "conceptTermVerseCount": 485,
+  "currentGrammarFlags": {
+    "sentence-initial-lowercase-evil": 2,
+    "terminal-punctuation-review": 1
+  },
+  "outputs": [
+    "tools/local/generated_evil_inventory_2026_09_25.tsv",
+    "tools/local/generated_concept_term_inventory_2026_09_25.tsv"
+  ],
+  "method": "Exact whole-Bible extraction from the canonical EPUB using the repository release extractor; word-boundary inventory for evil and consistency inventory for evil/brokenness/broken/unripeness/unripe. No replacement is performed."
+}
