@@ -23,7 +23,7 @@ jobs:
       - name: Generate exact canonical terminology inventory
         run: python tools/local/audit_evil_brokenness_unripeness_2026_09_25.py
       - name: Build proposal and run proposal QA
-        run: python tools/local/build_evil_brokenness_unripeness_proposal_2026_09_25.py
+        run: python tools/local/run_evil_brokenness_unripeness_proposal_2026_09_25.py
       - name: Commit generated non-canonical proposal artifacts
         run: |
           git config user.name "github-actions[bot]"
