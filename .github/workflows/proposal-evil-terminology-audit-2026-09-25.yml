@@ -26,6 +26,14 @@ jobs:
         run: python tools/local/audit_evil_family_2026_09_25.py
       - name: Build proposal and run proposal QA
         run: python tools/local/run_evil_brokenness_unripeness_proposal_2026_09_25.py
+      - name: Build combined 126-row review package
+        run: python tools/local/build_evil_family_review_package_2026_09_25.py
+      - name: Upload Google-Doc-ready review HTML
+        uses: actions/upload-artifact@v4
+        with:
+          name: evil-terminology-review-html
+          path: review/2026-09-25-evil-brokenness-unripeness-review.html
+          if-no-files-found: error
       - name: Commit generated non-canonical proposal artifacts
         run: |
           git config user.name "github-actions[bot]"
@@ -34,10 +42,12 @@ jobs:
                   tools/local/generated_concept_term_inventory_2026_09_25.tsv \
                   tools/local/generated_evil_family_inventory_2026_09_25.tsv \
                   tools/local/proposed_evil_brokenness_unripeness_2026_09_25.tsv \
+                  tools/local/proposed_evil_family_review_2026_09_25.tsv \
                   change-logs/reports/2026-09-25-evil-brokenness-unripeness-inventory.json \
                   change-logs/reports/2026-09-25-evil-family-inventory.json \
                   change-logs/reports/2026-09-25-evil-brokenness-unripeness-proposal.json \
-                  editor-notes/consistency/2026-09-25-evil-brokenness-unripeness-audit.md
+                  editor-notes/consistency/2026-09-25-evil-brokenness-unripeness-audit.md \
+                  review/2026-09-25-evil-brokenness-unripeness-review.html
           if git diff --cached --quiet; then
             echo "Proposal artifacts already current"
             exit 0
