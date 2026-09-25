@@ -22,6 +22,8 @@ jobs:
           python-version: '3.12'
       - name: Generate exact canonical terminology inventory
         run: python tools/local/audit_evil_brokenness_unripeness_2026_09_25.py
+      - name: Generate whole-Bible evil-family compound inventory
+        run: python tools/local/audit_evil_family_2026_09_25.py
       - name: Build proposal and run proposal QA
         run: python tools/local/run_evil_brokenness_unripeness_proposal_2026_09_25.py
       - name: Commit generated non-canonical proposal artifacts
@@ -30,8 +32,10 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add tools/local/generated_evil_inventory_2026_09_25.tsv \
                   tools/local/generated_concept_term_inventory_2026_09_25.tsv \
+                  tools/local/generated_evil_family_inventory_2026_09_25.tsv \
                   tools/local/proposed_evil_brokenness_unripeness_2026_09_25.tsv \
                   change-logs/reports/2026-09-25-evil-brokenness-unripeness-inventory.json \
+                  change-logs/reports/2026-09-25-evil-family-inventory.json \
                   change-logs/reports/2026-09-25-evil-brokenness-unripeness-proposal.json \
                   editor-notes/consistency/2026-09-25-evil-brokenness-unripeness-audit.md
           if git diff --cached --quiet; then
