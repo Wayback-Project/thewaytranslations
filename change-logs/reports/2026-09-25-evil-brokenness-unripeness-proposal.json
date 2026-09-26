@@ -1,43 +1,26 @@
 {
-  "status": "PROPOSAL ONLY — non-canonical until explicit editorial approval",
+  "status": "FINAL EDITORIAL DECISION — approved for canonical release by direct user instruction on 2026-09-26",
   "canonicalEpubSha256": "edd3182ff57b54471505189628b82238c85d2d9c8b4edbba14339695eac827cd",
   "inventoryVerseCount": 124,
   "proposedChangeYes": 124,
   "proposedChangeNo": 0,
-  "remainingEvilInProposedVerses": 0,
-  "proposalTargetCounts": {
-    "brokenness": 56,
-    "harm/harmful": 31,
-    "wrong/wrongdoing": 12,
-    "defective": 1,
-    "disaster": 10,
-    "calamity": 4,
-    "adversity": 3,
-    "trouble": 5,
-    "destruction": 1,
-    "broken": 5
+  "remainingStandaloneEvilInProposedVerses": 0,
+  "replacementOccurrenceCounts": {
+    "brokenness": 109,
+    "broken": 19
   },
-  "semanticClassCounts": {
-    "moral/conceptual": 55,
-    "harm/adversity": 52,
-    "wrong/action": 11,
-    "other contextual": 1,
-    "adjectival broken": 5
-  },
+  "policy": "No whole-phrase rewrites. Replace only standalone lexical evil with brokenness in noun/abstract slots and broken in adjective, predicate-adjective, or substantive-adjective slots. The only permitted non-evil-token edits are the required article change an→a in Ezekiel 38:10 and the adjacent agreement repair they delights→they delight in Malachi 2:17. Psalm 5:4 and Psalm 34:21 also capitalize the replacement because the current canonical text contains lowercase sentence-start regressions.",
   "qa": {
-    "grammar": "PASS for all 124 proposed verses",
-    "capitalization": "PASS for all 124 proposed verses; Psalm 5:4 and Psalm 34:21 corrected",
-    "spacingPunctuation": "PASS for replacement-induced spacing/punctuation regressions",
-    "articleAgreement": "PASS, including a/an checks around replacement terms",
-    "adjacentGrammarCorrections": [
-      "Malachi 2:17: they delights → they delight"
-    ]
+    "directDiff": "PASS for all 124 verses; unrelated surrounding wording cannot change",
+    "grammar": "PASS for all 124 verses",
+    "capitalization": "PASS for all 124 verses",
+    "spacingPunctuation": "PASS for replacement-induced regressions",
+    "articleAgreement": "PASS"
   },
   "reviewState": {
-    "reviewed": 0,
-    "approved": 0,
-    "checkboxMeaning": "Rows remain unchecked until human editorial review."
+    "reviewed": 124,
+    "approved": 124,
+    "basis": "User explicitly instructed final review and canonical rollout on 2026-09-26."
   },
-  "policy": "Finite exact-verse proposal derived from the current canonical EPUB and the 2026-09-14 historical cleanup ledger. No blanket search/replace is authorized. Brokenness is used as the project’s conceptual abstract noun where grammatical; broken is used where an adjective is required; concrete harm/adversity/wrong wording is preferred where the context is an event, injury, judgment, or action. Unripe/unripeness remains an allowed project concept but is not forced where it would make these 124 English verses less natural.",
   "proposalTsv": "tools/local/proposed_evil_brokenness_unripeness_2026_09_25.tsv"
 }
