@@ -24,11 +24,11 @@ jobs:
         run: python tools/local/audit_evil_brokenness_unripeness_2026_09_25.py
       - name: Generate whole-Bible evil-family compound inventory
         run: python tools/local/audit_evil_family_2026_09_25.py
-      - name: Build proposal and run proposal QA
-        run: python tools/local/run_evil_brokenness_unripeness_proposal_2026_09_25.py
-      - name: Build combined 126-row review package
-        run: python tools/local/build_evil_family_review_package_2026_09_25.py
-      - name: Upload Google-Doc-ready review HTML
+      - name: Build final direct-only brokenness/broken decision ledger and QA
+        run: python tools/local/build_evil_brokenness_direct_final_2026_09_26.py
+      - name: Build final combined 126-row review package
+        run: python tools/local/build_evil_family_final_review_2026_09_26.py
+      - name: Upload Google-Doc-ready final review HTML
         uses: actions/upload-artifact@v4
         with:
           name: evil-terminology-review-html
@@ -52,5 +52,5 @@ jobs:
             echo "Proposal artifacts already current"
             exit 0
           fi
-          git commit -m "Generate evil terminology proposal ledger [skip proposal audit]"
+          git commit -m "Finalize direct evil to brokenness proposal [skip proposal audit]"
           git push origin HEAD:proposal/evil-brokenness-unripeness-audit-2026-09-25
