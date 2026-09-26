@@ -1,0 +1,45 @@
+name: Release direct evil to brokenness 2026-09-26
+
+on:
+  push:
+    branches:
+      - release/evil-to-brokenness-direct-2026-09-26
+    paths:
+      - tools/local/proposed_evil_brokenness_unripeness_2026_09_25.tsv
+      - tools/local/release_2026_09_26_evil_to_brokenness_direct.py
+      - .github/workflows/release-2026-09-26-evil-to-brokenness-direct.yml
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    if: ${{ !contains(github.event.head_commit.message, '[skip evil release]') }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: release/evil-to-brokenness-direct-2026-09-26
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Run exact canonical evil-to-brokenness release
+        run: python tools/local/release_2026_09_26_evil_to_brokenness_direct.py
+      - name: Commit canonical release artifacts
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add current-form-documents/the-way-current.epub \
+                  current-form-documents/mobile-reader \
+                  current-form-documents/original-name-registry.json \
+                  rendered-documents-history \
+                  change-logs/reports/2026-09-26-evil-to-brokenness-direct-release.json \
+                  editor-notes/consistency/2026-09-26-evil-to-brokenness-direct-release.md \
+                  README.md \
+                  current-form-documents/README.md \
+                  current-form-documents/EPUB-REFRESH-INSTRUCTIONS.md \
+                  rendered-documents-history/LOG.md
+          git diff --cached --quiet && { echo 'No release changes produced'; exit 1; }
+          git commit -m "Release: evil to brokenness/broken [skip evil release]"
+          git push origin HEAD:release/evil-to-brokenness-direct-2026-09-26
