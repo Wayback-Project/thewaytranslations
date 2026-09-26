@@ -1,0 +1,56 @@
+name: Proposal evil terminology audit 2026-09-25
+
+on:
+  push:
+    branches:
+      - proposal/evil-brokenness-unripeness-audit-2026-09-25
+
+permissions:
+  contents: write
+
+jobs:
+  inventory:
+    if: ${{ !contains(github.event.head_commit.message, '[skip proposal audit]') }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: proposal/evil-brokenness-unripeness-audit-2026-09-25
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Generate exact canonical terminology inventory
+        run: python tools/local/audit_evil_brokenness_unripeness_2026_09_25.py
+      - name: Generate whole-Bible evil-family compound inventory
+        run: python tools/local/audit_evil_family_2026_09_25.py
+      - name: Build final direct-only brokenness/broken decision ledger and QA
+        run: python tools/local/build_evil_brokenness_direct_final_2026_09_26.py
+      - name: Build final combined 126-row review package
+        run: python tools/local/build_evil_family_final_review_2026_09_26.py
+      - name: Upload Google-Doc-ready final review HTML
+        uses: actions/upload-artifact@v4
+        with:
+          name: evil-terminology-review-html
+          path: review/2026-09-25-evil-brokenness-unripeness-review.html
+          if-no-files-found: error
+      - name: Commit generated non-canonical proposal artifacts
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add tools/local/generated_evil_inventory_2026_09_25.tsv \
+                  tools/local/generated_concept_term_inventory_2026_09_25.tsv \
+                  tools/local/generated_evil_family_inventory_2026_09_25.tsv \
+                  tools/local/proposed_evil_brokenness_unripeness_2026_09_25.tsv \
+                  tools/local/proposed_evil_family_review_2026_09_25.tsv \
+                  change-logs/reports/2026-09-25-evil-brokenness-unripeness-inventory.json \
+                  change-logs/reports/2026-09-25-evil-family-inventory.json \
+                  change-logs/reports/2026-09-25-evil-brokenness-unripeness-proposal.json \
+                  editor-notes/consistency/2026-09-25-evil-brokenness-unripeness-audit.md \
+                  review/2026-09-25-evil-brokenness-unripeness-review.html
+          if git diff --cached --quiet; then
+            echo "Proposal artifacts already current"
+            exit 0
+          fi
+          git commit -m "Finalize direct evil to brokenness proposal [skip proposal audit]"
+          git push origin HEAD:proposal/evil-brokenness-unripeness-audit-2026-09-25

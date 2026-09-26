@@ -1,0 +1,26 @@
+{
+  "status": "FINAL EDITORIAL DECISION — approved for canonical release by direct user instruction on 2026-09-26",
+  "canonicalEpubSha256": "edd3182ff57b54471505189628b82238c85d2d9c8b4edbba14339695eac827cd",
+  "inventoryVerseCount": 124,
+  "proposedChangeYes": 124,
+  "proposedChangeNo": 0,
+  "remainingStandaloneEvilInProposedVerses": 0,
+  "replacementOccurrenceCounts": {
+    "brokenness": 109,
+    "broken": 19
+  },
+  "policy": "No whole-phrase rewrites. Replace only standalone lexical evil with brokenness in noun/abstract slots and broken in adjective, predicate-adjective, or substantive-adjective slots. The only permitted non-evil-token edits are the required article change an→a in Ezekiel 38:10 and the adjacent agreement repair they delights→they delight in Malachi 2:17. Psalm 5:4 and Psalm 34:21 also capitalize the replacement because the current canonical text contains lowercase sentence-start regressions.",
+  "qa": {
+    "directDiff": "PASS for all 124 verses; unrelated surrounding wording cannot change",
+    "grammar": "PASS for all 124 verses",
+    "capitalization": "PASS for all 124 verses",
+    "spacingPunctuation": "PASS for replacement-induced regressions",
+    "articleAgreement": "PASS"
+  },
+  "reviewState": {
+    "reviewed": 124,
+    "approved": 124,
+    "basis": "User explicitly instructed final review and canonical rollout on 2026-09-26."
+  },
+  "proposalTsv": "tools/local/proposed_evil_brokenness_unripeness_2026_09_25.tsv"
+}

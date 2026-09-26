@@ -1,0 +1,17 @@
+{
+  "status": "inventory-only; non-canonical; no Scripture changes",
+  "canonicalEpubSha256": "edd3182ff57b54471505189628b82238c85d2d9c8b4edbba14339695eac827cd",
+  "wholeBibleVerseCount": 31102,
+  "evilFamilyVerseCount": 126,
+  "standaloneEvilVerseCount": 124,
+  "compoundEvilVerseCount": 2,
+  "compoundEvilOccurrenceCount": 2,
+  "compoundVerseCountsByTestament": {
+    "OT": 2
+  },
+  "compoundFormsByVerseCount": {
+    "evilmerodach": 2
+  },
+  "output": "tools/local/generated_evil_family_inventory_2026_09_25.tsv",
+  "method": "Exact 31,102-verse canonical EPUB extraction. Finds word-initial evil-family forms including standalone evil and compounds such as evildoer/evildoing; no replacement is performed."
+}
