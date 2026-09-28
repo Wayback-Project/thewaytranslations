@@ -1,0 +1,46 @@
+name: Proposal divine-gender titles audit 2026-09-28
+
+on:
+  push:
+    branches:
+      - proposal/divine-gender-titles-audit-2026-09-28
+
+permissions:
+  contents: write
+
+jobs:
+  inventory:
+    if: ${{ !contains(github.event.head_commit.message, '[skip divine-gender audit]') }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: proposal/divine-gender-titles-audit-2026-09-28
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Generate canonical title and residual-pronoun inventories
+        run: python tools/local/audit_divine_gender_titles_2026_09_28.py
+      - name: Upload proposal input inventories
+        uses: actions/upload-artifact@v4
+        with:
+          name: divine-gender-title-inventory
+          path: |
+            tools/local/generated_divine_gender_title_inventory_2026_09_28.tsv
+            tools/local/generated_divine_pronoun_residual_inventory_2026_09_28.tsv
+            change-logs/reports/2026-09-28-divine-gender-title-inventory.json
+          if-no-files-found: error
+      - name: Commit generated inventory artifacts
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add tools/local/generated_divine_gender_title_inventory_2026_09_28.tsv \
+                  tools/local/generated_divine_pronoun_residual_inventory_2026_09_28.tsv \
+                  change-logs/reports/2026-09-28-divine-gender-title-inventory.json
+          if git diff --cached --quiet; then
+            echo "Inventory artifacts already current"
+            exit 0
+          fi
+          git commit -m "Generate divine-gender proposal inventories [skip divine-gender audit]"
+          git push origin HEAD:proposal/divine-gender-titles-audit-2026-09-28
