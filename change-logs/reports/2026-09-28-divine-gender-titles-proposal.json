@@ -1,0 +1,34 @@
+{
+  "status": "PROPOSAL ONLY — non-canonical until explicit editorial approval",
+  "canonicalCommit": "ada4a755463f6de6744e5e77070aa78fcc752a33",
+  "canonicalEpubSha256": "6a3a0dbc91949b082fdcf7c93d0832fe6762440933d8528009cf44b2271dfb92",
+  "wholeBibleVerseCount": 31102,
+  "titleMetaphorInventoryVerseCount": 3663,
+  "priorDivinePronounTriageRows": 485,
+  "freshPronounCandidateVerseCount": 2700,
+  "freshPronounCandidateNewVsPriorTriage": 2215,
+  "exactProposedVerseCount": 177,
+  "proposalCategoryCounts": {
+    "divine pronoun": 124,
+    "divine royal title": 40,
+    "divine reign terminology": 13
+  },
+  "affectedBookCount": 37,
+  "policy": [
+    "Human kings, human kingdoms, genuine historical male referents, and Yeshua's historical/messianic male language remain gendered unless separately proposed.",
+    "Use Sovereign only for unmistakable divine King titles in this proposal.",
+    "Use reign where kingdom denotes divine rule/authority rather than a human state or territorial realm.",
+    "For unmistakable divine he/him/his, repeat the established divine name/title or recast naturally; do not introduce divine they/she/it.",
+    "Broad heuristic hits that are human, angelic, priestly, ambiguous, or otherwise context-dependent are not silently changed."
+  ],
+  "reviewDocuments": {
+    "existingFinalHandoffWithProposalSupplement": "https://docs.google.com/document/d/1jx6HNjgM4G4q4yfiAiIxTeXSPcBgkaiwg9gdXWqCh3I",
+    "detailed177RowReview": "https://docs.google.com/document/d/1hMhucZyhscYmW6alHBTsldrNg5P5Hl1lqmRx6oBn2Po"
+  },
+  "reviewState": {
+    "reviewed": 0,
+    "approved": 0
+  },
+  "canonicalScriptureChanged": false,
+  "downstreamScriptureChanged": false
+}
