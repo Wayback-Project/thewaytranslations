@@ -1,0 +1,206 @@
+# Proposal — divine titles, reign terminology, and residual divine pronouns — 2026-09-28
+
+> **PROPOSAL ONLY.** No canonical EPUB or downstream Scripture is changed by this branch.
+
+- Canonical baseline commit: `ada4a755463f6de6744e5e77070aa78fcc752a33`
+- Canonical EPUB SHA-256: `6a3a0dbc91949b082fdcf7c93d0832fe6762440933d8528009cf44b2271dfb92`
+- Whole Bible audited: 31,102 verses
+- Broad title/metaphor inventory: 3,663 verses
+- Prior pronoun triage reconciled: 485 rows
+- Fresh broad pronoun candidate scan: 2,700 verses
+- Exact proposal: **177 verses across 37 books** — 40 divine royal-title, 13 divine-reign, 124 divine-pronoun rows.
+
+## Editorial method
+
+- Divine `King` → `Sovereign` only when God is the unmistakable referent.
+- Divine `kingdom` → `reign` where the sense is rule/authority. Human states/territories remain `kingdom` unless separately reviewed.
+- Unmistakable divine `he/him/his` → established divine name/title (`YHWH`, `Elohim`, `God`, `Most High`, `Cosmic Parent`, etc.) or a natural recast.
+- Do not introduce divine `they/she/it`.
+- Human kings, genuine male referents, Yeshua’s historical/messianic male language, priests, worshipers, angels, and ambiguous antecedents are protected from mechanical neutralization.
+
+## Review documents
+
+- Existing final handoff with this proposal appended: https://docs.google.com/document/d/1jx6HNjgM4G4q4yfiAiIxTeXSPcBgkaiwg9gdXWqCh3I
+- Detailed 177-row checkbox review: https://docs.google.com/document/d/1hMhucZyhscYmW6alHBTsldrNg5P5Hl1lqmRx6oBn2Po
+
+## Exact proposed references
+
+- **Exodus 3:13** — divine pronoun — divine pronoun → explicit divine name/title
+- **Exodus 15:2** — divine pronoun — divine pronoun → explicit divine name/title
+- **Exodus 15:26** — divine pronoun — divine pronoun → explicit divine name/title
+- **Numbers 12:9** — divine pronoun — divine pronoun → explicit divine name/title
+- **Deuteronomy 4:7** — divine pronoun — divine pronoun → explicit divine name/title
+- **Deuteronomy 4:25** — divine pronoun — divine pronoun → explicit divine name/title
+- **Deuteronomy 9:18** — divine pronoun — divine pronoun → explicit divine name/title
+- **Deuteronomy 31:29** — divine pronoun — divine pronoun → explicit divine name/title
+- **Joshua 3:10** — divine pronoun — divine pronoun → explicit divine name/title
+- **Joshua 9:9** — divine pronoun — divine pronoun → explicit divine name/title
+- **Joshua 23:3** — divine pronoun — divine pronoun → explicit divine name/title
+- **Joshua 24:7** — divine pronoun — divine pronoun → explicit divine name/title
+- **Joshua 24:18** — divine pronoun — divine pronoun → explicit divine name/title
+- **Joshua 24:22** — divine pronoun — divine pronoun → explicit divine name/title
+- **Judges 2:14** — divine pronoun — divine pronoun → explicit divine name/title
+- **Judges 2:20** — divine pronoun — divine pronoun → explicit divine name/title
+- **Judges 3:8** — divine pronoun — divine pronoun → explicit divine name/title
+- **Judges 10:6** — divine pronoun — divine pronoun → explicit divine name/title
+- **Judges 10:7** — divine pronoun — divine pronoun → explicit divine name/title
+- **Judges 10:16** — divine pronoun — divine pronoun → explicit divine name/title
+- **1 Samuel 5:7** — divine pronoun — divine pronoun → explicit divine name/title
+- **1 Samuel 6:5** — divine pronoun — divine pronoun → explicit divine name/title
+- **1 Samuel 7:3** — divine pronoun — divine pronoun → explicit divine name/title
+- **1 Kings 14:22** — divine pronoun — divine pronoun → explicit divine name/title
+- **1 Kings 16:7** — divine pronoun — divine pronoun → explicit divine name/title
+- **1 Kings 18:21** — divine pronoun — divine pronoun → explicit divine name/title
+- **2 Kings 17:17** — divine pronoun — divine pronoun → explicit divine name/title
+- **2 Kings 17:23** — divine pronoun — divine pronoun → explicit divine name/title
+- **2 Kings 21:6** — divine pronoun — divine pronoun → explicit divine name/title
+- **1 Chronicles 29:11** — divine reign terminology — divine kingdom → reign
+- **2 Chronicles 12:13** — divine pronoun — divine pronoun → explicit divine name/title
+- **2 Chronicles 14:7** — divine pronoun — divine pronoun → explicit divine name/title
+- **2 Chronicles 14:13** — divine pronoun — divine pronoun → explicit divine name/title
+- **2 Chronicles 15:2** — divine pronoun — divine pronoun → explicit divine name/title
+- **2 Chronicles 15:4** — divine pronoun — divine pronoun → explicit divine name/title
+- **2 Chronicles 20:20** — divine pronoun — divine pronoun → explicit divine name/title
+- **2 Chronicles 29:25** — divine pronoun — divine pronoun → explicit divine name/title
+- **2 Chronicles 33:6** — divine pronoun — divine pronoun → explicit divine name/title
+- **Ezra 1:2** — divine pronoun — divine pronoun → explicit divine name/title
+- **Ezra 8:22** — divine pronoun — divine pronoun → explicit divine name/title
+- **Ezra 8:23** — divine pronoun — divine pronoun → explicit divine name/title
+- **Ezra 9:8** — divine pronoun — divine pronoun → explicit divine name/title
+- **Job 4:9** — divine pronoun — divine pronoun → explicit divine name/title
+- **Job 6:9** — divine pronoun — divine pronoun → explicit divine name/title
+- **Job 21:15** — divine pronoun — divine pronoun → explicit divine name/title
+- **Psalms 5:2** — divine royal title — divine King → Sovereign
+- **Psalms 10:16** — divine royal title — divine King → Sovereign
+- **Psalms 22:28** — divine reign terminology — divine kingdom → reign
+- **Psalms 24:7** — divine royal title — divine King → Sovereign
+- **Psalms 24:8** — divine royal title — divine King → Sovereign
+- **Psalms 24:9** — divine royal title — divine King → Sovereign
+- **Psalms 24:10** — divine royal title — divine King → Sovereign
+- **Psalms 29:10** — divine royal title — divine King → Sovereign
+- **Psalms 44:4** — divine royal title — divine King → Sovereign
+- **Psalms 45:6** — divine reign terminology — divine kingdom → reign
+- **Psalms 47:2** — divine royal title — divine King → Sovereign
+- **Psalms 47:6** — divine royal title — divine King → Sovereign
+- **Psalms 47:7** — divine royal title — divine King → Sovereign
+- **Psalms 48:2** — divine royal title — divine King → Sovereign
+- **Psalms 68:24** — divine royal title — divine King → Sovereign
+- **Psalms 74:12** — divine royal title — divine King → Sovereign
+- **Psalms 84:3** — divine royal title — divine King → Sovereign
+- **Psalms 95:3** — divine royal title — divine King → Sovereign
+- **Psalms 98:6** — divine royal title — divine King → Sovereign
+- **Psalms 99:4** — divine royal title — divine King → Sovereign
+- **Psalms 103:19** — divine reign terminology — divine kingdom → reign
+- **Psalms 145:1** — divine royal title — divine King → Sovereign
+- **Psalms 145:11** — divine reign terminology — divine kingdom → reign
+- **Psalms 145:12** — divine reign terminology — divine kingdom → reign
+- **Psalms 145:13** — divine reign terminology — divine kingdom → reign
+- **Psalms 149:2** — divine royal title — divine King → Sovereign
+- **Isaiah 6:5** — divine royal title — divine King → Sovereign
+- **Isaiah 8:17** — divine pronoun — divine pronoun → explicit divine name/title
+- **Isaiah 9:17** — divine pronoun — divine pronoun → explicit divine name/title
+- **Isaiah 12:2** — divine pronoun — divine pronoun → explicit divine name/title
+- **Isaiah 12:5** — divine pronoun — divine pronoun → explicit divine name/title
+- **Isaiah 19:20** — divine pronoun — divine pronoun → explicit divine name/title
+- **Isaiah 19:22** — divine pronoun — divine pronoun → explicit divine name/title
+- **Isaiah 25:9** — divine pronoun — divine pronoun → explicit divine name/title
+- **Isaiah 26:21** — divine pronoun — divine pronoun → explicit divine name/title
+- **Isaiah 33:22** — divine royal title — divine King → Sovereign
+- **Isaiah 40:13** — divine pronoun — divine pronoun → explicit divine name/title
+- **Isaiah 40:18** — divine pronoun — divine pronoun → explicit divine name/title
+- **Isaiah 41:21** — divine royal title — divine King → Sovereign
+- **Isaiah 42:10** — divine pronoun — divine pronoun → explicit divine name/title
+- **Isaiah 42:12** — divine pronoun — divine pronoun → explicit divine name/title
+- **Isaiah 43:15** — divine royal title — divine King → Sovereign
+- **Isaiah 44:6** — divine royal title — divine King → Sovereign
+- **Jeremiah 4:2** — divine pronoun — divine pronoun → explicit divine name/title
+- **Jeremiah 4:26** — divine pronoun — divine pronoun → explicit divine name/title
+- **Jeremiah 8:19** — divine royal title — divine King → Sovereign
+- **Jeremiah 9:20** — divine pronoun — divine pronoun → explicit divine name/title
+- **Jeremiah 10:7** — divine royal title — divine King → Sovereign
+- **Jeremiah 10:10** — divine royal title — divine King → Sovereign
+- **Jeremiah 13:16** — divine pronoun — divine pronoun → explicit divine name/title
+- **Jeremiah 14:10** — divine pronoun — divine pronoun → explicit divine name/title
+- **Jeremiah 20:13** — divine pronoun — divine pronoun → explicit divine name/title
+- **Jeremiah 23:19** — divine pronoun — divine pronoun → explicit divine name/title
+- **Jeremiah 23:20** — divine pronoun — divine pronoun → explicit divine name/title
+- **Jeremiah 25:31** — divine pronoun — divine pronoun → explicit divine name/title
+- **Jeremiah 46:18** — divine royal title — divine King → Sovereign
+- **Jeremiah 48:15** — divine royal title — divine King → Sovereign
+- **Jeremiah 51:57** — divine royal title — divine King → Sovereign
+- **Jeremiah 52:3** — divine pronoun — divine pronoun → explicit divine name/title
+- **Lamentations 1:15** — divine pronoun — divine pronoun → explicit divine name/title
+- **Lamentations 1:18** — divine pronoun — divine pronoun → explicit divine name/title
+- **Lamentations 2:2** — divine pronoun — divine pronoun → explicit divine name/title
+- **Lamentations 2:8** — divine pronoun — divine pronoun → explicit divine name/title
+- **Lamentations 3:25** — divine pronoun — divine pronoun → explicit divine name/title
+- **Lamentations 4:16** — divine pronoun — divine pronoun → explicit divine name/title
+- **Ezekiel 3:12** — divine pronoun — divine pronoun → explicit divine name/title
+- **Ezekiel 3:22** — divine pronoun — divine pronoun → explicit divine name/title
+- **Ezekiel 36:20** — divine pronoun — divine pronoun → explicit divine name/title
+- **Ezekiel 37:1** — divine pronoun — divine pronoun → explicit divine name/title
+- **Ezekiel 40:1** — divine pronoun — divine pronoun → explicit divine name/title
+- **Daniel 2:44** — divine reign terminology — divine kingdom → reign
+- **Daniel 3:17** — divine pronoun — divine pronoun → explicit divine name/title
+- **Daniel 4:3** — divine reign terminology — divine kingdom → reign
+- **Daniel 4:34** — divine reign terminology — divine kingdom → reign
+- **Daniel 4:37** — divine royal title — divine King → Sovereign
+- **Daniel 5:23** — divine pronoun — divine pronoun → explicit divine name/title
+- **Daniel 6:26** — divine reign terminology — divine kingdom → reign
+- **Daniel 7:27** — divine reign terminology — divine kingdom → reign
+- **Daniel 9:10** — divine pronoun — divine pronoun → explicit divine name/title
+- **Hosea 3:5** — divine pronoun — divine pronoun → explicit divine name/title
+- **Hosea 6:1** — divine pronoun — divine pronoun → explicit divine name/title
+- **Hosea 7:10** — divine pronoun — divine pronoun → explicit divine name/title
+- **Hosea 11:7** — divine pronoun — divine pronoun → explicit divine name/title
+- **Hosea 11:10** — divine pronoun — divine pronoun → explicit divine name/title
+- **Joel 2:13** — divine pronoun — divine pronoun → explicit divine name/title
+- **Joel 2:23** — divine pronoun — divine pronoun → explicit divine name/title
+- **Amos 7:1** — divine pronoun — divine pronoun → explicit divine name/title
+- **Obadiah 1:21** — divine reign terminology — divine kingdom → reign
+- **Micah 1:2** — divine pronoun — divine pronoun → explicit divine name/title
+- **Micah 1:3** — divine pronoun — divine pronoun → explicit divine name/title
+- **Micah 4:12** — divine pronoun — divine pronoun → explicit divine name/title
+- **Nahum 1:7** — divine pronoun — divine pronoun → explicit divine name/title
+- **Habakkuk 2:20** — divine pronoun — divine pronoun → explicit divine name/title
+- **Zephaniah 1:6** — divine pronoun — divine pronoun → explicit divine name/title
+- **Zephaniah 1:18** — divine pronoun — divine pronoun → explicit divine name/title
+- **Zephaniah 2:3** — divine pronoun — divine pronoun → explicit divine name/title
+- **Zephaniah 3:9** — divine pronoun — divine pronoun → explicit divine name/title
+- **Zephaniah 3:15** — divine royal title — divine King → Sovereign
+- **Zechariah 2:13** — divine pronoun — divine pronoun → explicit divine name/title
+- **Zechariah 7:12** — divine pronoun — divine pronoun → explicit divine name/title
+- **Zechariah 9:14** — divine pronoun — divine pronoun → explicit divine name/title
+- **Zechariah 10:3** — divine pronoun — divine pronoun → explicit divine name/title
+- **Zechariah 14:9** — divine royal title — divine King → Sovereign
+- **Zechariah 14:16** — divine royal title — divine King → Sovereign
+- **Zechariah 14:17** — divine royal title — divine King → Sovereign
+- **Malachi 1:14** — divine royal title — divine King → Sovereign
+- **Matthew 5:35** — divine royal title — divine King → Sovereign
+- **Matthew 5:45** — divine pronoun — divine pronoun → explicit divine name/title
+- **Matthew 6:8** — divine pronoun — divine pronoun → explicit divine name/title
+- **Matthew 7:11** — divine pronoun — divine pronoun → explicit divine name/title
+- **Matthew 9:38** — divine pronoun — divine pronoun → explicit divine name/title
+- **Luke 2:38** — divine pronoun — divine pronoun → explicit divine name/title
+- **Luke 3:4** — divine pronoun — divine pronoun → explicit divine name/title
+- **Luke 6:35** — divine pronoun — divine pronoun → explicit divine name/title
+- **John 8:29** — divine pronoun — divine pronoun → explicit divine name/title
+- **John 8:42** — divine pronoun — divine pronoun → explicit divine name/title
+- **Romans 1:21** — divine pronoun — divine pronoun → explicit divine name/title
+- **Romans 3:29** — divine pronoun — divine pronoun → explicit divine name/title
+- **Romans 5:8** — divine pronoun — divine pronoun → explicit divine name/title
+- **Romans 11:21** — divine pronoun — divine pronoun → explicit divine name/title
+- **Romans 11:22** — divine pronoun — divine pronoun → explicit divine name/title
+- **Romans 11:32** — divine pronoun — divine pronoun → explicit divine name/title
+- **1 Corinthians 3:19** — divine pronoun — divine pronoun → explicit divine name/title
+- **1 Timothy 1:17** — divine royal title — divine King → Sovereign
+- **James 4:8** — divine pronoun — divine pronoun → explicit divine name/title
+- **James 4:10** — divine pronoun — divine pronoun → explicit divine name/title
+- **1 John 5:9** — divine pronoun — divine pronoun → explicit divine name/title
+- **Revelation 7:15** — divine pronoun — divine pronoun → explicit divine name/title
+- **Revelation 10:7** — divine pronoun — divine pronoun → explicit divine name/title
+- **Revelation 15:3** — divine royal title — divine King → Sovereign
+- **Revelation 16:9** — divine pronoun — divine pronoun → explicit divine name/title
+- **Revelation 16:19** — divine pronoun — divine pronoun → explicit divine name/title
+
+The exact current/proposed text, rationale, review state, and notes are in `tools/local/proposed_divine_gender_titles_2026_09_28.tsv` and the detailed Google Doc. All Reviewed/Approved boxes begin unchecked.
