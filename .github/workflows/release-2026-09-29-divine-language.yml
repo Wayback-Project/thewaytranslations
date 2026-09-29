@@ -24,8 +24,8 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Run exact 177-row canonical release
-        run: python tools/local/release_2026_09_29_divine_language.py
+      - name: Reconstruct authority and run exact 177-row canonical release
+        run: python tools/local/run_2026_09_29_divine_language_release.py
 
       - name: Commit canonical release artifacts
         shell: bash
