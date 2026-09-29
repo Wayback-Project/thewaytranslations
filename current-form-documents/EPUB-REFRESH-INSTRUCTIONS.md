@@ -51,3 +51,7 @@ Controlled release: corrected malformed English at Romans 5:19, 8:9, and 14:2; r
 ## 2026-09-26 Direct evil → brokenness / broken release
 
 Finite 124-verse canonical release from the approved whole-Bible terminology review. Only the lexical word `evil` was changed: noun/abstract slots → `brokenness`; adjective/predicate/substantive-adjective slots → `broken`. No contextual phrase rewrites. Canonical SHA-256: `6a3a0dbc91949b082fdcf7c93d0832fe6762440933d8528009cf44b2271dfb92`. See `../editor-notes/consistency/2026-09-26-evil-to-brokenness-direct-release.md` and `../change-logs/reports/2026-09-26-evil-to-brokenness-direct-release.json`.
+
+## 2026-09-29 Divine-language final release
+
+Finite 176-verse release from the frozen final review: 124 divine-pronoun edits, 40 divine `King` → `Sovereign`, 11 active divine-rule `kingdom` → `reign`, and Daniel 7:27's source/collective correction. Psalm 45:6 remains unchanged. No unrelated Scripture cleanup. Canonical SHA-256: `aec31f9c9248cd42913c561c4cd5155fb35c39dddc657b16e53c370edff7a615`. See `../editor-notes/consistency/2026-09-29-divine-language-release.md` and `../change-logs/reports/2026-09-29-divine-language-release.json`.

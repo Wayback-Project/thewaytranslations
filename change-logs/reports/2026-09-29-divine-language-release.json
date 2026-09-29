@@ -1,0 +1,1334 @@
+{
+  "release": "Divine language final release — Sovereign / reign / divine-pronoun consistency",
+  "releaseDate": "2026-09-29",
+  "authority": {
+    "googleDocumentId": "1hMhucZyhscYmW6alHBTsldrNg5P5Hl1lqmRx6oBn2Po",
+    "googleRevisionId": "ANLCKQm2Ioa5QFnbPM_roDduqkXre-hKfAoHABp2S6-zAznyvcnik9jKuttMDtGaSXyS31RO8B_bhoEWnQQyHU2MxhSilJj7p4FMtoBKTqA",
+    "authorityPayloadSha256": "616f64c6e8d1eab8dd87952c9027a24439e4c8f23af9a61ef7de405797d7df65",
+    "auditRows": 177,
+    "releaseChanges": 176,
+    "auditedNoChange": [
+      "Psalms 45:6"
+    ]
+  },
+  "baseline": {
+    "canonicalCommit": "ada4a755463f6de6744e5e77070aa78fcc752a33",
+    "canonicalEpubSha256": "6a3a0dbc91949b082fdcf7c93d0832fe6762440933d8528009cf44b2271dfb92"
+  },
+  "releasedEpubSha256": "aec31f9c9248cd42913c561c4cd5155fb35c39dddc657b16e53c370edff7a615",
+  "archivePath": "rendered-documents-history/2026-09-29_065415UTC/the-way-current.epub",
+  "categoryCounts": {
+    "divine pronoun": 124,
+    "divine reign terminology": 11,
+    "divine royal title": 40,
+    "audited — no change": 1,
+    "source / collective pronoun correction": 1
+  },
+  "changedBookCount": 37,
+  "changedVerseCount": 176,
+  "wholeBibleVerseCount": 31102,
+  "changedEpubMembers": [
+    "OEBPS/Text/1-chronicles.xhtml",
+    "OEBPS/Text/1-corinthians.xhtml",
+    "OEBPS/Text/1-john.xhtml",
+    "OEBPS/Text/1-kings.xhtml",
+    "OEBPS/Text/1-samuel.xhtml",
+    "OEBPS/Text/1-timothy.xhtml",
+    "OEBPS/Text/2-chronicles.xhtml",
+    "OEBPS/Text/2-kings.xhtml",
+    "OEBPS/Text/amos.xhtml",
+    "OEBPS/Text/daniel.xhtml",
+    "OEBPS/Text/deuteronomy.xhtml",
+    "OEBPS/Text/exodus.xhtml",
+    "OEBPS/Text/ezekiel.xhtml",
+    "OEBPS/Text/ezra.xhtml",
+    "OEBPS/Text/habakkuk.xhtml",
+    "OEBPS/Text/hosea.xhtml",
+    "OEBPS/Text/isaiah.xhtml",
+    "OEBPS/Text/james.xhtml",
+    "OEBPS/Text/jeremiah.xhtml",
+    "OEBPS/Text/job.xhtml",
+    "OEBPS/Text/joel.xhtml",
+    "OEBPS/Text/john.xhtml",
+    "OEBPS/Text/joshua.xhtml",
+    "OEBPS/Text/judges.xhtml",
+    "OEBPS/Text/lamentations.xhtml",
+    "OEBPS/Text/luke.xhtml",
+    "OEBPS/Text/malachi.xhtml",
+    "OEBPS/Text/matthew.xhtml",
+    "OEBPS/Text/micah.xhtml",
+    "OEBPS/Text/nahum.xhtml",
+    "OEBPS/Text/numbers.xhtml",
+    "OEBPS/Text/obadiah.xhtml",
+    "OEBPS/Text/psalms.xhtml",
+    "OEBPS/Text/revelation.xhtml",
+    "OEBPS/Text/romans.xhtml",
+    "OEBPS/Text/zechariah.xhtml",
+    "OEBPS/Text/zephaniah.xhtml"
+  ],
+  "canonicalMobileFallback": {
+    "schemaVersion": 1,
+    "releaseId": "canonical-aec31f9c9248cd42",
+    "canonicalEpubSha256": "aec31f9c9248cd42913c561c4cd5155fb35c39dddc657b16e53c370edff7a615",
+    "generatedAt": "2026-09-29T06:54:15Z",
+    "contentSha256": "44ad2a4ff29fcbb36581e34925fc227410a956737aa64c51d99b1ce9a4ae1e03",
+    "contentBytes": 30117963,
+    "contentUrl": "https://raw.githubusercontent.com/Wayback-Project/thewaytranslations/main/current-form-documents/mobile-reader/content.json",
+    "source": "canonical-github-fallback",
+    "bookCount": 66,
+    "chapterCount": 1189,
+    "verseSearchCount": 31102
+  },
+  "qa": {
+    "exactBeforeAuthorityMatch": true,
+    "exactAfterAuthorityMatch": true,
+    "epubStructureXmlAndLinks": "pass",
+    "wholeBibleDiffExactlyApproved176": true,
+    "articleMismatchCount": 0,
+    "verseInventory": "31102/31102",
+    "bookInventory": 66,
+    "chapterInventory": 1189,
+    "psalm45_6Unchanged": true
+  },
+  "rows": [
+    {
+      "reference": "Exodus 15:2",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "Yah is my strength and song. He has become my salvation. This is my God, and I will praise him; my father's Elohim, and I will exalt him.",
+      "after": "Yah is my strength and song. Yah has become my salvation. This is my God, whom I will praise; my father's Elohim, whom I will exalt."
+    },
+    {
+      "reference": "Exodus 15:26",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "and YHWH said, \"If you will diligently listen to the voice of YHWH your God, and will do that which is right in his eyes, and will pay attention to YHWH’s commandments, and keep all YHWH’s statutes, I will put none of the diseases on you, which I have put on the Egyptians; for I am YHWH who heals you.\"",
+      "after": "and YHWH said, \"If you will diligently listen to the voice of YHWH your God, and will do that which is right in YHWH’s eyes, and will pay attention to YHWH’s commandments, and keep all YHWH’s statutes, I will put none of the diseases on you, which I have put on the Egyptians; for I am YHWH who heals you.\""
+    },
+    {
+      "reference": "Exodus 3:13",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "Moshe said to Elohim, \"Behold, when I come to the children of Israel, and tell them, 'The God of your fathers has sent me to you;' and they ask me, 'What is his name?' What should I tell them?\"",
+      "after": "Moshe said to Elohim, \"Behold, when I come to the children of Israel, and tell them, 'The God of your fathers has sent me to you;' and they ask me, 'What is God’s name?' What should I tell them?\""
+    },
+    {
+      "reference": "Numbers 12:9",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "The anger of YHWH was kindled against them; and he departed.",
+      "after": "The anger of YHWH was kindled against them; and YHWH departed."
+    },
+    {
+      "reference": "Deuteronomy 31:29",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "For I know that after my death you will utterly corrupt yourselves, and turn aside from the way which I have commanded you; and disaster will happen to you in the latter days; because you will do that which is wrong in the sight of YHWH, to provoke him to anger through the work of your hands.",
+      "after": "For I know that after my death you will utterly corrupt yourselves, and turn aside from the way which I have commanded you; and disaster will happen to you in the latter days; because you will do that which is wrong in the sight of YHWH, to provoke YHWH to anger through the work of your hands."
+    },
+    {
+      "reference": "Deuteronomy 4:25",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "When you shall father children, and children's children, and you shall have been long in the land, and shall corrupt yourselves, and make an engraved image in the form of anything, and shall do that which is wrong in the sight of YHWH your God, to provoke him to anger;",
+      "after": "When you shall father children, and children's children, and you shall have been long in the land, and shall corrupt yourselves, and make an engraved image in the form of anything, and shall do that which is wrong in the sight of YHWH your God, to provoke YHWH to anger;"
+    },
+    {
+      "reference": "Deuteronomy 4:7",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "For what great nation is there, that has a god so near to them, as YHWH our God is whenever we call on him?",
+      "after": "For what great nation is there, that has a god so near to them, as YHWH our God is whenever we call on YHWH?"
+    },
+    {
+      "reference": "Deuteronomy 9:18",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "I fell down before YHWH, as at the first, forty days and forty nights; I did neither eat bread nor drink water; because of all your sin which you sinned, in doing what was broken in the sight of YHWH, to provoke him to anger.",
+      "after": "I fell down before YHWH, as at the first, forty days and forty nights; I did neither eat bread nor drink water; because of all your sin which you sinned, in doing what was broken in the sight of YHWH, to provoke YHWH to anger."
+    },
+    {
+      "reference": "Joshua 23:3",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "and you have seen all that YHWH your God has done to all these nations because of you; for YHWH your God, he it is that has fought for you.",
+      "after": "and you have seen all that YHWH your God has done to all these nations because of you; for YHWH your God has fought for you."
+    },
+    {
+      "reference": "Joshua 24:18",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "and YHWH drove out from before us all the peoples, even the Amorites who lived in the land: therefore we also will serve YHWH; for he is our God.",
+      "after": "and YHWH drove out from before us all the peoples, even the Amorites who lived in the land: therefore we also will serve YHWH; for YHWH is our God."
+    },
+    {
+      "reference": "Joshua 24:22",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "Yehoshua said to the people, You are witnesses against yourselves that you have chosen you YHWH, to serve him. They said, We are witnesses.",
+      "after": "Yehoshua said to the people, You are witnesses against yourselves that you have chosen you YHWH, to serve YHWH. They said, We are witnesses."
+    },
+    {
+      "reference": "Joshua 24:7",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "When they cried out to YHWH, he put darkness between you and the Egyptians, and brought the sea on them, and covered them; and your eyes saw what I did in Mitzrayim: and you lived in the wilderness many days.",
+      "after": "When they cried out to YHWH, YHWH put darkness between you and the Egyptians, and brought the sea on them, and covered them; and your eyes saw what I did in Mitzrayim: and you lived in the wilderness many days."
+    },
+    {
+      "reference": "Joshua 3:10",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "Yehoshua said, \"Hereby you shall know that the living Elohim is among you, and that he will without fail drive the Canaanite, and the Hittite, and the Hivite, and the Perizzite, and the Girgashite, and the Amorite, and the Jebusite out from before you.",
+      "after": "Yehoshua said, \"Hereby you shall know that the living Elohim is among you, and that the living Elohim will without fail drive the Canaanite, and the Hittite, and the Hivite, and the Perizzite, and the Girgashite, and the Amorite, and the Jebusite out from before you."
+    },
+    {
+      "reference": "Joshua 9:9",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "They said to him, From a very far country your servants are come because of the name of YHWH your God: for we have heard the fame of him, and all that he did in Mitzrayim,",
+      "after": "They said to him, From a very far country your servants are come because of the name of YHWH your God: for we have heard the fame of YHWH, and all that YHWH did in Mitzrayim,"
+    },
+    {
+      "reference": "Judges 10:16",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "They put away the foreign gods from among them, and served YHWH; and his soul was grieved for the misery of Israel.",
+      "after": "They put away the foreign gods from among them, and served YHWH; and YHWH’s soul was grieved for the misery of Israel."
+    },
+    {
+      "reference": "Judges 10:6",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "The children of Israel again did what was broken in the sight of YHWH, and served the Baals, and the Ashtaroth, and the gods of Aram, and the gods of Tzidon, and the gods of Moab, and the gods of the children of Ammon, and the gods of the Philistines; and they forsook YHWH, and didn't serve him.",
+      "after": "The children of Israel again did what was broken in the sight of YHWH, and served the Baals, and the Ashtaroth, and the gods of Aram, and the gods of Tzidon, and the gods of Moab, and the gods of the children of Ammon, and the gods of the Philistines; and they forsook YHWH, and didn't serve YHWH."
+    },
+    {
+      "reference": "Judges 10:7",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "The anger of YHWH was kindled against Israel, and he sold them into the hand of the Philistines, and into the hand of the children of Ammon.",
+      "after": "The anger of YHWH was kindled against Israel, and YHWH sold them into the hand of the Philistines, and into the hand of the children of Ammon."
+    },
+    {
+      "reference": "Judges 2:14",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "The anger of YHWH was kindled against Israel, and he delivered them into the hands of spoilers who despoiled them; and he sold them into the hands of their enemies round about, so that they could not any longer stand before their enemies.",
+      "after": "The anger of YHWH was kindled against Israel, and YHWH delivered them into the hands of spoilers who despoiled them, and sold them into the hands of their enemies round about, so that they could not any longer stand before their enemies."
+    },
+    {
+      "reference": "Judges 2:20",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "The anger of YHWH was kindled against Israel; and he said, Because this nation have transgressed my covenant which I commanded their fathers, and have not listened to my voice;",
+      "after": "The anger of YHWH was kindled against Israel; and YHWH said, Because this nation have transgressed my covenant which I commanded their fathers, and have not listened to my voice;"
+    },
+    {
+      "reference": "Judges 3:8",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "Therefore the anger of YHWH was kindled against Israel, and he sold them into the hand of Cushan Rishathaim king of Mesopotamia: and the children of Israel served Cushan Rishathaim eight years.",
+      "after": "Therefore the anger of YHWH was kindled against Israel, and YHWH sold them into the hand of Cushan Rishathaim king of Mesopotamia: and the children of Israel served Cushan Rishathaim eight years."
+    },
+    {
+      "reference": "1 Samuel 5:7",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "When the men of Ashdod saw that it was so, they said, The ark of the God of Israel shall not abide with us; for his hand is sore on us, and on Dagon our god.",
+      "after": "When the men of Ashdod saw that it was so, they said, The ark of the God of Israel shall not abide with us; for the hand of the God of Israel is sore on us, and on Dagon our god."
+    },
+    {
+      "reference": "1 Samuel 6:5",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "Therefore you shall make images of your tumors, and images of your mice that mar the land; and you shall give glory to the God of Israel: peradventure he will lighten his hand from off you, and from off your gods, and from off your land.",
+      "after": "Therefore you shall make images of your tumors, and images of your mice that mar the land; and you shall give glory to the God of Israel: peradventure the God of Israel will lighten the hand from off you, and from off your gods, and from off your land."
+    },
+    {
+      "reference": "1 Samuel 7:3",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "Shmuel spoke to all the house of Israel, saying, If you do return to YHWH with all your heart, then put away the foreign gods and the Ashtaroth from among you, and direct your hearts to YHWH, and serve him only; and he will deliver you out of the hand of the Philistines.",
+      "after": "Shmuel spoke to all the house of Israel, saying, If you do return to YHWH with all your heart, then put away the foreign gods and the Ashtaroth from among you, and direct your hearts to YHWH, and serve YHWH only; and YHWH will deliver you out of the hand of the Philistines."
+    },
+    {
+      "reference": "1 Kings 14:22",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "Yehudah did what was broken in the sight of YHWH, and they provoked him to jealousy with their sins which they committed, above all that their fathers had done.",
+      "after": "Yehudah did what was broken in the sight of YHWH, and they provoked YHWH to jealousy with their sins which they committed, above all that their fathers had done."
+    },
+    {
+      "reference": "1 Kings 16:7",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "Moreover by the prophet Yehu the son of Hanani came the word of YHWH against Baasha, and against his house, both because of all the brokenness that he did in the sight of YHWH, to provoke him to anger with the work of his hands, in being like the house of Yerovam, and because he struck him.",
+      "after": "Moreover by the prophet Yehu the son of Hanani came the word of YHWH against Baasha, and against his house, both because of all the brokenness that he did in the sight of YHWH, to provoke YHWH to anger with the work of his hands, in being like the house of Yerovam, and because he struck him."
+    },
+    {
+      "reference": "1 Kings 18:21",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "Eliyahu came near to all the people, and said, \"How long will you waver between the two sides? If YHWH is Elohim, follow him; but if Baal, then follow him.\" The people answered him not a word.",
+      "after": "Eliyahu came near to all the people, and said, \"How long will you waver between the two sides? If YHWH is Elohim, follow YHWH; but if Baal, then follow him.\" The people answered him not a word."
+    },
+    {
+      "reference": "2 Kings 17:17",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "They caused their sons and their daughters to pass through the fire, and used divination and enchantments, and sold themselves to do what was broken in the sight of YHWH, to provoke him to anger.",
+      "after": "They caused their sons and their daughters to pass through the fire, and used divination and enchantments, and sold themselves to do what was broken in the sight of YHWH, to provoke YHWH to anger."
+    },
+    {
+      "reference": "2 Kings 17:23",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "until YHWH removed Israel out of his sight, as he spoke by all his servants the prophets. So Israel was carried away out of their own land to Ashur to this day.",
+      "after": "until YHWH removed Israel out of YHWH’s sight, as YHWH spoke by all YHWH’s servants the prophets. So Israel was carried away out of their own land to Ashur to this day."
+    },
+    {
+      "reference": "2 Kings 21:6",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "He made his son to pass through the fire, and practiced sorcery, and used enchantments, and dealt with those who had familiar spirits, and with wizards: he did much wrong in the sight of YHWH, to provoke him to anger.",
+      "after": "He made his son to pass through the fire, and practiced sorcery, and used enchantments, and dealt with those who had familiar spirits, and with wizards: he did much wrong in the sight of YHWH, to provoke YHWH to anger."
+    },
+    {
+      "reference": "1 Chronicles 29:11",
+      "category": "divine reign terminology",
+      "disposition": "CHANGE",
+      "before": "Yours, YHWH, is the greatness, the power, the glory, the victory, and the majesty: for all that is in the heavens and in the earth is yours. Yours is the kingdom, YHWH, and you are exalted as head above all.",
+      "after": "Yours, YHWH, is the greatness, the power, the glory, the victory, and the majesty: for all that is in the heavens and in the earth is yours. Yours is the reign, YHWH, and you are exalted as head above all."
+    },
+    {
+      "reference": "2 Chronicles 12:13",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "So king Rechavam strengthened himself in Yerushalayim, and reigned: for Rechavam was forty-one years old when he began to reign, and he reigned seventeen years in Yerushalayim, the city which YHWH had chosen out of all the tribes of Israel, to put his name there: and his mother's name was Naamah the Ammonitess.",
+      "after": "So king Rechavam strengthened himself in Yerushalayim, and reigned: for Rechavam was forty-one years old when he began to reign, and he reigned seventeen years in Yerushalayim, the city which YHWH had chosen out of all the tribes of Israel, to put YHWH’s name there: and his mother's name was Naamah the Ammonitess."
+    },
+    {
+      "reference": "2 Chronicles 14:13",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "Asa and the people who were with him pursued them to Gerar: and there fell of the Ethiopians so many that they could not recover themselves; for they were destroyed before YHWH, and before his army; and they carried away very much booty.",
+      "after": "Asa and the people who were with him pursued them to Gerar: and there fell of the Ethiopians so many that they could not recover themselves; for they were destroyed before YHWH, and before YHWH’s army; and they carried away very much booty."
+    },
+    {
+      "reference": "2 Chronicles 14:7",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "For he said to Yehudah, Let us build these cities, and make about them walls, and towers, gates, and bars; the land is yet before us, because we have sought YHWH our God; we have sought him, and he has given us rest on every side. So they built and prospered.",
+      "after": "For he said to Yehudah, Let us build these cities, and make about them walls, and towers, gates, and bars; the land is yet before us, because we have sought YHWH our God; we have sought YHWH, and YHWH has given us rest on every side. So they built and prospered."
+    },
+    {
+      "reference": "2 Chronicles 15:2",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "and he went out to meet Asa, and said to him, Hear you me, Asa, and all Yehudah and Binyamin: YHWH is with you, while you are with him; and if you seek him, he will be found of you; but if you forsake him, he will forsake you.",
+      "after": "and he went out to meet Asa, and said to him, Hear you me, Asa, and all Yehudah and Binyamin: YHWH is with you, while you are with YHWH; and if you seek YHWH, YHWH will be found of you; but if you forsake YHWH, YHWH will forsake you."
+    },
+    {
+      "reference": "2 Chronicles 15:4",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "But when in their distress they turned to YHWH, the God of Israel, and sought him, he was found of them.",
+      "after": "But when in their distress they turned to YHWH, the God of Israel, and sought YHWH, YHWH was found of them."
+    },
+    {
+      "reference": "2 Chronicles 20:20",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "They rose early in the morning, and went forth into the wilderness of Tekoa: and as they went forth, Yehoshafat stood and said, Hear me, Yehudah, and you inhabitants of Yerushalayim: believe in YHWH your God, so shall you be established; believe his prophets, so shall you prosper.",
+      "after": "They rose early in the morning, and went forth into the wilderness of Tekoa: and as they went forth, Yehoshafat stood and said, Hear me, Yehudah, and you inhabitants of Yerushalayim: believe in YHWH your God, so shall you be established; believe YHWH’s prophets, so shall you prosper."
+    },
+    {
+      "reference": "2 Chronicles 29:25",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "He set the Levites in the house of YHWH with cymbals, with stringed instruments, and with harps, according to the commandment of Dawid, and of Gad the king's seer, and Natan the prophet; for the commandment was of YHWH by his prophets.",
+      "after": "He set the Levites in the house of YHWH with cymbals, with stringed instruments, and with harps, according to the commandment of Dawid, and of Gad the king's seer, and Natan the prophet; for the commandment was of YHWH by YHWH’s prophets."
+    },
+    {
+      "reference": "2 Chronicles 33:6",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "He also made his children to pass through the fire in the valley of the son of Hinnom; and he practiced sorcery, and used enchantments, and practiced sorcery, and dealt with those who had familiar spirits, and with wizards: he did much wrong in the sight of YHWH, to provoke him to anger.",
+      "after": "He also made his children to pass through the fire in the valley of the son of Hinnom; and he practiced sorcery, and used enchantments, and practiced sorcery, and dealt with those who had familiar spirits, and with wizards: he did much wrong in the sight of YHWH, to provoke YHWH to anger."
+    },
+    {
+      "reference": "Ezra 1:2",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "Thus says Cyrus king of Paras, All the kingdoms of the earth has YHWH, the God of heavens, given me; and he has charged me to build him a house in Yerushalayim, which is in Yehudah.",
+      "after": "Thus says Cyrus king of Paras, All the kingdoms of the earth has YHWH, the God of heavens, given me; and YHWH has charged me to build a house for YHWH in Yerushalayim, which is in Yehudah."
+    },
+    {
+      "reference": "Ezra 8:22",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "For I was ashamed to ask of the king a band of soldiers and horsemen to help us against the enemy in the way, because we had spoken to the king, saying, The hand of our God is on all those who seek him, for good; but his power and his wrath is against all those who forsake him.",
+      "after": "For I was ashamed to ask of the king a band of soldiers and horsemen to help us against the enemy in the way, because we had spoken to the king, saying, The hand of our God is on all those who seek God, for good; but God’s power and wrath are against all those who forsake God."
+    },
+    {
+      "reference": "Ezra 8:23",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "So we fasted and begged our God for this: and he was entreated of us.",
+      "after": "So we fasted and begged our God for this: and God was entreated of us."
+    },
+    {
+      "reference": "Ezra 9:8",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "Now for a little moment grace has been shown from YHWH our God, to leave us a remnant to escape, and to give us a nail in his holy place, that our God may lighten our eyes, and give us a little reviving in our bondage.",
+      "after": "Now for a little moment grace has been shown from YHWH our God, to leave us a remnant to escape, and to give us a nail in YHWH’s holy place, that our God may lighten our eyes, and give us a little reviving in our bondage."
+    },
+    {
+      "reference": "Job 21:15",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "What is the Almighty, that we should serve him? What profit should we have, if we pray to him?'",
+      "after": "What is the Almighty, that we should serve the Almighty? What profit should we have, if we pray to the Almighty?'"
+    },
+    {
+      "reference": "Job 4:9",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "By the breath of Elohim they perish. By the blast of his anger are they consumed.",
+      "after": "By the breath of Elohim they perish. By the blast of Elohim’s anger are they consumed."
+    },
+    {
+      "reference": "Job 6:9",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "even that it would please Elohim to crush me; that he would let loose his hand, and cut me off!",
+      "after": "even that it would please Elohim to crush me; that Elohim would let loose Elohim’s hand, and cut me off!"
+    },
+    {
+      "reference": "Psalms 103:19",
+      "category": "divine reign terminology",
+      "disposition": "CHANGE",
+      "before": "YHWH has established YHWH’s throne in the heavens. YHWH’s kingdom rules over all.",
+      "after": "YHWH has established YHWH’s throne in the heavens. YHWH’s reign rules over all."
+    },
+    {
+      "reference": "Psalms 10:16",
+      "category": "divine royal title",
+      "disposition": "CHANGE",
+      "before": "YHWH is King forever and ever! The nations will perish out of YHWH's land.",
+      "after": "YHWH is Sovereign forever and ever! The nations will perish out of YHWH's land."
+    },
+    {
+      "reference": "Psalms 145:1",
+      "category": "divine royal title",
+      "disposition": "CHANGE",
+      "before": "I will exalt you, my God, the King. I will praise your name forever and ever.",
+      "after": "I will exalt you, my God, the Sovereign. I will praise your name forever and ever."
+    },
+    {
+      "reference": "Psalms 145:11",
+      "category": "divine reign terminology",
+      "disposition": "CHANGE",
+      "before": "They will speak of the glory of your kingdom, and talk about your power;",
+      "after": "They will speak of the glory of your reign, and talk about your power;"
+    },
+    {
+      "reference": "Psalms 145:12",
+      "category": "divine reign terminology",
+      "disposition": "CHANGE",
+      "before": "to make known to the human beings YHWH’s mighty acts, the glory of the majesty of YHWH’s kingdom.",
+      "after": "to make known to the human beings YHWH’s mighty acts, the glory of the majesty of YHWH’s reign."
+    },
+    {
+      "reference": "Psalms 145:13",
+      "category": "divine reign terminology",
+      "disposition": "CHANGE",
+      "before": "Your kingdom is an everlasting kingdom. Your dominion endures throughout all generations. YHWH is faithful in all YHWH’s words, and loving in all YHWH’s deeds.",
+      "after": "Your reign is an everlasting reign. Your dominion endures throughout all generations. YHWH is faithful in all YHWH’s words, and loving in all YHWH’s deeds."
+    },
+    {
+      "reference": "Psalms 149:2",
+      "category": "divine royal title",
+      "disposition": "CHANGE",
+      "before": "Let Israel rejoice in the one who made them. Let the children of Tzion be joyful in their King.",
+      "after": "Let Israel rejoice in the one who made them. Let the children of Tzion be joyful in their Sovereign."
+    },
+    {
+      "reference": "Psalms 22:28",
+      "category": "divine reign terminology",
+      "disposition": "CHANGE",
+      "before": "For the kingdom is YHWH's. YHWH is the ruler over the nations.",
+      "after": "For the reign is YHWH's. YHWH is the ruler over the nations."
+    },
+    {
+      "reference": "Psalms 24:10",
+      "category": "divine royal title",
+      "disposition": "CHANGE",
+      "before": "Who is this King of glory? YHWH of Armies is the King of glory! Selah.",
+      "after": "Who is this Sovereign of glory? YHWH of Armies is the Sovereign of glory! Selah."
+    },
+    {
+      "reference": "Psalms 24:7",
+      "category": "divine royal title",
+      "disposition": "CHANGE",
+      "before": "Lift up your heads, you gates! Be lifted up, you everlasting doors, and the King of glory will come in.",
+      "after": "Lift up your heads, you gates! Be lifted up, you everlasting doors, and the Sovereign of glory will come in."
+    },
+    {
+      "reference": "Psalms 24:8",
+      "category": "divine royal title",
+      "disposition": "CHANGE",
+      "before": "Who is the King of glory? YHWH strong and mighty, YHWH mighty in battle.",
+      "after": "Who is the Sovereign of glory? YHWH strong and mighty, YHWH mighty in battle."
+    },
+    {
+      "reference": "Psalms 24:9",
+      "category": "divine royal title",
+      "disposition": "CHANGE",
+      "before": "Lift up your heads, you gates; yes, lift them up, you everlasting doors, and the King of glory will come in.",
+      "after": "Lift up your heads, you gates; yes, lift them up, you everlasting doors, and the Sovereign of glory will come in."
+    },
+    {
+      "reference": "Psalms 29:10",
+      "category": "divine royal title",
+      "disposition": "CHANGE",
+      "before": "YHWH sat enthroned at the Flood. Yes, YHWH sits as King forever.",
+      "after": "YHWH sat enthroned at the Flood. Yes, YHWH sits as Sovereign forever."
+    },
+    {
+      "reference": "Psalms 44:4",
+      "category": "divine royal title",
+      "disposition": "CHANGE",
+      "before": "You are my King, Elohim. Command victories for Ya'akov!",
+      "after": "You are my Sovereign, Elohim. Command victories for Ya'akov!"
+    },
+    {
+      "reference": "Psalms 45:6",
+      "category": "audited — no change",
+      "disposition": "NO CHANGE",
+      "before": "Your throne, Elohim, is forever and ever. A scepter of equity is the scepter of your kingdom.",
+      "after": "Your throne, Elohim, is forever and ever. A scepter of equity is the scepter of your kingdom."
+    },
+    {
+      "reference": "Psalms 47:2",
+      "category": "divine royal title",
+      "disposition": "CHANGE",
+      "before": "For YHWH Most High is awesome. YHWH is a great King over all the earth.",
+      "after": "For YHWH Most High is awesome. YHWH is a great Sovereign over all the earth."
+    },
+    {
+      "reference": "Psalms 47:6",
+      "category": "divine royal title",
+      "disposition": "CHANGE",
+      "before": "Sing praise to Elohim, sing praises. Sing praises to our King, sing praises.",
+      "after": "Sing praise to Elohim, sing praises. Sing praises to our Sovereign, sing praises."
+    },
+    {
+      "reference": "Psalms 47:7",
+      "category": "divine royal title",
+      "disposition": "CHANGE",
+      "before": "For Elohim is the King of all the earth. Sing praises with understanding.",
+      "after": "For Elohim is the Sovereign of all the earth. Sing praises with understanding."
+    },
+    {
+      "reference": "Psalms 48:2",
+      "category": "divine royal title",
+      "disposition": "CHANGE",
+      "before": "Beautiful in elevation, the joy of the whole earth, is Har Tzion, on the north sides, the city of the great King.",
+      "after": "Beautiful in elevation, the joy of the whole earth, is Har Tzion, on the north sides, the city of the great Sovereign."
+    },
+    {
+      "reference": "Psalms 5:2",
+      "category": "divine royal title",
+      "disposition": "CHANGE",
+      "before": "Listen to the voice of my cry, my King and my God; for to you do I pray.",
+      "after": "Listen to the voice of my cry, my Sovereign and my God; for to you do I pray."
+    },
+    {
+      "reference": "Psalms 68:24",
+      "category": "divine royal title",
+      "disposition": "CHANGE",
+      "before": "They have seen your processions, Elohim, even the processions of my God, my King, into the sanctuary.",
+      "after": "They have seen your processions, Elohim, even the processions of my God, my Sovereign, into the sanctuary."
+    },
+    {
+      "reference": "Psalms 74:12",
+      "category": "divine royal title",
+      "disposition": "CHANGE",
+      "before": "Yet Elohim is my King of old, working salvation in the midst of the earth.",
+      "after": "Yet Elohim is my Sovereign of old, working salvation in the midst of the earth."
+    },
+    {
+      "reference": "Psalms 84:3",
+      "category": "divine royal title",
+      "disposition": "CHANGE",
+      "before": "Yes, the sparrow has found a home, and the swallow a nest for herself, where she may have her young, near your altars, YHWH of Armies, my King, and my God.",
+      "after": "Yes, the sparrow has found a home, and the swallow a nest for herself, where she may have her young, near your altars, YHWH of Armies, my Sovereign, and my God."
+    },
+    {
+      "reference": "Psalms 95:3",
+      "category": "divine royal title",
+      "disposition": "CHANGE",
+      "before": "For YHWH is a great Elohim, a great King above all gods.",
+      "after": "For YHWH is a great Elohim, a great Sovereign above all gods."
+    },
+    {
+      "reference": "Psalms 98:6",
+      "category": "divine royal title",
+      "disposition": "CHANGE",
+      "before": "With trumpets and sound of the ram's horn, make a joyful noise before the King, YHWH.",
+      "after": "With trumpets and sound of the ram's horn, make a joyful noise before the Sovereign, YHWH."
+    },
+    {
+      "reference": "Psalms 99:4",
+      "category": "divine royal title",
+      "disposition": "CHANGE",
+      "before": "The King's strength also loves justice. You do establish equity. You execute justice and righteousness in Ya'akov.",
+      "after": "The Sovereign's strength also loves justice. You do establish equity. You execute justice and righteousness in Ya'akov."
+    },
+    {
+      "reference": "Isaiah 12:2",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "Behold, Elohim is my salvation. I will trust, and will not be afraid; for Yah, YHWH, is my strength and song; and he has become my salvation.\"",
+      "after": "Behold, Elohim is my salvation. I will trust, and will not be afraid; for Yah, YHWH, is my strength and song; and YHWH has become my salvation.\""
+    },
+    {
+      "reference": "Isaiah 12:5",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "Sing to YHWH, for he has done excellent things! Let this be known in all the earth!",
+      "after": "Sing to YHWH, for YHWH has done excellent things! Let this be known in all the earth!"
+    },
+    {
+      "reference": "Isaiah 19:20",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "It will be for a sign and for a witness to YHWH of Armies in the land of Mitzrayim; for they will cry to YHWH because of oppressors, and he will send them a savior and a defender, and he will deliver them.",
+      "after": "It will be for a sign and for a witness to YHWH of Armies in the land of Mitzrayim; for they will cry to YHWH because of oppressors, and YHWH will send them a savior and a defender, and deliver them."
+    },
+    {
+      "reference": "Isaiah 19:22",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "YHWH will strike Mitzrayim, striking and healing. They will return to YHWH, and he will be entreated by them, and will heal them.",
+      "after": "YHWH will strike Mitzrayim, striking and healing. They will return to YHWH, and YHWH will be entreated by them, and will heal them."
+    },
+    {
+      "reference": "Isaiah 25:9",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "It shall be said in that day, \"Behold, this is our God! We have waited for him, and he will save us! This is YHWH! We have waited for him. We will be glad and rejoice in his salvation!\"",
+      "after": "It shall be said in that day, \"Behold, this is our God! We have waited for God, and God will save us! This is YHWH! We have waited for YHWH. We will be glad and rejoice in YHWH’s salvation!\""
+    },
+    {
+      "reference": "Isaiah 26:21",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "For, behold, YHWH comes forth out of his place to punish the inhabitants of the earth for their iniquity. The earth also will disclose her blood, and will no longer cover her slain.",
+      "after": "For, behold, YHWH comes forth out of YHWH’s place to punish the inhabitants of the earth for their iniquity. The earth also will disclose her blood, and will no longer cover her slain."
+    },
+    {
+      "reference": "Isaiah 33:22",
+      "category": "divine royal title",
+      "disposition": "CHANGE",
+      "before": "For YHWH is our judge. YHWH is our lawgiver. YHWH is our king. YHWH will save us.",
+      "after": "For YHWH is our judge. YHWH is our lawgiver. YHWH is our Sovereign. YHWH will save us."
+    },
+    {
+      "reference": "Isaiah 40:13",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "Who has directed the Ruach of YHWH, or has taught him as his counselor?",
+      "after": "Who has directed the Ruach of YHWH, or has taught YHWH as YHWH’s counselor?"
+    },
+    {
+      "reference": "Isaiah 40:18",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "To whom then will you liken Elohim? Or what likeness will you compare to him?",
+      "after": "To whom then will you liken Elohim? Or what likeness will you compare to Elohim?"
+    },
+    {
+      "reference": "Isaiah 41:21",
+      "category": "divine royal title",
+      "disposition": "CHANGE",
+      "before": "Produce your cause,\" says YHWH. \"Bring forth your strong reasons,\" says the King of Ya'akov.",
+      "after": "Produce your cause,\" says YHWH. \"Bring forth your strong reasons,\" says the Sovereign of Ya'akov."
+    },
+    {
+      "reference": "Isaiah 42:10",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "Sing to YHWH a new song, and his praise from the end of the earth, you who go down to the sea, and all that is therein, the islands and their inhabitants.",
+      "after": "Sing to YHWH a new song, and YHWH’s praise from the end of the earth, you who go down to the sea, and all that is therein, the islands and their inhabitants."
+    },
+    {
+      "reference": "Isaiah 42:12",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "Let them give glory to YHWH, and declare his praise in the islands.",
+      "after": "Let them give glory to YHWH, and declare YHWH’s praise in the islands."
+    },
+    {
+      "reference": "Isaiah 43:15",
+      "category": "divine royal title",
+      "disposition": "CHANGE",
+      "before": "I am YHWH, your Holy One, the Creator of Israel, your King.\"",
+      "after": "I am YHWH, your Holy One, the Creator of Israel, your Sovereign.\""
+    },
+    {
+      "reference": "Isaiah 44:6",
+      "category": "divine royal title",
+      "disposition": "CHANGE",
+      "before": "This is what YHWH, the King of Israel, and his Redeemer, YHWH of Armies, says: \"I am the first, and I am the last; and besides me there is no Elohim.",
+      "after": "This is what YHWH, the Sovereign of Israel, and his Redeemer, YHWH of Armies, says: \"I am the first, and I am the last; and besides me there is no Elohim."
+    },
+    {
+      "reference": "Isaiah 6:5",
+      "category": "divine royal title",
+      "disposition": "CHANGE",
+      "before": "Then I said, \"Woe is me! For I am undone, because I am a person of unclean lips, and I dwell in the midst of a people of unclean lips: for my eyes have seen the King, YHWH of Armies!\"",
+      "after": "Then I said, \"Woe is me! For I am undone, because I am a person of unclean lips, and I dwell in the midst of a people of unclean lips: for my eyes have seen the Sovereign, YHWH of Armies!\""
+    },
+    {
+      "reference": "Isaiah 8:17",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "I will wait for YHWH, who hides YHWH’s face from the house of Ya'akov, and I will look for him.",
+      "after": "I will wait for YHWH, who hides YHWH’s face from the house of Ya'akov, and I will look for YHWH."
+    },
+    {
+      "reference": "Isaiah 9:17",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "Therefore YHWH will not rejoice over their young people, neither will he have compassion on their fatherless and widows; for everyone is profane and one who does wrong, and every mouth speaks folly. For all this his anger is not turned away, but his hand is stretched out still.",
+      "after": "Therefore YHWH will not rejoice over their young people, nor have compassion on their fatherless and widows; for everyone is profane and one who does wrong, and every mouth speaks folly. For all this YHWH’s anger is not turned away, but YHWH’s hand is stretched out still."
+    },
+    {
+      "reference": "Jeremiah 10:10",
+      "category": "divine royal title",
+      "disposition": "CHANGE",
+      "before": "But YHWH is the true Elohim; Elohim is the living Elohim, and an everlasting King: at Elohim’s wrath the earth trembles, and the nations are not able to abide Elohim’s indignation.",
+      "after": "But YHWH is the true Elohim; Elohim is the living Elohim, and an everlasting Sovereign: at Elohim’s wrath the earth trembles, and the nations are not able to abide Elohim’s indignation."
+    },
+    {
+      "reference": "Jeremiah 10:7",
+      "category": "divine royal title",
+      "disposition": "CHANGE",
+      "before": "Who should not revere you, King of the nations? for to you does it appertain; because among all the wise people of the nations, and in all their royal estate, there is none like you.",
+      "after": "Who should not revere you, Sovereign of the nations? for to you does it appertain; because among all the wise people of the nations, and in all their royal estate, there is none like you."
+    },
+    {
+      "reference": "Jeremiah 13:16",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "Give glory to YHWH your God, before he cause darkness, and before your feet stumble on the dark mountains, and, while you look for light, he turn it into the shadow of death, and make it gross darkness.",
+      "after": "Give glory to YHWH your God, before YHWH causes darkness, and before your feet stumble on the dark mountains, and, while you look for light, YHWH turns it into the shadow of death, and makes it gross darkness."
+    },
+    {
+      "reference": "Jeremiah 14:10",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "Thus says YHWH to this people, Even so have they loved to wander; they have not refrained their feet: therefore YHWH does not accept them; now he will remember their iniquity, and visit their sins.",
+      "after": "Thus says YHWH to this people, Even so have they loved to wander; they have not refrained their feet: therefore YHWH does not accept them; now YHWH will remember their iniquity, and visit their sins."
+    },
+    {
+      "reference": "Jeremiah 20:13",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "Sing to YHWH, praise you YHWH; for he has delivered the soul of the needy from the hand of people who do wrong.",
+      "after": "Sing to YHWH, praise you YHWH; for YHWH has delivered the soul of the needy from the hand of people who do wrong."
+    },
+    {
+      "reference": "Jeremiah 23:19",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "Behold, the storm of YHWH, [even his] wrath, is gone forth, yes, a whirling storm: it shall burst on the head of the wicked.",
+      "after": "Behold, the storm of YHWH, [even YHWH’s] wrath, is gone forth, yes, a whirling storm: it shall burst on the head of the wicked."
+    },
+    {
+      "reference": "Jeremiah 23:20",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "The anger of YHWH shall not return, until he has executed, and until he have performed the intents of his heart: in the latter days you shall understand it perfectly.",
+      "after": "The anger of YHWH shall not return, until YHWH has executed and performed the intents of YHWH’s heart: in the latter days you shall understand it perfectly."
+    },
+    {
+      "reference": "Jeremiah 25:31",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "A noise shall come even to the end of the earth; for YHWH has a controversy with the nations; he will enter into judgment with all flesh: as for the wicked, he will give them to the sword, says YHWH.",
+      "after": "A noise shall come even to the end of the earth; for YHWH has a controversy with the nations; YHWH will enter into judgment with all flesh: as for the wicked, YHWH will give them to the sword, says YHWH."
+    },
+    {
+      "reference": "Jeremiah 46:18",
+      "category": "divine royal title",
+      "disposition": "CHANGE",
+      "before": "As I live, says the King, whose name is YHWH of Armies, surely like Tabor among the mountains, and like Carmel by the sea, so shall he come.",
+      "after": "As I live, says the Sovereign, whose name is YHWH of Armies, surely like Tabor among the mountains, and like Carmel by the sea, so shall he come."
+    },
+    {
+      "reference": "Jeremiah 48:15",
+      "category": "divine royal title",
+      "disposition": "CHANGE",
+      "before": "Moab is laid waste, and they are gone up into his cities, and his chosen young people are gone down to the slaughter, says the King, whose name is YHWH of Armies.",
+      "after": "Moab is laid waste, and they are gone up into his cities, and his chosen young people are gone down to the slaughter, says the Sovereign, whose name is YHWH of Armies."
+    },
+    {
+      "reference": "Jeremiah 4:2",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "and you shall swear, As YHWH lives, in truth, in justice, and in righteousness; and the nations shall bless themselves in him, and in him shall they glory.",
+      "after": "and you shall swear, As YHWH lives, in truth, in justice, and in righteousness; and the nations shall bless themselves in YHWH, and in YHWH shall they glory."
+    },
+    {
+      "reference": "Jeremiah 4:26",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "I saw, and behold, the fruitful field was a wilderness, and all the cities of it were broken down at the presence of YHWH, [and] before his fierce anger.",
+      "after": "I saw, and behold, the fruitful field was a wilderness, and all the cities of it were broken down at the presence of YHWH, [and] before YHWH’s fierce anger."
+    },
+    {
+      "reference": "Jeremiah 51:57",
+      "category": "divine royal title",
+      "disposition": "CHANGE",
+      "before": "I will make drunk her princes and her wise people, her governors and her deputies, and her mighty men; and they shall sleep a perpetual sleep, and not wake up, says the King, whose name is YHWH of Armies.",
+      "after": "I will make drunk her princes and her wise people, her governors and her deputies, and her mighty men; and they shall sleep a perpetual sleep, and not wake up, says the Sovereign, whose name is YHWH of Armies."
+    },
+    {
+      "reference": "Jeremiah 52:3",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "For through the anger of YHWH did it happen in Yerushalayim and Yehudah, until he had cast them out from his presence. Tzidkiyahu rebelled against the king of Bavel.",
+      "after": "For through the anger of YHWH did it happen in Yerushalayim and Yehudah, until YHWH had cast them out from YHWH’s presence. Tzidkiyahu rebelled against the king of Bavel."
+    },
+    {
+      "reference": "Jeremiah 8:19",
+      "category": "divine royal title",
+      "disposition": "CHANGE",
+      "before": "Behold, the voice of the cry of the daughter of my people from a land that is very far off: isn't YHWH in Tzion? Isn't her King in her? Why have they provoked me to anger with their engraved images, and with foreign vanities?",
+      "after": "Behold, the voice of the cry of the daughter of my people from a land that is very far off: isn't YHWH in Tzion? Isn't her Sovereign in her? Why have they provoked me to anger with their engraved images, and with foreign vanities?"
+    },
+    {
+      "reference": "Jeremiah 9:20",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "Yet hear the word of YHWH, you women, and let your ear receive the word of his mouth; and teach your daughters wailing, and everyone her neighbor lamentation.",
+      "after": "Yet hear the word of YHWH, you women, and let your ear receive the word of YHWH’s mouth; and teach your daughters wailing, and everyone her neighbor lamentation."
+    },
+    {
+      "reference": "Lamentations 1:15",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "YHWH has set at nothing all my mighty men in the midst of me; He has called a solemn assembly against me to crush my young people: YHWH has trodden as in a winepress the virgin daughter of Yehudah.",
+      "after": "YHWH has set at nothing all my mighty men in the midst of me; YHWH has called a solemn assembly against me to crush my young people: YHWH has trodden as in a winepress the virgin daughter of Yehudah."
+    },
+    {
+      "reference": "Lamentations 1:18",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "YHWH is righteous; for I have rebelled against his commandment: Please hear all you peoples, and see my sorrow: My virgins and my young people are gone into captivity.",
+      "after": "YHWH is righteous; for I have rebelled against YHWH’s commandment: Please hear all you peoples, and see my sorrow: My virgins and my young people are gone into captivity."
+    },
+    {
+      "reference": "Lamentations 2:2",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "YHWH has swallowed up all the habitations of Ya'akov, and has not pitied: He has thrown down in his wrath the strongholds of the daughter of Yehudah; He has brought them down to the ground; he has profaned the kingdom and the princes of it.",
+      "after": "YHWH has swallowed up all the habitations of Ya'akov, and has not pitied: YHWH has thrown down the strongholds of the daughter of Yehudah in wrath, brought them down to the ground, and profaned the kingdom and the princes of it."
+    },
+    {
+      "reference": "Lamentations 2:8",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "YHWH has purposed to destroy the wall of the daughter of Tzion; He has stretched out the line, he has not withdrawn his hand from destroying; He has made the rampart and wall to lament; they languish together.",
+      "after": "YHWH has purposed to destroy the wall of the daughter of Tzion; YHWH has stretched out the line, has not withdrawn the hand from destroying, and has made the rampart and wall to lament; they languish together."
+    },
+    {
+      "reference": "Lamentations 3:25",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "YHWH is good to those who wait for him, to the soul that seeks him.",
+      "after": "YHWH is good to those who wait for YHWH, to the soul that seeks YHWH."
+    },
+    {
+      "reference": "Lamentations 4:16",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "The anger of YHWH has scattered them; he will no more regard them: They didn't respect the persons of the priests, they didn't favor the elders.",
+      "after": "The anger of YHWH has scattered them; YHWH will no more regard them: They didn't respect the persons of the priests, they didn't favor the elders."
+    },
+    {
+      "reference": "Ezekiel 36:20",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "When they came to the nations, where they went, they profaned my holy name; in that men said of them, These are the people of YHWH, and are gone forth out of his land.",
+      "after": "When they came to the nations, where they went, they profaned my holy name; in that men said of them, These are the people of YHWH, and are gone forth out of YHWH’s land."
+    },
+    {
+      "reference": "Ezekiel 37:1",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "The hand of YHWH was on me, and he brought me out in the Ruach of YHWH, and set me down in the midst of the valley; and it was full of bones.",
+      "after": "The hand of YHWH was on me, and YHWH brought me out in the Ruach of YHWH, and set me down in the midst of the valley; and it was full of bones."
+    },
+    {
+      "reference": "Ezekiel 3:12",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "Then the Ruach lifted me up, and I heard behind me the voice of a great rushing, [saying], Blessed be the glory of YHWH from his place.",
+      "after": "Then the Ruach lifted me up, and I heard behind me the voice of a great rushing, [saying], Blessed be the glory of YHWH from YHWH’s place."
+    },
+    {
+      "reference": "Ezekiel 3:22",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "The hand of YHWH was there on me; and he said to me, Arise, go forth into the plain, and I will there talk with you.",
+      "after": "The hand of YHWH was there on me; and YHWH said to me, Arise, go forth into the plain, and I will there talk with you."
+    },
+    {
+      "reference": "Ezekiel 40:1",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "In the five and twentieth year of our captivity, in the beginning of the year, in the tenth [day] of the month, in the fourteenth year after that the city was struck, in the same day, the hand of YHWH was on me, and he brought me there.",
+      "after": "In the five and twentieth year of our captivity, in the beginning of the year, in the tenth [day] of the month, in the fourteenth year after that the city was struck, in the same day, the hand of YHWH was on me, and YHWH brought me there."
+    },
+    {
+      "reference": "Daniel 2:44",
+      "category": "divine reign terminology",
+      "disposition": "CHANGE",
+      "before": "In the days of those kings shall the God of heaven set up a kingdom which shall never be destroyed, nor shall the sovereignty of it be left to another people; but it shall break in pieces and consume all these kingdoms, and it shall stand forever.",
+      "after": "In the days of those kings shall the God of heaven set up a reign which shall never be destroyed, nor shall the sovereignty of it be left to another people; but it shall break in pieces and consume all these kingdoms, and it shall stand forever."
+    },
+    {
+      "reference": "Daniel 3:17",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "If it be [so], our God whom we serve is able to deliver us from the burning fiery furnace; and he will deliver us out of your hand, O king.",
+      "after": "If it be [so], our God whom we serve is able to deliver us from the burning fiery furnace; and our God will deliver us out of your hand, O king."
+    },
+    {
+      "reference": "Daniel 4:3",
+      "category": "divine reign terminology",
+      "disposition": "CHANGE",
+      "before": "How great are the Most High’s signs! and how mighty are the Most High’s wonders! the Most High’s kingdom is an everlasting kingdom, and the Most High’s dominion is from generation to generation.",
+      "after": "How great are the Most High’s signs! and how mighty are the Most High’s wonders! the Most High’s reign is an everlasting reign, and the Most High’s dominion is from generation to generation."
+    },
+    {
+      "reference": "Daniel 4:34",
+      "category": "divine reign terminology",
+      "disposition": "CHANGE",
+      "before": "At the end of the days I, Nebuchadnezzar, lifted up my eyes to heaven, and my understanding returned to me, and I blessed the Most High, and I praised and honored the one who lives forever; for the Most High’s dominion is an everlasting dominion, and the Most High’s kingdom from generation to generation.",
+      "after": "At the end of the days I, Nebuchadnezzar, lifted up my eyes to heaven, and my understanding returned to me, and I blessed the Most High, and I praised and honored the one who lives forever; for the Most High’s dominion is an everlasting dominion, and the Most High’s reign from generation to generation."
+    },
+    {
+      "reference": "Daniel 4:37",
+      "category": "divine royal title",
+      "disposition": "CHANGE",
+      "before": "Now I, Nebuchadnezzar, praise and extol and honor the King of heaven; for all the King of heaven’s works are truth, and the King of heaven’s ways justice; and the King of heaven is able to abase those who walk in pride.",
+      "after": "Now I, Nebuchadnezzar, praise and extol and honor the Sovereign of heaven; for all the Sovereign of heaven’s works are truth, and the Sovereign of heaven’s ways justice; and the Sovereign of heaven is able to abase those who walk in pride."
+    },
+    {
+      "reference": "Daniel 5:23",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "but have lifted up yourself against YHWH of heaven; and they have brought the vessels of his house before you, and you and your lords, your wives and your concubines, have drunk wine from them; and you have praised the gods of silver and gold, of brass, iron, wood, and stone, which don't see, nor hear, nor know; and the Elohim in whose hand your breath is, and whose are all your ways, you have not glorified.",
+      "after": "but have lifted up yourself against YHWH of heaven; and they have brought the vessels of YHWH’s house before you, and you and your lords, your wives and your concubines, have drunk wine from them; and you have praised the gods of silver and gold, of brass, iron, wood, and stone, which don't see, nor hear, nor know; and the Elohim in whose hand your breath is, and whose are all your ways, you have not glorified."
+    },
+    {
+      "reference": "Daniel 6:26",
+      "category": "divine reign terminology",
+      "disposition": "CHANGE",
+      "before": "I make a decree, that in all the dominion of my kingdom men tremble and fear before the God of Dani'el; for Elohim is the living Elohim, and steadfast forever, Elohim’s kingdom that which shall not be destroyed; and Elohim’s dominion shall be even to the end.",
+      "after": "I make a decree, that in all the dominion of my kingdom men tremble and fear before the God of Dani'el; for Elohim is the living Elohim, and steadfast forever, Elohim’s reign shall not be destroyed; and Elohim’s dominion shall be even to the end."
+    },
+    {
+      "reference": "Daniel 7:27",
+      "category": "source / collective pronoun correction",
+      "disposition": "CHANGE",
+      "before": "The kingdom and the dominion, and the greatness of the kingdoms under the whole sky, shall be given to the people of the saints of the Most High: his kingdom is an everlasting kingdom, and all dominions shall serve and obey him.",
+      "after": "The kingdom and the dominion, and the greatness of the kingdoms under the whole sky, shall be given to the people of the saints of the Most High: their kingdom is an everlasting kingdom, and all dominions shall serve and obey them."
+    },
+    {
+      "reference": "Daniel 9:10",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "neither have we obeyed the voice of YHWH our God, to walk in his laws, which he set before us by his servants the prophets.",
+      "after": "neither have we obeyed the voice of YHWH our God, to walk in YHWH’s laws, which were set before us by YHWH’s servants the prophets."
+    },
+    {
+      "reference": "Hosea 11:10",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "They will walk after YHWH, who will roar like a lion; for he will roar, and the children will come trembling from the west.",
+      "after": "They will walk after YHWH, who will roar like a lion; for YHWH will roar, and the children will come trembling from the west."
+    },
+    {
+      "reference": "Hosea 11:7",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "My people are determined to turn from me. Though they call to the Most High, he certainly won't exalt them.",
+      "after": "My people are determined to turn from me. Though they call to the Most High, the Most High certainly won't exalt them."
+    },
+    {
+      "reference": "Hosea 3:5",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "Afterward the children of Israel shall return, and seek YHWH their God, and Dawid their king, and shall come with trembling to YHWH and to his blessings in the last days.",
+      "after": "Afterward the children of Israel shall return, and seek YHWH their God, and Dawid their king, and shall come with trembling to YHWH and to YHWH’s blessings in the last days."
+    },
+    {
+      "reference": "Hosea 6:1",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "\"Come, and let us return to YHWH; for he has torn us to pieces, and he will heal us; he has injured us, and he will bind up our wounds.",
+      "after": "\"Come, and let us return to YHWH; for YHWH has torn us to pieces and will heal us; YHWH has injured us and will bind up our wounds."
+    },
+    {
+      "reference": "Hosea 7:10",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "The pride of Israel testifies to his face; yet they haven't returned to YHWH their God, nor sought him, for all this.",
+      "after": "The pride of Israel testifies to his face; yet they haven't returned to YHWH their God, nor sought YHWH, for all this."
+    },
+    {
+      "reference": "Amos 7:1",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "Thus YHWH God showed me: and behold, he formed locusts in the beginning of the shooting up of the latter growth; and behold, it was the latter growth after the king's harvest.",
+      "after": "Thus YHWH God showed me: and behold, YHWH formed locusts in the beginning of the shooting up of the latter growth; and behold, it was the latter growth after the king's harvest."
+    },
+    {
+      "reference": "Obadiah 1:21",
+      "category": "divine reign terminology",
+      "disposition": "CHANGE",
+      "before": "Saviors will go up on Har Tzion to judge the mountains of Esav, and the kingdom will be YHWH's.",
+      "after": "Saviors will go up on Har Tzion to judge the mountains of Esav, and the reign will be YHWH's."
+    },
+    {
+      "reference": "Micah 1:2",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "Hear, you peoples, all of you. Listen, O earth, and all that is therein: and let YHWH God be witness against you, YHWH from his holy temple.",
+      "after": "Hear, you peoples, all of you. Listen, O earth, and all that is therein: and let YHWH God be witness against you, YHWH from YHWH’s holy temple."
+    },
+    {
+      "reference": "Micah 1:3",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "For, behold, YHWH comes forth out of his place, and will come down and tread on the high places of the earth.",
+      "after": "For, behold, YHWH comes forth out of YHWH’s place, and will come down and tread on the high places of the earth."
+    },
+    {
+      "reference": "Micah 4:12",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "But they don't know the thoughts of YHWH, neither do they understand his counsel; for he has gathered them like the sheaves to the threshing floor.",
+      "after": "But they don't know the thoughts of YHWH, neither do they understand YHWH’s counsel; for YHWH has gathered them like the sheaves to the threshing floor."
+    },
+    {
+      "reference": "Nahum 1:7",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "YHWH is good, a stronghold in the day of trouble; and he knows those who take refuge in him.",
+      "after": "YHWH is good, a stronghold in the day of trouble; and YHWH knows those who take refuge in YHWH."
+    },
+    {
+      "reference": "Habakkuk 2:20",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "But YHWH is in his holy temple. Let all the earth be silent before him!\"",
+      "after": "But YHWH is in the holy temple. Let all the earth be silent before YHWH!\""
+    },
+    {
+      "reference": "Zephaniah 1:18",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "Neither their silver nor their gold will be able to deliver them in the day of YHWH's wrath, but the whole land will be devoured by the fire of his jealousy; for he will make an end, yes, a terrible end, of all those who dwell in the land.",
+      "after": "Neither their silver nor their gold will be able to deliver them in the day of YHWH's wrath, but the whole land will be devoured by the fire of YHWH’s jealousy; for YHWH will make an end, yes, a terrible end, of all those who dwell in the land."
+    },
+    {
+      "reference": "Zephaniah 1:6",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "those who have turned back from following YHWH, and those who haven't sought YHWH nor inquired after him.",
+      "after": "those who have turned back from following YHWH, and those who haven't sought YHWH nor inquired after YHWH."
+    },
+    {
+      "reference": "Zephaniah 2:3",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "Seek YHWH, all you humble of the land, who have kept his ordinances. Seek righteousness. Seek humility. It may be that you will be hidden in the day of YHWH's anger.",
+      "after": "Seek YHWH, all you humble of the land, who have kept YHWH’s ordinances. Seek righteousness. Seek humility. It may be that you will be hidden in the day of YHWH's anger."
+    },
+    {
+      "reference": "Zephaniah 3:15",
+      "category": "divine royal title",
+      "disposition": "CHANGE",
+      "before": "YHWH has taken away your judgments. YHWH has thrown out your enemy. The King of Israel, YHWH, is in the midst of you. You will not be afraid of brokenness any more.",
+      "after": "YHWH has taken away your judgments. YHWH has thrown out your enemy. The Sovereign of Israel, YHWH, is in the midst of you. You will not be afraid of brokenness any more."
+    },
+    {
+      "reference": "Zephaniah 3:9",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "For then I will purify the lips of the peoples, that they may all call on the name of YHWH, to serve him shoulder to shoulder.",
+      "after": "For then I will purify the lips of the peoples, that they may all call on the name of YHWH, to serve YHWH shoulder to shoulder."
+    },
+    {
+      "reference": "Zechariah 10:3",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "My anger is kindled against the shepherds, and I will punish the male goats; For YHWH of Armies has visited his flock, the house of Yehudah, and will make them as his majestic horse in the battle.",
+      "after": "My anger is kindled against the shepherds, and I will punish the male goats; For YHWH of Armies has visited YHWH’s flock, the house of Yehudah, and will make them as YHWH’s majestic horse in the battle."
+    },
+    {
+      "reference": "Zechariah 14:16",
+      "category": "divine royal title",
+      "disposition": "CHANGE",
+      "before": "It will happen that everyone who is left of all the nations that came against Yerushalayim will go up from year to year to worship the King, YHWH of Armies, and to keep the feast of tents.",
+      "after": "It will happen that everyone who is left of all the nations that came against Yerushalayim will go up from year to year to worship the Sovereign, YHWH of Armies, and to keep the feast of tents."
+    },
+    {
+      "reference": "Zechariah 14:17",
+      "category": "divine royal title",
+      "disposition": "CHANGE",
+      "before": "It will be, that whoever of all the families of the earth doesn't go up to Yerushalayim to worship the King, YHWH of Armies, on them there will be no rain.",
+      "after": "It will be, that whoever of all the families of the earth doesn't go up to Yerushalayim to worship the Sovereign, YHWH of Armies, on them there will be no rain."
+    },
+    {
+      "reference": "Zechariah 14:9",
+      "category": "divine royal title",
+      "disposition": "CHANGE",
+      "before": "YHWH will be King over all the earth. In that day YHWH will be one, and YHWH’s name one.",
+      "after": "YHWH will be Sovereign over all the earth. In that day YHWH will be one, and YHWH’s name one."
+    },
+    {
+      "reference": "Zechariah 2:13",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "Be silent, all flesh, before YHWH; for he has roused himself from his holy habitation!\"",
+      "after": "Be silent, all flesh, before YHWH; for YHWH is aroused from YHWH’s holy habitation!\""
+    },
+    {
+      "reference": "Zechariah 7:12",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "Yes, they made their hearts as hard as flint, lest they might hear the law, and the words which YHWH of Armies had sent by his Ruach by the former prophets. Therefore great wrath came from YHWH of Armies.",
+      "after": "Yes, they made their hearts as hard as flint, lest they might hear the law, and the words which YHWH of Armies had sent by YHWH’s Ruach by the former prophets. Therefore great wrath came from YHWH of Armies."
+    },
+    {
+      "reference": "Zechariah 9:14",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "YHWH will be seen over them; and his arrow will go flash like lightning; and YHWH God will blow the trumpet, and will go with whirlwinds of the south.",
+      "after": "YHWH will be seen over them; and YHWH’s arrow will go flash like lightning; and YHWH God will blow the trumpet, and will go with whirlwinds of the south."
+    },
+    {
+      "reference": "Malachi 1:14",
+      "category": "divine royal title",
+      "disposition": "CHANGE",
+      "before": "\"But the deceiver is cursed, who has in his flock a male, and vows, and sacrifices to YHWH a blemished thing; for I am a great King,\" says YHWH of Armies, \"and my name is awesome among the nations.\"",
+      "after": "\"But the deceiver is cursed, who has in his flock a male, and vows, and sacrifices to YHWH a blemished thing; for I am a great Sovereign,\" says YHWH of Armies, \"and my name is awesome among the nations.\""
+    },
+    {
+      "reference": "Matthew 5:35",
+      "category": "divine royal title",
+      "disposition": "CHANGE",
+      "before": "nor by the earth, for it is the footstool of his feet; nor by Yerushalayim, for it is the city of the great King.",
+      "after": "nor by the earth, for it is the footstool of his feet; nor by Yerushalayim, for it is the city of the great Sovereign."
+    },
+    {
+      "reference": "Matthew 5:45",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "that you may be children of your Cosmic Parent who is in heaven. For he makes his sun to rise on the unripe and the good, and sends rain on the just and the unjust.",
+      "after": "that you may be children of your Cosmic Parent who is in heaven. For the Cosmic Parent makes the sun to rise on the unripe and the good, and sends rain on the just and the unjust."
+    },
+    {
+      "reference": "Matthew 6:8",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "Therefore don't be like them, for your Cosmic Parent knows what things you need, before you ask him.",
+      "after": "Therefore don't be like them, for your Cosmic Parent knows what things you need, before you ask."
+    },
+    {
+      "reference": "Matthew 7:11",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "If you then, being unripe and still able to sour, know how to give good gifts to your children, how much more will your Cosmic Parent who is in heaven give good things to those who seek from him!",
+      "after": "If you then, being unripe and still able to sour, know how to give good gifts to your children, how much more will your Cosmic Parent who is in heaven give good things to those who seek from the Cosmic Parent!"
+    },
+    {
+      "reference": "Matthew 9:38",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "Pray therefore that God of the harvest will send out laborers into his harvest.\"",
+      "after": "Pray therefore that God of the harvest will send out laborers into God’s harvest.\""
+    },
+    {
+      "reference": "Luke 2:38",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "Coming up at that very hour, she gave thanks to God, and spoke of him to all those who were looking for redemption in Yerushalayim.",
+      "after": "Coming up at that very hour, she gave thanks to God, and spoke of God to all those who were looking for redemption in Yerushalayim."
+    },
+    {
+      "reference": "Luke 3:4",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "As it is written in the book of the words of Yeshayahu the prophet, \"The voice of one crying in the wilderness, 'Make ready the way of YHWH. Make his paths straight.",
+      "after": "As it is written in the book of the words of Yeshayahu the prophet, \"The voice of one crying in the wilderness, 'Make ready the way of YHWH. Make YHWH’s paths straight."
+    },
+    {
+      "reference": "Luke 6:35",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "But love your enemies, and do good, and lend, expecting nothing back; and your reward will be great, and you will be children of the Most High; for he is kind toward the unthankful and the unripe.",
+      "after": "But love your enemies, and do good, and lend, expecting nothing back; and your reward will be great, and you will be children of the Most High; for the Most High is kind toward the unthankful and the unripe."
+    },
+    {
+      "reference": "John 8:29",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "The one who sent me is with me. The Cosmic Parent hasn't left me alone, for I always do the things that are pleasing to him.\"",
+      "after": "The one who sent me is with me. The Cosmic Parent hasn't left me alone, for I always do the things that please the Cosmic Parent.\""
+    },
+    {
+      "reference": "John 8:42",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "Therefore Yeshua said to them, \"If Elohim were your father, you would love me, for I came out and have come from Elohim. For I haven't come of myself, but he sent me.",
+      "after": "Therefore Yeshua said to them, \"If Elohim were your father, you would love me, for I came out and have come from Elohim. For I haven't come of myself, but Elohim sent me."
+    },
+    {
+      "reference": "Romans 11:21",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "for if God didn't spare the natural branches, neither will he spare you.",
+      "after": "for if God didn't spare the natural branches, neither will God spare you."
+    },
+    {
+      "reference": "Romans 11:22",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "See then the goodness and severity of God. Toward those who fell, severity; but toward you, goodness, if you continue in his goodness; otherwise you also will be cut off.",
+      "after": "See then the goodness and severity of God. Toward those who fell, severity; but toward you, goodness, if you continue in God’s goodness; otherwise you also will be cut off."
+    },
+    {
+      "reference": "Romans 11:32",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "For God has shut up all to disobedience, that he might have mercy on all.",
+      "after": "For God has shut up all to disobedience, that God might have mercy on all."
+    },
+    {
+      "reference": "Romans 1:21",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "Because, knowing God, they didn't glorify him as God, neither gave thanks, but became vain in their reasoning, and their senseless heart was darkened.",
+      "after": "Because, knowing God, they didn't glorify God as God, neither gave thanks, but became vain in their reasoning, and their senseless heart was darkened."
+    },
+    {
+      "reference": "Romans 3:29",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "Or is God the God of Judeans only? Isn't he the God of Gentiles also? Yes, of Gentiles also,",
+      "after": "Or is God the God of Judeans only? Isn't God the God of Gentiles also? Yes, of Gentiles also,"
+    },
+    {
+      "reference": "Romans 5:8",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "But God commends his own love toward us, in that while we were yet sinners, Messiah died for us.",
+      "after": "But God commends God’s own love toward us, in that while we were yet sinners, Messiah died for us."
+    },
+    {
+      "reference": "1 Corinthians 3:19",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "For the wisdom of this world is foolishness with God. For it is written, \"He has taken the wise in their craftiness.\"",
+      "after": "For the wisdom of this world is foolishness with God. For it is written, \"God has taken the wise in their craftiness.\""
+    },
+    {
+      "reference": "1 Timothy 1:17",
+      "category": "divine royal title",
+      "disposition": "CHANGE",
+      "before": "Now to the King age-enduring, immortal, invisible, to God who alone is wise, be honor and glory forever and ever. Amen.",
+      "after": "Now to the Sovereign age-enduring, immortal, invisible, to God who alone is wise, be honor and glory forever and ever. Amen."
+    },
+    {
+      "reference": "James 4:10",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "Humble yourselves in the sight of God, and he will exalt you.",
+      "after": "Humble yourselves in the sight of God, and God will exalt you."
+    },
+    {
+      "reference": "James 4:8",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "Draw near to God, and he will draw near to you. Cleanse your hands, you sinners; and purify your hearts, you double-minded.",
+      "after": "Draw near to God, and God will draw near to you. Cleanse your hands, you sinners; and purify your hearts, you double-minded."
+    },
+    {
+      "reference": "1 John 5:9",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "If we receive the witness of people, the witness of God is greater; for this is God's testimony which he has testified concerning God’s Son.",
+      "after": "If we receive the witness of people, the witness of God is greater; for this is God's testimony which God has testified concerning God’s Son."
+    },
+    {
+      "reference": "Revelation 10:7",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "but in the days of the voice of the seventh angel, when he is about to sound, then the mystery of God is finished, as he declared to his servants, the prophets.",
+      "after": "but in the days of the voice of the seventh angel, when he is about to sound, then the mystery of God is finished, as God declared to God’s servants, the prophets."
+    },
+    {
+      "reference": "Revelation 15:3",
+      "category": "divine royal title",
+      "disposition": "CHANGE",
+      "before": "They sang the song of Moshe, the servant of God, and the song of the Lamb, saying, \"Great and marvelous are your works, Sovereign God, the Almighty! Righteous and true are your ways, you King of the nations.",
+      "after": "They sang the song of Moshe, the servant of God, and the song of the Lamb, saying, \"Great and marvelous are your works, Sovereign God, the Almighty! Righteous and true are your ways, you Sovereign of the nations."
+    },
+    {
+      "reference": "Revelation 16:19",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "The great city was divided into three parts, and the cities of the nations fell. Bavel the great was remembered in the sight of God, to give to her the cup of the wine of the fierceness of his wrath.",
+      "after": "The great city was divided into three parts, and the cities of the nations fell. Bavel the great was remembered in the sight of God, to give to her the cup of the wine of the fierceness of God’s wrath."
+    },
+    {
+      "reference": "Revelation 16:9",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "People were scorched with great heat, and people blasphemed the name of God who has the power over these plagues. They didn't turn back and give him glory.",
+      "after": "People were scorched with great heat, and people blasphemed the name of God who has the power over these plagues. They didn't turn back and give God glory."
+    },
+    {
+      "reference": "Revelation 7:15",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "Therefore they are before the throne of God, they serve him day and night in his temple. The one who sits on the throne will spread their tent over them.",
+      "after": "Therefore they are before the throne of God, they serve God day and night in God’s temple. The one who sits on the throne will spread their tent over them."
+    },
+    {
+      "reference": "Joel 2:13",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "Tear your heart, and not your garments, and turn to YHWH, your God; for he is gracious and merciful, slow to anger, and abundant in loving kindness, and relents from sending calamity.",
+      "after": "Tear your heart, and not your garments, and turn to YHWH, your God; for YHWH is gracious and merciful, slow to anger, and abundant in loving kindness, and relents from sending calamity."
+    },
+    {
+      "reference": "Joel 2:23",
+      "category": "divine pronoun",
+      "disposition": "CHANGE",
+      "before": "\"Be glad then, you children of Tzion, and rejoice in YHWH, your God; for he gives you the former rain in just measure, and he causes the rain to come down for you, the former rain and the latter rain, as before.",
+      "after": "\"Be glad then, you children of Tzion, and rejoice in YHWH, your God; for YHWH gives you the former rain in just measure, and causes the rain to come down for you, the former rain and the latter rain, as before."
+    }
+  ]
+}
