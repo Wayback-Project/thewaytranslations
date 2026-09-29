@@ -12,8 +12,9 @@ This report freezes the editorial proposal only. The canonical EPUB and downstre
 - Audit rows reviewed: **177**
 - Actual release changes: **176 verses across 37 books**
 - Audited no-change: **Psalm 45:6**
-- Final ledger: `change-logs/reports/2026-09-29-divine-language-final-ledger.tsv`
-- Final ledger SHA-256: `d94bcdf53b07612025cd89ad0660b2ec8ec4980d2da68b22aad55c15c7c67dea`
+- Public reference ledger: `change-logs/reports/2026-09-29-divine-language-final-ledger.tsv`
+- Public reference-ledger SHA-256: `d0c8b8a4716d45c569a55b07af459cd841b53341a404a2607a352bf0f17c1882`
+- Exact before/after release authority: Google final-review table (177 rows; 176 changes + Psalm 45:6 no-change)
 
 ## Final decision rule
 
@@ -88,7 +89,7 @@ Daniel 7:27
 
 ## Print authority
 
-The exact print/release authority is the TSV ledger named above and the corresponding Google final-review table. For every one of the 176 release rows, print production must use the **Final text** field. Psalm 45:6 remains unchanged.
+The public TSV is the complete reference/category/disposition index for all 177 audited places. The **exact before/after print and release authority is the corresponding Google final-review table**. For every one of the 176 release rows, print production must use the **Final text** field. Psalm 45:6 remains unchanged.
 
 The table's before/after strings are the release boundary: no surrounding Scripture wording may change except what is explicitly present in an approved Final text cell.
 
