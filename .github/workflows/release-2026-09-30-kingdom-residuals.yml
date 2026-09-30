@@ -1,0 +1,36 @@
+name: Release kingdom residuals 2026-09-30
+
+on:
+  push:
+    branches:
+      - release/kingdom-residuals-2026-09-30
+    paths:
+      - '.github/workflows/release-2026-09-30-kingdom-residuals.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    if: ${{ !contains(github.event.head_commit.message, '[skip kingdom release]') }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: release/kingdom-residuals-2026-09-30
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Run exact three-verse canonical correction
+        run: python tools/local/release_2026_09_30_kingdom_residuals.py
+      - name: Commit canonical correction artifacts
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add current-form-documents/the-way-current.epub current-form-documents/mobile-reader current-form-documents/original-name-registry.json rendered-documents-history change-logs/reports/2026-09-30-kingdom-residual-release.json editor-notes/consistency/2026-09-30-kingdom-residual-release.md README.md current-form-documents/README.md current-form-documents/EPUB-REFRESH-INSTRUCTIONS.md rendered-documents-history/LOG.md
+          git diff --cached --quiet && { echo 'No canonical correction changes produced' >&2; exit 1; }
+          git commit -m 'Release Daniel 7 kingdom residual to reign correction [skip kingdom release]'
+          git push origin HEAD:release/kingdom-residuals-2026-09-30
