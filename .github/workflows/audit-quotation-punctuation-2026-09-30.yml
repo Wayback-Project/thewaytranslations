@@ -1,0 +1,40 @@
+name: Audit quotation and punctuation integrity 2026-09-30
+
+on:
+  push:
+    branches:
+      - proposal/quotation-punctuation-audit-2026-09-30
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Run whole-Bible quotation and punctuation audit
+        run: python3 scripts/audit_quotation_punctuation_2026_09_30.py
+
+      - name: Require audit reports
+        run: |
+          test -s change-logs/reports/2026-09-30-quotation-punctuation-audit.md
+          test -s change-logs/reports/2026-09-30-quotation-punctuation-candidates.tsv
+          grep -q 'Genesis 20:13' change-logs/reports/2026-09-30-quotation-punctuation-audit.md
+
+      - name: Commit audit reports to proposal branch
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add change-logs/reports/2026-09-30-quotation-punctuation-audit.md \
+                  change-logs/reports/2026-09-30-quotation-punctuation-candidates.tsv
+          if git diff --cached --quiet; then
+            echo 'Audit reports unchanged.'
+          else
+            git commit -m 'Record quotation punctuation audit [skip ci]'
+            git push origin HEAD:proposal/quotation-punctuation-audit-2026-09-30
+          fi
