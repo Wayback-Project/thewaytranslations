@@ -2,7 +2,6 @@
 from __future__ import annotations
 
 import json, os, re, shutil, tempfile, zipfile
-from collections import defaultdict
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -112,7 +111,7 @@ def main():
     if (len(post_rows),post_tokens)!=(203,215): raise RuntimeError(f'post kingdom inventory mismatch verses={len(post_rows)} tokens={post_tokens}')
 
     retained={
-      ('numbers',32,33):('kingdom',),
+      ('numbers',32,33):('kingdom','kingdom'),
       ('daniel',5,21):('kingdom',),
       ('daniel',7,23):('kingdom','kingdoms'),
       ('daniel',7,24):('kingdom',),
