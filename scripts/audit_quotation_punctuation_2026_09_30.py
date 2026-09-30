@@ -11,7 +11,6 @@ import re
 import zipfile
 from collections import Counter, defaultdict
 from pathlib import Path
-from xml.etree import ElementTree as ET
 
 ROOT = Path(__file__).resolve().parents[1]
 CANON_CONTENT = ROOT / "current-form-documents/mobile-reader/content.json"
@@ -20,6 +19,18 @@ OUT_MD = ROOT / "change-logs/reports/2026-09-30-quotation-punctuation-audit.md"
 OUT_TSV = ROOT / "change-logs/reports/2026-09-30-quotation-punctuation-candidates.tsv"
 
 QUOTE_CHARS = set('"\'“”‘’')
+DETERMINISTIC_CATEGORIES = [
+    "CONFIRMED_SPACED_NESTED_CLOSERS",
+    "CONFIRMED_SPACE_BEFORE_CLOSING_QUOTE",
+    "CONFIRMED_SPACE_AFTER_OPENING_QUOTE",
+    "CONFIRMED_SPACE_BEFORE_PUNCTUATION",
+    "CONFIRMED_REPLACEMENT_CHARACTER",
+    "CONFIRMED_REPEATED_SPACES",
+]
+REVIEW_CATEGORIES = [
+    "REVIEW_3PLUS_QUOTES_WITHIN_10_CHARS",
+    "REVIEW_REPEATED_PUNCTUATION",
+]
 
 
 def load_search(path: Path):
@@ -39,7 +50,7 @@ def ref(row):
 
 
 def quote_proximity(text: str):
-    """Return merged spans containing 3+ quote-like glyphs inside 10 characters."""
+    """Merged spans containing 3+ quote-like glyphs inside a 10-character window."""
     positions = [(i, ch) for i, ch in enumerate(text) if ch in QUOTE_CHARS]
     hits = []
     for n in range(len(positions)):
@@ -60,9 +71,14 @@ def quote_proximity(text: str):
 
 def suspicious(text: str):
     findings = []
+
     # Deterministic typography / encoding candidates.
     for m in re.finditer(r"([”’])\s+([”’])", text):
         findings.append(("CONFIRMED_SPACED_NESTED_CLOSERS", m.start(), m.end()))
+    for m in re.finditer(r"\S\s+[”’]", text):
+        findings.append(("CONFIRMED_SPACE_BEFORE_CLOSING_QUOTE", m.start(), m.end()))
+    for m in re.finditer(r"[“‘]\s+\S", text):
+        findings.append(("CONFIRMED_SPACE_AFTER_OPENING_QUOTE", m.start(), m.end()))
     for m in re.finditer(r"\s+[,:;!?]", text):
         findings.append(("CONFIRMED_SPACE_BEFORE_PUNCTUATION", m.start(), m.end()))
     for m in re.finditer(r"\uFFFD", text):
@@ -75,10 +91,6 @@ def suspicious(text: str):
         findings.append(("REVIEW_3PLUS_QUOTES_WITHIN_10_CHARS", start, end))
     for m in re.finditer(r"(?<!\.)\.\.(?!\.)|,,|;;|::|!!|\?\?", text):
         findings.append(("REVIEW_REPEATED_PUNCTUATION", m.start(), m.end()))
-    for m in re.finditer(r'"', text):
-        findings.append(("REVIEW_STRAIGHT_DOUBLE_QUOTE", m.start(), m.end()))
-    for m in re.finditer(r"(?<![A-Za-z0-9])'(?![A-Za-z0-9])", text):
-        findings.append(("REVIEW_STRAIGHT_SINGLE_QUOTE", m.start(), m.end()))
     return findings
 
 
@@ -88,26 +100,7 @@ def snippet(text: str, start: int, end: int, radius: int = 65):
     return ("…" if a else "") + text[a:b] + ("…" if b < len(text) else "")
 
 
-def epub_verse_texts(path: Path):
-    verses = {}
-    with zipfile.ZipFile(path) as zf:
-        for name in zf.namelist():
-            if not name.lower().endswith((".xhtml", ".html", ".htm")):
-                continue
-            raw = zf.read(name)
-            try:
-                root = ET.fromstring(raw)
-            except ET.ParseError:
-                continue
-            for elem in root.iter():
-                ident = elem.attrib.get("id", "")
-                if not ident.startswith("v-"):
-                    continue
-                verses[ident] = "".join(elem.itertext()).strip()
-    return verses
-
-
-def source_occurrences():
+def source_spaced_closer_occurrences():
     rows = []
     pattern = re.compile(r"[”’]\s+[”’]")
     for path in sorted((ROOT / "original-documents").glob("*.txt")):
@@ -118,18 +111,66 @@ def source_occurrences():
     return rows
 
 
+def epub_raw_audit(path: Path):
+    xhtml_members = 0
+    spaced_nested = 0
+    space_before_close = 0
+    space_after_open = 0
+    trigger = False
+    with zipfile.ZipFile(path) as zf:
+        for name in zf.namelist():
+            if not name.lower().endswith((".xhtml", ".html", ".htm")):
+                continue
+            xhtml_members += 1
+            text = zf.read(name).decode("utf-8", errors="replace")
+            spaced_nested += len(re.findall(r"[”’]\s+[”’]", text))
+            space_before_close += len(re.findall(r"\S\s+[”’]", text))
+            space_after_open += len(re.findall(r"[“‘]\s+\S", text))
+            trigger = trigger or ('.” ’ ”' in text)
+    return {
+        "xhtml_members": xhtml_members,
+        "spaced_nested": spaced_nested,
+        "space_before_close": space_before_close,
+        "space_after_open": space_after_open,
+        "trigger": trigger,
+    }
+
+
+def ordered_refs(candidates, category):
+    seen = set()
+    out = []
+    for item in candidates:
+        if item["category"] != category or item["reference"] in seen:
+            continue
+        seen.add(item["reference"])
+        out.append(item["reference"])
+    return out
+
+
 def main():
     canon_data, canon_rows = load_search(CANON_CONTENT)
     if len(canon_rows) != 31102:
         raise SystemExit(f"Expected 31,102 canonical search rows, found {len(canon_rows)}")
 
-    epub_map = epub_verse_texts(EPUB)
-
     candidates = []
     by_category = Counter()
     refs_by_category = defaultdict(set)
+    style = Counter()
+
     for row in canon_rows:
         text = row.get("text", "")
+        # Style inventory only — presence is not classified as an error.
+        if '"' in text:
+            style["verses_with_straight_double_quote"] += 1
+        if re.search(r"(?<![A-Za-z0-9])'(?![A-Za-z0-9])", text):
+            style["verses_with_isolated_straight_single_quote"] += 1
+        if "“" in text or "”" in text:
+            style["verses_with_curly_double_quote"] += 1
+        if "‘" in text or "’" in text:
+            style["verses_with_curly_single_quote_or_apostrophe"] += 1
+        if ('"' in text) and ("“" in text or "”" in text):
+            style["verses_mixing_straight_and_curly_double_quotes"] += 1
+
         for category, start, end in suspicious(text):
             by_category[category] += 1
             refs_by_category[category].add(ref(row))
@@ -151,11 +192,8 @@ def main():
         raise SystemExit(f"Genesis 20:13 no longer has expected audit trigger: {genesis_text}")
     proposed_genesis = genesis_text.replace('.” ’ ”', '.”’”')
 
-    source_hits = source_occurrences()
-
-    with zipfile.ZipFile(EPUB) as zf:
-        epub_joined = b"\n".join(zf.read(n) for n in zf.namelist() if n.lower().endswith(".xhtml"))
-    epub_has_trigger = '.” ’ ”'.encode("utf-8") in epub_joined
+    source_hits = source_spaced_closer_occurrences()
+    epub = epub_raw_audit(EPUB)
 
     OUT_TSV.parent.mkdir(parents=True, exist_ok=True)
     with OUT_TSV.open("w", encoding="utf-8", newline="") as fh:
@@ -179,12 +217,15 @@ def main():
         f"- Current canonical verse: `{genesis_text}`",
         f"- Proposed typography-only normalization: `{proposed_genesis}`",
         "- Proposed change: remove the two inter-quote spaces only (`.” ’ ”` → `.”’”`). No wording and no quotation level is removed.",
-        f"- Canonical EPUB contains the exact spaced trigger: **{epub_has_trigger}**",
+        f"- Canonical EPUB contains the exact spaced trigger: **{epub['trigger']}**",
         "",
         "## Canonical-layer checks",
         "",
         f"- Canonical mobile fallback inventory scanned: **{len(canon_rows):,}** verse-search records",
-        f"- EPUB verse elements parsed: **{len(epub_map):,}**",
+        f"- EPUB XHTML/HTML members scanned as raw UTF-8: **{epub['xhtml_members']}**",
+        f"- EPUB spaced nested-closer sequences: **{epub['spaced_nested']}**",
+        f"- EPUB spaces immediately before curly closing quotes: **{epub['space_before_close']}**",
+        f"- EPUB spaces immediately after curly opening quotes: **{epub['space_after_open']}**",
         f"- Canonical editable-source lines containing spaced curly closing-quote pairs: **{len(source_hits)}**",
         "",
         "## Whole-Bible candidate scan",
@@ -192,29 +233,48 @@ def main():
         "The scan deliberately separates deterministic formatting defects from review-only heuristics. Quote counts by themselves are not treated as errors because dialogue can span verses.",
         "",
     ]
-    for category in sorted(by_category):
+    for category in DETERMINISTIC_CATEGORIES + REVIEW_CATEGORIES:
         lines.append(f"- `{category}`: **{by_category[category]} hit(s)** across **{len(refs_by_category[category])} verse(s)**")
+
+    lines.extend(["", "### Confirmed spaced nested-closer references", ""])
+    confirmed_refs = ordered_refs(candidates, "CONFIRMED_SPACED_NESTED_CLOSERS")
+    lines.append(", ".join(confirmed_refs) if confirmed_refs else "None.")
+
+    lines.extend(["", "### 3+ quote marks within 10 characters — review queue", ""])
+    proximity_refs = ordered_refs(candidates, "REVIEW_3PLUS_QUOTES_WITHIN_10_CHARS")
+    lines.append(", ".join(proximity_refs) if proximity_refs else "None.")
+
+    lines.extend(["", "### Quote-style inventory (not presumed errors)", ""])
+    for label in [
+        "verses_with_straight_double_quote",
+        "verses_with_isolated_straight_single_quote",
+        "verses_with_curly_double_quote",
+        "verses_with_curly_single_quote_or_apostrophe",
+        "verses_mixing_straight_and_curly_double_quotes",
+    ]:
+        lines.append(f"- `{label}`: **{style[label]} verse(s)**")
+
     lines.extend(["", "### Editable-source spaced-closer hits", ""])
-    for path, line_no, line in source_hits[:50]:
+    for path, line_no, line in source_hits:
         clean = line.replace("`", "\\`")
         lines.append(f"- `{path}:{line_no}` — `{clean}`")
-    if len(source_hits) > 50:
-        lines.append(f"- … {len(source_hits)-50} additional source-line hit(s); see the machine candidate report.")
+
     lines.extend([
         "",
         "## Review policy and proposed next step",
         "",
         "1. Treat `CONFIRMED_*` categories as mechanical typography/encoding defects only after each reference is context-checked.",
         "2. Treat `REVIEW_*` categories as candidate queues, not release authority; nested dialogue, rhetorical punctuation, and multi-verse quotation spans can be legitimate.",
-        "3. For any approved fixes, freeze exact Current → Final verse strings in the Google final-review ledger before release.",
-        "4. Apply only the approved finite set to the canonical EPUB/source, then rebuild canonical mobile fallback, Netlify reader/search/mobile feed, and mobile content provenance from the new canonical artifact.",
-        "5. Re-run this audit after the correction release and require zero unintended verse-text differences downstream.",
+        "3. Treat the quote-style inventory as a possible future house-style project, not as permission for a mass replacement.",
+        "4. For any approved fixes, freeze exact Current → Final verse strings in the Google final-review ledger before release.",
+        "5. Apply only the approved finite set to the canonical EPUB/source, then rebuild canonical mobile fallback, Netlify reader/search/mobile feed, and mobile content provenance from the new canonical artifact.",
+        "6. Re-run this audit after the correction release and require zero unintended verse-text differences downstream.",
         "",
         "## Audit provenance",
         "",
         f"- Canonical release ID: `{canon_data.get('releaseId', '')}`",
         f"- Canonical EPUB SHA-256 in package: `{canon_data.get('canonicalEpubSha256', '')}`",
-        "- Web-reader layer parity for the trigger verse is verified separately against the deployed/generated Netlify data and recorded in the Google final-review ledger.",
+        "- Web-reader layer parity for the trigger verse is verified separately against the generated Netlify data and recorded in the Google final-review ledger.",
         "",
     ])
     OUT_MD.write_text("\n".join(lines) + "\n", encoding="utf-8")
@@ -222,8 +282,9 @@ def main():
     print(f"wrote {OUT_MD.relative_to(ROOT)}")
     print(f"wrote {OUT_TSV.relative_to(ROOT)}")
     print(f"candidates={len(candidates)} categories={dict(by_category)}")
+    print(f"style={dict(style)}")
     print(f"source_spaced_closer_hits={len(source_hits)}")
-    print(f"epub_has_genesis_trigger={epub_has_trigger}")
+    print(f"epub={epub}")
 
 
 if __name__ == "__main__":
