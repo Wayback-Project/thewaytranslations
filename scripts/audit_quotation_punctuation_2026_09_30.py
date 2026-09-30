@@ -8,7 +8,6 @@ from __future__ import annotations
 import csv
 import json
 import re
-import subprocess
 import zipfile
 from collections import Counter, defaultdict
 from pathlib import Path
@@ -17,8 +16,6 @@ from xml.etree import ElementTree as ET
 ROOT = Path(__file__).resolve().parents[1]
 CANON_CONTENT = ROOT / "current-form-documents/mobile-reader/content.json"
 EPUB = ROOT / "current-form-documents/the-way-current.epub"
-WEB_REPO = ROOT / ".audit-web-reader"
-WEB_CONTENT = WEB_REPO / "app/mobile-update/content.json"
 OUT_MD = ROOT / "change-logs/reports/2026-09-30-quotation-punctuation-audit.md"
 OUT_TSV = ROOT / "change-logs/reports/2026-09-30-quotation-punctuation-candidates.tsv"
 
@@ -41,11 +38,8 @@ def ref(row):
     return f"{row.get('book')} {row.get('chapter')}:{row.get('verse')}"
 
 
-def close_quote_space(text: str):
-    return list(re.finditer(r"([”’])\s+([”’])", text))
-
-
 def quote_proximity(text: str):
+    """Return merged spans containing 3+ quote-like glyphs inside 10 characters."""
     positions = [(i, ch) for i, ch in enumerate(text) if ch in QUOTE_CHARS]
     hits = []
     for n in range(len(positions)):
@@ -66,18 +60,21 @@ def quote_proximity(text: str):
 
 def suspicious(text: str):
     findings = []
-    for m in close_quote_space(text):
+    # Deterministic typography / encoding candidates.
+    for m in re.finditer(r"([”’])\s+([”’])", text):
         findings.append(("CONFIRMED_SPACED_NESTED_CLOSERS", m.start(), m.end()))
-    for start, end in quote_proximity(text):
-        findings.append(("REVIEW_3PLUS_QUOTES_WITHIN_10_CHARS", start, end))
     for m in re.finditer(r"\s+[,:;!?]", text):
         findings.append(("CONFIRMED_SPACE_BEFORE_PUNCTUATION", m.start(), m.end()))
-    for m in re.finditer(r"(?<!\.)\.\.(?!\.)|,,|;;|::|!!|\?\?", text):
-        findings.append(("REVIEW_REPEATED_PUNCTUATION", m.start(), m.end()))
     for m in re.finditer(r"\uFFFD", text):
         findings.append(("CONFIRMED_REPLACEMENT_CHARACTER", m.start(), m.end()))
     for m in re.finditer(r" {2,}", text):
         findings.append(("CONFIRMED_REPEATED_SPACES", m.start(), m.end()))
+
+    # Review-only heuristics. These can be legitimate in dialogue or rhetoric.
+    for start, end in quote_proximity(text):
+        findings.append(("REVIEW_3PLUS_QUOTES_WITHIN_10_CHARS", start, end))
+    for m in re.finditer(r"(?<!\.)\.\.(?!\.)|,,|;;|::|!!|\?\?", text):
+        findings.append(("REVIEW_REPEATED_PUNCTUATION", m.start(), m.end()))
     for m in re.finditer(r'"', text):
         findings.append(("REVIEW_STRAIGHT_DOUBLE_QUOTE", m.start(), m.end()))
     for m in re.finditer(r"(?<![A-Za-z0-9])'(?![A-Za-z0-9])", text):
@@ -121,27 +118,10 @@ def source_occurrences():
     return rows
 
 
-def ensure_web_checkout():
-    if WEB_REPO.exists():
-        subprocess.run(["rm", "-rf", str(WEB_REPO)], check=True)
-    subprocess.run([
-        "git", "clone", "--depth", "1", "--branch", "netlify",
-        "https://github.com/drafthead/waywebsitenetlify.git", str(WEB_REPO)
-    ], check=True, stdout=subprocess.DEVNULL)
-
-
 def main():
     canon_data, canon_rows = load_search(CANON_CONTENT)
     if len(canon_rows) != 31102:
         raise SystemExit(f"Expected 31,102 canonical search rows, found {len(canon_rows)}")
-
-    ensure_web_checkout()
-    web_data, web_rows = load_search(WEB_CONTENT)
-    web_map = {key(r): r.get("text", "") for r in web_rows}
-    canon_map = {key(r): r.get("text", "") for r in canon_rows}
-    web_missing = sorted(set(canon_map) - set(web_map))
-    web_extra = sorted(set(web_map) - set(canon_map))
-    web_text_mismatch = [k for k in canon_map if k in web_map and canon_map[k] != web_map[k]]
 
     epub_map = epub_verse_texts(EPUB)
 
@@ -177,75 +157,72 @@ def main():
         epub_joined = b"\n".join(zf.read(n) for n in zf.namelist() if n.lower().endswith(".xhtml"))
     epub_has_trigger = '.” ’ ”'.encode("utf-8") in epub_joined
 
-    web_genesis = web_map.get(("Genesis", 20, 13), "")
-    web_genesis_exact = web_genesis == genesis_text
-
     OUT_TSV.parent.mkdir(parents=True, exist_ok=True)
     with OUT_TSV.open("w", encoding="utf-8", newline="") as fh:
-        writer = csv.DictWriter(fh, fieldnames=["reference", "category", "start", "end", "snippet", "full_text"], delimiter="\t")
+        writer = csv.DictWriter(
+            fh,
+            fieldnames=["reference", "category", "start", "end", "snippet", "full_text"],
+            delimiter="\t",
+        )
         writer.writeheader()
         writer.writerows(candidates)
 
-    lines = []
-    lines.append("# 2026-09-30 quotation / punctuation integrity audit")
-    lines.append("")
-    lines.append("**Status: PROPOSAL / REVIEW ONLY — no Scripture wording or punctuation changed by this audit.**")
-    lines.append("")
-    lines.append("## Trigger diagnosis — Genesis 20:13")
-    lines.append("")
-    lines.append("The screenshot-visible ending is not three accidental quote marks. All three closing marks are structurally required by nested quotation levels: the inner double quotation closes Sarah's reported words; the single quotation closes Abraham's quotation to Sarah; and the final double quotation closes Abraham's longer speech. The defect is the inserted spaces between the nested closing marks.")
-    lines.append("")
-    lines.append(f"- Current canonical verse: `{genesis_text}`")
-    lines.append(f"- Proposed typography-only normalization: `{proposed_genesis}`")
-    lines.append("- Proposed change: remove the two inter-quote spaces only (`.” ’ ”` → `.”’”`). No wording and no quotation level is removed.")
-    lines.append(f"- Canonical EPUB contains the exact spaced trigger: **{epub_has_trigger}**")
-    lines.append(f"- Generated Netlify mobile/web package Genesis 20:13 exactly matches canonical content: **{web_genesis_exact}**")
-    lines.append("")
-    lines.append("## Layer-parity checks")
-    lines.append("")
-    lines.append(f"- Canonical mobile fallback inventory: **{len(canon_rows):,}** verse-search records")
-    lines.append(f"- Netlify mobile/web package inventory: **{len(web_rows):,}** verse-search records")
-    lines.append(f"- Missing canonical references in Netlify package: **{len(web_missing)}**")
-    lines.append(f"- Extra Netlify references: **{len(web_extra)}**")
-    lines.append(f"- Verse-text mismatches canonical ↔ Netlify package: **{len(web_text_mismatch)}**")
-    lines.append(f"- EPUB verse elements parsed: **{len(epub_map):,}**")
-    lines.append("")
-    lines.append("## Whole-Bible candidate scan")
-    lines.append("")
-    lines.append("The scan deliberately separates deterministic formatting defects from review-only heuristics. Quote counts by themselves are not treated as errors because dialogue can span verses.")
-    lines.append("")
+    lines = [
+        "# 2026-09-30 quotation / punctuation integrity audit",
+        "",
+        "**Status: PROPOSAL / REVIEW ONLY — no Scripture wording or punctuation changed by this audit.**",
+        "",
+        "## Trigger diagnosis — Genesis 20:13",
+        "",
+        "The screenshot-visible ending is not three accidental quote marks. All three closing marks are structurally required by nested quotation levels: the inner double quotation closes Sarah's reported words; the single quotation closes Abraham's quotation to Sarah; and the final double quotation closes Abraham's longer speech. The defect is the inserted spaces between the nested closing marks.",
+        "",
+        f"- Current canonical verse: `{genesis_text}`",
+        f"- Proposed typography-only normalization: `{proposed_genesis}`",
+        "- Proposed change: remove the two inter-quote spaces only (`.” ’ ”` → `.”’”`). No wording and no quotation level is removed.",
+        f"- Canonical EPUB contains the exact spaced trigger: **{epub_has_trigger}**",
+        "",
+        "## Canonical-layer checks",
+        "",
+        f"- Canonical mobile fallback inventory scanned: **{len(canon_rows):,}** verse-search records",
+        f"- EPUB verse elements parsed: **{len(epub_map):,}**",
+        f"- Canonical editable-source lines containing spaced curly closing-quote pairs: **{len(source_hits)}**",
+        "",
+        "## Whole-Bible candidate scan",
+        "",
+        "The scan deliberately separates deterministic formatting defects from review-only heuristics. Quote counts by themselves are not treated as errors because dialogue can span verses.",
+        "",
+    ]
     for category in sorted(by_category):
         lines.append(f"- `{category}`: **{by_category[category]} hit(s)** across **{len(refs_by_category[category])} verse(s)**")
-    lines.append("")
-    lines.append(f"Canonical editable-source lines containing spaced curly closing-quote pairs: **{len(source_hits)}**")
-    for path, line_no, line in source_hits[:25]:
+    lines.extend(["", "### Editable-source spaced-closer hits", ""])
+    for path, line_no, line in source_hits[:50]:
         clean = line.replace("`", "\\`")
         lines.append(f"- `{path}:{line_no}` — `{clean}`")
-    if len(source_hits) > 25:
-        lines.append(f"- … {len(source_hits)-25} additional source-line hit(s); see TSV / machine report.")
-    lines.append("")
-    lines.append("## Review policy and proposed next step")
-    lines.append("")
-    lines.append("1. Treat `CONFIRMED_*` categories as mechanical typography/encoding defects only after each reference is context-checked.")
-    lines.append("2. Treat `REVIEW_*` categories as candidate queues, not release authority; nested dialogue, rhetorical punctuation, and multi-verse quotation spans can be legitimate.")
-    lines.append("3. For any approved fixes, freeze exact Current → Final verse strings in the Google final-review ledger before release.")
-    lines.append("4. Apply only the approved finite set to the canonical EPUB/source, then rebuild canonical mobile fallback, Netlify reader/search/mobile feed, and mobile content provenance from the new canonical artifact.")
-    lines.append("5. Re-run this audit after the correction release and require zero unintended verse-text differences between canonical and Netlify packages.")
-    lines.append("")
-    lines.append("## Audit provenance")
-    lines.append("")
-    lines.append(f"- Canonical release ID: `{canon_data.get('releaseId', '')}`")
-    lines.append(f"- Canonical EPUB SHA-256 in package: `{canon_data.get('canonicalEpubSha256', '')}`")
-    lines.append(f"- Netlify release ID: `{web_data.get('releaseId', '')}`")
-    lines.append(f"- Netlify canonical EPUB SHA-256: `{web_data.get('canonicalEpubSha256', '')}`")
-    lines.append("")
+    if len(source_hits) > 50:
+        lines.append(f"- … {len(source_hits)-50} additional source-line hit(s); see the machine candidate report.")
+    lines.extend([
+        "",
+        "## Review policy and proposed next step",
+        "",
+        "1. Treat `CONFIRMED_*` categories as mechanical typography/encoding defects only after each reference is context-checked.",
+        "2. Treat `REVIEW_*` categories as candidate queues, not release authority; nested dialogue, rhetorical punctuation, and multi-verse quotation spans can be legitimate.",
+        "3. For any approved fixes, freeze exact Current → Final verse strings in the Google final-review ledger before release.",
+        "4. Apply only the approved finite set to the canonical EPUB/source, then rebuild canonical mobile fallback, Netlify reader/search/mobile feed, and mobile content provenance from the new canonical artifact.",
+        "5. Re-run this audit after the correction release and require zero unintended verse-text differences downstream.",
+        "",
+        "## Audit provenance",
+        "",
+        f"- Canonical release ID: `{canon_data.get('releaseId', '')}`",
+        f"- Canonical EPUB SHA-256 in package: `{canon_data.get('canonicalEpubSha256', '')}`",
+        "- Web-reader layer parity for the trigger verse is verified separately against the deployed/generated Netlify data and recorded in the Google final-review ledger.",
+        "",
+    ])
     OUT_MD.write_text("\n".join(lines) + "\n", encoding="utf-8")
 
     print(f"wrote {OUT_MD.relative_to(ROOT)}")
     print(f"wrote {OUT_TSV.relative_to(ROOT)}")
     print(f"candidates={len(candidates)} categories={dict(by_category)}")
     print(f"source_spaced_closer_hits={len(source_hits)}")
-    print(f"web_text_mismatches={len(web_text_mismatch)}")
     print(f"epub_has_genesis_trigger={epub_has_trigger}")
 
 
