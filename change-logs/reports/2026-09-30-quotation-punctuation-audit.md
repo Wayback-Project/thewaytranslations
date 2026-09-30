@@ -14,7 +14,10 @@ The screenshot-visible ending is not three accidental quote marks. All three clo
 ## Canonical-layer checks
 
 - Canonical mobile fallback inventory scanned: **31,102** verse-search records
-- EPUB verse elements parsed: **0**
+- EPUB XHTML/HTML members scanned as raw UTF-8: **70**
+- EPUB spaced nested-closer sequences: **18**
+- EPUB spaces immediately before curly closing quotes: **18**
+- EPUB spaces immediately after curly opening quotes: **1**
 - Canonical editable-source lines containing spaced curly closing-quote pairs: **18**
 
 ## Whole-Bible candidate scan
@@ -22,9 +25,29 @@ The screenshot-visible ending is not three accidental quote marks. All three clo
 The scan deliberately separates deterministic formatting defects from review-only heuristics. Quote counts by themselves are not treated as errors because dialogue can span verses.
 
 - `CONFIRMED_SPACED_NESTED_CLOSERS`: **18 hit(s)** across **18 verse(s)**
+- `CONFIRMED_SPACE_BEFORE_CLOSING_QUOTE`: **18 hit(s)** across **18 verse(s)**
+- `CONFIRMED_SPACE_AFTER_OPENING_QUOTE`: **1 hit(s)** across **1 verse(s)**
+- `CONFIRMED_SPACE_BEFORE_PUNCTUATION`: **0 hit(s)** across **0 verse(s)**
+- `CONFIRMED_REPLACEMENT_CHARACTER`: **0 hit(s)** across **0 verse(s)**
+- `CONFIRMED_REPEATED_SPACES`: **0 hit(s)** across **0 verse(s)**
 - `REVIEW_3PLUS_QUOTES_WITHIN_10_CHARS`: **35 hit(s)** across **31 verse(s)**
-- `REVIEW_STRAIGHT_DOUBLE_QUOTE`: **6704 hit(s)** across **4245 verse(s)**
-- `REVIEW_STRAIGHT_SINGLE_QUOTE`: **767 hit(s)** across **656 verse(s)**
+- `REVIEW_REPEATED_PUNCTUATION`: **0 hit(s)** across **0 verse(s)**
+
+### Confirmed spaced nested-closer references
+
+Genesis 3:3, Genesis 20:13, Genesis 22:18, Genesis 26:9, Genesis 31:13, Genesis 32:5, Genesis 32:12, Genesis 32:18, Genesis 32:20, Genesis 37:17, Genesis 38:22, Genesis 42:34, Genesis 43:5, Genesis 44:5, Genesis 45:11, Genesis 48:20, Genesis 50:5, Genesis 50:17
+
+### 3+ quote marks within 10 characters — review queue
+
+Genesis 20:13, Exodus 7:18, Exodus 8:23, Exodus 9:4, Exodus 9:19, Leviticus 18:24, Leviticus 19:4, Leviticus 19:29, Leviticus 19:31, 2 Kings 2:18, Isaiah 29:22, Isaiah 36:10, Isaiah 37:7, Isaiah 37:35, Isaiah 38:8, Ezekiel 29:16, Hosea 2:23, Zechariah 1:17, Zechariah 6:15, Malachi 1:2, Matthew 5:37, Matthew 13:30, Matthew 22:21, Matthew 26:18, Mark 12:16, Luke 18:20, Luke 20:24, John 7:36, John 8:22, James 5:12, Revelation 14:13
+
+### Quote-style inventory (not presumed errors)
+
+- `verses_with_straight_double_quote`: **4245 verse(s)**
+- `verses_with_isolated_straight_single_quote`: **656 verse(s)**
+- `verses_with_curly_double_quote`: **608 verse(s)**
+- `verses_with_curly_single_quote_or_apostrophe`: **1145 verse(s)**
+- `verses_mixing_straight_and_curly_double_quotes`: **0 verse(s)**
 
 ### Editable-source spaced-closer hits
 
@@ -51,13 +74,14 @@ The scan deliberately separates deterministic formatting defects from review-onl
 
 1. Treat `CONFIRMED_*` categories as mechanical typography/encoding defects only after each reference is context-checked.
 2. Treat `REVIEW_*` categories as candidate queues, not release authority; nested dialogue, rhetorical punctuation, and multi-verse quotation spans can be legitimate.
-3. For any approved fixes, freeze exact Current → Final verse strings in the Google final-review ledger before release.
-4. Apply only the approved finite set to the canonical EPUB/source, then rebuild canonical mobile fallback, Netlify reader/search/mobile feed, and mobile content provenance from the new canonical artifact.
-5. Re-run this audit after the correction release and require zero unintended verse-text differences downstream.
+3. Treat the quote-style inventory as a possible future house-style project, not as permission for a mass replacement.
+4. For any approved fixes, freeze exact Current → Final verse strings in the Google final-review ledger before release.
+5. Apply only the approved finite set to the canonical EPUB/source, then rebuild canonical mobile fallback, Netlify reader/search/mobile feed, and mobile content provenance from the new canonical artifact.
+6. Re-run this audit after the correction release and require zero unintended verse-text differences downstream.
 
 ## Audit provenance
 
 - Canonical release ID: `canonical-91b1daa6b2f796eb`
 - Canonical EPUB SHA-256 in package: `91b1daa6b2f796ebf4fd3c149cf4fabc8faabba796f0063bdb6ab8e0565492d7`
-- Web-reader layer parity for the trigger verse is verified separately against the deployed/generated Netlify data and recorded in the Google final-review ledger.
+- Web-reader layer parity for the trigger verse is verified separately against the generated Netlify data and recorded in the Google final-review ledger.
 
