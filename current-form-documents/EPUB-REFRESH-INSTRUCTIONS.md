@@ -55,3 +55,7 @@ Finite 124-verse canonical release from the approved whole-Bible terminology rev
 ## 2026-09-29 Divine-language final release
 
 Finite 176-verse release from the frozen final review: 124 divine-pronoun edits, 40 divine `King` → `Sovereign`, 11 active divine-rule `kingdom` → `reign`, and Daniel 7:27's source/collective correction. Psalm 45:6 remains unchanged. No unrelated Scripture cleanup. Canonical SHA-256: `aec31f9c9248cd42913c561c4cd5155fb35c39dddc657b16e53c370edff7a615`. See `../editor-notes/consistency/2026-09-29-divine-language-release.md` and `../change-logs/reports/2026-09-29-divine-language-release.json`.
+
+## 2026-09-30 Daniel 7 kingdom residual → reign correction
+
+Exact three-verse follow-up after a fresh whole-Bible `kingdom/kingdoms` residual audit. Daniel 7:18, 7:22, and the singular rule/authority terms in 7:27 use `reign`; human/geopolitical kingdoms remain `kingdom`, including Daniel 7:23-24 and `kingdoms under the whole sky` in 7:27. Canonical SHA-256: `91b1daa6b2f796ebf4fd3c149cf4fabc8faabba796f0063bdb6ab8e0565492d7`. See `../editor-notes/consistency/2026-09-30-kingdom-residual-release.md` and `../change-logs/reports/2026-09-30-kingdom-residual-release.json`.

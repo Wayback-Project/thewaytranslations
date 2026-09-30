@@ -1,0 +1,63 @@
+{
+  "release": "Daniel 7 kingdom residual → reign correction",
+  "releaseDate": "2026-09-30",
+  "priorEpubSha256": "aec31f9c9248cd42913c561c4cd5155fb35c39dddc657b16e53c370edff7a615",
+  "releasedEpubSha256": "91b1daa6b2f796ebf4fd3c149cf4fabc8faabba796f0063bdb6ab8e0565492d7",
+  "archivePath": "rendered-documents-history/2026-09-30_0408UTC/the-way-current.epub",
+  "changedVerseCount": 3,
+  "wholeBibleVerseCount": 31102,
+  "changedEpubMembers": [
+    "OEBPS/Text/daniel.xhtml"
+  ],
+  "beforeKingdomVerseCount": 205,
+  "beforeKingdomTokenCount": 221,
+  "afterKingdomVerseCount": 203,
+  "afterKingdomTokenCount": 215,
+  "changes": [
+    {
+      "reference": "Daniel 7:18",
+      "before": "But the saints of the Most High shall receive the kingdom, and possess the kingdom forever, even forever and ever.",
+      "after": "But the saints of the Most High shall receive the reign, and possess the reign forever, even forever and ever."
+    },
+    {
+      "reference": "Daniel 7:22",
+      "before": "until the ancient of days came, and judgment was given to the saints of the Most High, and the time came that the saints possessed the kingdom.",
+      "after": "until the ancient of days came, and judgment was given to the saints of the Most High, and the time came that the saints possessed the reign."
+    },
+    {
+      "reference": "Daniel 7:27",
+      "before": "The kingdom and the dominion, and the greatness of the kingdoms under the whole sky, shall be given to the people of the saints of the Most High: their kingdom is an everlasting kingdom, and all dominions shall serve and obey them.",
+      "after": "The reign and the dominion, and the greatness of the kingdoms under the whole sky, shall be given to the people of the saints of the Most High: their reign is an everlasting reign, and all dominions shall serve and obey them."
+    }
+  ],
+  "retainedKingdomCheckpoints": [
+    "Numbers 32:33",
+    "Daniel 5:21",
+    "Daniel 7:23",
+    "Daniel 7:24",
+    "Daniel 7:27 plural kingdoms under the whole sky",
+    "Psalms 45:6"
+  ],
+  "qa": {
+    "exactBeforeMatch": true,
+    "exactAfterMatch": true,
+    "wholeBibleDiffExactlyApproved3": true,
+    "epubStructureXmlAndLinks": "pass",
+    "articleMismatchCount": 0,
+    "verseInventory": "31102/31102"
+  },
+  "canonicalMobileFallback": {
+    "schemaVersion": 1,
+    "releaseId": "canonical-91b1daa6b2f796eb",
+    "canonicalEpubSha256": "91b1daa6b2f796ebf4fd3c149cf4fabc8faabba796f0063bdb6ab8e0565492d7",
+    "generatedAt": "2026-09-30T04:08:10Z",
+    "contentSha256": "c0d6e724d54d318ce81019bfb9ce7c5ac4923a5519186a2ab72195739269a5af",
+    "contentBytes": 30117903,
+    "contentUrl": "https://raw.githubusercontent.com/Wayback-Project/thewaytranslations/main/current-form-documents/mobile-reader/content.json",
+    "source": "canonical-github-fallback",
+    "bookCount": 66,
+    "chapterCount": 1189,
+    "verseSearchCount": 31102
+  },
+  "method": "Context-first kingdom residual correction. Only Daniel 7:18, 7:22, and the three singular kingdom occurrences in Daniel 7:27 change to reign. Human/geopolitical kingdom language, including Daniel 7:23-24 and the plural kingdoms under the whole sky in Daniel 7:27, is retained."
+}

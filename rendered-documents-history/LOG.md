@@ -29,3 +29,5 @@
 - **2026-09-26_0714UTC** — Direct evil → brokenness / broken terminology release: 124 exact verses / 128 lexical occurrences (109 brokenness, 19 broken). Prior EPUB archived at `rendered-documents-history/2026-09-26_0714UTC/the-way-current.epub`; new SHA-256 `6a3a0dbc91949b082fdcf7c93d0832fe6762440933d8528009cf44b2271dfb92`.
 
 - **2026-09-29_065415UTC** — Divine-language final release: 176 exact changed verses across 37 books; prior EPUB archived at `rendered-documents-history/2026-09-29_065415UTC/the-way-current.epub`; new SHA-256 `aec31f9c9248cd42913c561c4cd5155fb35c39dddc657b16e53c370edff7a615`.
+
+- **2026-09-30_0408UTC** — Daniel 7 kingdom residual → reign correction: exact Daniel 7:18, 7:22, 7:27 correction. Prior EPUB archived at `rendered-documents-history/2026-09-30_0408UTC/the-way-current.epub`; new SHA-256 `91b1daa6b2f796ebf4fd3c149cf4fabc8faabba796f0063bdb6ab8e0565492d7`.
