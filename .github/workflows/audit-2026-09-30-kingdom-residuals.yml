@@ -1,0 +1,36 @@
+name: Audit kingdom residuals 2026-09-30
+
+on:
+  push:
+    branches:
+      - release/kingdom-residuals-2026-09-30
+    paths:
+      - '.github/workflows/audit-2026-09-30-kingdom-residuals.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  audit:
+    if: ${{ !contains(github.event.head_commit.message, '[skip kingdom audit]') }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: release/kingdom-residuals-2026-09-30
+          fetch-depth: 1
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Run exact current-canonical kingdom residual inventory
+        run: python tools/local/audit_kingdom_residuals_2026_09_30.py
+      - name: Commit audit reports
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add change-logs/reports/2026-09-30-kingdom-residual-audit.tsv change-logs/reports/2026-09-30-kingdom-residual-audit.json
+          git diff --cached --quiet && { echo 'No audit output changes' >&2; exit 1; }
+          git commit -m 'Record kingdom residual audit [skip kingdom audit]'
+          git push origin HEAD:release/kingdom-residuals-2026-09-30
