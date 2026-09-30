@@ -34,3 +34,5 @@ jobs:
           git diff --cached --quiet && { echo 'No canonical correction changes produced' >&2; exit 1; }
           git commit -m 'Release Daniel 7 kingdom residual to reign correction [skip kingdom release]'
           git push origin HEAD:release/kingdom-residuals-2026-09-30
+
+# Retry 2: retained Numbers 32:33 checkpoint correctly expects two human kingdom occurrences.
