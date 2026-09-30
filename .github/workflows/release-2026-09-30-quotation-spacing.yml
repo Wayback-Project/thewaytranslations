@@ -24,7 +24,7 @@ jobs:
         with:
           python-version: '3.12'
       - name: Run finite quotation-spacing correction
-        run: python tools/local/release_2026_09_30_quotation_spacing.py
+        run: python tools/local/release_2026_09_30_quotation_spacing_v2.py
       - name: Commit canonical quotation correction artifacts
         run: |
           set -euo pipefail
