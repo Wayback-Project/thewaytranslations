@@ -61,7 +61,7 @@ Genesis 2
 Genesis 3
 1. Now the serpent was more subtle than any animal of the field which YHWH Elohim had made. He said to the woman, “Has Elohim really said, ‘You shall not eat of any tree of the garden’?”
 2. The woman said to the serpent, “We may eat fruit from the trees of the garden,
-3. but not the fruit of the tree which is in the middle of the garden. Elohim has said, ‘You shall not eat of it. You shall not touch it, lest you die.’ ”
+3. but not the fruit of the tree which is in the middle of the garden. Elohim has said, ‘You shall not eat of it. You shall not touch it, lest you die.’”
 4. The serpent said to the woman, “You won’t really die,
 5. for Elohim knows that in the day you eat it, your eyes will be opened, and you will be like Elohim, knowing good and brokenness.”
 6. When the woman saw that the tree was good for food, and that it was a delight to the eyes, and that the tree was to be desired to make one wise, she took some of its fruit, and ate. Then she gave some to her husband with her, and he ate it, too.
@@ -545,7 +545,7 @@ Genesis 20
 10. Abimelech said to Avraham, “What did you see, that you have done this thing?”
 11. Avraham said, “Because I thought, ‘Surely reverence for God is not in this place. They will kill me for my wife’s sake.’
 12. Besides, she is indeed my sister, the daughter of my father, but not the daughter of my mother; and she became my wife.
-13. When Elohim caused me to wander from my father’s house, I said to her, ‘This is your kindness which you shall show to me. Everywhere that we go, say of me, “He is my brother.” ’ ”
+13. When Elohim caused me to wander from my father’s house, I said to her, ‘This is your kindness which you shall show to me. Everywhere that we go, say of me, “He is my brother.”’”
 14. Abimelech took sheep and cattle, male servants and female servants, and gave them to Avraham, and restored Sarah, his wife, to him.
 15. Abimelech said, “Look, my land is before you. Dwell where it pleases you.”
 16. To Sarah he said, “Look, I have given your brother a thousand pieces of silver. Look, it is for you a covering of the eyes to all that are with you. In front of all you are vindicated.”
@@ -604,9 +604,9 @@ Genesis 22
 13. Avraham lifted up his eyes, and looked, and saw that behind him was a ram caught in the thicket by his horns. Avraham went and took the ram, and offered him up for a burnt offering instead of his son.
 14. Avraham called the name of that place “YHWH Will Provide”. As it is said to this day, “On YHWH’s mountain, it will be provided.”
 15. YHWH’s messenger called to Avraham a second time out of the heavens,
-16. and said, “ ‘I have sworn by myself,’ says YHWH, ‘because you have done this thing, and have not withheld your son, your only son,
+16. and said, “‘I have sworn by myself,’ says YHWH, ‘because you have done this thing, and have not withheld your son, your only son,
 17. that I will bless you greatly, and I will multiply your offspring greatly like the stars of the heavens, and like the sand which is on the seashore. Your offspring will possess the gate of his enemies.
-18. All the nations of the earth will be blessed by your offspring, because you have obeyed my voice.’ ”
+18. All the nations of the earth will be blessed by your offspring, because you have obeyed my voice.’”
 19. So Avraham returned to his young people, and they rose up and went together to Be'er Sheva. Avraham lived at Be'er Sheva.
 20. After these things, Avraham was told, “Look, Milcah, she also has borne children to your brother Nahor:
 21. Uz his firstborn, Buz his brother, Kemuel the father of Aram,
@@ -751,7 +751,7 @@ Genesis 26
 6. Yitzhak lived in Gerar.
 7. The men of the place asked him about his wife. He said, “She is my sister,” for he was afraid to say, “My wife”, lest, he thought, “the men of the place might kill me for Rivqah, because she is beautiful to look at.”
 8. When he had been there a long time, Abimelech king of the Philistines looked out at a window, and saw, and, look, Yitzhak was caressing Rivqah, his wife.
-9. Abimelech called Yitzhak, and said, “Look, surely she is your wife. Why did you say, ‘She is my sister’?” Yitzhak said to him, “Because I said, ‘Lest I die because of her.’ ”
+9. Abimelech called Yitzhak, and said, “Look, surely she is your wife. Why did you say, ‘She is my sister’?” Yitzhak said to him, “Because I said, ‘Lest I die because of her.’”
 10. Abimelech said, “What is this you have done to us? One of the people might easily have lain with your wife, and you would have brought guilt on us!”
 11. Abimelech commanded all the people, saying, “The one who touches this man or his wife will surely be put to death.”
 12. Yitzhak sowed in that land, and reaped in the same year one hundred times what he planted. YHWH blessed him.
@@ -946,7 +946,7 @@ Genesis 31
 10. During mating season, I lifted up my eyes, and saw in a dream, and look, the male goats which leaped on the flock were streaked, speckled, and grizzled.
 11. The messenger of Elohim said to me in the dream, ‘Yaakov,’ and I said, ‘Here I am.’
 12. He said, ‘Now lift up your eyes, and look, all the male goats which leap on the flock are streaked, speckled, and grizzled, for I have seen all that Laban does to you.
-13. I am the God of Beit El, where you anointed a pillar, where you vowed a vow to me. Now arise, get out from this land, and return to the land of your birth.’ ”
+13. I am the God of Beit El, where you anointed a pillar, where you vowed a vow to me. Now arise, get out from this land, and return to the land of your birth.’”
 14. Rakhel and Leah answered him, “Is there yet any portion or inheritance for us in our father’s house?
 15. Aren’t we considered as foreigners by him? For he has sold us, and has also used up our money.
 16. For all the riches which Elohim has taken away from our father are ours and our children’s. Now then, whatever Elohim has said to you, do.”
@@ -995,22 +995,22 @@ Genesis 32
 2. When he saw them, Yaakov said, “This is Elohim’s army.” He called the name of that place Mahanaim.
 3. Yaakov sent messengers in front of him to Esav, his brother, to the land of Seir, the field of Edom.
 4. He commanded them, saying, “This is what you shall tell my lord, Esav: ‘This is what your servant, Yaakov, says. I have lived as a foreigner with Laban, and stayed until now.
-5. I have cattle, donkeys, flocks, male servants, and female servants. I have sent to tell my lord, that I may find favor in your sight.’ ”
+5. I have cattle, donkeys, flocks, male servants, and female servants. I have sent to tell my lord, that I may find favor in your sight.’”
 6. The messengers returned to Yaakov, saying, “We came to your brother Esav. He is coming to meet you, and four hundred people are with him.”
 7. Then Yaakov was greatly afraid and was distressed. He divided the people who were with him, along with the flocks, the herds, and the camels, into two companies.
 8. He said, “If Esav comes to the one company, and strikes it, then the company which is left will escape.”
 9. Yaakov said, “God of my father Avraham, and God of my father Yitzhak, YHWH, who said to me, ‘Return to your country, and to your relatives, and I will do you good,’
 10. I am not worthy of the least of all the loving kindnesses, and of all the truth, which you have shown to your servant; for with just my staff I crossed over this Yarden; and now I have become two companies.
 11. Please deliver me from the hand of my brother, from the hand of Esav; for I fear him, lest he come and strike me and the mothers with the children.
-12. You said, ‘I will surely do you good, and make your offspring as the sand of the sea, which can’t be counted because there are so many.’ ”
+12. You said, ‘I will surely do you good, and make your offspring as the sand of the sea, which can’t be counted because there are so many.’”
 13. He stayed there that night, and took from that which he had with him a present for Esav, his brother:
 14. two hundred female goats and twenty male goats, two hundred ewes and twenty rams,
 15. thirty milk camels and their colts, forty cows, ten bulls, twenty female donkeys and ten foals.
 16. He delivered them into the hands of his servants, every herd by itself, and said to his servants, “Pass over before me, and put a space between herd and herd.”
 17. He commanded the foremost, saying, “When Esav, my brother, meets you, and asks you, saying, ‘Whose are you? Where are you going? Whose are these before you?’
-18. Then you shall say, ‘They are your servant, Yaakov’s. It is a present sent to my lord, Esav. Look, he also is behind us.’ ”
+18. Then you shall say, ‘They are your servant, Yaakov’s. It is a present sent to my lord, Esav. Look, he also is behind us.’”
 19. He commanded also the second, and the third, and all that followed the herds, saying, “This is how you shall speak to Esav, when you find him.
-20. You shall say, ‘Not only that, but look, your servant, Yaakov, is behind us.’ ” For, he said, “I will appease him with the present that goes before me, and afterward I will see his face. Perhaps he will accept me.”
+20. You shall say, ‘Not only that, but look, your servant, Yaakov, is behind us.’” For, he said, “I will appease him with the present that goes before me, and afterward I will see his face. Perhaps he will accept me.”
 21. So the present passed over before him, and he himself stayed that night in the camp.
 22. He rose up that night, and took his two wives, and his two servants, and his eleven sons, and crossed over the ford of the Jabbok.
 23. He took them, and sent them over the stream, and sent over that which he had.
@@ -1172,7 +1172,7 @@ Genesis 37
 14. He said to him, “Go now, see whether it is well with your brothers, and well with the flock; and bring me word again.” So he sent him out of the valley of Chevron, and he came to Shekhem.
 15. A certain man found him, and look, he was wandering in the field. The person asked him, “What are you looking for?”
 16. He said, “I am looking for my brothers. Tell me, please, where they are feeding the flock.”
-17. The person said, “They have left here, for I heard them say, ‘Let’s go to Dothan.’ ” Yosef went after his brothers, and found them in Dothan.
+17. The person said, “They have left here, for I heard them say, ‘Let’s go to Dothan.’” Yosef went after his brothers, and found them in Dothan.
 18. They saw him afar off, and before he came near to them, they conspired against him to kill him.
 19. They said to one another, “Look, this dreamer comes.
 20. Come now therefore, and let’s kill him, and cast him into one of the pits, and we will say, ‘An brokenness animal has devoured him.’ We will see what will become of his dreams.”
@@ -1215,7 +1215,7 @@ Genesis 38
 19. She arose, and went away, and put off her veil from her, and put on the garments of her widowhood.
 20. Yehudah sent the young goat by the hand of his friend, the Adullamite, to receive the pledge from the woman’s hand, but he didn’t find her.
 21. Then he asked the men of her place, saying, “Where is the prostitute, that was at Enaim by the road?” They said, “There has been no prostitute here.”
-22. He returned to Yehudah, and said, “I haven’t found her; and also the men of the place said, ‘There has been no prostitute here.’ ”
+22. He returned to Yehudah, and said, “I haven’t found her; and also the men of the place said, ‘There has been no prostitute here.’”
 23. Yehudah said, “Let her keep it, lest we be shamed. Look, I sent this young goat, and you haven’t found her.”
 24. About three months later, Yehudah was told, “Tamar, your daughter-in-law, has played the prostitute. Moreover, look, she is with child by prostitution.” Yehudah said, “Bring her out, and let her be burned.”
 25. When she was brought out, she sent to her father-in-law, saying, “I am with child by the one who owns these.” She also said, “Please discern whose these are—the signet, and the cords, and the staff.”
@@ -1368,7 +1368,7 @@ Genesis 42
 31. We said to him, ‘We are honest men. We are no spies.
 32. We are twelve brothers, sons of our father; one is no more, and the youngest is today with our father in the land of Canaan.’
 33. The person, the lord of the land, said to us, ‘By this I will know that you are honest men: leave one of your brothers with me, and take grain for the famine of your houses, and go your way.
-34. Bring your youngest brother to me. Then I will know that you are not spies, but that you are honest men. So I will deliver your brother to you, and you shall trade in the land.’ ”
+34. Bring your youngest brother to me. Then I will know that you are not spies, but that you are honest men. So I will deliver your brother to you, and you shall trade in the land.’”
 35. As they emptied their sacks, look, each person’s bundle of money was in their sack. When they and their father saw their bundles of money, they were afraid.
 36. Yaakov, their father, said to them, “You have bereaved me of my children! Yosef is no more, Shimon is no more, and you want to take Binyamin away. All these things are against me.”
 37. Reuven spoke to his father, saying, “Kill my two sons, if I don’t bring him to you. Entrust him to my care, and I will bring him to you again.”
@@ -1379,7 +1379,7 @@ Genesis 43
 2. When they had eaten up the grain which they had brought out of Mitzrayim, their father said to them, “Go again, buy us a little more food.”
 3. Yehudah spoke to him, saying, “The person solemnly warned us, saying, ‘You shall not see my face, unless your brother is with you.’
 4. If you’ll send our brother with us, we’ll go down and buy you food;
-5. but if you don’t send him, we won’t go down, for the person said to us, ‘You shall not see my face, unless your brother is with you.’ ”
+5. but if you don’t send him, we won’t go down, for the person said to us, ‘You shall not see my face, unless your brother is with you.’”
 6. Yisrael said, “Why did you treat me so badly, telling the person that you had another brother?”
 7. They said, “The person asked directly concerning ourselves, and concerning our relatives, saying, ‘Is your father still alive? Have you another brother?’ We just answered his questions. Is there any way we could know that he would say, ‘Bring your brother down’?”
 8. Yehudah said to Yisrael, his father, “Send the boy with me, and we’ll get up and go, so that we may live, and not die, both we, and you, and also our little ones.
@@ -1415,7 +1415,7 @@ Genesis 44
 2. Put my cup, the silver cup, in the sack’s mouth of the youngest, with his grain money.” He did according to the word that Yosef had spoken.
 3. As soon as the morning was light, the men were sent away, they and their donkeys.
 4. When they had gone out of the city, and were not yet far off, Yosef said to his steward, “Up, follow after the men. When you overtake them, ask them, ‘Why have you rewarded brokenness for good?
-5. Isn’t this that from which my lord drinks, and by which he indeed divines? You have done brokenness in so doing.’ ”
+5. Isn’t this that from which my lord drinks, and by which he indeed divines? You have done brokenness in so doing.’”
 6. He overtook them, and he spoke these words to them.
 7. They said to him, “Why does my lord speak such words as these? Far be it from your servants that they should do such a thing!
 8. Look, the money, which we found in our sacks’ mouths, we brought again to you out of the land of Canaan. How then should we steal silver or gold out of your lord’s house?
@@ -1457,7 +1457,7 @@ Genesis 45
 8. So now it wasn’t you who sent me here, but Elohim, and he has made me a father to Pharaoh, lord of all his house, and ruler over all the land of Mitzrayim.
 9. Hurry, and go up to my father, and tell him, ‘This is what your son Yosef says, “Elohim has made me lord of all Mitzrayim. Come down to me. Don’t wait.
 10. You shall dwell in the land of Goshen, and you will be near to me, you, your children, your children’s children, your flocks, your herds, and all that you have.
-11. There I will provide for you; for there are yet five years of famine; lest you come to poverty, you, and your household, and all that you have.” ’
+11. There I will provide for you; for there are yet five years of famine; lest you come to poverty, you, and your household, and all that you have.”’
 12. Look, your eyes see, and the eyes of my brother Binyamin, that it is my mouth that speaks to you.
 13. You shall tell my father of all my glory in Mitzrayim, and of all that you have seen. You shall hurry and bring my father down here.”
 14. He fell on his brother Binyamin’s neck and wept, and Binyamin wept on his neck.
@@ -1565,7 +1565,7 @@ Genesis 48
 17. When Yosef saw that his father laid his right hand on the head of Efrayim, it displeased him. He held up his father’s hand, to remove it from Efrayim’s head to Menashe’s head.
 18. Yosef said to his father, “Not so, my father, for this is the firstborn. Put your right hand on his head.”
 19. His father refused, and said, “I know, my son, I know. He also will become a people, and he also will be great. However, his younger brother will be greater than he, and his offspring will become a multitude of nations.”
-20. He blessed them that day, saying, “Yisrael will bless in your name, saying, ‘Elohim make you as Efrayim and as Menashe’ ” He set Efrayim before Menashe.
+20. He blessed them that day, saying, “Yisrael will bless in your name, saying, ‘Elohim make you as Efrayim and as Menashe’” He set Efrayim before Menashe.
 21. Yisrael said to Yosef, “Look, I am dying, but Elohim will be with you, and bring you again to the land of your fathers.
 22. Moreover I have given to you one portion above your brothers, which I took out of the hand of the Amorite with my sword and with my bow.”
 
@@ -1609,7 +1609,7 @@ Genesis 50
 2. Yosef commanded his servants, the physicians, to embalm his father; and the physicians embalmed Yisrael.
 3. Forty days were used for him, for that is how many days it takes to embalm. The Egyptians wept for Yisrael for seventy days.
 4. When the days of weeping for him were past, Yosef spoke to Pharaoh’s staff, saying, “If now I have found favor in your eyes, please speak in the ears of Pharaoh, saying,
-5. ‘My father made me swear, saying, “Look, I am dying. Bury me in my grave which I have dug for myself in the land of Canaan.” Now therefore, please let me go up and bury my father, and I will come again.’ ”
+5. ‘My father made me swear, saying, “Look, I am dying. Bury me in my grave which I have dug for myself in the land of Canaan.” Now therefore, please let me go up and bury my father, and I will come again.’”
 6. Pharaoh said, “Go up, and bury your father, just like he made you swear.”
 7. Yosef went up to bury his father; and with him went up all the servants of Pharaoh, the elders of his house, all the elders of the land of Mitzrayim,
 8. all the house of Yosef, his brothers, and his father’s house. Only their little ones, their flocks, and their herds, they left in the land of Goshen.
@@ -1621,7 +1621,7 @@ Genesis 50
 14. Yosef returned into Mitzrayim—he, and his brothers, and all that went up with him to bury his father, after he had buried his father.
 15. When Yosef’s brothers saw that their father was dead, they said, “It may be that Yosef will hate us, and will fully pay us back for all the brokenness which we did to him.”
 16. They sent a message to Yosef, saying, “Your father commanded before he died, saying,
-17. ‘You shall tell Yosef, “Now please forgive the disobedience of your brothers, and their sin, because they did brokenness to you.” ’ Now, please forgive the disobedience of the servants of the God of your father.” Yosef wept when they spoke to him.
+17. ‘You shall tell Yosef, “Now please forgive the disobedience of your brothers, and their sin, because they did brokenness to you.”’ Now, please forgive the disobedience of the servants of the God of your father.” Yosef wept when they spoke to him.
 18. His brothers also went and fell down before his face; and they said, “Look, we are your servants.”
 19. Yosef said to them, “Don’t be afraid, for am I in the place of Elohim?
 20. As for you, you meant brokenness against me, but Elohim meant it for good, to bring about what is this day—to keep many people alive.

@@ -1,0 +1,206 @@
+{
+  "release": "Quotation nesting spacing normalization",
+  "releaseDate": "2026-09-30",
+  "priorEpubSha256": "91b1daa6b2f796ebf4fd3c149cf4fabc8faabba796f0063bdb6ab8e0565492d7",
+  "releasedEpubSha256": "a1493bfd9f38181c5e552880f7156ef609a8e83550ee459d9ed01db4b3db1c89",
+  "archivePath": "rendered-documents-history/2026-09-30_0738UTC/the-way-current.epub",
+  "changedVerseCount": 19,
+  "wholeBibleVerseCount": 31102,
+  "changedEpubMembers": [
+    "OEBPS/Text/genesis.xhtml"
+  ],
+  "changes": [
+    {
+      "slug": "genesis",
+      "chapter": 3,
+      "verse": 3,
+      "reference": "Genesis 3:3",
+      "before": "but not the fruit of the tree which is in the middle of the garden. Elohim has said, ‘You shall not eat of it. You shall not touch it, lest you die.’ ”",
+      "after": "but not the fruit of the tree which is in the middle of the garden. Elohim has said, ‘You shall not eat of it. You shall not touch it, lest you die.’”"
+    },
+    {
+      "slug": "genesis",
+      "chapter": 20,
+      "verse": 13,
+      "reference": "Genesis 20:13",
+      "before": "When Elohim caused me to wander from my father’s house, I said to her, ‘This is your kindness which you shall show to me. Everywhere that we go, say of me, “He is my brother.” ’ ”",
+      "after": "When Elohim caused me to wander from my father’s house, I said to her, ‘This is your kindness which you shall show to me. Everywhere that we go, say of me, “He is my brother.”’”"
+    },
+    {
+      "slug": "genesis",
+      "chapter": 22,
+      "verse": 16,
+      "reference": "Genesis 22:16",
+      "before": "and said, “ ‘I have sworn by myself,’ says YHWH, ‘because you have done this thing, and have not withheld your son, your only son,",
+      "after": "and said, “‘I have sworn by myself,’ says YHWH, ‘because you have done this thing, and have not withheld your son, your only son,"
+    },
+    {
+      "slug": "genesis",
+      "chapter": 22,
+      "verse": 18,
+      "reference": "Genesis 22:18",
+      "before": "All the nations of the earth will be blessed by your offspring, because you have obeyed my voice.’ ”",
+      "after": "All the nations of the earth will be blessed by your offspring, because you have obeyed my voice.’”"
+    },
+    {
+      "slug": "genesis",
+      "chapter": 26,
+      "verse": 9,
+      "reference": "Genesis 26:9",
+      "before": "Abimelech called Yitzhak, and said, “Look, surely she is your wife. Why did you say, ‘She is my sister’?” Yitzhak said to him, “Because I said, ‘Lest I die because of her.’ ”",
+      "after": "Abimelech called Yitzhak, and said, “Look, surely she is your wife. Why did you say, ‘She is my sister’?” Yitzhak said to him, “Because I said, ‘Lest I die because of her.’”"
+    },
+    {
+      "slug": "genesis",
+      "chapter": 31,
+      "verse": 13,
+      "reference": "Genesis 31:13",
+      "before": "I am the God of Beit El, where you anointed a pillar, where you vowed a vow to me. Now arise, get out from this land, and return to the land of your birth.’ ”",
+      "after": "I am the God of Beit El, where you anointed a pillar, where you vowed a vow to me. Now arise, get out from this land, and return to the land of your birth.’”"
+    },
+    {
+      "slug": "genesis",
+      "chapter": 32,
+      "verse": 5,
+      "reference": "Genesis 32:5",
+      "before": "I have cattle, donkeys, flocks, male servants, and female servants. I have sent to tell my lord, that I may find favor in your sight.’ ”",
+      "after": "I have cattle, donkeys, flocks, male servants, and female servants. I have sent to tell my lord, that I may find favor in your sight.’”"
+    },
+    {
+      "slug": "genesis",
+      "chapter": 32,
+      "verse": 12,
+      "reference": "Genesis 32:12",
+      "before": "You said, ‘I will surely do you good, and make your offspring as the sand of the sea, which can’t be counted because there are so many.’ ”",
+      "after": "You said, ‘I will surely do you good, and make your offspring as the sand of the sea, which can’t be counted because there are so many.’”"
+    },
+    {
+      "slug": "genesis",
+      "chapter": 32,
+      "verse": 18,
+      "reference": "Genesis 32:18",
+      "before": "Then you shall say, ‘They are your servant, Yaakov’s. It is a present sent to my lord, Esav. Look, he also is behind us.’ ”",
+      "after": "Then you shall say, ‘They are your servant, Yaakov’s. It is a present sent to my lord, Esav. Look, he also is behind us.’”"
+    },
+    {
+      "slug": "genesis",
+      "chapter": 32,
+      "verse": 20,
+      "reference": "Genesis 32:20",
+      "before": "You shall say, ‘Not only that, but look, your servant, Yaakov, is behind us.’ ” For, he said, “I will appease him with the present that goes before me, and afterward I will see his face. Perhaps he will accept me.”",
+      "after": "You shall say, ‘Not only that, but look, your servant, Yaakov, is behind us.’” For, he said, “I will appease him with the present that goes before me, and afterward I will see his face. Perhaps he will accept me.”"
+    },
+    {
+      "slug": "genesis",
+      "chapter": 37,
+      "verse": 17,
+      "reference": "Genesis 37:17",
+      "before": "The person said, “They have left here, for I heard them say, ‘Let’s go to Dothan.’ ” Yosef went after his brothers, and found them in Dothan.",
+      "after": "The person said, “They have left here, for I heard them say, ‘Let’s go to Dothan.’” Yosef went after his brothers, and found them in Dothan."
+    },
+    {
+      "slug": "genesis",
+      "chapter": 38,
+      "verse": 22,
+      "reference": "Genesis 38:22",
+      "before": "He returned to Yehudah, and said, “I haven’t found her; and also the men of the place said, ‘There has been no prostitute here.’ ”",
+      "after": "He returned to Yehudah, and said, “I haven’t found her; and also the men of the place said, ‘There has been no prostitute here.’”"
+    },
+    {
+      "slug": "genesis",
+      "chapter": 42,
+      "verse": 34,
+      "reference": "Genesis 42:34",
+      "before": "Bring your youngest brother to me. Then I will know that you are not spies, but that you are honest men. So I will deliver your brother to you, and you shall trade in the land.’ ”",
+      "after": "Bring your youngest brother to me. Then I will know that you are not spies, but that you are honest men. So I will deliver your brother to you, and you shall trade in the land.’”"
+    },
+    {
+      "slug": "genesis",
+      "chapter": 43,
+      "verse": 5,
+      "reference": "Genesis 43:5",
+      "before": "but if you don’t send him, we won’t go down, for the person said to us, ‘You shall not see my face, unless your brother is with you.’ ”",
+      "after": "but if you don’t send him, we won’t go down, for the person said to us, ‘You shall not see my face, unless your brother is with you.’”"
+    },
+    {
+      "slug": "genesis",
+      "chapter": 44,
+      "verse": 5,
+      "reference": "Genesis 44:5",
+      "before": "Isn’t this that from which my lord drinks, and by which he indeed divines? You have done wrong in so doing.’ ”",
+      "after": "Isn’t this that from which my lord drinks, and by which he indeed divines? You have done wrong in so doing.’”"
+    },
+    {
+      "slug": "genesis",
+      "chapter": 45,
+      "verse": 11,
+      "reference": "Genesis 45:11",
+      "before": "There I will provide for you; for there are yet five years of famine; lest you come to poverty, you, and your household, and all that you have.” ’",
+      "after": "There I will provide for you; for there are yet five years of famine; lest you come to poverty, you, and your household, and all that you have.”’"
+    },
+    {
+      "slug": "genesis",
+      "chapter": 48,
+      "verse": 20,
+      "reference": "Genesis 48:20",
+      "before": "He blessed them that day, saying, “Yisrael will bless in your name, saying, ‘Elohim make you as Efrayim and as Menashe’ ” He set Efrayim before Menashe.",
+      "after": "He blessed them that day, saying, “Yisrael will bless in your name, saying, ‘Elohim make you as Efrayim and as Menashe’” He set Efrayim before Menashe."
+    },
+    {
+      "slug": "genesis",
+      "chapter": 50,
+      "verse": 5,
+      "reference": "Genesis 50:5",
+      "before": "‘My father made me swear, saying, “Look, I am dying. Bury me in my grave which I have dug for myself in the land of Kena'an.” Now therefore, please let me go up and bury my father, and I will come again.’ ”",
+      "after": "‘My father made me swear, saying, “Look, I am dying. Bury me in my grave which I have dug for myself in the land of Kena'an.” Now therefore, please let me go up and bury my father, and I will come again.’”"
+    },
+    {
+      "slug": "genesis",
+      "chapter": 50,
+      "verse": 17,
+      "reference": "Genesis 50:17",
+      "before": "‘You shall tell Yosef, “Now please forgive the disobedience of your brothers, and their sin, because they did wrong to you.” ’ Now, please forgive the disobedience of the servants of the God of your father.” Yosef wept when they spoke to him.",
+      "after": "‘You shall tell Yosef, “Now please forgive the disobedience of your brothers, and their sin, because they did wrong to you.”’ Now, please forgive the disobedience of the servants of the God of your father.” Yosef wept when they spoke to him."
+    }
+  ],
+  "reviewedNoChangeDenseQuoteCandidates": [
+    "Exodus 7:18",
+    "Exodus 8:23",
+    "Exodus 9:4",
+    "Exodus 9:19",
+    "Isaiah 36:10",
+    "Isaiah 37:7",
+    "Isaiah 38:8",
+    "Ezekiel 29:16",
+    "Zechariah 1:17",
+    "Zechariah 6:15",
+    "Matthew 13:30",
+    "Matthew 26:18"
+  ],
+  "policy": {
+    "wordingChanges": 0,
+    "quotationLevelsRemoved": 0,
+    "globalQuoteStyleConversion": false,
+    "rule": "Remove only whitespace between nested curly quotation marks at the 19 audited Genesis references; preserve all required quotation levels and all wording."
+  },
+  "qa": {
+    "wholeBibleDiffExactlyApproved19": true,
+    "remainingNestedCurlyQuoteWhitespaceHits": 0,
+    "epubStructureXmlAndLinks": "pass",
+    "articleMismatchCount": 0,
+    "verseInventory": "31102/31102"
+  },
+  "canonicalMobileFallback": {
+    "schemaVersion": 1,
+    "releaseId": "canonical-a1493bfd9f38181c",
+    "canonicalEpubSha256": "a1493bfd9f38181c5e552880f7156ef609a8e83550ee459d9ed01db4b3db1c89",
+    "generatedAt": "2026-09-30T07:38:14Z",
+    "contentSha256": "5435486a0eb6745a3fd24e6d61b93f548aec05ec84a748bc96a4cd70a9a93891",
+    "contentBytes": 30117823,
+    "contentUrl": "https://raw.githubusercontent.com/Wayback-Project/thewaytranslations/main/current-form-documents/mobile-reader/content.json",
+    "source": "canonical-github-fallback",
+    "bookCount": 66,
+    "chapterCount": 1189,
+    "verseSearchCount": 31102
+  }
+}

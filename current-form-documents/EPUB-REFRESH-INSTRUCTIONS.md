@@ -59,3 +59,7 @@ Finite 176-verse release from the frozen final review: 124 divine-pronoun edits,
 ## 2026-09-30 Daniel 7 kingdom residual → reign correction
 
 Exact three-verse follow-up after a fresh whole-Bible `kingdom/kingdoms` residual audit. Daniel 7:18, 7:22, and the singular rule/authority terms in 7:27 use `reign`; human/geopolitical kingdoms remain `kingdom`, including Daniel 7:23-24 and `kingdoms under the whole sky` in 7:27. Canonical SHA-256: `91b1daa6b2f796ebf4fd3c149cf4fabc8faabba796f0063bdb6ab8e0565492d7`. See `../editor-notes/consistency/2026-09-30-kingdom-residual-release.md` and `../change-logs/reports/2026-09-30-kingdom-residual-release.json`.
+
+## 2026-09-30 quotation nesting spacing normalization
+
+Finite 19-verse Genesis typography correction from the whole-Bible quotation audit. Only whitespace between nested curly quotation marks changed; no words or quotation levels changed. Dense straight-quote candidates with legitimate nested speech were retained. Canonical SHA-256: `a1493bfd9f38181c5e552880f7156ef609a8e83550ee459d9ed01db4b3db1c89`. See `../editor-notes/consistency/2026-09-30-quotation-spacing-release.md` and `../change-logs/reports/2026-09-30-quotation-spacing-release.json`.

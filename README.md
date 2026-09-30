@@ -69,7 +69,7 @@ The canonical whole-Bible release is [current-form-documents/the-way-current.epu
 | Item | Current value |
 |---|---|
 | Coverage | 66 books / 1,189 chapters |
-| EPUB SHA-256 | `91b1daa6b2f796ebf4fd3c149cf4fabc8faabba796f0063bdb6ab8e0565492d7` |
+| EPUB SHA-256 | `a1493bfd9f38181c5e552880f7156ef609a8e83550ee459d9ed01db4b3db1c89` |
 | Browser reader | [thewayversion.com/app](https://thewayversion.com/app) |
 | Website | [thewayversion.com](https://thewayversion.com) |
 | Mobile | Native mobile applications are in development |

@@ -31,3 +31,5 @@
 - **2026-09-29_065415UTC** — Divine-language final release: 176 exact changed verses across 37 books; prior EPUB archived at `rendered-documents-history/2026-09-29_065415UTC/the-way-current.epub`; new SHA-256 `aec31f9c9248cd42913c561c4cd5155fb35c39dddc657b16e53c370edff7a615`.
 
 - **2026-09-30_0408UTC** — Daniel 7 kingdom residual → reign correction: exact Daniel 7:18, 7:22, 7:27 correction. Prior EPUB archived at `rendered-documents-history/2026-09-30_0408UTC/the-way-current.epub`; new SHA-256 `91b1daa6b2f796ebf4fd3c149cf4fabc8faabba796f0063bdb6ab8e0565492d7`.
+
+- **2026-09-30_0738UTC** — Quotation nesting spacing normalization: 19 Genesis typography-only quote-spacing corrections. Prior EPUB archived at `rendered-documents-history/2026-09-30_0738UTC/the-way-current.epub`; new SHA-256 `a1493bfd9f38181c5e552880f7156ef609a8e83550ee459d9ed01db4b3db1c89`.
