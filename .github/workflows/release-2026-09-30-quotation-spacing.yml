@@ -1,0 +1,48 @@
+name: Release quotation spacing 2026-09-30
+
+on:
+  push:
+    branches:
+      - release/quotation-spacing-2026-09-30
+    paths:
+      - '.github/workflows/release-2026-09-30-quotation-spacing.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    if: ${{ !contains(github.event.head_commit.message, '[skip quotation release]') }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: release/quotation-spacing-2026-09-30
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Run finite quotation-spacing correction
+        run: python tools/local/release_2026_09_30_quotation_spacing.py
+      - name: Commit canonical quotation correction artifacts
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add \
+            original-documents/genesis_restorative_translation.txt \
+            current-form-documents/the-way-current.epub \
+            current-form-documents/mobile-reader \
+            current-form-documents/original-name-registry.json \
+            rendered-documents-history \
+            change-logs/reports/2026-09-30-quotation-spacing-release.json \
+            change-logs/reports/2026-09-30-quotation-punctuation-audit.md \
+            editor-notes/consistency/2026-09-30-quotation-spacing-release.md \
+            README.md \
+            current-form-documents/README.md \
+            current-form-documents/EPUB-REFRESH-INSTRUCTIONS.md \
+            rendered-documents-history/LOG.md
+          git diff --cached --quiet && { echo 'No canonical quotation changes produced' >&2; exit 1; }
+          git commit -m 'Release quotation nesting spacing normalization [skip quotation release]'
+          git push origin HEAD:release/quotation-spacing-2026-09-30
