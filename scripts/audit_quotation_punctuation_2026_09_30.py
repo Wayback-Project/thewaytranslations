@@ -23,6 +23,7 @@ DETERMINISTIC_CATEGORIES = [
     "CONFIRMED_SPACED_NESTED_CLOSERS",
     "CONFIRMED_SPACE_BEFORE_CLOSING_QUOTE",
     "CONFIRMED_SPACE_AFTER_OPENING_QUOTE",
+    "CONFIRMED_DENSE_STRAIGHT_QUOTE_RUN",
     "CONFIRMED_SPACE_BEFORE_PUNCTUATION",
     "CONFIRMED_REPLACEMENT_CHARACTER",
     "CONFIRMED_REPEATED_SPACES",
@@ -79,6 +80,10 @@ def suspicious(text: str):
         findings.append(("CONFIRMED_SPACE_BEFORE_CLOSING_QUOTE", m.start(), m.end()))
     for m in re.finditer(r"[“‘]\s+\S", text):
         findings.append(("CONFIRMED_SPACE_AFTER_OPENING_QUOTE", m.start(), m.end()))
+    # Three or more contiguous ASCII quote glyphs cannot be ordinary English
+    # punctuation. Keep this separate from legitimate nested curly closers.
+    for m in re.finditer(r'''["']{3,}''', text):
+        findings.append(("CONFIRMED_DENSE_STRAIGHT_QUOTE_RUN", m.start(), m.end()))
     for m in re.finditer(r"\s+[,:;!?]", text):
         findings.append(("CONFIRMED_SPACE_BEFORE_PUNCTUATION", m.start(), m.end()))
     for m in re.finditer(r"\uFFFD", text):
@@ -100,9 +105,8 @@ def snippet(text: str, start: int, end: int, radius: int = 65):
     return ("…" if a else "") + text[a:b] + ("…" if b < len(text) else "")
 
 
-def source_spaced_closer_occurrences():
+def source_pattern_occurrences(pattern: re.Pattern[str]):
     rows = []
-    pattern = re.compile(r"[”’]\s+[”’]")
     for path in sorted((ROOT / "original-documents").glob("*.txt")):
         text = path.read_text(encoding="utf-8")
         for line_no, line in enumerate(text.splitlines(), 1):
@@ -116,6 +120,7 @@ def epub_raw_audit(path: Path):
     spaced_nested = 0
     space_before_close = 0
     space_after_open = 0
+    dense_straight_runs = 0
     trigger = False
     with zipfile.ZipFile(path) as zf:
         for name in zf.namelist():
@@ -126,12 +131,14 @@ def epub_raw_audit(path: Path):
             spaced_nested += len(re.findall(r"[”’]\s+[”’]", text))
             space_before_close += len(re.findall(r"\S\s+[”’]", text))
             space_after_open += len(re.findall(r"[“‘]\s+\S", text))
+            dense_straight_runs += len(re.findall(r'''["']{3,}''', text))
             trigger = trigger or ('.” ’ ”' in text)
     return {
         "xhtml_members": xhtml_members,
         "spaced_nested": spaced_nested,
         "space_before_close": space_before_close,
         "space_after_open": space_after_open,
+        "dense_straight_runs": dense_straight_runs,
         "trigger": trigger,
     }
 
@@ -192,7 +199,8 @@ def main():
         raise SystemExit(f"Genesis 20:13 no longer has expected audit trigger: {genesis_text}")
     proposed_genesis = genesis_text.replace('.” ’ ”', '.”’”')
 
-    source_hits = source_spaced_closer_occurrences()
+    source_spaced_hits = source_pattern_occurrences(re.compile(r"[”’]\s+[”’]"))
+    source_dense_hits = source_pattern_occurrences(re.compile(r'''["']{3,}'''))
     epub = epub_raw_audit(EPUB)
 
     OUT_TSV.parent.mkdir(parents=True, exist_ok=True)
@@ -226,7 +234,9 @@ def main():
         f"- EPUB spaced nested-closer sequences: **{epub['spaced_nested']}**",
         f"- EPUB spaces immediately before curly closing quotes: **{epub['space_before_close']}**",
         f"- EPUB spaces immediately after curly opening quotes: **{epub['space_after_open']}**",
-        f"- Canonical editable-source lines containing spaced curly closing-quote pairs: **{len(source_hits)}**",
+        f"- EPUB dense contiguous ASCII quote runs (3+ glyphs): **{epub['dense_straight_runs']}**",
+        f"- Canonical editable-source lines containing spaced curly closing-quote pairs: **{len(source_spaced_hits)}**",
+        f"- Canonical editable-source lines containing dense contiguous ASCII quote runs: **{len(source_dense_hits)}**",
         "",
         "## Whole-Bible candidate scan",
         "",
@@ -239,6 +249,12 @@ def main():
     lines.extend(["", "### Confirmed spaced nested-closer references", ""])
     confirmed_refs = ordered_refs(candidates, "CONFIRMED_SPACED_NESTED_CLOSERS")
     lines.append(", ".join(confirmed_refs) if confirmed_refs else "None.")
+
+    lines.extend(["", "### Confirmed dense straight-quote-run references", ""])
+    dense_refs = ordered_refs(candidates, "CONFIRMED_DENSE_STRAIGHT_QUOTE_RUN")
+    lines.append(", ".join(dense_refs) if dense_refs else "None.")
+    lines.append("")
+    lines.append("These are confirmed malformed punctuation strings, but their intended final quotation nesting is **not** inferred mechanically. Each needs context reconstruction and an explicit Current → Final row before release.")
 
     lines.extend(["", "### 3+ quote marks within 10 characters — review queue", ""])
     proximity_refs = ordered_refs(candidates, "REVIEW_3PLUS_QUOTES_WITHIN_10_CHARS")
@@ -255,7 +271,12 @@ def main():
         lines.append(f"- `{label}`: **{style[label]} verse(s)**")
 
     lines.extend(["", "### Editable-source spaced-closer hits", ""])
-    for path, line_no, line in source_hits:
+    for path, line_no, line in source_spaced_hits:
+        clean = line.replace("`", "\\`")
+        lines.append(f"- `{path}:{line_no}` — `{clean}`")
+
+    lines.extend(["", "### Editable-source dense straight-quote-run hits", ""])
+    for path, line_no, line in source_dense_hits:
         clean = line.replace("`", "\\`")
         lines.append(f"- `{path}:{line_no}` — `{clean}`")
 
@@ -263,12 +284,13 @@ def main():
         "",
         "## Review policy and proposed next step",
         "",
-        "1. Treat `CONFIRMED_*` categories as mechanical typography/encoding defects only after each reference is context-checked.",
-        "2. Treat `REVIEW_*` categories as candidate queues, not release authority; nested dialogue, rhetorical punctuation, and multi-verse quotation spans can be legitimate.",
-        "3. Treat the quote-style inventory as a possible future house-style project, not as permission for a mass replacement.",
-        "4. For any approved fixes, freeze exact Current → Final verse strings in the Google final-review ledger before release.",
-        "5. Apply only the approved finite set to the canonical EPUB/source, then rebuild canonical mobile fallback, Netlify reader/search/mobile feed, and mobile content provenance from the new canonical artifact.",
-        "6. Re-run this audit after the correction release and require zero unintended verse-text differences downstream.",
+        "1. Treat `CONFIRMED_SPACED_NESTED_CLOSERS` and the single confirmed opening-boundary space as typography-only candidates: preserve all quote glyphs and wording; remove only the inappropriate inter-quote/interior space after context confirmation.",
+        "2. Treat `CONFIRMED_DENSE_STRAIGHT_QUOTE_RUN` as definite corruption, but do not mass-normalize it. Reconstruct each intended quotation level from context and freeze an explicit Current → Final verse string.",
+        "3. Treat remaining `REVIEW_*` rows as candidate queues, not release authority; nested dialogue, rhetorical punctuation, and multi-verse quotation spans can be legitimate.",
+        "4. Treat the quote-style inventory as a possible future house-style project, not as permission for a mass replacement.",
+        "5. For any approved fixes, freeze exact Current → Final verse strings in the Google final-review ledger before release.",
+        "6. Apply only the approved finite set to the canonical EPUB/source, then rebuild canonical mobile fallback, Netlify reader/search/mobile feed, and mobile content provenance from the new canonical artifact.",
+        "7. Re-run this audit after the correction release and require zero unintended verse-text differences downstream.",
         "",
         "## Audit provenance",
         "",
@@ -283,7 +305,8 @@ def main():
     print(f"wrote {OUT_TSV.relative_to(ROOT)}")
     print(f"candidates={len(candidates)} categories={dict(by_category)}")
     print(f"style={dict(style)}")
-    print(f"source_spaced_closer_hits={len(source_hits)}")
+    print(f"source_spaced_closer_hits={len(source_spaced_hits)}")
+    print(f"source_dense_quote_run_hits={len(source_dense_hits)}")
     print(f"epub={epub}")
 
 
