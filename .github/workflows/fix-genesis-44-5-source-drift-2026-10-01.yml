@@ -1,0 +1,64 @@
+name: Fix Genesis 44:5 source drift 2026-10-01
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/fix-genesis-44-5-source-drift-2026-10-01.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  repair:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Align editable Genesis source to released canonical wording
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import hashlib
+
+          src = Path('original-documents/genesis_restorative_translation.txt')
+          epub = Path('current-form-documents/the-way-current.epub')
+          expected_epub_sha = 'a1493bfd9f38181c5e552880f7156ef609a8e83550ee459d9ed01db4b3db1c89'
+
+          actual = hashlib.sha256(epub.read_bytes()).hexdigest()
+          if actual != expected_epub_sha:
+              raise SystemExit(f'Unexpected canonical EPUB baseline: {actual}')
+
+          s = src.read_text(encoding='utf-8')
+          old = "5. Isn’t this that from which my lord drinks, and by which he indeed divines? You have done brokenness in so doing.’”"
+          new = "5. Isn’t this that from which my lord drinks, and by which he indeed divines? You have done wrong in so doing.’”"
+          if old not in s and new not in s:
+              raise SystemExit('Genesis 44:5 source target not found')
+          if old in s:
+              if s.count(old) != 1:
+                  raise SystemExit(f'Genesis 44:5 source target count = {s.count(old)}')
+              s = s.replace(old, new, 1)
+              src.write_text(s, encoding='utf-8')
+
+          report = Path('change-logs/reports/2026-10-01-genesis-44-5-source-alignment.md')
+          report.write_text('''# Genesis 44:5 editable-source alignment\n\n**Status:** resolved 2026-10-01.\n\nThe released canonical Scripture already reads:\n\n> Isn’t this that from which my lord drinks, and by which he indeed divines? You have done wrong in so doing.’”\n\nThe editable Genesis source had retained the older wording `You have done brokenness in so doing.` This was source drift only. The September 14 contextual lexical cleanup had already established `wrong` here, and the later September 26 direct `evil → brokenness / broken` release explicitly did not authorize replacing already-contextualized wording such as `wrong`.\n\nThe Hebrew clause uses the finite verb הֲרֵעֹתֶם ("you have done evil/wrong"), so `You have done wrong` is the natural English verbal rendering and is consistent with the project’s contextual methodology.\n\n## Resolution\n\n- `original-documents/genesis_restorative_translation.txt` is aligned to `wrong`.\n- Canonical EPUB wording is unchanged.\n- Canonical EPUB SHA-256 remains `a1493bfd9f38181c5e552880f7156ef609a8e83550ee459d9ed01db4b3db1c89`.\n- No downstream Scripture regeneration is required because the EPUB, web reader, downloadable EPUB, and mobile content feed already contain the correct `wrong` wording.\n''', encoding='utf-8')
+          PY
+
+          grep -F "You have done wrong in so doing.’”" original-documents/genesis_restorative_translation.txt
+          ! grep -F "You have done brokenness in so doing.’”" original-documents/genesis_restorative_translation.txt
+          sha256sum current-form-documents/the-way-current.epub | grep '^a1493bfd9f38181c5e552880f7156ef609a8e83550ee459d9ed01db4b3db1c89 '
+
+      - name: Commit source alignment
+        run: |
+          if git diff --quiet -- original-documents/genesis_restorative_translation.txt change-logs/reports/2026-10-01-genesis-44-5-source-alignment.md; then
+            echo 'No changes needed.'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add original-documents/genesis_restorative_translation.txt change-logs/reports/2026-10-01-genesis-44-5-source-alignment.md
+          git commit -m 'Align Genesis 44:5 editable source with canonical wording [skip source alignment]'
+          git push origin HEAD:main
