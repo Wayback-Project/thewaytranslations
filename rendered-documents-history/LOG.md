@@ -37,3 +37,5 @@
 - 2026-10-12_091448UTC — one-verse Luke 2:52 “the people”; previous EPUB archived at rendered-documents-history/2026-10-12_091448UTC/the-way-current.epub; SHA-256 3b67b7bded16824e5a32e5a100bd4e52b0dffc1fa2ff62997aa6c66692ef9a1e.
 
 - 2026-10-12_094720UTC — NT Father/God pronoun consistency: 45 exact changed verses in 12 NT books; archive rendered-documents-history/2026-10-12_094720UTC/the-way-current.epub; EPUB SHA-256 93c1cc170a04ba917b779249059e69e4ff01104a806cbb916c3a325c12eb1af6.
+
+- 2026-10-12_095329UTC — God-referent 1 Timothy 6:15 “he/King” → “God/Sovereign”; prior EPUB archived at rendered-documents-history/2026-10-12_095329UTC/the-way-current.epub; new SHA-256 5afdb333aa06d83d4f98211251d563c6ba2077ca054a08cf7a000a4f399c29a0.

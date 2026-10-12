@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0.0",
   "releaseDate": "2026-09-12",
-  "canonicalEpubSha256": "93c1cc170a04ba917b779249059e69e4ff01104a806cbb916c3a325c12eb1af6",
+  "canonicalEpubSha256": "5afdb333aa06d83d4f98211251d563c6ba2077ca054a08cf7a000a4f399c29a0",
   "priorCanonicalEpubSha256": "73c3bc73d2da91fed507ee7dd6e1db72f4640847c664cdc4666f4ad065faff50",
   "policy": {
     "bookTitlesChanged": false,

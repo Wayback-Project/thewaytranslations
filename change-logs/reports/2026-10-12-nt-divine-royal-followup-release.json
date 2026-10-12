@@ -1,0 +1,46 @@
+{
+  "release": "1 Timothy 6:15 God and Sovereign royal-title residual",
+  "releaseDate": "2026-10-12",
+  "beforeEpubSha256": "93c1cc170a04ba917b779249059e69e4ff01104a806cbb916c3a325c12eb1af6",
+  "releasedEpubSha256": "5afdb333aa06d83d4f98211251d563c6ba2077ca054a08cf7a000a4f399c29a0",
+  "archivePath": "rendered-documents-history/2026-10-12_095329UTC/the-way-current.epub",
+  "changedVerseCount": 1,
+  "wholeBibleVerseCount": 31102,
+  "changedEpubMembers": [
+    "OEBPS/Text/1-timothy.xhtml"
+  ],
+  "changes": [
+    {
+      "reference": "1 Timothy 6:15",
+      "book": "1-timothy",
+      "chapter": 6,
+      "verse": 15,
+      "before": "which in its own times he will show, who is the blessed and only Ruler, the King of kings, and Master of masters;",
+      "after": "which God will show at the proper time—God, the blessed and only Ruler, the Sovereign of sovereigns, and Master of masters;",
+      "reason": "Context 1 Timothy 6:13–16: God (not Messiah Yeshua) is the one who reveals Yeshua's appearing at the proper time and is described as the blessed sole Ruler. Recast unmistakable God-referent he as God; following existing Way Version policy replace the divine title King of kings with Sovereign of sovereigns. Preserve the distinct human/messianic King titles elsewhere; render Greek basileus basileōn with explicit translation-equivalent paraphrase, not a claim it literally says Greek sovereign."
+    }
+  ],
+  "canonicalMobileFallback": {
+    "schemaVersion": 1,
+    "releaseId": "canonical-5afdb333aa06d83d",
+    "canonicalEpubSha256": "5afdb333aa06d83d4f98211251d563c6ba2077ca054a08cf7a000a4f399c29a0",
+    "generatedAt": "2026-10-12T09:53:29Z",
+    "contentSha256": "841d1768bfd867e5cdc74f3cda8672ad883f57f855fe87f37e7e8ed67734edf4",
+    "contentBytes": 30118954,
+    "contentUrl": "https://raw.githubusercontent.com/Wayback-Project/thewaytranslations/main/current-form-documents/mobile-reader/content.json",
+    "source": "canonical-github-fallback",
+    "bookCount": 66,
+    "chapterCount": 1189,
+    "verseSearchCount": 31102
+  },
+  "qa": {
+    "only1Timothy6_15Changed": true,
+    "epubZipXmlLinks": "pass",
+    "books": 66,
+    "chapters": 1189,
+    "verses": 31102,
+    "grammar": "pass"
+  },
+  "context": "1 Timothy 6:13–16 distinguishes God who reveals the appearing from Messiah Yeshua, and applies the divine-only Ruler/King of kings title to God. Preserve historical kings and Yeshua title references elsewhere.",
+  "batchTotal": "45 NT Father pronoun corrections + 1 related divine royal follow-up = 46 distinct verses in two sequential canonical releases."
+}

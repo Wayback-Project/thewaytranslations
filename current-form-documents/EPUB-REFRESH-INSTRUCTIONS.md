@@ -71,3 +71,7 @@ One-verse release replacing “Elohim and people” with “Elohim and the peopl
 ## 2026-10-12 NT divine-referent residual release
 
 45 exact God/Father/YHWH/Cosmic Parent pronoun corrections; 1 Peter 4:19 among them. Yeshua and other real male pronouns retained. New canonical EPUB SHA-256: 93c1cc170a04ba917b779249059e69e4ff01104a806cbb916c3a325c12eb1af6. See editor-notes/consistency/2026-10-12-nt-divine-referent-release.md
+
+## 2026-10-12 1 Timothy 6:15 God/Sovereign follow-up
+
+After the 45-verse NT God/Father pronoun correction, exactly 1 Timothy 6:15 was reviewed and corrected: divine he → God and divine King of kings → Sovereign of sovereigns. Canonical EPUB SHA-256 5afdb333aa06d83d4f98211251d563c6ba2077ca054a08cf7a000a4f399c29a0. No other Scripture text changed.
