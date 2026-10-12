@@ -1,0 +1,33 @@
+name: Release 1 Timothy 6 God Sovereign followup 2026-10-12
+on:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/release-2026-10-12-nt-divine-royal-followup.yml']
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: way-one-verse-divine-royal-followup
+  cancel-in-progress: false
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Apply exact God and Sovereign wording and validate whole Bible diff
+        run: python tools/local/release_2026_10_12_nt_divine_royal_followup.py
+      - name: Commit canonical EPUB, public GitHub mobile fallback, report and archive
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add current-form-documents/the-way-current.epub current-form-documents/mobile-reader current-form-documents/original-name-registry.json rendered-documents-history change-logs/reports/2026-10-12-nt-divine-royal-followup-release.json editor-notes/consistency/2026-10-12-nt-divine-royal-followup-release.md README.md current-form-documents/README.md current-form-documents/EPUB-REFRESH-INSTRUCTIONS.md rendered-documents-history/LOG.md
+          git diff --cached --quiet && { echo 'No new canonical version' >&2; exit 1; }
+          git commit -m 'Release 1 Timothy 6:15 divine God Sovereign residual after 45 verse batch'
+          git push origin HEAD:main
