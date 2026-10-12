@@ -1,0 +1,388 @@
+# New Testament divine masculine and royal residue candidate audit — 2026-10-12
+
+No blanket replacements. Every row is a CANDIDATE requiring referent determination.
+
+{
+  "newTestamentVersesScanned": 7957,
+  "canonicalEpubSha256": "3b67b7bded16824e5a32e5a100bd4e52b0dffc1fa2ff62997aa6c66692ef9a1e",
+  "versesWithMasculinePronouns": 3002,
+  "pronounVersesWithDivineNameInSameVerse": 497,
+  "pronounVersesDivineNameWithinOneVerse": 883,
+  "pronounVersesHighTriageScore6Plus": 352,
+  "versesWithRoyalTokens": 107,
+  "royalVersesWithDivineNameInSameVerse": 12,
+  "totalRoyalTokens": 119
+}
+
+## Highest priority pronoun candidates (score 6+; still includes Yeshua and human false positives)
+
+- **1 Peter 4:19** (score 17): Therefore let them also who suffer according to the will of God in doing good entrust their souls to him, as to a faithful Creator.
+- **Acts 13:22** (score 10): When God had removed him, God raised up Dawid to be their king, to whom God also testified, 'I have found Dawid the son of Yishai, a person after my heart, who will do all my will.'
+- **Revelation 19:16** (score 10): He has on his garment and on his thigh a name written, "KING OF KINGS AND SOVEREIGN OF SOVEREIGNS."
+- **1 John 4:9** (score 9): By this God's love was revealed in us, that God has sent the one and only Son into the world that we might live through him.
+- **Acts 1:2** (score 9): until the day in which he was received up, after he had given commandment through the Ruach of Elohim to the emissaries whom he had chosen.
+- **Acts 2:33** (score 9): Being therefore exalted by the right hand of God, and having received from the Cosmic Parent the promise of the Ruach of Elohim, he has poured out this, which you now see and hear.
+- **Acts 3:22** (score 9): For Moshe indeed said to the fathers, 'The Sovereign God will raise up a prophet for you from among your brothers and sisters, like me. You shall listen to him in all things whatever he says to you.
+- **Acts 7:5** (score 9): God gave him no inheritance in it, no, not so much as to set his foot on. God promised to give it to him for a possession, and to his seed after him, when he still had no child.
+- **Acts 11:24** (score 9): For he was a good man, and full of the Ruach of Elohim and of faith, and many people were added to God.
+- **Acts 23:3** (score 9): Then Shaul said to him, "God will strike you, you whitewashed wall! Do you sit to judge me according to the law, and command me to be struck contrary to the law?"
+- **Hebrews 11:4** (score 9): By faith, Hevel offered to God a more excellent sacrifice than Qayin, through which he had testimony given to him that he was righteous, God testifying with respect to his gifts; and through it he, being dead, still speaks.
+- **Hebrews 11:5** (score 9): By faith, Chanokh was taken away, so that he wouldn't see death, and he was not found, because God translated him. For he has had testimony given to him that before his translation he had been well pleasing to God.
+- **Hebrews 11:6** (score 9): Without faith it is impossible to be well pleasing to him, for the one who comes to God must trust that God exists, and that God rewards those who seek God.
+- **Hebrews 13:15** (score 9): Through him, then, let us offer up a sacrifice of praise to God continually, that is, the fruit of lips which proclaim allegiance to God’s name.
+- **John 1:12** (score 9): But as many as received him, to them he gave the right to become Elohim's children, to those who trust in his name:
+- **John 3:2** (score 9): The same came to him by night, and said to him, "Rabbi, we know that you are a teacher come from Elohim, for no one can do these signs that you do, unless Elohim is with him."
+- **John 3:16** (score 9): For Elohim so loved the world that Elohim gave the one and only Son, so that whoever trusts in him should not perish, but have life of the age to come.
+- **John 3:18** (score 9): The one who believes in him is not judged. The one who doesn't trust has been judged already, because they have not believed in the name of the one and only Son of Elohim.
+- **John 5:18** (score 9): For this cause therefore the Judeans sought all the more to kill him, because he not only broke the Sabbath, but also called Elohim his own Cosmic Parent, making himself equal with Elohim.
+- **John 6:28** (score 9): They said therefore to him, "What must we do, that we may work the works of Elohim?"
+- **John 6:46** (score 9): Not that anyone has seen the Cosmic Parent, except the one who is from Elohim. He has seen the Cosmic Parent.
+- **John 8:41** (score 9): You do the works of your father." They said to him, "We were not born of sexual immorality. We have one Cosmic Parent, Elohim."
+- **John 13:32** (score 9): If Elohim has been glorified in him, Elohim will also glorify him in Elohim, and Elohim will glorify him immediately.
+- **John 16:27** (score 9): for the Cosmic Parent himself loves you, because you have loved me, and have believed that I came forth from Elohim.
+- **Luke 2:48** (score 9): When they saw him, they were astonished, and his mother said to him, "Son, why have you treated us this way? Behold, your father and I were anxiously looking for you."
+- **Luke 5:25** (score 9): Immediately he rose up before them, and took up that which he was laying on, and departed to his house, glorifying Elohim.
+- **Luke 12:20** (score 9): "But Elohim said to him, 'You foolish one, tonight your soul is required of you. The things which you have prepared-- whose will they be?'
+- **Luke 15:17** (score 9): But when he came to himself he said, 'How many hired servants of my father's have bread enough to spare, and I'm dying with hunger!
+- **Luke 15:20** (score 9): "He arose, and came to his father. But while he was still far off, his father saw him, and was moved with compassion, and ran, and fell on his neck, and kissed him.
+- **Luke 15:27** (score 9): He said to him, 'Your brother has come, and your father has killed the fattened calf, because he has received him back safe and healthy.'
+- **Luke 15:28** (score 9): But he was angry, and would not go in. Therefore his father came out, and begged him.
+- **Luke 19:37** (score 9): As he was now getting near, at the descent of the Har HaZeitim, the whole multitude of the disciples began to rejoice and praise Elohim with a loud voice for all the mighty works which they had seen,
+- **Mark 12:26** (score 9): But about the dead, that they are raised; haven't you read in the book of Moshe, about the Bush, how Elohim spoke to him, saying, 'I am the God of Avraham, the God of Yitzhak, and the God of Ya'akov'?
+- **Matthew 1:23** (score 9): "Behold, the virgin shall be with child, and shall bring forth a son. They shall call his name Immanuel;" which is, being interpreted, "Elohim with us."
+- **Romans 4:11** (score 9): He received the sign of circumcision, a seal of the righteousness of the faith which he had while he was in uncircumcision, that he might be the father of all those who trust, though they be in uncircumcision, that righteousness might also be accounted to them.
+- **Romans 5:9** (score 9): Much more then, being now justified by his blood, we will be saved from God's wrath through him.
+- **Romans 14:12** (score 9): So then each one of us will give account of himself to God.
+- **Titus 3:5** (score 9): not by works of righteousness, which we did ourselves, but according to his mercy, he saved us, through the washing of regeneration and renewing by the Ruach of Elohim,
+- **1 John 5:1** (score 8): Whoever believes that Yeshua is the Messiah is born of God. Whoever loves the father also loves the child who is born of him.
+- **2 Corinthians 9:15** (score 8): Now thanks be to God for his unspeakable gift!
+- **Acts 2:24** (score 8): whom God raised up, having freed him from the agony of death, because it was not possible that he should be held by it.
+- **Acts 5:31** (score 8): God exalted him with God's right hand to be a Prince and a Savior, to give turning back to Israel, and remission of sins.
+- **Acts 5:32** (score 8): We are His witnesses of these things; and so also is the Ruach of Elohim, whom God has given to those who obey God."
+- **Acts 7:4** (score 8): Then he came out of the land of the Chaldaeans, and lived in Haran. From there, when his father was dead, God moved him into this land, where you are now living.
+- **Acts 7:8** (score 8): God gave him the covenant of circumcision. So Avraham became the father of Yitzhak, and circumcised him the eighth day. Yitzhak became the father of Ya'akov, and Ya'akov became the father of the twelve patriarchs.
+- **Acts 7:29** (score 8): Moshe fled at this saying, and became a stranger in the land of Midian, where he became the father of two sons.
+- **Acts 8:18** (score 8): Now when Shimon saw that the Ruach of Elohim was given through the laying on of the emissaries' hands, he offered them money,
+- **Acts 10:2** (score 8): a devout man, and one who revered God with all his house, who gave gifts for the needy generously to the people, and always prayed to God.
+- **Acts 10:40** (score 8): God raised him up the third day, and gave him to be revealed,
+- **Acts 11:16** (score 8): I remembered the word of the Master, how he said, 'Yochanan indeed immersed in water, but you will be immersed in the Ruach of Elohim.'
+- **Acts 11:23** (score 8): who, when he had come, and had seen the grace of God, was glad. He exhorted them all, that with purpose of heart they should remain near to God.
+- **Acts 13:34** (score 8): "Concerning that God raised him up from the dead, now no more to return to corruption, God has spoken thus: 'I will give you the holy and sure blessings of Dawid.'
+- **Acts 17:31** (score 8): because God has appointed a day in which God will judge the world in righteousness by the person whom God has ordained; of which God has given assurance to all people, in that God has raised him from the dead."
+- **Acts 20:28** (score 8): Take heed, therefore, to yourselves, and to all the flock, in which the Ruach of Elohim has made you overseers, to shepherd the assembly of the Master and God which he purchased with his own blood.
+- **Colossians 3:17** (score 8): Whatever you do, in word or in deed, do all in the name of Master Yeshua, giving thanks to God the Cosmic Parent, through him.
+- **Ephesians 5:2** (score 8): Walk in love, even as Messiah also loved you, and gave himself up for us, an offering and a sacrifice to God for a sweet-smelling fragrance.
+- **Galatians 4:5** (score 8): that he might redeem those who were under the law, so that we might receive adoption as God's children.
+- **James 4:7** (score 8): Be subject therefore to God. But resist the Slanderer, and he will flee from you.
+- **John 1:33** (score 8): I didn't recognize him, but the one who sent me to immerse in water, they said to me, 'On whomever you will see the Ruach descending, and remaining on him, the same is the one who baptizes in the Ruach of Elohim.'
+- **John 3:17** (score 8): For Elohim didn't send the Son into the world to judge the world, but that the world should be saved through him.
+- **John 4:24** (score 8): Elohim is Ruach, and those who bow before him must bow in Ruach and truth."
+- **John 6:27** (score 8): Don't work for the food which perishes, but for the food which remains to life of the age, which the Human One will give to you. For Elohim the Cosmic Parent has sealed him."
+- **John 10:33** (score 8): The Judeans answered him, "We don't stone you for a good work, but for blasphemy: because you, being a person, make yourself Elohim."
+- **John 10:35** (score 8): If he called them gods, to whom the word of Elohim came (and the Scripture can't be broken),
+- **John 13:31** (score 8): When he had gone out, Yeshua said, "Now the Human One has been glorified, and Elohim has been glorified in him.
+- **John 20:22** (score 8): When he had said this, he breathed on them, and said to them, "Receive the Ruach of Elohim!
+- **Luke 1:8** (score 8): Now it happened, while he executed the priest's office before Elohim in the order of his division,
+- **Luke 1:15** (score 8): For he will be great in the sight of God, and he will drink no wine nor strong drink. He will be filled with the Ruach of Elohim, even from his mother's womb.
+- **Luke 1:59** (score 8): It happened on the eighth day, that they came to circumcise the child; and they would have called him Zekharyah, after the name of the father.
+- **Luke 1:67** (score 8): His father, Zekharyah, was filled with the Ruach of Elohim, and prophesied, saying,
+- **Luke 2:22** (score 8): When the days of their purification according to the law of Moshe were fulfilled, they brought him up to Yerushalayim, to present him to God
+- **Luke 2:25** (score 8): Behold, there was a person in Yerushalayim whose name was Shimon. This man was righteous and devout, looking for the consolation of Israel, and the Ruach of Elohim was on him.
+- **Luke 2:26** (score 8): It had been revealed to him by the Ruach of Elohim that he should not see death before he had seen the Master's Messiah.
+- **Luke 2:40** (score 8): The child was growing, and was becoming strong in spirit, being filled with wisdom, and the grace of Elohim was upon him.
+- **Luke 4:3** (score 8): The Slanderer said to him, "If you are the Son of Elohim, command this stone to become bread."
+- **Luke 4:9** (score 8): He led him to Yerushalayim, and set him on the pinnacle of the temple, and said to him, "If you are the Son of Elohim, cast yourself down from here,
+- **Luke 7:30** (score 8): But the Pharisees and the lawyers rejected the counsel of Elohim, not being immersed by him themselves.
+- **Luke 8:10** (score 8): He said, "To you it is given to know the mysteries of the reign of Elohim, but to the rest in parables; that 'seeing they may not see, and hearing they may not understand.'
+- **Luke 9:42** (score 8): While he was still coming, the demon threw him down and convulsed him violently. But Yeshua rebuked the unclean spirit, and healed the boy, and gave him back to his father.
+- **Luke 9:59** (score 8): He said to another, "Follow me!" But he said, "Master, allow me first to go and bury my father."
+- **Luke 9:60** (score 8): But Yeshua said to him, "Leave the dead to bury their own dead, but you go and announce the reign of Elohim."
+- **Luke 15:18** (score 8): I will get up and go to my father, and will tell him, "Father, I have sinned against heaven, and in your sight.
+- **Luke 15:21** (score 8): The son said to him, 'Father, I have sinned against heaven, and in your sight. I am no longer worthy to be called your son.'
+- **Luke 15:22** (score 8): "But the father said to his servants, 'Bring out the best robe, and put it on him. Put a ring on his hand, and shoes on his feet.
+- **Luke 15:29** (score 8): But he answered his father, 'Behold, these many years I have served you, and I never disobeyed a commandment of yours, but you never gave me a goat, that I might celebrate with my friends.
+- **Luke 16:15** (score 8): He said to them, "You are those who justify yourselves in the sight of people, but Elohim knows your hearts. For that which is exalted among people is an abomination in the sight of Elohim.
+- **Luke 17:20** (score 8): Being asked by the Pharisees when the reign of Elohim would come, he answered them, "The reign of Elohim doesn't come with observation;
+- **Luke 23:35** (score 8): The people stood watching. The rulers with them also scoffed at him, saying, "He saved others. Let him save himself, if this is the Messiah of Elohim, his chosen one!"
+- **Luke 23:47** (score 8): When the centurion saw what was done, he glorified Elohim, saying, "Certainly this was a righteous person."
+- **Mark 7:9** (score 8): He said to them, "Full well do you reject the commandment of Elohim, that you may keep your tradition.
+- **Mark 7:12** (score 8): then you no longer allow him to do anything for his father or his mother,
+- **Mark 9:1** (score 8): He said to them, "Most certainly I tell you, there are some standing here who will in no way taste death until they see the reign of Elohim come with power."
+- **Mark 10:14** (score 8): But when Yeshua saw it, he was moved with indignation, and said to them, "Allow the little children to come to me! Don't forbid them, for the reign of Elohim belongs to such as these.
+- **Mark 10:18** (score 8): Yeshua said to him, "Why do you call me good? No one is good except one--Elohim.
+- **Mark 13:12** (score 8): "Brother will deliver up brother to death, and the father his child. Children will rise up against parents, and cause them to be put to death.
+- **Matthew 1:2** (score 8): Avraham became the father of Yitzhak. Yitzhak became the father of Ya'akov. Ya'akov became the father of Yehudah and his brothers.
+- **Matthew 1:11** (score 8): Yoshiyahu became the father of Yekhonyahu and his brothers, at the time of the exile to Bavel.
+- **Matthew 4:3** (score 8): The tempter came and said to him, "If you are the Son of Elohim, command that these stones become bread."
+- **Matthew 4:4** (score 8): But he answered, "It is written, 'A person shall not live by bread alone, but by every word that proceeds out of the mouth of Elohim.'"
+- **Matthew 4:6** (score 8): and said to him, "If you are the Son of Elohim, throw yourself down, for it is written, 'He will give his angels charge concerning you.' and, 'On their hands they will bear you up, so that you don't dash your foot against a stone.'"
+- **Matthew 4:22** (score 8): They immediately left the boat and their father, and followed him.
+- **Matthew 10:21** (score 8): "Brother will deliver up brother to death, and the father his child. Children will rise up against parents, and cause them to be put to death.
+- **Matthew 15:3** (score 8): He answered them, "Why do you also disobey the commandment of Elohim because of your tradition?
+- **Romans 3:25** (score 8): whom God set forth to be an atoning sacrifice, through faith in his blood, for a demonstration of God’s righteousness through the passing over of prior sins, in God's forbearance;
+- **Romans 4:12** (score 8): The father of circumcision to those who not only are of the circumcision, but who also walk in the steps of that faith of our father Avraham, which he had in uncircumcision.
+- **Romans 4:17** (score 8): As it is written, "I have made you a father of many nations." This is in the presence of the one whom he believed: God, who gives life to the dead, and calls the things that are not, as though they were.
+- **Romans 4:18** (score 8): Who in hope believed against hope, to the end that he might become a father of many nations, according to that which had been spoken, "So will your seed be."
+- **Romans 5:10** (score 8): For if, while we were enemies, we were reconciled to God through the death of God’s Son, much more, being reconciled, we will be saved by his life.
+- **Romans 6:10** (score 8): For the death that he died, he died to sin one time; but the life that he lives, he lives to God.
+- **1 John 1:5** (score 7): This is the message which we have heard from him and announce to you, that God is light, and in him is no darkness at all.
+- **1 John 2:5** (score 7): But whoever keeps God's word, God's love has most certainly been perfected in them. This is how we know that we are in him:
+- **1 John 3:2** (score 7): Beloved, now we are children of God, and it is not yet revealed what we will be. But we know that, when he is revealed, we will be like him; for we will see him just as he is.
+- **1 Peter 1:3** (score 7): Blessed be the God and Cosmic Parent of our Master Yeshua the Messiah, who according to his great mercy became our father again to a living hope through the resurrection of Yeshua the Messiah from the dead,
+- **1 Peter 1:21** (score 7): who through him are believers in God, who raised him from the dead, and gave him glory; so that your faith and hope might be in God.
+- **1 Peter 2:4** (score 7): coming to him, a living stone, rejected indeed by people, but chosen by God, precious.
+- **1 Peter 3:18** (score 7): Because Messiah also suffered for sins once, the righteous for the unrighteous, that he might bring you to God; being put to death in the flesh, but made alive in the spirit;
+- **1 Peter 3:22** (score 7): who is at the right hand of God, having gone into heaven, angels and authorities and powers being made subject to him.
+- **2 Corinthians 1:20** (score 7): For however many are the promises of God, in him is the "Yes." Therefore also through him is the "Amen," to the glory of God through us.
+- **2 Corinthians 2:14** (score 7): Now thanks be to God, who always leads us in triumph in Messiah, and reveals through us the sweet aroma of his knowledge in every place.
+- **2 Corinthians 5:21** (score 7): For the one who knew no sin they made to be sin on our behalf; so that in him we might become the righteousness of God.
+- **Acts 1:3** (score 7): To these he also showed himself alive after he suffered, by many proofs, appearing to them over a period of forty days, and speaking about the reign of God.
+- **Acts 2:34** (score 7): For Dawid didn't ascend into the heavens, but he says himself, 'YHWH said to my Master, "Sit by my right hand,
+- **Acts 3:26** (score 7): God, having raised up God's servant, Yeshua, sent him to you first, to bless you, in turning away everyone of you from your wickedness."
+- **Acts 7:2** (score 7): He said, "Brothers and fathers, listen. The God of glory appeared to our father Avraham, when he was in Mesopotamia, before he lived in Haran,
+- **Acts 7:9** (score 7): "The patriarchs, moved with jealousy against Yosef, sold him into Mitzrayim. God was with him,
+- **Acts 7:20** (score 7): At that time Moshe was born, and was exceedingly handsome. He was nourished three months in his father's house.
+- **Acts 7:30** (score 7): "When forty years were fulfilled, a messenger of YHWH appeared to him in the wilderness of Mount Sinai, in a flame of fire in a bush.
+- **Acts 7:35** (score 7): "This Moshe, whom they refused, saying, 'Who made you a ruler and a judge?'--God has sent him as both a ruler and a deliverer by the hand of the angel who appeared to him in the bush.
+- **Acts 7:55** (score 7): But he, being full of the Ruach of Elohim, looked up steadfastly into heaven, and saw the glory of God, and Yeshua standing on the right hand of God,
+- **Acts 8:20** (score 7): But Shimon (called Kepha) said to him, "May your silver perish with you, because you thought you could obtain the gift of God with money!
+- **Acts 10:3** (score 7): At about the ninth hour of the day, he clearly saw in a vision an angel of God coming to him, and saying to him, "Cornelius!"
+- **Acts 10:4** (score 7): He, fastening his eyes on him, and being frightened, said, "What is it, Master?" He said to him, "Your prayers and your gifts to the needy have gone up for a memorial before God.
+- **Acts 10:15** (score 7): A voice came to him again the second time, "What God has cleansed, you must not call unclean."
+- **Acts 10:41** (score 7): not to all the people, but to witnesses who were chosen before by God, to us, who ate and drank with him after he rose from the dead.
+- **Acts 12:5** (score 7): Shimon (called Kepha) therefore was kept in the prison, but constant prayer was made by the assembly to God for him.
+- **Acts 12:23** (score 7): Immediately a messenger of YHWH struck him, because he didn't give God the glory, and he was eaten by worms and died.
+- **Acts 16:3** (score 7): Shaul wanted to have him go out with him, and he took and circumcised him because of the Judeans who were in those parts; for they all knew that his father was a Greek.
+- **Acts 18:26** (score 7): He began to speak boldly in the synagogue. But when Priskilla and Akylas heard him, they took him aside, and explained to him the way of God more accurately.
+- **Acts 19:2** (score 7): He said to them, "Did you receive the Ruach of Elohim when you believed?" They said to him, "No, we haven't even heard that there is a the Ruach of Elohim."
+- **Acts 21:20** (score 7): They, when they heard it, glorified God. They said to him, "You see, brother, how many thousands there are among the Judeans of those who have believed, and they are all zealous for the law.
+- **Acts 27:35** (score 7): When he had said this, and had taken bread, he gave thanks to God in the presence of all, and he broke it, and began to eat.
+- **Acts 28:8** (score 7): It happened that the father of Publius lay sick of fever and dysentery. Shaul entered in to him, prayed, and laying his hands on him, healed him.
+- **Colossians 4:12** (score 7): Epaphras, who is one of you, a servant of Messiah, salutes you, always striving for you in his prayers, that you may stand perfect and complete in all the will of God.
+- **Ephesians 1:20** (score 7): which God worked in Messiah, when God raised him from the dead, and made him sit at God’s right hand in the heavenly places,
+- **Ephesians 2:18** (score 7): For through him we both have our access in one Ruach to the Cosmic Parent.
+- **Galatians 1:4** (score 7): who gave himself for our sins, that he might deliver us out of this present unripeness age, according to the will of our God and Cosmic Parent--
+- **Hebrews 1:3** (score 7): God’s Son is the radiance of his glory, the exact imprint of his being, upholding all things by the word of his power. When he had by himself made purification for our sins, he sat down on the right hand of the Majesty on high,
+- **Hebrews 1:5** (score 7): For to which of the angels did the Cosmic Parent say at any time, "You are my Son. Today I have brought you forth." and again, "I will be to him a Cosmic Parent, and he will be to me a Son."
+- **Hebrews 2:13** (score 7): Again, "I will put my trust in him." Again, "Behold, here I am with the children whom God has given me."
+- **Hebrews 2:17** (score 7): Therefore he was obligated in all things to be made like his brothers and sisters, that he might become a merciful and faithful high priest in things pertaining to God, to make atonement for the sins of the people.
+- **Hebrews 6:13** (score 7): For when God made a promise to Avraham, since he could swear by none greater, he swore by himself,
+- **Hebrews 7:10** (score 7): for he was yet in the body of his father when Malki-Tzedek met him.
+- **Hebrews 7:25** (score 7): Therefore he is also able to save to the uttermost those who draw near to God through him, seeing that he lives forever to make intercession for them.
+- **James 4:6** (score 7): But he gives more grace. Therefore it says, "God resists the proud, but gives grace to the humble."
+- **John 1:18** (score 7): No one has seen Elohim at any time. The one-of-a-kind Son, who is in the bosom of the Cosmic Parent, he has made the Cosmic Parent known.
+- **John 1:49** (score 7): Nethanel answered him, "Rabbi, you are the Son of Elohim! You are King of Israel!"
+- **John 1:51** (score 7): He said to him, "Most certainly, I tell you, hereafter you will see heaven opened, and the angels of Elohim ascending and descending on the Human One."
+- **John 3:3** (score 7): Yeshua answered him, "Most certainly, I tell you, unless one is born from above, they cannot see the reign of Elohim."
+- **John 4:12** (score 7): Are you greater than our father, Ya'akov, who gave us the well, and drank of it himself, as did his children, and his livestock?"
+- **John 8:39** (score 7): They answered him, "Our father is Avraham." Yeshua said to them, "If you were Avraham's children, you would do the works of Avraham.
+- **John 8:44** (score 7): You are of your father, the Slanderer, and you want to do the desires of your father. He was a murderer from the beginning, and doesn't stand in the truth, because there is no truth in him. When he speaks a lie, he speaks on his own; for he is a liar, and the father of it.
+- **John 9:24** (score 7): So they called the one who was blind a second time, and said to him, "Give glory to Elohim. We know that this a person is a sinner."
+- **John 14:8** (score 7): Pilipos said to him, "Master, show us the Cosmic Parent, and that will be enough for us."
+- **John 18:13** (score 7): and led him to Hanan first, for he was father-in-law to Qayafa, who was high priest that year.
+- **John 21:19** (score 7): Now he said this, signifying by what kind of death he would glorify Elohim. When he had said this, he said to him, "Follow me."
+- **Luke 1:66** (score 7): All who heard them laid them up in their heart, saying, "What then will this child be?" The hand of God was with him.
+- **Luke 4:4** (score 7): Yeshua answered him, saying, "It is written, 'A person shall not live by bread alone, but by every word of Elohim.'"
+- **Luke 4:18** (score 7): "The Ruach of YHWH is on me, because he has anointed me to proclaim good news to the poor. He has sent me to heal the brokenhearted, to proclaim release to the captives, recovery of sight to the blind, and to send the crushed away into freedom,
+- **Luke 5:1** (score 7): Now it happened, while the multitude pressed on him and heard the word of Elohim, that he was standing by the lake of Gennesaret.
+- **Luke 6:4** (score 7): how he entered into the house of Elohim, and took and ate the show bread, and gave also to those who were with him, which is not lawful to eat except for the priests alone?"
+- **Luke 8:1** (score 7): It happened soon afterwards, that he went about through cities and villages, preaching and bringing the good news of the reign of Elohim. With him were the twelve,
+- **Luke 9:43** (score 7): They were all astonished at the majesty of Elohim. But while all were marveling at all the things which Yeshua did, he said to his disciples,
+- **Luke 14:15** (score 7): When one of those who sat at the table with him heard these things, they said to him, "Blessed is the one who will feast in the reign of Elohim!"
+- **Luke 17:15** (score 7): One of them, when he saw that he was healed, turned back, glorifying Elohim with a loud voice.
+- **Luke 18:11** (score 7): The Pharisee stood and prayed to himself like this: 'Elohim, I thank you, that I am not like the rest of people, extortioners, unrighteous, adulterers, or even like this tax collector.
+- **Luke 18:19** (score 7): Yeshua asked him, "Why do you call me good? No one is good, except one--Elohim.
+- **Luke 18:24** (score 7): Yeshua, seeing that he became very sad, said, "How hard it is for those who have riches to enter into the reign of Elohim!
+- **Luke 18:43** (score 7): Immediately he received his sight, and followed him, glorifying Elohim. All the people, when they saw it, praised Elohim.
+- **Luke 19:11** (score 7): As they heard these things, he went on and told a parable, because he was near Yerushalayim, and they supposed that the reign of Elohim would be revealed immediately.
+- **Luke 20:38** (score 7): Now he is not the God of the dead, but of the living, for all are alive to him."
+- **Luke 22:70** (score 7): They all said, "Are you then the Son of Elohim?" He said to them, "You say it, because I am."
+- **Mark 2:26** (score 7): How he entered into the house of Elohim when Evyatar was high priest, and ate the show bread, which is not lawful to eat except for the priests, and gave also to those who were with him?"
+- **Mark 5:40** (score 7): They ridiculed him. But he, having put them all out, took the father of the child and her mother and those who were with him, and went in where the child was lying.
+- **Mark 9:21** (score 7): He asked his father, "How long has it been since this has come to him?" He said, "From childhood.
+- **Mark 10:23** (score 7): Yeshua looked around, and said to his disciples, "How difficult it is for those who have riches to enter into the reign of Elohim!"
+- **Mark 10:24** (score 7): The disciples were amazed at his words. But Yeshua answered again, "Children, how hard is it for those who trust in riches to enter into the reign of Elohim!
+- **Mark 12:27** (score 7): He is not the God of the dead, but of the living. You are therefore badly mistaken."
+- **Mark 12:36** (score 7): For Dawid himself said in the Ruach of Elohim, 'YHWH said to my Master, "Sit at my right hand, until I make your enemies the footstool of your feet."'
+- **Matthew 1:20** (score 7): But when he thought about these things, behold, a messenger of YHWH appeared to him in a dream, saying, "Yosef, son of Dawid, don't be afraid to take to yourself Maryam, your wife, for that which is conceived in her is of the Ruach of Elohim.
+- **Matthew 1:24** (score 7): Yosef arose from his sleep, and did as the messenger of YHWH commanded him, and took his wife to himself;
+- **Matthew 2:22** (score 7): But when he heard that Archelaos was reigning over Yehudah in the place of his father, Herodes, he was afraid to go there. Being warned in a dream, he withdrew into the region of Galil,
+- **Matthew 4:21** (score 7): Going on from there, he saw two other brothers, Ya'akov the son of Zebedee, and Yochanan his brother, in the boat with Zebedee their father, mending their nets. He called them.
+- **Matthew 8:21** (score 7): Another of his disciples said to him, "Master, allow me first to go and bury my father."
+- **Matthew 12:4** (score 7): how he entered into the house of Elohim, and ate the show bread, which was not lawful for him to eat, neither for those who were with him, but only for the priests?
+- **Matthew 19:17** (score 7): He said to him, "Why do you call me good? No one is good but one, that is, Elohim. But if you want to enter into life, keep the commandments."
+- **Matthew 22:16** (score 7): They sent their disciples to him, along with the Herodians, saying, "Teacher, we know that you are honest, and teach the way of Elohim in truth, no matter who you teach, for you aren't partial to anyone.
+- **Matthew 22:21** (score 7): They said to him, "Caesar's." Then he said to them, "Give therefore to Caesar the things that are Caesar's, and to Elohim the things that are Elohim's."
+- **Philippians 2:22** (score 7): But you know the proof of him, that, as a child serves a father, so he served with me in furtherance of the good news.
+- **Revelation 1:1** (score 7): This is the Revelation of Yeshua the Messiah, which God gave him to show to his servants the things which must happen soon, which he sent and made known by his angel to his servant, Yochanan,
+- **Revelation 1:2** (score 7): who testified to God's word, and of the testimony of Yeshua the Messiah, about everything that he saw.
+- **Revelation 10:7** (score 7): but in the days of the voice of the seventh angel, when he is about to sound, then the mystery of God is finished, as God declared to God’s servants, the prophets.
+- **Revelation 15:2** (score 7): I saw something like a sea of glass mixed with fire, and those who overcame the beast, his image, and the number of his name, standing on the sea of glass, having harps of God.
+- **Romans 4:2** (score 7): For if Avraham was justified by works, he has something to boast about, but not toward God.
+- **Romans 4:3** (score 7): For what does the Scripture say? "Avraham believed God, and it was accounted to him for righteousness."
+- **1 Corinthians 5:1** (score 6): It is actually reported that there is sexual immorality among you, and such sexual immorality as is not even named among the Gentiles, that one has his father's wife.
+- **1 Corinthians 11:23** (score 6): For I received from God that which also I delivered to you, that Master Yeshua on the night in which he was betrayed took bread.
+- **1 Corinthians 14:25** (score 6): And thus the secrets of his heart are revealed. So he will fall down on his face and worship God, declaring that God is among you indeed.
+- **1 Corinthians 15:24** (score 6): Then the end comes, when he will deliver up the Reign to God, even the Cosmic Parent; when he will have abolished all rule and all authority and power.
+- **1 John 3:1** (score 6): Behold, how great a love the Cosmic Parent has bestowed on us, that we should be called children of God! For this cause the world doesn't know us, because it didn't know him.
+- **1 John 4:21** (score 6): This commandment we have from him, that the one who loves God should also love their brother or sister.
+- **1 Peter 5:12** (score 6): Through Silvanos, our faithful brother, as I consider him, I have written to you briefly, exhorting, and testifying that this is the true grace of God in which you stand.
+- **1 Thessalonians 4:14** (score 6): For if we trust that Yeshua died and rose again, even so God will bring with him those who have fallen asleep in Yeshua.
+- **1 Thessalonians 4:16** (score 6): For the Master himself will descend from heaven with a shout, with the voice of the archangel, and with God's trumpet. The dead in Messiah will rise first,
+- **1 Timothy 5:1** (score 6): Don't rebuke an older man, but exhort him as a father; the younger men as brothers;
+- **2 Corinthians 1:19** (score 6): For the Son of God, Yeshua the Messiah, who was preached among you by us, by me, Silvanos, and Timotheos, was not "Yes and no," but in him is "Yes."
+- **2 Corinthians 5:19** (score 6): namely, that God was in Messiah reconciling the world to himself, not reckoning to them their trespasses, and having committed to us the word of reconciliation.
+- **2 Thessalonians 1:12** (score 6): that the name of our Master Yeshua may be glorified in you, and you in him, according to the grace of our God and Master Yeshua the Messiah.
+- **2 Timothy 1:8** (score 6): Therefore don't be ashamed of the testimony of our Master, nor of me his prisoner; but endure hardship for the good news according to the power of God,
+- **Acts 1:4** (score 6): Being assembled together with them, he charged them, "Don't depart from Yerushalayim, but wait for the promise of the Cosmic Parent, which you heard from me.
+- **Acts 1:7** (score 6): He said to them, "It isn't for you to know times or seasons established by the Cosmic Parent's own authority.
+- **Acts 2:23** (score 6): him, being delivered up by the determined counsel and foreknowledge of God, you have taken by the hand of lawless men, crucified and killed;
+- **Acts 3:8** (score 6): Leaping up, he stood, and began to walk. He entered with them into the temple, walking, leaping, and praising God.
+- **Acts 3:9** (score 6): All the people saw him walking and praising God.
+- **Acts 4:10** (score 6): be it known to you all, and to all the people of Israel, that in the name of Yeshua the Messiah of Natzeret, whom you crucified, whom God raised from the dead, in him does this man stand here before you whole.
+- **Acts 7:6** (score 6): God spoke in this way: that his seed would live as aliens in a strange land, and that they would be enslaved and mistreated for four hundred years.
+- **Acts 7:14** (score 6): Yosef sent, and summoned Ya'akov, his father, and all his relatives, seventy-five souls.
+- **Acts 9:17** (score 6): Hananyah departed, and entered into the house. Laying his hands on him, he said, "Brother Shaul, the Master, who appeared to you on the road by which you came, has sent me, that you may receive your sight, and be filled with the Ruach of Elohim."
+- **Acts 9:35** (score 6): All who lived at Lod and in Sharon saw him, and they turned to God.
+- **Acts 10:34** (score 6): Shimon (called Kepha) opened his mouth and said, "Truly I perceive that God doesn't show favoritism;
+- **Acts 10:36** (score 6): The word which God sent to the children of Israel, preaching good news of peace by Yeshua the Messiah--he is Master of all--
+- **Acts 10:38** (score 6): even Yeshua of Natzeret, how God anointed him with the Ruach of Elohim and with power, who went about doing good and healing all who were oppressed by the Slanderer, for God was with him.
+- **Acts 13:9** (score 6): But Shaul, who is also called Shaul, filled with the Ruach of Elohim, fastened his eyes on him,
+- **Acts 13:11** (score 6): Now, behold, the hand of God is on you, and you will be blind, not seeing the sun for a season!" Immediately a mist and darkness fell on him. They went around seeking someone to lead him by the hand.
+- **Acts 13:16** (score 6): Shaul stood up, and beckoning with his hand said, "People of Israel, and you who revere God, listen.
+- **Acts 13:30** (score 6): But God raised him from the dead,
+- **Acts 13:35** (score 6): Therefore he says also in another psalm, 'You will not allow your Holy One to see decay.'
+- **Acts 13:36** (score 6): For Dawid, after he had in his own generation served the counsel of God, fell asleep, and was laid with his fathers, and saw decay.
+- **Acts 16:34** (score 6): He brought them up into his house, and set food before them, and rejoiced greatly, with all his household, having believed in God.
+- **Acts 19:6** (score 6): When Shaul had laid his hands on them, the Ruach of Elohim came on them, and they spoke with other languages and prophesied.
+- **Acts 21:11** (score 6): Coming to us, and taking Shaul's belt, he bound his own feet and hands, and said, "Thus says the Ruach of Elohim: 'So will the Judeans at Yerushalayim bind the one who owns this belt, and will deliver him into the hands of the Gentiles.'"
+- **Acts 21:19** (score 6): When he had greeted them, he reported one by one the things which God had worked among the Gentiles through his ministry.
+- **Acts 22:14** (score 6): He said, 'The God of our fathers has appointed you to know God's will, and to see the Righteous One, and to hear a voice from his mouth.
+- **Colossians 3:10** (score 6): and have put on the new self, who is being renewed in knowledge after the image of his Creator,
+- **Ephesians 1:7** (score 6): in whom we have our redemption through his blood, the forgiveness of our trespasses, according to the riches of God’s grace,
+- **Galatians 1:16** (score 6): to reveal God’s Son in me, that I might preach him among the Gentiles, I didn't immediately confer with flesh and blood,
+- **Galatians 2:20** (score 6): I have been crucified with Messiah, and it is no longer I that live, but Messiah living in me. That life which I now live in the flesh, I live by faith in the Son of God, who loved me, and gave himself up for me.
+- **Hebrews 1:2** (score 6): has at the end of these days spoken to us by God’s Son, whom he appointed heir of all things, through whom also he made the worlds.
+- **Hebrews 1:6** (score 6): Again, when he brings in the firstborn into the world he says, "Let all the angels of God worship him."
+- **Hebrews 2:4** (score 6): God also testifying with them, both by signs and wonders, by various works of power, and by gifts of the Ruach of Elohim, according to his own will?
+- **Hebrews 5:1** (score 6): For every high priest, being taken from among people, is appointed for people in things pertaining to God, that he may offer both gifts and sacrifices for sins.
+- **Hebrews 7:1** (score 6): For this Malki-Tzedek, king of Salem, priest of God Most High, who met Avraham returning from the slaughter of the kings and blessed him,
+- **Hebrews 9:14** (score 6): how much more will the blood of Messiah, who through the age-enduring Ruach offered himself without blemish to God, cleanse your conscience from dead works to serve the living God?
+- **Hebrews 11:19** (score 6): concluding that God is able to raise up even from the dead. Figuratively speaking, he also did receive him back from the dead.
+- **Hebrews 12:7** (score 6): It is for discipline that you endure. God deals with you as with children, for what son is there whom his father doesn't discipline?
+- **James 2:21** (score 6): Wasn't Avraham our father justified by works, in that he offered up Yitzhak his son on the altar?
+- **John 1:29** (score 6): The next day, he saw Yeshua coming to him, and said, "Behold, the Lamb of Elohim, who takes away the sin of the world!
+- **John 4:23** (score 6): But the hour comes, and now is, when the true worshippers will worship the Cosmic Parent in spirit and truth, for the Cosmic Parent seeks such to be his worshippers.
+- **John 4:53** (score 6): So the father knew that it was at that hour in which Yeshua said to him, "Your son lives." He believed, as did his whole house.
+- **John 5:19** (score 6): Yeshua therefore answered them, "Most certainly, I tell you, the Son can do nothing of himself, but what he sees the Cosmic Parent doing. For whatever things he does, these the Son also does likewise.
+- **John 5:20** (score 6): For the Cosmic Parent has affection for the Son, and shows him all things that he himself does. He will show him greater works than these, that you may marvel.
+- **John 5:26** (score 6): For as the Cosmic Parent has life in the Cosmic Parent’s own self, even so the Cosmic Parent gave to the Son also to have life in himself.
+- **John 5:43** (score 6): I have come in my Cosmic Parent's name, and you don't receive me. If another comes in his own name, you will receive him.
+- **John 7:39** (score 6): But he said this about the Ruach, which those believing in him were to receive. For the Ruach of Elohim was not yet given, because Yeshua wasn't yet glorified.
+- **John 8:19** (score 6): They said therefore to him, "Where is your Cosmic Parent?" Yeshua answered, "You know neither me, nor my Cosmic Parent. If you knew me, you would know my Cosmic Parent also."
+- **John 8:27** (score 6): They didn't understand that he spoke to them about the Cosmic Parent.
+- **John 8:56** (score 6): Your father Avraham rejoiced to see my day. He saw it, and was glad."
+- **John 9:3** (score 6): Yeshua answered, "Neither did this man sin, nor his parents; but, that the works of Elohim might be revealed in him.
+- **John 9:16** (score 6): Some therefore of the Pharisees said, "This man is not from Elohim, because he doesn't keep the Sabbath." Others said, "How can a person who is a sinner do such signs?" There was division among them.
+- **John 9:29** (score 6): We know that Elohim has spoken to Moshe. But as for this man, we don't know where he comes from."
+- **John 9:33** (score 6): If this man were not from Elohim, he could do nothing."
+- **John 11:27** (score 6): She said to him, "Yes, Master. I have come to trust that you are the Messiah, Elohim's Son, the one who comes into the world."
+- **John 11:52** (score 6): and not for the nation only, but that he might also gather together into one the children of Elohim who are scattered abroad.
+- **John 12:13** (score 6): they took the branches of the palm trees, and went out to meet him, and cried out, "Hosanna! Blessed is the one who comes in the name of YHWH, the King of Israel!"
+- **John 12:50** (score 6): I know that his commandment is life of the age. The things therefore which I speak, even as the Cosmic Parent has said to me, so I speak."
+- **John 14:6** (score 6): Yeshua said to him, "I am the way, the truth, and the life: a path that opens as the human self comes into alignment with the Cosmic Parent. No one comes to the Cosmic Parent except through this living way that I embody.
+- **John 14:7** (score 6): If you had known me, you would have known my Cosmic Parent also. From now on, you know him, and have seen him."
+- **John 14:9** (score 6): Yeshua said to him, "Have I been with you such a long time, and do you not know me, Pilipos? The one who has seen me has seen the Cosmic Parent. How do you say, 'Show us the Cosmic Parent?'
+- **John 15:10** (score 6): If you keep my commandments, you will remain in my love; even as I have kept my Cosmic Parent's commandments, and remain in his love.
+- **John 15:15** (score 6): No longer do I call you servants, for the servant doesn't know what his master does. But I have called you friends, for everything that I heard from my Cosmic Parent, I have made known to you.
+- **John 15:16** (score 6): You didn't choose me, but I chose you, and appointed you, that you should go and bear fruit, and that your fruit should remain; that whatever you seek of the Cosmic Parent in the life of my name, he may give it to you.
+- **John 19:7** (score 6): The Judeans answered him, "We have a law, and by our law he ought to die, because he made himself the Son of Elohim."
+- **John 20:31** (score 6): but these are written, that you may trust that Yeshua is the Messiah, the Son of Elohim, and that believing you may have life in his name.
+- **Luke 1:9** (score 6): according to the custom of the priest's office, his lot was to enter into the temple of YHWH and burn incense.
+- **Luke 1:16** (score 6): He will turn many of the children of Israel to YHWH their God.
+- **Luke 1:17** (score 6): He will go before him in the spirit and power of Eliyahu, 'to turn the hearts of the fathers to the children,' and the disobedient to the wisdom of the just; to make ready a people prepared for YHWH."
+- **Luke 1:19** (score 6): The angel answered him, "I am Gavriel, who stands in the presence of Elohim. I was sent to speak to you, and to bring you this good news.
+- **Luke 1:62** (score 6): They made signs to his father, what he would have him called.
+- **Luke 1:64** (score 6): His mouth was opened immediately, and his tongue freed, and he spoke, blessing Elohim.
+- **Luke 1:73** (score 6): the oath which he spoke to Avraham, our father,
+- **Luke 2:28** (score 6): then he received him into his arms, and blessed Elohim, and said,
+- **Luke 2:49** (score 6): He said to them, "Why were you looking for me? Didn't you know that I must be in my Cosmic Parent's house?"
+- **Luke 3:16** (score 6): Yochanan answered them all, "I indeed immerse you with water, but he comes who is mightier than I, the latchet of whose sandals I am not worthy to loosen. He will immerse you in the Ruach of Elohim and fire,
+- **Luke 3:22** (score 6): and the Ruach of Elohim descended in a bodily form as a dove on him; and a voice came out of the sky, saying "You are my beloved Son. In you I am well pleased."
+- **Luke 4:41** (score 6): Demons also came out from many, crying out, and saying, "You are the Messiah, the Son of Elohim!" Rebuking them, he didn't allow them to speak, because they knew that he was the Messiah.
+- **Luke 4:43** (score 6): But he said to them, "I must preach the good news of the reign of Elohim to the other cities also. For this reason I have been sent."
+- **Luke 6:12** (score 6): It happened in these days, that he went out to the mountain to pray, and he continued all night in prayer to Elohim.
+- **Luke 6:20** (score 6): He lifted up his eyes to his disciples, and said, "Blessed are you who are poor, for yours is the reign of Elohim.
+- **Luke 8:21** (score 6): But he answered them, "My mother and my brothers are these who hear the word of Elohim, and do it."
+- **Luke 8:39** (score 6): "Return to your house, and declare what great things Elohim has done for you." He went his way, proclaiming throughout the whole city what great things Yeshua had done for him.
+- **Luke 9:2** (score 6): He sent them forth to preach the reign of Elohim, and to heal the sick.
+- **Luke 9:11** (score 6): But the multitudes, perceiving it, followed him. He welcomed them, and spoke to them of the reign of Elohim, and he cured those who needed healing.
+- **Luke 9:62** (score 6): But Yeshua said to him, "No one, having put their hand to the plow, and looking back, is fit for the reign of Elohim."
+- **Luke 10:2** (score 6): Then he said to them, "The harvest is indeed plentiful, but the laborers are few. Pray therefore to God of the harvest, that he may send out laborers into his harvest.
+- **Luke 11:13** (score 6): If you then, being unripe and still able to sour, know how to give good gifts to your children, how much more will your heavenly Cosmic Parent give the Ruach of Elohim to those who seek from him?"
+- **Luke 11:28** (score 6): But he said, "On the contrary, blessed are those who hear the word of Elohim, and keep it."
+- **Luke 12:28** (score 6): But if this is how Elohim clothes the grass in the field, which today exists, and tomorrow is cast into the oven, how much more will he clothe you, O you of little faith?
+- **Luke 13:13** (score 6): He laid his hands on her, and immediately she stood up straight, and glorified Elohim.
+- **Luke 13:18** (score 6): He said, "What is the reign of Elohim like? To what shall I compare it?
+- **Luke 13:20** (score 6): Again he said, "To what shall I compare the reign of Elohim?
+- **Luke 15:12** (score 6): The younger of them said to his father, 'Father, give me my share of your property.' He divided his livelihood between them.
+- **Luke 16:24** (score 6): He cried and said, 'Father Avraham, have mercy on me, and send Elazar, that he may dip the tip of his finger in water, and cool my tongue! For I am in anguish in this flame.'
+- **Luke 16:27** (score 6): "He said, 'I ask you therefore, father, that you would send him to my father's house;
+- **Luke 16:30** (score 6): "He said, 'No, father Avraham, but if one goes to them from the dead, they will turn back.'
+- **Luke 18:13** (score 6): But the tax collector, standing far away, wouldn't even lift up his eyes to heaven, but beat his breast, saying, 'Elohim, be merciful to me, a sinner!'
+- **Luke 18:27** (score 6): But he said, "The things which are impossible with people are possible with Elohim."
+- **Luke 20:21** (score 6): They asked him, "Teacher, we know that you say and teach what is right, and aren't partial to anyone, but truly teach the way of Elohim.
+- **Luke 20:25** (score 6): He said to them, "Then give to Caesar the things that are Caesar's, and to Elohim the things that are Elohim's."
+- **Luke 20:37** (score 6): But that the dead are raised, even Moshe showed at the bush, when he called the Master 'The God of Avraham, the God of Yitzhak, and the God of Ya'akov.'
+- **Luke 23:51** (score 6): (he had not consented to their counsel and deed), from Arimathaea, a city of the Judeans, who was also waiting for the reign of Elohim:
+- **Luke 24:19** (score 6): He said to them, "What things?" They said to him, "The things concerning Yeshua, the Nazarene, who was a prophet mighty in deed and word before Elohim and all the people;
+- **Mark 1:8** (score 6): I immersed you in water, but he will immerse you in the Ruach of Elohim."
+- **Mark 1:20** (score 6): Immediately he called them, and they left their father, Zebedee, in the boat with the hired servants, and went after him.
+- **Mark 2:12** (score 6): He arose, and immediately took up the mat, and went out in front of them all; so that they were all amazed, and glorified Elohim, saying, "We never saw anything like this!"
+- **Mark 4:11** (score 6): He said to them, "To you is given the mystery of the reign of Elohim, but to those who are outside, all things are done in parables,
+- **Mark 4:30** (score 6): He said, "How will we liken the reign of Elohim? Or with what parable will we illustrate it?
+- **Mark 8:33** (score 6): But he, turning around, and seeing his disciples, rebuked Shimon (called Kepha), and said, "Get behind me, the Adversary! For you have in mind not the things of Elohim, but the things of people."
+- **Mark 12:14** (score 6): When they had come, they asked him, "Teacher, we know that you are honest, and don't defer to anyone; for you aren't partial to anyone, but truly teach the way of Elohim. Is it lawful to pay taxes to Caesar, or not?
+- **Mark 12:34** (score 6): When Yeshua saw that he answered wisely, he said to him, "You are not far from the reign of Elohim." No one dared ask him any question after that.
+- **Mark 13:20** (score 6): Unless YHWH had shortened the days, no flesh would have been saved; but for the sake of the chosen ones, whom he picked out, he shortened the days.
+- **Mark 15:21** (score 6): They compelled one passing by, coming from the country, Shimon of Kyrene, the father of Alexandros and Rufus, to go with them, that he might bear his cross.
+- **Mark 15:43** (score 6): Yosef of Arimathaea, a prominent council member who also himself was looking for the reign of Elohim, came. He boldly went in to Pilatus, and asked for Yeshua' body.
+- **Matthew 3:11** (score 6): I indeed immerse you in water for turning back, but the one who comes after me is mightier than I, whose shoes I am not worthy to carry. He will immerse you in the Ruach of Elohim.
+- **Matthew 3:16** (score 6): Yeshua, when he was immersed, went up directly from the water: and behold, the heavens were opened to him. He saw the Ruach of Elohim descending as a dove, and coming on him.
+- **Matthew 4:7** (score 6): Yeshua said to him, "Again, it is written, 'You shall not test YHWH your God.'"
+- **Matthew 5:35** (score 6): nor by the earth, for it is the footstool of his feet; nor by Yerushalayim, for it is the city of the great Sovereign.
+- **Matthew 6:30** (score 6): But if Elohim so clothes the grass of the field, which today exists, and tomorrow is thrown into the oven, won't he much more clothe you, you of little faith?
+- **Matthew 16:23** (score 6): But he turned, and said to Shimon (called Kepha), "Get behind me, the Adversary! You are a stumbling block to me, for you are not setting your mind on the things of Elohim, but on the things of people."
+- **Matthew 21:31** (score 6): Which of the two did the will of his father?" They said to him, "The first." Yeshua said to them, "Most certainly I tell you that the tax collectors and the prostitutes are entering into the reign of Elohim before you.
+- **Matthew 25:34** (score 6): Then the King will tell those on his right hand, 'Come, blessed of my Cosmic Parent, inherit the reign prepared for you from the foundation of the world;
+- **Matthew 27:54** (score 6): Now the centurion, and those who were with him watching Yeshua, when they saw the earthquake, and the things that were done, feared exceedingly, saying, "Truly this was the Son of Elohim."
+- **Revelation 7:2** (score 6): I saw another angel ascend from the sunrise, having the seal of the living God. He cried with a loud voice to the four angels to whom it was given to harm the earth and the sea,
+- **Revelation 11:19** (score 6): God's temple that is in heaven was opened, and the ark of the Master's covenant was seen in his temple. Lightnings, sounds, thunders, an earthquake, and great hail followed.
+- **Revelation 19:15** (score 6): Out of his mouth proceeds a sharp, double-edged sword, that with it he should strike the nations. He will rule them with an iron rod. He treads the winepress of the fierceness of the wrath of God, the Almighty.
+- **Revelation 19:17** (score 6): I saw an angel standing in the sun. He cried with a loud voice, saying to all the birds that fly in the sky, "Come! Be gathered together to the great supper of God,
+- **Revelation 21:10** (score 6): He carried me away in the Ruach to a great and high mountain, and showed me the holy city, Yerushalayim, coming down out of heaven from God,
+- **Revelation 22:6** (score 6): He said to me, "These words are faithful and true. The Sovereign God of the spirits of the prophets sent his angel to show to his bondservants the things which must happen soon."
+- **Romans 2:4** (score 6): Or do you despise the riches of his goodness, forbearance, and patience, not knowing that the goodness of God leads you to turning back?
+- **Romans 4:20** (score 6): Yet, looking to the promise of God, he didn't waver through unbelief, but grew strong through faith, giving glory to God,
+- **Romans 8:17** (score 6): and if children, then heirs; heirs of God, and joint heirs with Messiah; if indeed we suffer with him, that we may also be glorified with him.
+- **Romans 8:29** (score 6): For whom he foreknew, he also predestined to be conformed to the image of God’s Son, that he might be the firstborn among many brothers and sisters.
+- **Romans 11:2** (score 6): God didn't reject God’s people, which God foreknew. Or don't you know what the Scripture says about Eliyahu? How he pleads with God against Israel:
+- **Titus 1:3** (score 6): but in his own time revealed his word in the message with which I was entrusted according to the commandment of God our Savior;
+
+## Royal-language candidates with explicit same-verse divine term
+
+- Matthew 1:6: Yishai became the father of Dawid the king. Dawid became the father of Shlomo by her who had been the wife of Uriyah.
+- Matthew 25:34: Then the King will tell those on his right hand, 'Come, blessed of my Cosmic Parent, inherit the reign prepared for you from the foundation of the world;
+- Luke 19:38: saying, "Blessed is the King who comes in the name of YHWH! Peace in heaven, and glory in the highest!"
+- John 1:49: Nethanel answered him, "Rabbi, you are the Son of Elohim! You are King of Israel!"
+- John 12:13: they took the branches of the palm trees, and went out to meet him, and cried out, "Hosanna! Blessed is the one who comes in the name of YHWH, the King of Israel!"
+- Acts 13:21: Afterward they asked for a king, and God gave to them Shaul the son of Kish, a person of the tribe of Binyamin, for forty years.
+- Acts 13:22: When God had removed him, God raised up Dawid to be their king, to whom God also testified, 'I have found Dawid the son of Yishai, a person after my heart, who will do all my will.'
+- Hebrews 7:1: For this Malki-Tzedek, king of Salem, priest of God Most High, who met Avraham returning from the slaughter of the kings and blessed him,
+- 1 Peter 2:17: Honor all people. Love the brotherhood. Revere God. Honor the king.
+- Revelation 5:10: and made us kings and priests to our God, and we will reign on earth."
+- Revelation 16:14: for they are spirits of demons, performing signs; which go forth to the kings of the whole inhabited earth, to gather them together for the war of that great day of God, the Almighty.
+- Revelation 19:16: He has on his garment and on his thigh a name written, "KING OF KINGS AND SOVEREIGN OF SOVEREIGNS."
+
+## Review method
+Treat the entire paragraph and preceding/following verses as context. Classify each masculine referent as God/Father, Yeshua (retain), other concrete male (retain), generic person, ambiguous, or quotation. Separately review every kingdom token: divine reign versus geopolitical kingdom. All candidates and neighbor contexts appear in the JSON report.
