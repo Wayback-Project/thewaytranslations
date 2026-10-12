@@ -63,3 +63,7 @@ Exact three-verse follow-up after a fresh whole-Bible `kingdom/kingdoms` residua
 ## 2026-09-30 quotation nesting spacing normalization
 
 Finite 19-verse Genesis typography correction from the whole-Bible quotation audit. Only whitespace between nested curly quotation marks changed; no words or quotation levels changed. Dense straight-quote candidates with legitimate nested speech were retained. Canonical SHA-256: `a1493bfd9f38181c5e552880f7156ef609a8e83550ee459d9ed01db4b3db1c89`. See `../editor-notes/consistency/2026-09-30-quotation-spacing-release.md` and `../change-logs/reports/2026-09-30-quotation-spacing-release.json`.
+
+## 2026-10-12 Luke 2:52 “the people”
+
+One-verse release replacing “Elohim and people” with “Elohim and the people.” New EPUB SHA-256: 3b67b7bded16824e5a32e5a100bd4e52b0dffc1fa2ff62997aa6c66692ef9a1e. No other Scripture changes.

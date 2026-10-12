@@ -33,3 +33,5 @@
 - **2026-09-30_0408UTC** — Daniel 7 kingdom residual → reign correction: exact Daniel 7:18, 7:22, 7:27 correction. Prior EPUB archived at `rendered-documents-history/2026-09-30_0408UTC/the-way-current.epub`; new SHA-256 `91b1daa6b2f796ebf4fd3c149cf4fabc8faabba796f0063bdb6ab8e0565492d7`.
 
 - **2026-09-30_0738UTC** — Quotation nesting spacing normalization: 19 Genesis typography-only quote-spacing corrections. Prior EPUB archived at `rendered-documents-history/2026-09-30_0738UTC/the-way-current.epub`; new SHA-256 `a1493bfd9f38181c5e552880f7156ef609a8e83550ee459d9ed01db4b3db1c89`.
+
+- 2026-10-12_091448UTC — one-verse Luke 2:52 “the people”; previous EPUB archived at rendered-documents-history/2026-10-12_091448UTC/the-way-current.epub; SHA-256 3b67b7bded16824e5a32e5a100bd4e52b0dffc1fa2ff62997aa6c66692ef9a1e.
