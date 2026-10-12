@@ -8,7 +8,7 @@ import release_2026_09_30_kingdom_residuals as rel
 
 base = rel.base
 ROOT, EPUB, REG = rel.ROOT, rel.EPUB, rel.REGISTRY
-OLD_SHA = 'a1493bfd9f38181c5e552880f7156ef609a8e83550ee459d9ed01db4b3db1c897'
+OLD_SHA = 'a1493bfd9f38181c5e552880f7156ef609a8e83550ee459d9ed01db4b3db1c89'
 BEFORE = 'And Yeshua increased in wisdom and stature, and in favor with Elohim and people.'
 AFTER = 'And Yeshua increased in wisdom and stature, and in favor with Elohim and the people.'
 SOURCE = ROOT / 'original-documents/luke_restorative_translation.txt'
