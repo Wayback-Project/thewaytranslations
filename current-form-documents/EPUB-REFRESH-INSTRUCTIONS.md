@@ -67,3 +67,7 @@ Finite 19-verse Genesis typography correction from the whole-Bible quotation aud
 ## 2026-10-12 Luke 2:52 “the people”
 
 One-verse release replacing “Elohim and people” with “Elohim and the people.” New EPUB SHA-256: 3b67b7bded16824e5a32e5a100bd4e52b0dffc1fa2ff62997aa6c66692ef9a1e. No other Scripture changes.
+
+## 2026-10-12 NT divine-referent residual release
+
+45 exact God/Father/YHWH/Cosmic Parent pronoun corrections; 1 Peter 4:19 among them. Yeshua and other real male pronouns retained. New canonical EPUB SHA-256: 93c1cc170a04ba917b779249059e69e4ff01104a806cbb916c3a325c12eb1af6. See editor-notes/consistency/2026-10-12-nt-divine-referent-release.md
