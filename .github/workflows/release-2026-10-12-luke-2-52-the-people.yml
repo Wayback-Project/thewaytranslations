@@ -5,6 +5,7 @@ on:
     branches: [main]
     paths:
       - '.github/workflows/release-2026-10-12-luke-2-52-the-people.yml'
+      - 'tools/local/release_2026_10_12_luke_2_52_the_people.py'
   workflow_dispatch:
 
 permissions:
