@@ -1,0 +1,33 @@
+name: Release 1 Corinthians 13 11 adult 2026-10-13
+on:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/release-2026-10-13-1-corinthians-13-11-adult.yml']
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: way-1cor13-11-adult-canonical
+  cancel-in-progress: false
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Release one canonical verse and verify whole-Bible integrity
+        run: python tools/local/release_2026_10_13_1_corinthians_13_11_adult.py
+      - name: Commit verified canonical EPUB, print note, legacy source and mobile fallback
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add original-documents/rest_of_new_testament_restorative_translation.txt current-form-documents/the-way-current.epub current-form-documents/mobile-reader current-form-documents/original-name-registry.json rendered-documents-history change-logs/reports/2026-10-13-1-corinthians-13-11-adult-release.json editor-notes/consistency/2026-10-13-1-corinthians-13-11-adult-release.md README.md current-form-documents/README.md current-form-documents/EPUB-REFRESH-INSTRUCTIONS.md rendered-documents-history/LOG.md
+          git diff --cached --quiet && { echo 'No new canonical release output' >&2; exit 1; }
+          git commit -m 'Release 1 Corinthians 13:11 adulthood wording and print handoff'
+          git push origin HEAD:main
