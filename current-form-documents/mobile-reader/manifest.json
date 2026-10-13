@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "releaseId": "canonical-5afdb333aa06d83d",
-  "canonicalEpubSha256": "5afdb333aa06d83d4f98211251d563c6ba2077ca054a08cf7a000a4f399c29a0",
-  "generatedAt": "2026-10-12T09:53:29Z",
-  "contentSha256": "841d1768bfd867e5cdc74f3cda8672ad883f57f855fe87f37e7e8ed67734edf4",
+  "releaseId": "canonical-9a8793547680e7b8",
+  "canonicalEpubSha256": "9a8793547680e7b8c1dc84ad5fb416ca2df484f1d0b5716a8c48ea09cfdaf87a",
+  "generatedAt": "2026-10-13T14:13:18Z",
+  "contentSha256": "dae7f8a94f91afa17abf521500342937999450267947d6e5c517df1f3a21e75a",
   "contentBytes": 30118954,
   "contentUrl": "https://raw.githubusercontent.com/Wayback-Project/thewaytranslations/main/current-form-documents/mobile-reader/content.json",
   "source": "canonical-github-fallback",

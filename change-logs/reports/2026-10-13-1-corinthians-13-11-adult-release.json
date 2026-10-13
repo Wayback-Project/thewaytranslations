@@ -1,0 +1,52 @@
+{
+  "release": "1 Corinthians 13:11 adulthood wording",
+  "releaseDate": "2026-10-13",
+  "sourceGreek": "ὅτε γέγονα ἀνήρ",
+  "changedVerseCount": 1,
+  "wholeBibleVerseCount": 31102,
+  "originalCanonicalEpubSha256": "5afdb333aa06d83d4f98211251d563c6ba2077ca054a08cf7a000a4f399c29a0",
+  "releasedCanonicalEpubSha256": "9a8793547680e7b8c1dc84ad5fb416ca2df484f1d0b5716a8c48ea09cfdaf87a",
+  "archivePath": "rendered-documents-history/2026-10-13_141318UTC/the-way-current.epub",
+  "changedEpubMembers": [
+    "OEBPS/Text/1-corinthians.xhtml"
+  ],
+  "changes": [
+    {
+      "reference": "1 Corinthians 13:11",
+      "before": "When I was a child, I spoke as a child, I felt as a child, I thought as a child. Now that I have become a person, I have put away childish things.",
+      "after": "When I was a child, I spoke as a child, I felt as a child, I thought as a child. Now that I have become an adult, I have put away childish things.",
+      "rationale": "The Greek ὅτε γέγονα ἀνήρ (hote gegona anēr) contrasts the state of being a child with reaching adulthood. The speaker did not turn from nonhuman to human. In this rhetorical contrast, adult expresses the relevant maturity without assigning male gender to a generic translation or flattening the intended child/adult contrast. The 1st-person I remains unchanged; gender references to concrete male figures in other Bible verses are unaffected."
+    }
+  ],
+  "qa": {
+    "only1Corinthians13_11Changed": true,
+    "66Books": true,
+    "1189Chapters": true,
+    "31102Verses": true,
+    "epubZipXmlLinks": "pass",
+    "grammar": "pass",
+    "sourceAlsoAligned": true
+  },
+  "canonicalMobileFallback": {
+    "schemaVersion": 1,
+    "releaseId": "canonical-9a8793547680e7b8",
+    "canonicalEpubSha256": "9a8793547680e7b8c1dc84ad5fb416ca2df484f1d0b5716a8c48ea09cfdaf87a",
+    "generatedAt": "2026-10-13T14:13:18Z",
+    "contentSha256": "dae7f8a94f91afa17abf521500342937999450267947d6e5c517df1f3a21e75a",
+    "contentBytes": 30118954,
+    "contentUrl": "https://raw.githubusercontent.com/Wayback-Project/thewaytranslations/main/current-form-documents/mobile-reader/content.json",
+    "source": "canonical-github-fallback",
+    "bookCount": 66,
+    "chapterCount": 1189,
+    "verseSearchCount": 31102
+  },
+  "printHandoff": {
+    "action": "Include exact approved verse in next FULL physical print master typesetting and press-ready PDF",
+    "status": "PENDING physical Word/PDF regeneration, proofreading, pagination and print proof signoff",
+    "source": "Newest verified canonical EPUB (never historical PDF, EPUB older copy, or web JSON)",
+    "reference": "1 Corinthians 13:11",
+    "before": "When I was a child, I spoke as a child, I felt as a child, I thought as a child. Now that I have become a person, I have put away childish things.",
+    "after": "When I was a child, I spoke as a child, I felt as a child, I thought as a child. Now that I have become an adult, I have put away childish things.",
+    "scope": "Exactly one verse for THIS release; physical working master must also reconcile all canonical changes since the last print edition."
+  }
+}

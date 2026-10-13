@@ -75,3 +75,7 @@ One-verse release replacing “Elohim and people” with “Elohim and the peopl
 ## 2026-10-12 1 Timothy 6:15 God/Sovereign follow-up
 
 After the 45-verse NT God/Father pronoun correction, exactly 1 Timothy 6:15 was reviewed and corrected: divine he → God and divine King of kings → Sovereign of sovereigns. Canonical EPUB SHA-256 5afdb333aa06d83d4f98211251d563c6ba2077ca054a08cf7a000a4f399c29a0. No other Scripture text changed.
+
+## 2026-10-13 1 Corinthians 13:11 adult
+
+Single-verse source-faithful maturity contrast: "Now that I have become a person" → "Now that I have become an adult". Exact whole-Bible diff: one verse; new canonical EPUB SHA-256: 9a8793547680e7b8c1dc84ad5fb416ca2df484f1d0b5716a8c48ea09cfdaf87a. Physical print working master/PDF must be updated and proofed separately.
