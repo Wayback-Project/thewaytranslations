@@ -79,3 +79,7 @@ After the 45-verse NT God/Father pronoun correction, exactly 1 Timothy 6:15 was 
 ## 2026-10-13 1 Corinthians 13:11 adult
 
 Single-verse source-faithful maturity contrast: "Now that I have become a person" → "Now that I have become an adult". Exact whole-Bible diff: one verse; new canonical EPUB SHA-256: 9a8793547680e7b8c1dc84ad5fb416ca2df484f1d0b5716a8c48ea09cfdaf87a. Physical print working master/PDF must be updated and proofed separately.
+
+## 2026-10-14 Romans 11:34–36 God referents
+
+Correct exactly three verses. Romans 11:35 first him is God, second him is hypothetical human giver (render “them”); new canonical EPUB SHA-256 66dd3351d1f4d79b35d50f167e6f311fc39ee73f3c7c9266ee779d25308aefef. Physical print working Word master and PDF require separate reflow/proof.

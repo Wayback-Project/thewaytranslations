@@ -1,0 +1,61 @@
+{
+  "releaseDate": "2026-10-14",
+  "release": "Romans 11:34–36 divine pronoun / generic human pronoun",
+  "priorCanonicalEpubSha256": "9a8793547680e7b8c1dc84ad5fb416ca2df484f1d0b5716a8c48ea09cfdaf87a",
+  "releasedCanonicalEpubSha256": "66dd3351d1f4d79b35d50f167e6f311fc39ee73f3c7c9266ee779d25308aefef",
+  "changedVerseCount": 3,
+  "wholeBibleVerseCount": 31102,
+  "changes": [
+    {
+      "reference": "Romans 11:34",
+      "chapter": 11,
+      "verse": 34,
+      "before": "\"For who has known the mind of the Master? Or who has been his counselor?\"",
+      "after": "\"For who has known the mind of the Master? Or who has been the Master's counselor?\"",
+      "rationale": "Romans 11:33–34 invokes God and echoes Isaiah 40:13. Here the Master is God; replacing the possessive his with the Master’s keeps the local established divine title and removes a male default."
+    },
+    {
+      "reference": "Romans 11:35",
+      "chapter": 11,
+      "verse": 35,
+      "before": "\"Or who has first given to him, and it will be repaid to him again?\"",
+      "after": "\"Or who has given to God first, so that God must repay them?\"",
+      "rationale": "This quotation/allusion to Job 41:11 rhetorically denies that God is indebted to any creature. The FIRST him denotes God; the SECOND him means the hypothetical human giver who could be repaid. God identifies the divine actor, and singular them refers to the human without defaulting to male. Both Greek pronouns are dative forms, but referents differ."
+    },
+    {
+      "reference": "Romans 11:36",
+      "chapter": 11,
+      "verse": 36,
+      "before": "For of him, and through him, and to him, are all things. To him be the glory for ever! Amen.",
+      "after": "For all things are from God, through God, and to God. To God be glory forever! Amen.",
+      "rationale": "In the doxology all the he/him references mean the one God of Romans 11:33–36. Direct divine naming preserves the from/through/to parallelism without assigning human maleness to God."
+    }
+  ],
+  "changedEpubMembers": [
+    "OEBPS/Text/romans.xhtml"
+  ],
+  "archivePath": "rendered-documents-history/2026-10-13_161219UTC/the-way-current.epub",
+  "originalNTSourceAlsoAligned": true,
+  "canonicalMobileFallback": {
+    "schemaVersion": 1,
+    "releaseId": "canonical-66dd3351d1f4d79b",
+    "canonicalEpubSha256": "66dd3351d1f4d79b35d50f167e6f311fc39ee73f3c7c9266ee779d25308aefef",
+    "generatedAt": "2026-10-13T16:12:19Z",
+    "contentSha256": "d0eceabb134e991361d4759b420d05dfaf9c1381cbea0f1753b19964861ebd9e",
+    "contentBytes": 30118925,
+    "contentUrl": "https://raw.githubusercontent.com/Wayback-Project/thewaytranslations/main/current-form-documents/mobile-reader/content.json",
+    "source": "canonical-github-fallback",
+    "bookCount": 66,
+    "chapterCount": 1189,
+    "verseSearchCount": 31102
+  },
+  "qa": {
+    "onlyRomans11_34to36Changed": true,
+    "epubZipXmlLinks": "pass",
+    "books": 66,
+    "chapters": 1189,
+    "verses": 31102,
+    "grammar": "pass"
+  },
+  "historicalPrintStatus": "handoff updated separately; print Word/PDF typesetting and proof not yet completed"
+}

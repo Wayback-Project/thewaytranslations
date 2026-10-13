@@ -41,3 +41,5 @@
 - 2026-10-12_095329UTC — God-referent 1 Timothy 6:15 “he/King” → “God/Sovereign”; prior EPUB archived at rendered-documents-history/2026-10-12_095329UTC/the-way-current.epub; new SHA-256 5afdb333aa06d83d4f98211251d563c6ba2077ca054a08cf7a000a4f399c29a0.
 
 - 2026-10-13_141318UTC — 1 Corinthians 13:11 person→adult (one verse), previous EPUB archive rendered-documents-history/2026-10-13_141318UTC/the-way-current.epub, new EPUB SHA-256 9a8793547680e7b8c1dc84ad5fb416ca2df484f1d0b5716a8c48ea09cfdaf87a.
+
+- 2026-10-13_161219UTC — Romans 11:34–36 exact 3-verse God-referent release, old EPUB rendered-documents-history/2026-10-13_161219UTC/the-way-current.epub; new SHA-256 66dd3351d1f4d79b35d50f167e6f311fc39ee73f3c7c9266ee779d25308aefef.
