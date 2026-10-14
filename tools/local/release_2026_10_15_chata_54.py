@@ -62,7 +62,16 @@ def main():
  preissues,exceptions=rel.grammar.audit_epub(EPUB)
  if preissues:raise RuntimeError("Baseline grammar issue; stop")
  if dry:
-  print(json.dumps({"check":"pass","baselineSha":BASE_SHA,"exactVerseEdits":54,"wholeBibleVerses":31102}))
+  trial=defaultdict(list)
+  for r in rows:trial[r["slug"]].append(r)
+  with zipfile.ZipFile(EPUB) as zin:
+   for slug,items in trial.items():
+    member=base.find_book_member(zin,slug)
+    xml=zin.read(member).decode("utf-8")
+    for r in items:
+     xml=rel.replace_one_verse(xml,slug,r["chapter"],r["verse"],r["original"],r["final"])
+  print(json.dumps({"check":"pass","baselineSha":BASE_SHA,"exactVerseEdits":54,
+                    "wholeBibleVerses":31102,"allExactXhtmlReplacements":"pass"}))
   return
  now=datetime.now(timezone.utc)
  stamp=now.strftime("%Y-%m-%d_%H%M%SUTC")
