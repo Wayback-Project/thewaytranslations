@@ -1,0 +1,194 @@
+{
+  "baselineEpubSha256": "b5500415431a339ba10c7021e9b091b7af38f0badb2a4d9e1e7cc0e15f46b943",
+  "edits": [
+    {
+      "reference": "1 Kings 8:31",
+      "slug": "1-kings",
+      "chapter": 8,
+      "verse": 31,
+      "original": "If someone sins against their neighbor, and an oath is laid on them to cause them to swear, and they come and swear before your altar in this house;",
+      "final": "If someone wrongs their neighbor, and an oath is laid on them to cause them to swear, and they come and swear before your altar in this house;",
+      "rationale": "Hebrew kingship narratives: concrete cultic or interpersonal wrongdoing and responsibility, not unintentional failure."
+    },
+    {
+      "reference": "1 Kings 8:33",
+      "slug": "1-kings",
+      "chapter": 8,
+      "verse": 33,
+      "original": "When your people Israel are struck down before the enemy, because they have sinned against you; if they turn again to you, and confess your name, and pray and make supplication to you in this house:",
+      "final": "When your people Israel are struck down before the enemy, because they have done wrong against you; if they turn again to you, and confess your name, and pray and make supplication to you in this house:",
+      "rationale": "Hebrew kingship narratives: concrete cultic or interpersonal wrongdoing and responsibility, not unintentional failure."
+    },
+    {
+      "reference": "1 Kings 8:34",
+      "slug": "1-kings",
+      "chapter": 8,
+      "verse": 34,
+      "original": "then hear you in heavens, and forgive the sin of your people Israel, and bring them again to the land which you gave to their fathers.",
+      "final": "then hear you in heavens, and forgive the wrongdoing of your people Israel, and bring them again to the land which you gave to their fathers.",
+      "rationale": "Hebrew kingship narratives: concrete cultic or interpersonal wrongdoing and responsibility, not unintentional failure."
+    },
+    {
+      "reference": "1 Kings 8:35",
+      "slug": "1-kings",
+      "chapter": 8,
+      "verse": 35,
+      "original": "When the heavens is shut up, and there is no rain, because they have sinned against you; if they pray toward this place, and confess your name, and turn from their sin, when you do afflict them:",
+      "final": "When the heavens is shut up, and there is no rain, because they have done wrong against you; if they pray toward this place, and confess your name, and turn away from their wrongdoing, when you do afflict them:",
+      "rationale": "Hebrew kingship narratives: concrete cultic or interpersonal wrongdoing and responsibility, not unintentional failure."
+    },
+    {
+      "reference": "1 Kings 8:36",
+      "slug": "1-kings",
+      "chapter": 8,
+      "verse": 36,
+      "original": "then hear in heavens, and forgive the sin of your servants, and of your people Israel, when you teach them the good way in which they should walk; and send rain on your land, which you have given to your people for an inheritance.",
+      "final": "then hear in heavens, and forgive the wrongdoing of your servants, and of your people Israel, when you teach them the good way in which they should walk; and send rain on your land, which you have given to your people for an inheritance.",
+      "rationale": "Hebrew kingship narratives: concrete cultic or interpersonal wrongdoing and responsibility, not unintentional failure."
+    },
+    {
+      "reference": "1 Kings 8:46",
+      "slug": "1-kings",
+      "chapter": 8,
+      "verse": 46,
+      "original": "If they sin against you (for there is no one who doesn't sin), and you are angry with them, and deliver them to the enemy, so that they carry them away captive to the land of the enemy, far off or near;",
+      "final": "If they do wrong against you (for there is no one who never does wrong), and you are angry with them, and deliver them to the enemy, so that they carry them away captive to the land of the enemy, far off or near;",
+      "rationale": "Hebrew kingship narratives: concrete cultic or interpersonal wrongdoing and responsibility, not unintentional failure."
+    },
+    {
+      "reference": "1 Kings 8:47",
+      "slug": "1-kings",
+      "chapter": 8,
+      "verse": 47,
+      "original": "yet if they turn back in the land where they are carried captive, and turn again, and make supplication to you in the land of those who carried them captive, saying, We have sinned, and have done perversely, we have dealt wickedly;",
+      "final": "yet if they turn back in the land where they are carried captive, and turn again, and make supplication to you in the land of those who carried them captive, saying, We have done wrong, and have done perversely, we have dealt wickedly;",
+      "rationale": "Hebrew kingship narratives: concrete cultic or interpersonal wrongdoing and responsibility, not unintentional failure."
+    },
+    {
+      "reference": "1 Kings 8:50",
+      "slug": "1-kings",
+      "chapter": 8,
+      "verse": 50,
+      "original": "and forgive your people who have sinned against you, and all their transgressions in which they have transgressed against you; and give them compassion before those who carried them captive, that they may have compassion on them",
+      "final": "and forgive your people who have done wrong against you, and all their transgressions in which they have transgressed against you; and give them compassion before those who carried them captive, that they may have compassion on them",
+      "rationale": "Hebrew kingship narratives: concrete cultic or interpersonal wrongdoing and responsibility, not unintentional failure."
+    },
+    {
+      "reference": "1 Kings 12:30",
+      "slug": "1-kings",
+      "chapter": 12,
+      "verse": 30,
+      "original": "This thing became a sin; for the people went [to worship] before the one, even to Dan.",
+      "final": "This thing became a source of wrongdoing; for the people went [to worship] before the one, even to Dan.",
+      "rationale": "Hebrew kingship narratives: concrete cultic or interpersonal wrongdoing and responsibility, not unintentional failure."
+    },
+    {
+      "reference": "1 Kings 13:34",
+      "slug": "1-kings",
+      "chapter": 13,
+      "verse": 34,
+      "original": "This thing became sin to the house of Yerovam, even to cut it off, and to destroy it from off the surface of the earth.",
+      "final": "This thing became wrongdoing for the house of Yerovam, even to cut it off, and to destroy it from off the surface of the earth.",
+      "rationale": "Hebrew kingship narratives: concrete cultic or interpersonal wrongdoing and responsibility, not unintentional failure."
+    },
+    {
+      "reference": "1 Kings 14:22",
+      "slug": "1-kings",
+      "chapter": 14,
+      "verse": 22,
+      "original": "Yehudah did what was broken in the sight of YHWH, and they provoked YHWH to jealousy with their sins which they committed, above all that their fathers had done.",
+      "final": "Yehudah did what was broken in the sight of YHWH, and they provoked YHWH to jealousy with the wrongdoings they committed, above all that their fathers had done.",
+      "rationale": "Hebrew kingship narratives: concrete cultic or interpersonal wrongdoing and responsibility, not unintentional failure."
+    },
+    {
+      "reference": "1 Kings 15:3",
+      "slug": "1-kings",
+      "chapter": 15,
+      "verse": 3,
+      "original": "He walked in all the sins of his father, which he had done before him; and his heart was not perfect with YHWH his God, as the heart of Dawid his father.",
+      "final": "He walked in all the wrongdoings of his father, which he had done before him; and his heart was not perfect with YHWH his God, as the heart of Dawid his father.",
+      "rationale": "Hebrew kingship narratives: concrete cultic or interpersonal wrongdoing and responsibility, not unintentional failure."
+    },
+    {
+      "reference": "1 Kings 17:18",
+      "slug": "1-kings",
+      "chapter": 17,
+      "verse": 18,
+      "original": "She said to Eliyahu, What have I to do with you, you man of Elohim? You have come to me to bring my sin to memory, and to kill my son!",
+      "final": "She said to Eliyahu, What have I to do with you, you man of Elohim? You have come to me to bring my moral failure to mind, and to kill my son!",
+      "rationale": "Hebrew kingship narratives: concrete cultic or interpersonal wrongdoing and responsibility, not unintentional failure."
+    },
+    {
+      "reference": "1 Kings 18:9",
+      "slug": "1-kings",
+      "chapter": 18,
+      "verse": 9,
+      "original": "He said, Wherein have I sinned, that you would deliver your servant into the hand of Achav, to kill me?",
+      "final": "He said, What wrong have I done, that you would deliver your servant into the hand of Achav, to kill me?",
+      "rationale": "Hebrew kingship narratives: concrete cultic or interpersonal wrongdoing and responsibility, not unintentional failure."
+    },
+    {
+      "reference": "2 Kings 14:6",
+      "slug": "2-kings",
+      "chapter": 14,
+      "verse": 6,
+      "original": "but the children of the murderers he didn't put to death; according to that which is written in the book of the law of Moshe, as YHWH commanded, saying, The fathers shall not be put to death for the children, nor the children be put to death for the fathers; but everyone shall die for their own sin.",
+      "final": "but the children of the murderers he didn't put to death; according to that which is written in the book of the law of Moshe, as YHWH commanded, saying, The fathers shall not be put to death for the children, nor the children be put to death for the fathers; but everyone shall die for their own wrongdoing.",
+      "rationale": "Hebrew kingship narratives: concrete cultic or interpersonal wrongdoing and responsibility, not unintentional failure."
+    },
+    {
+      "reference": "2 Kings 17:7",
+      "slug": "2-kings",
+      "chapter": 17,
+      "verse": 7,
+      "original": "It was so, because the children of Israel had sinned against YHWH their God, who brought them up out of the land of Mitzrayim from under the hand of Pharaoh king of Mitzrayim, and had revered other gods,",
+      "final": "It was so, because the children of Israel had done wrong against YHWH their God, who brought them up out of the land of Mitzrayim from under the hand of Pharaoh king of Mitzrayim, and had revered other gods,",
+      "rationale": "Hebrew kingship narratives: concrete cultic or interpersonal wrongdoing and responsibility, not unintentional failure."
+    },
+    {
+      "reference": "2 Kings 17:21",
+      "slug": "2-kings",
+      "chapter": 17,
+      "verse": 21,
+      "original": "For he tore Israel from the house of Dawid; and they made Yerovam the son of Nebat king: and Yerovam drove Israel from following YHWH, and made them sin a great sin.",
+      "final": "For he tore Israel from the house of Dawid; and they made Yerovam the son of Nebat king: and Yerovam drove Israel from following YHWH, and led them into grave wrongdoing.",
+      "rationale": "Hebrew kingship narratives: concrete cultic or interpersonal wrongdoing and responsibility, not unintentional failure."
+    },
+    {
+      "reference": "2 Kings 21:11",
+      "slug": "2-kings",
+      "chapter": 21,
+      "verse": 11,
+      "original": "Because Menashe king of Yehudah has done these abominations, and has done wickedly above all that the Amorites did, who were before him, and has made Yehudah also to sin with his idols;",
+      "final": "Because Menashe king of Yehudah has done these abominations, and has done wickedly above all that the Amorites did, who were before him, and has led Yehudah into wrongdoing with his idols;",
+      "rationale": "Hebrew kingship narratives: concrete cultic or interpersonal wrongdoing and responsibility, not unintentional failure."
+    },
+    {
+      "reference": "2 Kings 21:16",
+      "slug": "2-kings",
+      "chapter": 21,
+      "verse": 16,
+      "original": "Moreover Menashe shed innocent blood very much, until he had filled Yerushalayim from one end to another; besides his sin with which he made Yehudah to sin, in doing what was broken in the sight of YHWH.",
+      "final": "Moreover Menashe shed innocent blood very much, until he had filled Yerushalayim from one end to another; besides his wrongdoing through which he led Yehudah into wrongdoing, in doing what was broken in the sight of YHWH.",
+      "rationale": "Hebrew kingship narratives: concrete cultic or interpersonal wrongdoing and responsibility, not unintentional failure."
+    },
+    {
+      "reference": "2 Kings 21:17",
+      "slug": "2-kings",
+      "chapter": 21,
+      "verse": 17,
+      "original": "Now the rest of the acts of Menashe, and all that he did, and his sin that he sinned, aren't they written in the book of the chronicles of the kings of Yehudah?",
+      "final": "Now the rest of the acts of Menashe, and all that he did, and the wrongdoing he committed, aren't they written in the book of the chronicles of the kings of Yehudah?",
+      "rationale": "Hebrew kingship narratives: concrete cultic or interpersonal wrongdoing and responsibility, not unintentional failure."
+    },
+    {
+      "reference": "2 Kings 24:3",
+      "slug": "2-kings",
+      "chapter": 24,
+      "verse": 3,
+      "original": "Surely at the commandment of YHWH came this on Yehudah, to remove them out of his sight, for the sins of Menashe, according to all that he did,",
+      "final": "Surely at the commandment of YHWH came this on Yehudah, to remove them out of his sight, for the wrongdoings of Menashe, according to all that he did,",
+      "rationale": "Hebrew kingship narratives: concrete cultic or interpersonal wrongdoing and responsibility, not unintentional failure."
+    }
+  ]
+}

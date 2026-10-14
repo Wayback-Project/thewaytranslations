@@ -1,0 +1,610 @@
+{
+  "baselineEpubSha256": "b5500415431a339ba10c7021e9b091b7af38f0badb2a4d9e1e7cc0e15f46b943",
+  "source": "October 15 postrelease verse audit",
+  "status": "CANDIDATE exact full-verse pairs, pending machine preflight and release",
+  "edits": [
+    {
+      "reference": "Genesis 13:13",
+      "slug": "genesis",
+      "chapter": 13,
+      "verse": 13,
+      "original": "Now the men of Sedom were exceedingly wicked and sinners against YHWH.",
+      "final": "Now the men of Sedom were exceedingly wicked and people who committed grave wrongdoing against YHWH.",
+      "rationale": "OT idiom: concrete wrongdoing, ritual purification, guilt, or moral responsibility; no unapproved divine-pronoun changes."
+    },
+    {
+      "reference": "Genesis 18:20",
+      "slug": "genesis",
+      "chapter": 18,
+      "verse": 20,
+      "original": "YHWH said, “Because the cry of Sedom and Amora is great, and because their sin is very grievous,",
+      "final": "YHWH said, “Because the cry of Sedom and Amora is great, and because their wrongdoing is very grievous,",
+      "rationale": "OT idiom: concrete wrongdoing, ritual purification, guilt, or moral responsibility; no unapproved divine-pronoun changes."
+    },
+    {
+      "reference": "Genesis 20:6",
+      "slug": "genesis",
+      "chapter": 20,
+      "verse": 6,
+      "original": "Elohim said to him in the dream, “Yes, I know that in the integrity of your heart you have done this, and I also withheld you from sinning against me. Therefore I didn’t allow you to touch her.",
+      "final": "Elohim said to him in the dream, “Yes, I know that in the integrity of your heart you have done this, and I also kept you from doing wrong against me. Therefore I didn’t allow you to touch her.",
+      "rationale": "OT idiom: concrete wrongdoing, ritual purification, guilt, or moral responsibility; no unapproved divine-pronoun changes."
+    },
+    {
+      "reference": "Genesis 31:36",
+      "slug": "genesis",
+      "chapter": 31,
+      "verse": 36,
+      "original": "Yaakov was angry, and argued with Lavan. Yaakov answered Lavan, “What is my trespass? What is my sin, that you have hotly pursued me?",
+      "final": "Yaakov was angry, and argued with Lavan. Yaakov answered Lavan, “What is my trespass? What wrong have I committed, that you have hotly pursued me?",
+      "rationale": "OT idiom: concrete wrongdoing, ritual purification, guilt, or moral responsibility; no unapproved divine-pronoun changes."
+    },
+    {
+      "reference": "Genesis 42:22",
+      "slug": "genesis",
+      "chapter": 42,
+      "verse": 22,
+      "original": "Reuven answered them, saying, “Didn’t I tell you, saying, ‘Don’t sin against the child,’ and you wouldn’t listen? Therefore also, look, his blood is required.”",
+      "final": "Reuven answered them, saying, “Didn’t I tell you, saying, ‘Do not wrong the child,’ and you wouldn’t listen? Therefore also, look, his blood is required.”",
+      "rationale": "OT idiom: concrete wrongdoing, ritual purification, guilt, or moral responsibility; no unapproved divine-pronoun changes."
+    },
+    {
+      "reference": "Genesis 50:17",
+      "slug": "genesis",
+      "chapter": 50,
+      "verse": 17,
+      "original": "‘You shall tell Yosef, “Now please forgive the disobedience of your brothers, and their sin, because they did wrong to you.”’ Now, please forgive the disobedience of the servants of the God of your father.” Yosef wept when they spoke to him.",
+      "final": "‘You shall tell Yosef, “Now please forgive the disobedience of your brothers, and their wrongdoing, because they did wrong to you.”’ Now, please forgive the disobedience of the servants of the God of your father.” Yosef wept when they spoke to him.",
+      "rationale": "OT idiom: concrete wrongdoing, ritual purification, guilt, or moral responsibility; no unapproved divine-pronoun changes."
+    },
+    {
+      "reference": "Deuteronomy 1:41",
+      "slug": "deuteronomy",
+      "chapter": 1,
+      "verse": 41,
+      "original": "Then you answered and said to me, We have sinned against YHWH, we will go up and fight, according to all that YHWH our God commanded us. You girded on everyone their weapons of war, and were forward to go up into the hill country.",
+      "final": "Then you answered and said to me, We have done wrong against YHWH, we will go up and fight, according to all that YHWH our God commanded us. You girded on everyone their weapons of war, and were forward to go up into the hill country.",
+      "rationale": "OT idiom: concrete wrongdoing, ritual purification, guilt, or moral responsibility; no unapproved divine-pronoun changes."
+    },
+    {
+      "reference": "Deuteronomy 9:16",
+      "slug": "deuteronomy",
+      "chapter": 9,
+      "verse": 16,
+      "original": "I looked, and behold, you had sinned against YHWH your God; you had made you a molten calf: you had turned aside quickly out of the way which YHWH had commanded you.",
+      "final": "I looked, and behold, you had done wrong against YHWH your God; you had made you a molten calf: you had turned aside quickly out of the way which YHWH had commanded you.",
+      "rationale": "OT idiom: concrete wrongdoing, ritual purification, guilt, or moral responsibility; no unapproved divine-pronoun changes."
+    },
+    {
+      "reference": "Deuteronomy 9:18",
+      "slug": "deuteronomy",
+      "chapter": 9,
+      "verse": 18,
+      "original": "I fell down before YHWH, as at the first, forty days and forty nights; I did neither eat bread nor drink water; because of all your sin which you sinned, in doing what was broken in the sight of YHWH, to provoke YHWH to anger.",
+      "final": "I fell down before YHWH, as at the first, forty days and forty nights; I did neither eat bread nor drink water; because of all the wrongdoing you committed, in doing what was broken in the sight of YHWH, to provoke YHWH to anger.",
+      "rationale": "OT idiom: concrete wrongdoing, ritual purification, guilt, or moral responsibility; no unapproved divine-pronoun changes."
+    },
+    {
+      "reference": "Deuteronomy 9:21",
+      "slug": "deuteronomy",
+      "chapter": 9,
+      "verse": 21,
+      "original": "I took your sin, the calf which you had made, and burnt it with fire, and stamped it, grinding it very small, until it was as fine as dust: and I cast the dust of it into the brook that descended out of the mountain.",
+      "final": "I took the object of your wrongdoing, the calf which you had made, and burnt it with fire, and stamped it, grinding it very small, until it was as fine as dust: and I cast the dust of it into the brook that descended out of the mountain.",
+      "rationale": "OT idiom: concrete wrongdoing, ritual purification, guilt, or moral responsibility; no unapproved divine-pronoun changes."
+    },
+    {
+      "reference": "Deuteronomy 9:27",
+      "slug": "deuteronomy",
+      "chapter": 9,
+      "verse": 27,
+      "original": "Remember your servants, Avraham, Yitzhak, and Ya'akov; don't look to the stubbornness of this people, nor to their wickedness, nor to their sin,",
+      "final": "Remember your servants, Avraham, Yitzhak, and Ya'akov; don't look to the stubbornness of this people, nor to their wickedness, nor to their wrongdoing,",
+      "rationale": "OT idiom: concrete wrongdoing, ritual purification, guilt, or moral responsibility; no unapproved divine-pronoun changes."
+    },
+    {
+      "reference": "Deuteronomy 15:9",
+      "slug": "deuteronomy",
+      "chapter": 15,
+      "verse": 9,
+      "original": "Beware that there not be a base thought in your heart, saying, The seventh year, the year of release, is at hand; and your eye be harm against your poor brother, and you give him nothing; and he cry to YHWH against you, and it be sin to you.",
+      "final": "Beware that there not be a base thought in your heart, saying, The seventh year, the year of release, is at hand; and your eye be harm against your poor brother, and you give him nothing; and he cry to YHWH against you, and you bear guilt for it.",
+      "rationale": "OT idiom: concrete wrongdoing, ritual purification, guilt, or moral responsibility; no unapproved divine-pronoun changes."
+    },
+    {
+      "reference": "Deuteronomy 19:15",
+      "slug": "deuteronomy",
+      "chapter": 19,
+      "verse": 15,
+      "original": "One witness shall not rise up against a person for any iniquity, or for any sin, in any sin that they sins: at the mouth of two witnesses, or at the mouth of three witnesses, shall a matter be established.",
+      "final": "One witness shall not rise up against a person for any iniquity, or for any wrongdoing, whatever the offense: at the mouth of two witnesses, or at the mouth of three witnesses, shall a matter be established.",
+      "rationale": "OT idiom: concrete wrongdoing, ritual purification, guilt, or moral responsibility; no unapproved divine-pronoun changes."
+    },
+    {
+      "reference": "Deuteronomy 20:18",
+      "slug": "deuteronomy",
+      "chapter": 20,
+      "verse": 18,
+      "original": "that they not teach you to do after all their abominations, which they have done to their gods; so would you sin against YHWH your God.",
+      "final": "that they not teach you to do after all their abominations, which they have done to their gods; so would you do wrong against YHWH your God.",
+      "rationale": "OT idiom: concrete wrongdoing, ritual purification, guilt, or moral responsibility; no unapproved divine-pronoun changes."
+    },
+    {
+      "reference": "Deuteronomy 21:22",
+      "slug": "deuteronomy",
+      "chapter": 21,
+      "verse": 22,
+      "original": "If someone has committed a sin worthy of death, and they are put to death, and you hang them on a tree;",
+      "final": "If someone has committed a wrongdoing punishable by death, and they are put to death, and you hang them on a tree;",
+      "rationale": "OT idiom: concrete wrongdoing, ritual purification, guilt, or moral responsibility; no unapproved divine-pronoun changes."
+    },
+    {
+      "reference": "Deuteronomy 22:26",
+      "slug": "deuteronomy",
+      "chapter": 22,
+      "verse": 26,
+      "original": "but to the lady you shall do nothing; there is in the lady no sin worthy of death: for as when someone rises against their neighbor, and kills him, even so is this matter;",
+      "final": "but to the lady you shall do nothing; there is in the lady no wrongdoing deserving death: for as when someone rises against their neighbor, and kills him, even so is this matter;",
+      "rationale": "OT idiom: concrete wrongdoing, ritual purification, guilt, or moral responsibility; no unapproved divine-pronoun changes."
+    },
+    {
+      "reference": "Deuteronomy 23:21",
+      "slug": "deuteronomy",
+      "chapter": 23,
+      "verse": 21,
+      "original": "When you shall vow a vow to YHWH your God, you shall not be slack to pay it: for YHWH your God will surely require it of you; and it would be sin in you.",
+      "final": "When you shall vow a vow to YHWH your God, you shall not be slack to pay it: for YHWH your God will surely require it of you; and you would be accountable for wrongdoing.",
+      "rationale": "OT idiom: concrete wrongdoing, ritual purification, guilt, or moral responsibility; no unapproved divine-pronoun changes."
+    },
+    {
+      "reference": "Deuteronomy 23:22",
+      "slug": "deuteronomy",
+      "chapter": 23,
+      "verse": 22,
+      "original": "But if you shall forbear to vow, it shall be no sin in you.",
+      "final": "But if you shall forbear to vow, you shall incur no guilt.",
+      "rationale": "OT idiom: concrete wrongdoing, ritual purification, guilt, or moral responsibility; no unapproved divine-pronoun changes."
+    },
+    {
+      "reference": "Deuteronomy 24:4",
+      "slug": "deuteronomy",
+      "chapter": 24,
+      "verse": 4,
+      "original": "her former husband, who sent her away, may not take her again to be his wife, after that she is defiled; for that is abomination before YHWH: and you shall not cause the land to sin, which YHWH your God gives you for an inheritance.",
+      "final": "her former husband, who sent her away, may not take her again to be his wife, after that she is defiled; for that is abomination before YHWH: and you shall not bring guilt upon the land, which YHWH your God gives you for an inheritance.",
+      "rationale": "OT idiom: concrete wrongdoing, ritual purification, guilt, or moral responsibility; no unapproved divine-pronoun changes."
+    },
+    {
+      "reference": "Deuteronomy 24:15",
+      "slug": "deuteronomy",
+      "chapter": 24,
+      "verse": 15,
+      "original": "in his day you shall give him his hire, neither shall the sun go down on it; for he is poor, and sets his heart on it: lest he cry against you to YHWH, and it be sin to you.",
+      "final": "in his day you shall give him his hire, neither shall the sun go down on it; for he is poor, and sets his heart on it: lest he cry against you to YHWH, and you be held responsible for wrongdoing.",
+      "rationale": "OT idiom: concrete wrongdoing, ritual purification, guilt, or moral responsibility; no unapproved divine-pronoun changes."
+    },
+    {
+      "reference": "Deuteronomy 24:16",
+      "slug": "deuteronomy",
+      "chapter": 24,
+      "verse": 16,
+      "original": "The fathers shall not be put to death for the children, neither shall the children be put to death for the fathers: everyone shall be put to death for their own sin.",
+      "final": "The fathers shall not be put to death for the children, neither shall the children be put to death for the fathers: everyone shall be put to death for their own wrongdoing.",
+      "rationale": "OT idiom: concrete wrongdoing, ritual purification, guilt, or moral responsibility; no unapproved divine-pronoun changes."
+    },
+    {
+      "reference": "Joshua 7:11",
+      "slug": "joshua",
+      "chapter": 7,
+      "verse": 11,
+      "original": "Israel has sinned; yes, they have even transgressed my covenant which I commanded them: yes, they have even taken of the devoted thing, and have also stolen, and dissembled also; and they have even put it among their own stuff.",
+      "final": "Israel has done wrong; yes, they have even transgressed my covenant which I commanded them: yes, they have even taken of the devoted thing, and have also stolen, and dissembled also; and they have even put it among their own stuff.",
+      "rationale": "OT idiom: concrete wrongdoing, ritual purification, guilt, or moral responsibility; no unapproved divine-pronoun changes."
+    },
+    {
+      "reference": "Joshua 7:20",
+      "slug": "joshua",
+      "chapter": 7,
+      "verse": 20,
+      "original": "Achan answered Yehoshua, and said, Of a truth I have sinned against YHWH, the God of Israel, and thus and thus have I done:",
+      "final": "Achan answered Yehoshua, and said, Of a truth I have done wrong against YHWH, the God of Israel, and thus and thus have I done:",
+      "rationale": "OT idiom: concrete wrongdoing, ritual purification, guilt, or moral responsibility; no unapproved divine-pronoun changes."
+    },
+    {
+      "reference": "Joshua 24:19",
+      "slug": "joshua",
+      "chapter": 24,
+      "verse": 19,
+      "original": "Yehoshua said to the people, You can't serve YHWH; for YHWH is a holy Elohim; YHWH is a jealous Elohim; YHWH will not forgive your disobedience nor your sins.",
+      "final": "Yehoshua said to the people, You can't serve YHWH; for YHWH is a holy Elohim; YHWH is a jealous Elohim; YHWH will not forgive your disobedience nor your moral failures.",
+      "rationale": "OT idiom: concrete wrongdoing, ritual purification, guilt, or moral responsibility; no unapproved divine-pronoun changes."
+    },
+    {
+      "reference": "Judges 10:10",
+      "slug": "judges",
+      "chapter": 10,
+      "verse": 10,
+      "original": "The children of Israel cried to YHWH, saying, We have sinned against you, even because we have forsaken our God, and have served the Baals.",
+      "final": "The children of Israel cried to YHWH, saying, We have done wrong against you, even because we have forsaken our God, and have served the Baals.",
+      "rationale": "OT idiom: concrete wrongdoing, ritual purification, guilt, or moral responsibility; no unapproved divine-pronoun changes."
+    },
+    {
+      "reference": "Judges 10:15",
+      "slug": "judges",
+      "chapter": 10,
+      "verse": 15,
+      "original": "The children of Israel said to YHWH, We have sinned: do you to us whatever seems good to you; only deliver us, we pray you, this day.",
+      "final": "The children of Israel said to YHWH, We have done wrong: do you to us whatever seems good to you; only deliver us, we pray you, this day.",
+      "rationale": "OT idiom: concrete wrongdoing, ritual purification, guilt, or moral responsibility; no unapproved divine-pronoun changes."
+    },
+    {
+      "reference": "Judges 11:27",
+      "slug": "judges",
+      "chapter": 11,
+      "verse": 27,
+      "original": "I therefore have not sinned against you, but you do me wrong to war against me: YHWH, the Judge, be judge this day between the children of Israel and the children of Ammon.",
+      "final": "I therefore have not wronged you, but you do me wrong to war against me: YHWH, the Judge, be judge this day between the children of Israel and the children of Ammon.",
+      "rationale": "OT idiom: concrete wrongdoing, ritual purification, guilt, or moral responsibility; no unapproved divine-pronoun changes."
+    },
+    {
+      "reference": "1 Samuel 2:17",
+      "slug": "1-samuel",
+      "chapter": 2,
+      "verse": 17,
+      "original": "The sin of the young people was very great before YHWH; for the men despised the offering of YHWH.",
+      "final": "The wrongdoing of the young people was very grave before YHWH; for the men despised the offering of YHWH.",
+      "rationale": "OT idiom: concrete wrongdoing, ritual purification, guilt, or moral responsibility; no unapproved divine-pronoun changes."
+    },
+    {
+      "reference": "1 Samuel 2:25",
+      "slug": "1-samuel",
+      "chapter": 2,
+      "verse": 25,
+      "original": "If one man sin against another, Elohim shall judge him; but if someone sin against YHWH, who shall entreat for them? Notwithstanding, they didn't listen to the voice of their father, because YHWH was minded to kill them.",
+      "final": "If one man wrongs another, Elohim shall judge him; but if someone does wrong against YHWH, who shall entreat for them? Notwithstanding, they didn't listen to the voice of their father, because YHWH was minded to kill them.",
+      "rationale": "OT idiom: concrete wrongdoing, ritual purification, guilt, or moral responsibility; no unapproved divine-pronoun changes."
+    },
+    {
+      "reference": "1 Samuel 7:6",
+      "slug": "1-samuel",
+      "chapter": 7,
+      "verse": 6,
+      "original": "They gathered together to Mizpah, and drew water, and poured it out before YHWH, and fasted on that day, and said there, \"We have sinned against YHWH.\" Shmuel judged the children of Israel in Mizpah.",
+      "final": "They gathered together to Mizpah, and drew water, and poured it out before YHWH, and fasted on that day, and said there, \"We have done wrong against YHWH.\" Shmuel judged the children of Israel in Mizpah.",
+      "rationale": "OT idiom: concrete wrongdoing, ritual purification, guilt, or moral responsibility; no unapproved divine-pronoun changes."
+    },
+    {
+      "reference": "1 Samuel 12:10",
+      "slug": "1-samuel",
+      "chapter": 12,
+      "verse": 10,
+      "original": "They cried to YHWH, and said, We have sinned, because we have forsaken YHWH, and have served the Baals and the Ashtaroth: but now deliver us out of the hand of our enemies, and we will serve you.",
+      "final": "They cried to YHWH, and said, We have done wrong, because we have forsaken YHWH, and have served the Baals and the Ashtaroth: but now deliver us out of the hand of our enemies, and we will serve you.",
+      "rationale": "OT idiom: concrete wrongdoing, ritual purification, guilt, or moral responsibility; no unapproved divine-pronoun changes."
+    },
+    {
+      "reference": "1 Samuel 12:19",
+      "slug": "1-samuel",
+      "chapter": 12,
+      "verse": 19,
+      "original": "All the people said to Shmuel, Pray for your servants to YHWH your God, that we not die; for we have added to all our sins [this] brokenness, to ask us a king.",
+      "final": "All the people said to Shmuel, Pray for your servants to YHWH your God, that we not die; for we have added to all our wrongdoings [this] brokenness, to ask us a king.",
+      "rationale": "OT idiom: concrete wrongdoing, ritual purification, guilt, or moral responsibility; no unapproved divine-pronoun changes."
+    },
+    {
+      "reference": "1 Samuel 12:23",
+      "slug": "1-samuel",
+      "chapter": 12,
+      "verse": 23,
+      "original": "Moreover as for me, far be it from me that I should sin against YHWH in ceasing to pray for you: but I will instruct you in the good and the right way.",
+      "final": "Moreover as for me, far be it from me that I should do wrong against YHWH in ceasing to pray for you: but I will instruct you in the good and the right way.",
+      "rationale": "OT idiom: concrete wrongdoing, ritual purification, guilt, or moral responsibility; no unapproved divine-pronoun changes."
+    },
+    {
+      "reference": "1 Samuel 14:33",
+      "slug": "1-samuel",
+      "chapter": 14,
+      "verse": 33,
+      "original": "Then they told Shaul, saying, Behold, the people sin against YHWH, in that they eat with the blood. He said, you have dealt treacherously: roll a great stone to me this day.",
+      "final": "Then they told Shaul, saying, Behold, the people do wrong against YHWH, in that they eat with the blood. He said, you have dealt treacherously: roll a great stone to me this day.",
+      "rationale": "OT idiom: concrete wrongdoing, ritual purification, guilt, or moral responsibility; no unapproved divine-pronoun changes."
+    },
+    {
+      "reference": "1 Samuel 14:34",
+      "slug": "1-samuel",
+      "chapter": 14,
+      "verse": 34,
+      "original": "Shaul said, Disperse yourselves among the people, and tell them, Bring me here everyone their ox, and everyone their sheep, and kill them here, and eat; and don't sin against YHWH in eating with the blood. All the people brought everyone their ox with him that night, and killed them there.",
+      "final": "Shaul said, Disperse yourselves among the people, and tell them, Bring me here everyone their ox, and everyone their sheep, and kill them here, and eat; and do not do wrong against YHWH in eating with the blood. All the people brought everyone their ox with him that night, and killed them there.",
+      "rationale": "OT idiom: concrete wrongdoing, ritual purification, guilt, or moral responsibility; no unapproved divine-pronoun changes."
+    },
+    {
+      "reference": "1 Samuel 14:38",
+      "slug": "1-samuel",
+      "chapter": 14,
+      "verse": 38,
+      "original": "Shaul said, Draw near here, all you chiefs of the people; and know and see in which this sin has been this day.",
+      "final": "Shaul said, Draw near here, all you chiefs of the people; and know and see in which this wrongdoing has occurred this day.",
+      "rationale": "OT idiom: concrete wrongdoing, ritual purification, guilt, or moral responsibility; no unapproved divine-pronoun changes."
+    },
+    {
+      "reference": "1 Samuel 15:18",
+      "slug": "1-samuel",
+      "chapter": 15,
+      "verse": 18,
+      "original": "and YHWH sent you on a journey, and said, 'Go, and utterly destroy the sinners the Amalekites, and fight against them until they are consumed.'",
+      "final": "and YHWH sent you on a journey, and said, 'Go, and utterly destroy the Amalekites who had done wrong, and fight against them until they are consumed.'",
+      "rationale": "OT idiom: concrete wrongdoing, ritual purification, guilt, or moral responsibility; no unapproved divine-pronoun changes."
+    },
+    {
+      "reference": "1 Samuel 15:23",
+      "slug": "1-samuel",
+      "chapter": 15,
+      "verse": 23,
+      "original": "For rebellion is as the sin of witchcraft, and stubbornness is as idolatry and teraphim. Because you have rejected the word of YHWH, he has also rejected you from being king.",
+      "final": "For rebellion is as the wrongdoing of divination, and stubbornness is as idolatry and teraphim. Because you have rejected the word of YHWH, he has also rejected you from being king.",
+      "rationale": "OT idiom: concrete wrongdoing, ritual purification, guilt, or moral responsibility; no unapproved divine-pronoun changes."
+    },
+    {
+      "reference": "1 Samuel 15:24",
+      "slug": "1-samuel",
+      "chapter": 15,
+      "verse": 24,
+      "original": "Shaul said to Shmuel, I have sinned; for I have transgressed the commandment of YHWH, and your words, because I feared the people, and obeyed their voice.",
+      "final": "Shaul said to Shmuel, I have done wrong; for I have transgressed the commandment of YHWH, and your words, because I feared the people, and obeyed their voice.",
+      "rationale": "OT idiom: concrete wrongdoing, ritual purification, guilt, or moral responsibility; no unapproved divine-pronoun changes."
+    },
+    {
+      "reference": "1 Samuel 15:25",
+      "slug": "1-samuel",
+      "chapter": 15,
+      "verse": 25,
+      "original": "Now therefore, please pardon my sin, and turn again with me, that I may worship YHWH.",
+      "final": "Now therefore, please pardon my wrongdoing, and turn again with me, that I may worship YHWH.",
+      "rationale": "OT idiom: concrete wrongdoing, ritual purification, guilt, or moral responsibility; no unapproved divine-pronoun changes."
+    },
+    {
+      "reference": "1 Samuel 15:30",
+      "slug": "1-samuel",
+      "chapter": 15,
+      "verse": 30,
+      "original": "Then he said, I have sinned: yet honor me now, Please, before the elders of my people, and before Israel, and turn again with me, that I may worship YHWH your God.",
+      "final": "Then he said, I have done wrong: yet honor me now, Please, before the elders of my people, and before Israel, and turn again with me, that I may worship YHWH your God.",
+      "rationale": "OT idiom: concrete wrongdoing, ritual purification, guilt, or moral responsibility; no unapproved divine-pronoun changes."
+    },
+    {
+      "reference": "1 Samuel 19:4",
+      "slug": "1-samuel",
+      "chapter": 19,
+      "verse": 4,
+      "original": "Yonatan spoke good of Dawid to Shaul his father, and said to him, Don't let the king sin against his servant, against Dawid; because he has not sinned against you, and because his works have been very good toward you:",
+      "final": "Yonatan spoke good of Dawid to Shaul his father, and said to him, Do not let the king wrong his servant, against Dawid; because he has not wronged you, and because his works have been very good toward you:",
+      "rationale": "OT idiom: concrete wrongdoing, ritual purification, guilt, or moral responsibility; no unapproved divine-pronoun changes."
+    },
+    {
+      "reference": "1 Samuel 19:5",
+      "slug": "1-samuel",
+      "chapter": 19,
+      "verse": 5,
+      "original": "for he put his life in his hand, and struck the Philistine, and YHWH worked a great victory for all Israel: you saw it, and did rejoice; why then will you sin against innocent blood, to kill Dawid without a cause?",
+      "final": "for he put his life in his hand, and struck the Philistine, and YHWH worked a great victory for all Israel: you saw it, and did rejoice; why then would you wrong an innocent person, to kill Dawid without a cause?",
+      "rationale": "OT idiom: concrete wrongdoing, ritual purification, guilt, or moral responsibility; no unapproved divine-pronoun changes."
+    },
+    {
+      "reference": "1 Samuel 20:1",
+      "slug": "1-samuel",
+      "chapter": 20,
+      "verse": 1,
+      "original": "Dawid fled from Naioth in Ramah, and came and said before Yonatan, \"What have I done? What is my iniquity?\" and \"What is my sin before your father, that he seeks my life?\"",
+      "final": "Dawid fled from Naioth in Ramah, and came and said before Yonatan, \"What have I done? What is my iniquity?\" and \"What wrong have I committed against your father, that he seeks my life?\"",
+      "rationale": "OT idiom: concrete wrongdoing, ritual purification, guilt, or moral responsibility; no unapproved divine-pronoun changes."
+    },
+    {
+      "reference": "1 Samuel 24:11",
+      "slug": "1-samuel",
+      "chapter": 24,
+      "verse": 11,
+      "original": "Moreover, my father, behold, yes, see the skirt of your robe in my hand; for in that I cut off the skirt of your robe, and didn't kill you, know you and see that there is neither brokenness nor disobedience in my hand, and I have not sinned against you, though you hunt after my life to take it.",
+      "final": "Moreover, my father, behold, yes, see the skirt of your robe in my hand; for in that I cut off the skirt of your robe, and didn't kill you, know you and see that there is neither brokenness nor disobedience in my hand, and I have not wronged you, though you hunt after my life to take it.",
+      "rationale": "OT idiom: concrete wrongdoing, ritual purification, guilt, or moral responsibility; no unapproved divine-pronoun changes."
+    },
+    {
+      "reference": "1 Samuel 26:21",
+      "slug": "1-samuel",
+      "chapter": 26,
+      "verse": 21,
+      "original": "Then said Shaul, I have sinned: return, my son Dawid; for I will no more do you harm, because my life was precious in your eyes this day: behold, I have played the fool, and have erred exceedingly.",
+      "final": "Then said Shaul, I have done wrong: return, my son Dawid; for I will no more do you harm, because my life was precious in your eyes this day: behold, I have played the fool, and have erred exceedingly.",
+      "rationale": "OT idiom: concrete wrongdoing, ritual purification, guilt, or moral responsibility; no unapproved divine-pronoun changes."
+    },
+    {
+      "reference": "1 Chronicles 21:8",
+      "slug": "1-chronicles",
+      "chapter": 21,
+      "verse": 8,
+      "original": "Dawid said to Elohim, I have sinned greatly, in that I have done this thing: but now, put away, I beg you, the iniquity of your servant; for I have done very foolishly.",
+      "final": "Dawid said to Elohim, I have done grave wrong, in that I have done this thing: but now, put away, I beg you, the iniquity of your servant; for I have done very foolishly.",
+      "rationale": "OT idiom: concrete wrongdoing, ritual purification, guilt, or moral responsibility; no unapproved divine-pronoun changes."
+    },
+    {
+      "reference": "1 Chronicles 21:17",
+      "slug": "1-chronicles",
+      "chapter": 21,
+      "verse": 17,
+      "original": "Dawid said to Elohim, Isn't it I who commanded the people to be numbered? It is even I who have sinned and done very wickedly; but these sheep, what have they done? Please let your hand, O YHWH my God, be against me, and against my father's house; but not against your people, that they should be plagued.",
+      "final": "Dawid said to Elohim, Isn't it I who commanded the people to be numbered? It is even I who have done wrong and done very wickedly; but these sheep, what have they done? Please let your hand, O YHWH my God, be against me, and against my father's house; but not against your people, that they should be plagued.",
+      "rationale": "OT idiom: concrete wrongdoing, ritual purification, guilt, or moral responsibility; no unapproved divine-pronoun changes."
+    },
+    {
+      "reference": "2 Chronicles 6:22",
+      "slug": "2-chronicles",
+      "chapter": 6,
+      "verse": 22,
+      "original": "If someone sins against their neighbor, and an oath is laid on them to cause them to swear, and they come and swear before your altar in this house;",
+      "final": "If someone wrongs their neighbor, and an oath is laid on them to cause them to swear, and they come and swear before your altar in this house;",
+      "rationale": "OT idiom: concrete wrongdoing, ritual purification, guilt, or moral responsibility; no unapproved divine-pronoun changes."
+    },
+    {
+      "reference": "2 Chronicles 6:24",
+      "slug": "2-chronicles",
+      "chapter": 6,
+      "verse": 24,
+      "original": "If your people Israel be struck down before the enemy, because they have sinned against you, and shall turn again and confess your name, and pray and make supplication before you in this house;",
+      "final": "If your people Israel be struck down before the enemy, because they have done wrong against you, and shall turn again and confess your name, and pray and make supplication before you in this house;",
+      "rationale": "OT idiom: concrete wrongdoing, ritual purification, guilt, or moral responsibility; no unapproved divine-pronoun changes."
+    },
+    {
+      "reference": "2 Chronicles 6:25",
+      "slug": "2-chronicles",
+      "chapter": 6,
+      "verse": 25,
+      "original": "then hear from heavens, and forgive the sin of your people Israel, and bring them again to the land which you gave to them and to their fathers.",
+      "final": "then hear from heavens, and forgive the wrongdoing of your people Israel, and bring them again to the land which you gave to them and to their fathers.",
+      "rationale": "OT idiom: concrete wrongdoing, ritual purification, guilt, or moral responsibility; no unapproved divine-pronoun changes."
+    },
+    {
+      "reference": "2 Chronicles 6:26",
+      "slug": "2-chronicles",
+      "chapter": 6,
+      "verse": 26,
+      "original": "When the heavens is shut up, and there is no rain, because they have sinned against you; if they pray toward this place, and confess your name, and turn from their sin, when you do afflict them:",
+      "final": "When the heavens is shut up, and there is no rain, because they have done wrong against you; if they pray toward this place, and confess your name, and turn away from their wrongdoing, when you do afflict them:",
+      "rationale": "OT idiom: concrete wrongdoing, ritual purification, guilt, or moral responsibility; no unapproved divine-pronoun changes."
+    },
+    {
+      "reference": "2 Chronicles 6:27",
+      "slug": "2-chronicles",
+      "chapter": 6,
+      "verse": 27,
+      "original": "then hear in heavens, and forgive the sin of your servants, and of your people Israel, when you teach them the good way in which they should walk; and send rain on your land, which you have given to your people for an inheritance.",
+      "final": "then hear in heavens, and forgive the wrongdoing of your servants, and of your people Israel, when you teach them the good way in which they should walk; and send rain on your land, which you have given to your people for an inheritance.",
+      "rationale": "OT idiom: concrete wrongdoing, ritual purification, guilt, or moral responsibility; no unapproved divine-pronoun changes."
+    },
+    {
+      "reference": "2 Chronicles 6:36",
+      "slug": "2-chronicles",
+      "chapter": 6,
+      "verse": 36,
+      "original": "If they sin against you (for there is no one who doesn't sin), and you are angry with them, and deliver them to the enemy, so that they carry them away captive to a land far off or near;",
+      "final": "If they do wrong against you (for there is no one who never does wrong), and you are angry with them, and deliver them to the enemy, so that they carry them away captive to a land far off or near;",
+      "rationale": "OT idiom: concrete wrongdoing, ritual purification, guilt, or moral responsibility; no unapproved divine-pronoun changes."
+    },
+    {
+      "reference": "2 Chronicles 6:37",
+      "slug": "2-chronicles",
+      "chapter": 6,
+      "verse": 37,
+      "original": "yet if they turn back in the land where they are carried captive, and turn again, and make supplication to you in the land of their captivity, saying, We have sinned, we have done perversely, and have dealt wickedly;",
+      "final": "yet if they turn back in the land where they are carried captive, and turn again, and make supplication to you in the land of their captivity, saying, We have done wrong, we have done perversely, and have dealt wickedly;",
+      "rationale": "OT idiom: concrete wrongdoing, ritual purification, guilt, or moral responsibility; no unapproved divine-pronoun changes."
+    },
+    {
+      "reference": "2 Chronicles 6:39",
+      "slug": "2-chronicles",
+      "chapter": 6,
+      "verse": 39,
+      "original": "then hear from heavens, even from your dwelling place, their prayer and their petitions, and maintain their cause, and forgive your people who have sinned against you.",
+      "final": "then hear from heavens, even from your dwelling place, their prayer and their petitions, and maintain their cause, and forgive your people who have done wrong against you.",
+      "rationale": "OT idiom: concrete wrongdoing, ritual purification, guilt, or moral responsibility; no unapproved divine-pronoun changes."
+    },
+    {
+      "reference": "2 Chronicles 7:14",
+      "slug": "2-chronicles",
+      "chapter": 7,
+      "verse": 14,
+      "original": "if my people, who are called by my name, shall humble themselves, and pray, and seek my face, and turn from their wicked ways; then will I hear from heavens, and will forgive their sin, and will heal their land.",
+      "final": "if my people, who are called by my name, shall humble themselves, and pray, and seek my face, and turn from their wicked ways; then will I hear from heavens, and will forgive their wrongdoing, and will heal their land.",
+      "rationale": "OT idiom: concrete wrongdoing, ritual purification, guilt, or moral responsibility; no unapproved divine-pronoun changes."
+    },
+    {
+      "reference": "2 Chronicles 25:4",
+      "slug": "2-chronicles",
+      "chapter": 25,
+      "verse": 4,
+      "original": "But he didn't put their children to death, but did according to that which is written in the law in the book of Moshe, as YHWH commanded, saying, The fathers shall not die for the children, neither shall the children die for the fathers; but everyone shall die for their own sin.",
+      "final": "But he didn't put their children to death, but did according to that which is written in the law in the book of Moshe, as YHWH commanded, saying, The fathers shall not die for the children, neither shall the children die for the fathers; but everyone shall die for their own wrongdoing.",
+      "rationale": "OT idiom: concrete wrongdoing, ritual purification, guilt, or moral responsibility; no unapproved divine-pronoun changes."
+    },
+    {
+      "reference": "2 Chronicles 28:13",
+      "slug": "2-chronicles",
+      "chapter": 28,
+      "verse": 13,
+      "original": "and said to them, You shall not bring in the captives here: for you purpose that which will bring on us a trespass against YHWH, to add to our sins and to our trespass; for our trespass is great, and there is fierce wrath against Israel.",
+      "final": "and said to them, You shall not bring in the captives here: for you purpose that which will bring on us a trespass against YHWH, to add to our wrongdoings and to our trespass; for our trespass is great, and there is fierce wrath against Israel.",
+      "rationale": "OT idiom: concrete wrongdoing, ritual purification, guilt, or moral responsibility; no unapproved divine-pronoun changes."
+    },
+    {
+      "reference": "2 Chronicles 33:19",
+      "slug": "2-chronicles",
+      "chapter": 33,
+      "verse": 19,
+      "original": "His prayer also, and how [Elohim] was entreated of him, and all his sin and his trespass, and the places in which he built high places, and set up the Asherim and the engraved images, before he humbled himself: behold, they are written in the history of Hozai.",
+      "final": "His prayer also, and how [Elohim] was entreated of him, and all his wrongdoing and his trespass, and the places in which he built high places, and set up the Asherim and the engraved images, before he humbled himself: behold, they are written in the history of Hozai.",
+      "rationale": "OT idiom: concrete wrongdoing, ritual purification, guilt, or moral responsibility; no unapproved divine-pronoun changes."
+    },
+    {
+      "reference": "Nehemiah 1:6",
+      "slug": "nehemiah",
+      "chapter": 1,
+      "verse": 6,
+      "original": "Let your ear now be attentive, and your eyes open, that you may listen to the prayer of your servant, which I pray before you at this time, day and night, for the children of Israel your servants while I confess the sins of the children of Israel, which we have sinned against you. Yes, I and my father's house have sinned:",
+      "final": "Let your ear now be attentive, and your eyes open, that you may listen to the prayer of your servant, which I pray before you at this time, day and night, for the children of Israel your servants while I confess the wrongdoings of the children of Israel, by which we have wronged you. Yes, I and my father's house have done wrong:",
+      "rationale": "OT idiom: concrete wrongdoing, ritual purification, guilt, or moral responsibility; no unapproved divine-pronoun changes."
+    },
+    {
+      "reference": "Nehemiah 4:5",
+      "slug": "nehemiah",
+      "chapter": 4,
+      "verse": 5,
+      "original": "and don't cover their iniquity, and don't let their sin be blotted out from before you; for they have provoked [you] to anger before the builders.",
+      "final": "and don't cover their iniquity, and don't let their wrongdoing be blotted out from before you; for they have provoked [you] to anger before the builders.",
+      "rationale": "OT idiom: concrete wrongdoing, ritual purification, guilt, or moral responsibility; no unapproved divine-pronoun changes."
+    },
+    {
+      "reference": "Nehemiah 6:13",
+      "slug": "nehemiah",
+      "chapter": 6,
+      "verse": 13,
+      "original": "For this cause was he hired, that I should be afraid, and do so, and sin, and that they might have matter for a harmful report, that they might reproach me.",
+      "final": "For this cause was he hired, that I should be afraid, and do so, and do wrong, so that they might have matter for a harmful report, that they might reproach me.",
+      "rationale": "OT idiom: concrete wrongdoing, ritual purification, guilt, or moral responsibility; no unapproved divine-pronoun changes."
+    },
+    {
+      "reference": "Nehemiah 9:2",
+      "slug": "nehemiah",
+      "chapter": 9,
+      "verse": 2,
+      "original": "The seed of Israel separated themselves from all foreigners, and stood and confessed their sins, and the iniquities of their fathers.",
+      "final": "The seed of Israel separated themselves from all foreigners, and stood and confessed their moral failures, and the iniquities of their fathers.",
+      "rationale": "OT idiom: concrete wrongdoing, ritual purification, guilt, or moral responsibility; no unapproved divine-pronoun changes."
+    },
+    {
+      "reference": "Nehemiah 9:29",
+      "slug": "nehemiah",
+      "chapter": 9,
+      "verse": 29,
+      "original": "and testified against them, that you might bring them again to your law. Yet they dealt proudly, and didn't listen to your commandments, but sinned against your ordinances, (which if someone do, they shall live in them), and withdrew the shoulder, and hardened their neck, and would not hear.",
+      "final": "and testified against them, that you might bring them again to your law. Yet they dealt proudly, and didn't listen to your commandments, but acted wrongly against your ordinances, (which if someone do, they shall live in them), and withdrew the shoulder, and hardened their neck, and would not hear.",
+      "rationale": "OT idiom: concrete wrongdoing, ritual purification, guilt, or moral responsibility; no unapproved divine-pronoun changes."
+    },
+    {
+      "reference": "Nehemiah 9:37",
+      "slug": "nehemiah",
+      "chapter": 9,
+      "verse": 37,
+      "original": "It yields much increase to the kings whom you have set over us because of our sins: also they have power over our bodies, and over our livestock, at their pleasure, and we are in great distress.",
+      "final": "It yields much increase to the kings whom you have set over us because of our moral failures: also they have power over our bodies, and over our livestock, at their pleasure, and we are in great distress.",
+      "rationale": "OT idiom: concrete wrongdoing, ritual purification, guilt, or moral responsibility; no unapproved divine-pronoun changes."
+    },
+    {
+      "reference": "Nehemiah 13:26",
+      "slug": "nehemiah",
+      "chapter": 13,
+      "verse": 26,
+      "original": "Did not Shlomo king of Israel sin by these things? yet among many nations was there no king like him, and he was beloved of his God, and Elohim made him king over all Israel: nevertheless even him did foreign women cause to sin.",
+      "final": "Did not Shlomo king of Israel do wrong through these things? yet among many nations was there no king like him, and he was beloved of his God, and Elohim made him king over all Israel: nevertheless even him did foreign women lead into wrongdoing.",
+      "rationale": "OT idiom: concrete wrongdoing, ritual purification, guilt, or moral responsibility; no unapproved divine-pronoun changes."
+    }
+  ]
+}

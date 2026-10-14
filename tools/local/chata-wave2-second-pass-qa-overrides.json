@@ -1,0 +1,114 @@
+{
+  "baselineEpubSha256": "b5500415431a339ba10c7021e9b091b7af38f0badb2a4d9e1e7cc0e15f46b943",
+  "heldForSourceReview": [
+    "Psalms 51:5",
+    "2 Corinthians 5:21",
+    "1 Samuel 15:18",
+    "Revelation 21:8",
+    "2 Thessalonians 2:3",
+    "Amos 8:14",
+    "Hebrews 9:28"
+  ],
+  "edits": [
+    {
+      "reference": "Leviticus 4:23",
+      "slug": "leviticus",
+      "chapter": 4,
+      "verse": 23,
+      "original": "if his sin, in which he has sinned, is made known to him, he shall bring as his offering a goat, a male without blemish.",
+      "final": "if the wrong he has committed is made known to him, he shall bring as his offering a goat, a male without blemish.",
+      "notes": [
+        "Contextual human/ritual responsibility: his sin, in which he has sinned → the wrong he has committed",
+        "Second-pass manuscript/idiom and grammatical correction"
+      ],
+      "stagedForSourceReview": true,
+      "qaOverride": true
+    },
+    {
+      "reference": "Leviticus 4:28",
+      "slug": "leviticus",
+      "chapter": 4,
+      "verse": 28,
+      "original": "if his sin, which he has sinned, is made known to him, then he shall bring for his offering a goat, a female without blemish, for his sin which he has sinned.",
+      "final": "if the wrong he has committed is made known to him, then he shall bring for his offering a goat, a female without blemish, for the wrongdoing he committed.",
+      "notes": [
+        "Contextual human/ritual responsibility: his sin, which he has sinned → the wrong he has committed",
+        "Targeted context/source revision: for his sin which he has sinned → for the wrongdoing he committed",
+        "Second-pass manuscript/idiom and grammatical correction"
+      ],
+      "supersedesDraft": true,
+      "stagedForSourceReview": true,
+      "qaOverride": true
+    },
+    {
+      "reference": "Hebrews 13:11",
+      "slug": "hebrews",
+      "chapter": 13,
+      "verse": 11,
+      "original": "For the bodies of those animals, whose blood is brought into the holy place by the high priest as an offering for sin, are burned outside of the camp.",
+      "final": "For the bodies of those animals, whose blood is brought into the holy place by the high priest as a purification offering, are burned outside of the camp.",
+      "notes": [
+        "Contextual Greek lexical/syntactic distinction: offering for sin → purification offering",
+        "Second-pass manuscript/idiom and grammatical correction"
+      ],
+      "stagedForSourceReview": true,
+      "qaOverride": true
+    },
+    {
+      "reference": "Numbers 8:21",
+      "slug": "numbers",
+      "chapter": 8,
+      "verse": 21,
+      "original": "The Levites purified themselves from sin, and they werehed their clothes; and Aharon offered them for a wave offering before YHWH; and Aharon made atonement for them to cleanse them.",
+      "final": "The Levites purified themselves from impurity, and they washed their clothes; and Aharon offered them for a wave offering before YHWH; and Aharon made atonement for them to cleanse them.",
+      "notes": [
+        "Contextual human/ritual responsibility: purified themselves from sin → purified themselves from impurity",
+        "Second-pass manuscript/idiom and grammatical correction"
+      ],
+      "stagedForSourceReview": true,
+      "qaOverride": true
+    },
+    {
+      "reference": "John 9:3",
+      "slug": "john",
+      "chapter": 9,
+      "verse": 3,
+      "original": "Yeshua answered, \"Neither did this man sin, nor his parents; but, that the works of Elohim might be revealed in him.",
+      "final": "Yeshua answered, \"Neither this man nor his parents did wrong to cause his blindness; rather, the works of Elohim are to be revealed in him.",
+      "notes": [
+        "Precise contextual construction: Neither did this man sin, nor his parents → Neither this man nor his parents caused his blindness by wrongdoing",
+        "Second-pass manuscript/idiom and grammatical correction"
+      ],
+      "stagedForSourceReview": true,
+      "qaOverride": true
+    },
+    {
+      "reference": "Romans 7:13",
+      "slug": "romans",
+      "chapter": 7,
+      "verse": 13,
+      "original": "Did then that which is good become death to me? May it never be! But sin, that it might be shown to be sin, by working death to me through that which is good; that through the commandment sin might become exceeding sinful.",
+      "final": "Did then that which is good become death to me? May it never be! Rather, wrongdoing brought death to me through what is good, so that wrongdoing might be exposed for what it is; through the commandment, the full seriousness of wrongdoing might be revealed.",
+      "notes": [
+        "Whole-verse editorial construction retains source grammatical argument and figures",
+        "Second-pass manuscript/idiom and grammatical correction"
+      ],
+      "stagedForSourceReview": true,
+      "qaOverride": true
+    },
+    {
+      "reference": "Leviticus 5:18",
+      "slug": "leviticus",
+      "chapter": 5,
+      "verse": 18,
+      "original": "He shall bring a ram without blemish from of the flock, according to your estimation, for a trespass offering, to the priest; and the priest shall make atonement for him concerning the thing in which he sinned and didn't know it, and he will be forgiven.",
+      "final": "He shall bring a ram without blemish from the flock, according to your estimation, for a trespass offering, to the priest; and the priest shall make atonement for him concerning the thing in which he acted wrongly without knowing it, and he will be forgiven.",
+      "notes": [
+        "Contextual human/ritual responsibility: in which he sinned and didn't know it → in which he acted wrongly without knowing it",
+        "Second-pass manuscript/idiom and grammatical correction"
+      ],
+      "stagedForSourceReview": true,
+      "qaOverride": true
+    }
+  ]
+}

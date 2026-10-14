@@ -1,0 +1,2241 @@
+{
+  "baselineEpubSha256": "b5500415431a339ba10c7021e9b091b7af38f0badb2a4d9e1e7cc0e15f46b943",
+  "source": "Released 2026-10-15 full-verse English current residual audit",
+  "status": "EDITOR-DIRECTED CONTEXTUAL CANDIDATES, require preflight before publication",
+  "edits": [
+    {
+      "reference": "Exodus 9:27",
+      "slug": "exodus",
+      "chapter": 9,
+      "verse": 27,
+      "original": "Pharaoh sent, and called for Moshe and Aharon, and said to them, \"I have sinned this time. YHWH is righteous, and I and my people are wicked.",
+      "final": "Pharaoh sent, and called for Moshe and Aharon, and said to them, \"I have done wrong this time. YHWH is righteous, and I and my people are wicked.",
+      "notes": [
+        "Contextual human/ritual responsibility: I have sinned this time → I have done wrong this time"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Exodus 9:34",
+      "slug": "exodus",
+      "chapter": 9,
+      "verse": 34,
+      "original": "When Pharaoh saw that the rain and the hail and the thunders were ceased, he sinned yet more, and hardened his heart, he and his servants.",
+      "final": "When Pharaoh saw that the rain and the hail and the thunders were ceased, he acted wrongly again, and hardened his heart, he and his servants.",
+      "notes": [
+        "Contextual human/ritual responsibility: he sinned yet more → he acted wrongly again"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Exodus 10:16",
+      "slug": "exodus",
+      "chapter": 10,
+      "verse": 16,
+      "original": "Then Pharaoh called for Moshe and Aharon in haste, and he said, \"I have sinned against YHWH your God, and against you.",
+      "final": "Then Pharaoh called for Moshe and Aharon in haste, and he said, \"I have wronged YHWH your God and you.",
+      "notes": [
+        "Contextual human/ritual responsibility: I have sinned against YHWH your God, and against you → I have wronged YHWH your God and you"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Exodus 10:17",
+      "slug": "exodus",
+      "chapter": 10,
+      "verse": 17,
+      "original": "Now therefore please forgive my sin again, and pray to YHWH your God, that YHWH may also take away from me this death.\"",
+      "final": "Now therefore please forgive my wrongdoing once more, and pray to YHWH your God, that YHWH may also take away from me this death.\"",
+      "notes": [
+        "Contextual human/ritual responsibility: forgive my sin again → forgive my wrongdoing once more"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Exodus 20:20",
+      "slug": "exodus",
+      "chapter": 20,
+      "verse": 20,
+      "original": "Moshe said to the people, \"Don't be afraid, for Elohim has come to test you, and that reverence for Elohim may be before you, that you won't sin.\"",
+      "final": "Moshe said to the people, \"Don't be afraid, for Elohim has come to test you, and that reverence for Elohim may be before you, that you will not do wrong.\"",
+      "notes": [
+        "Contextual human/ritual responsibility: you won't sin → you will not do wrong"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Exodus 23:33",
+      "slug": "exodus",
+      "chapter": 23,
+      "verse": 33,
+      "original": "They shall not dwell in your land, lest they make you sin against me, for if you serve their gods, it will surely be a snare to you.\"",
+      "final": "They shall not dwell in your land, lest they lead you into wrongdoing against me, for if you serve their gods, it will surely be a snare to you.\"",
+      "notes": [
+        "Contextual human/ritual responsibility: make you sin against me → lead you into wrongdoing against me"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Exodus 29:14",
+      "slug": "exodus",
+      "chapter": 29,
+      "verse": 14,
+      "original": "But the flesh of the bull, and its skin, and its dung, you shall burn with fire outside of the camp: it is a sin offering.",
+      "final": "But the flesh of the bull, and its skin, and its dung, you shall burn with fire outside of the camp: it is a purification offering.",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Exodus 29:36",
+      "slug": "exodus",
+      "chapter": 29,
+      "verse": 36,
+      "original": "Every day shall you offer the bull of sin offering for atonement: and you shall cleanse the altar, when you make atonement for it; and you shall anoint it, to sanctify it.",
+      "final": "Every day shall you offer the bull of purification offering for atonement: and you shall cleanse the altar, when you make atonement for it; and you shall anoint it, to sanctify it.",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Exodus 30:10",
+      "slug": "exodus",
+      "chapter": 30,
+      "verse": 10,
+      "original": "Aharon shall make atonement on its horns once in the year; with the blood of the sin offering of atonement once in the year he shall make atonement for it throughout your generations. It is most holy to YHWH.\"",
+      "final": "Aharon shall make atonement on its horns once in the year; with the blood of the purification offering of atonement once in the year he shall make atonement for it throughout your generations. It is most holy to YHWH.\"",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Exodus 32:21",
+      "slug": "exodus",
+      "chapter": 32,
+      "verse": 21,
+      "original": "Moshe said to Aharon, \"What did these people do to you, that you have brought a great sin on them?\"",
+      "final": "Moshe said to Aharon, \"What did these people do to you, that you have led them into such grave wrongdoing?\"",
+      "notes": [
+        "Contextual human/ritual responsibility: brought a great sin on them → led them into such grave wrongdoing"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Exodus 32:30",
+      "slug": "exodus",
+      "chapter": 32,
+      "verse": 30,
+      "original": "It happened on the next day, that Moshe said to the people, \"You have sinned a great sin. Now I will go up to YHWH. Perhaps I shall make atonement for your sin.\"",
+      "final": "It happened on the next day, that Moshe said to the people, \"You have committed a grave wrongdoing. Now I will go up to YHWH. Perhaps I shall make atonement for your wrongdoing.\"",
+      "notes": [
+        "Contextual human/ritual responsibility: You have sinned a great sin → You have committed a grave wrongdoing",
+        "Contextual human/ritual responsibility: your sin → your wrongdoing"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Exodus 32:31",
+      "slug": "exodus",
+      "chapter": 32,
+      "verse": 31,
+      "original": "Moshe returned to YHWH, and said, \"Oh, this people have sinned a great sin, and have made themselves gods of gold.",
+      "final": "Moshe returned to YHWH, and said, \"Oh, this people have committed a grave wrongdoing, and have made themselves gods of gold.",
+      "notes": [
+        "Contextual human/ritual responsibility: have sinned a great sin → have committed a grave wrongdoing"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Exodus 32:32",
+      "slug": "exodus",
+      "chapter": 32,
+      "verse": 32,
+      "original": "Yet now, if you will, forgive their sin--and if not, please blot me out of your book which you have written.\"",
+      "final": "Yet now, if you will, forgive their wrongdoing--and if not, please blot me out of your book which you have written.\"",
+      "notes": [
+        "Contextual human/ritual responsibility: forgive their sin → forgive their wrongdoing"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Exodus 32:33",
+      "slug": "exodus",
+      "chapter": 32,
+      "verse": 33,
+      "original": "YHWH said to Moshe, \"Whoever has sinned against me, him will I blot out of my book.",
+      "final": "YHWH said to Moshe, \"Whoever has done wrong against me, him will I blot out of my book.",
+      "notes": [
+        "Contextual human/ritual responsibility: Whoever has sinned against me → Whoever has done wrong against me"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Exodus 32:34",
+      "slug": "exodus",
+      "chapter": 32,
+      "verse": 34,
+      "original": "Now go, lead the people to the place of which I have spoken to you. Behold, my angel shall go before you. Nevertheless in the day when I punish, I will punish them for their sin.\"",
+      "final": "Now go, lead the people to the place of which I have spoken to you. Behold, my angel shall go before you. Nevertheless in the day when I punish, I will punish them for their wrongdoing.\"",
+      "notes": [
+        "Contextual human/ritual responsibility: for their sin → for their wrongdoing"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Exodus 34:7",
+      "slug": "exodus",
+      "chapter": 34,
+      "verse": 7,
+      "original": "keeping loving kindness for thousands, forgiving iniquity and disobedience and sin; and that will by no means clear the guilty, visiting the iniquity of the fathers on the children, and on the children's children, on the third and on the fourth generation.\"",
+      "final": "keeping loving kindness for thousands, forgiving iniquity and disobedience and moral failure; and that will by no means clear the guilty, visiting the iniquity of the fathers on the children, and on the children's children, on the third and on the fourth generation.\"",
+      "notes": [
+        "Contextual human/ritual responsibility: and sin; → and moral failure;"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Exodus 34:9",
+      "slug": "exodus",
+      "chapter": 34,
+      "verse": 9,
+      "original": "He said, \"If now I have found favor in your sight, YHWH, please let YHWH go in the midst of us; although this is a stiff-necked people; pardon our iniquity and our sin, and take us for your inheritance.\"",
+      "final": "He said, \"If now I have found favor in your sight, YHWH, please let YHWH go in the midst of us; although this is a stiff-necked people; pardon our iniquity and our moral failure, and take us for your inheritance.\"",
+      "notes": [
+        "Contextual human/ritual responsibility: our sin → our moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Leviticus 4:2",
+      "slug": "leviticus",
+      "chapter": 4,
+      "verse": 2,
+      "original": "\"Speak to the children of Israel, saying, 'If anyone sins unintentionally, in any of the things which YHWH has commanded not to be done, and does any one of them:",
+      "final": "\"Speak to the children of Israel, saying, 'If anyone acts wrongly unintentionally, in any of the things which YHWH has commanded not to be done, and does any one of them:",
+      "notes": [
+        "Contextual human/ritual responsibility: If anyone sins unintentionally → If anyone acts wrongly unintentionally"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Leviticus 4:3",
+      "slug": "leviticus",
+      "chapter": 4,
+      "verse": 3,
+      "original": "if the anointed priest sins so as to bring guilt on the people, then let him offer for his sin, which he has sinned, a young bull without blemish to YHWH for a sin offering.",
+      "final": "if the anointed priest acts wrongly so as to bring guilt on the people, then let him offer for the wrong he has committed, a young bull without blemish to YHWH for a purification offering.",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure",
+        "Contextual human/ritual responsibility: the anointed priest sins → the anointed priest acts wrongly",
+        "Contextual human/ritual responsibility: for his sin, which he has sinned → for the wrong he has committed"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Leviticus 4:8",
+      "slug": "leviticus",
+      "chapter": 4,
+      "verse": 8,
+      "original": "He shall take all the fat of the bull of the sin offering off of it; the fat that covers the innards, and all the fat that is on the innards,",
+      "final": "He shall take all the fat of the bull of the purification offering off of it; the fat that covers the innards, and all the fat that is on the innards,",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Leviticus 4:13",
+      "slug": "leviticus",
+      "chapter": 4,
+      "verse": 13,
+      "original": "\"'If the whole congregation of Israel sins, and the thing is hidden from the eyes of the assembly, and they have done any of the things which YHWH has commanded not to be done, and are guilty;",
+      "final": "\"'If the whole congregation of Israel acts wrongly, and the thing is hidden from the eyes of the assembly, and they have done any of the things which YHWH has commanded not to be done, and are guilty;",
+      "notes": [
+        "Contextual human/ritual responsibility: congregation of Israel sins → congregation of Israel acts wrongly"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Leviticus 4:14",
+      "slug": "leviticus",
+      "chapter": 4,
+      "verse": 14,
+      "original": "when the sin in which they have sinned is known, then the assembly shall offer a young bull for a sin offering, and bring it before the Tent of Meeting.",
+      "final": "when the wrong they have committed is known, then the assembly shall offer a young bull for a purification offering, and bring it before the Tent of Meeting.",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure",
+        "Contextual human/ritual responsibility: the sin in which they have sinned → the wrong they have committed"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Leviticus 4:20",
+      "slug": "leviticus",
+      "chapter": 4,
+      "verse": 20,
+      "original": "Thus shall he do with the bull; as he did with the bull of the sin offering, so shall he do with this; and the priest shall make atonement for them, and they shall be forgiven.",
+      "final": "Thus shall he do with the bull; as he did with the bull of the purification offering, so shall he do with this; and the priest shall make atonement for them, and they shall be forgiven.",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Leviticus 4:21",
+      "slug": "leviticus",
+      "chapter": 4,
+      "verse": 21,
+      "original": "He shall carry forth the bull outside the camp, and burn it as he burned the first bull. It is the sin offering for the assembly.",
+      "final": "He shall carry forth the bull outside the camp, and burn it as he burned the first bull. It is the purification offering for the assembly.",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Leviticus 4:22",
+      "slug": "leviticus",
+      "chapter": 4,
+      "verse": 22,
+      "original": "\"'When a ruler sins, and unwittingly does any one of all the things which YHWH his God has commanded not to be done, and is guilty;",
+      "final": "\"'When a ruler acts wrongly, and unwittingly does any one of all the things which YHWH his God has commanded not to be done, and is guilty;",
+      "notes": [
+        "Contextual human/ritual responsibility: When a ruler sins, and unwittingly → When a ruler acts wrongly, and unwittingly"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Leviticus 4:23",
+      "slug": "leviticus",
+      "chapter": 4,
+      "verse": 23,
+      "original": "if his sin, in which he has sinned, is made known to him, he shall bring as his offering a goat, a male without blemish.",
+      "final": "if the wrong he has committed, is made known to him, he shall bring as his offering a goat, a male without blemish.",
+      "notes": [
+        "Contextual human/ritual responsibility: his sin, in which he has sinned → the wrong he has committed"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Leviticus 4:24",
+      "slug": "leviticus",
+      "chapter": 4,
+      "verse": 24,
+      "original": "He shall lay his hand on the head of the goat, and kill it in the place where they kill the burnt offering before YHWH. It is a sin offering.",
+      "final": "He shall lay his hand on the head of the goat, and kill it in the place where they kill the burnt offering before YHWH. It is a purification offering.",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Leviticus 4:25",
+      "slug": "leviticus",
+      "chapter": 4,
+      "verse": 25,
+      "original": "The priest shall take some of the blood of the sin offering with his finger, and put it on the horns of the altar of burnt offering. He shall pour out the rest of its blood at the base of the altar of burnt offering.",
+      "final": "The priest shall take some of the blood of the purification offering with his finger, and put it on the horns of the altar of burnt offering. He shall pour out the rest of its blood at the base of the altar of burnt offering.",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Leviticus 4:26",
+      "slug": "leviticus",
+      "chapter": 4,
+      "verse": 26,
+      "original": "All its fat he shall burn on the altar, like the fat of the sacrifice of peace offerings; and the priest shall make atonement for him concerning his sin, and he will be forgiven.",
+      "final": "All its fat he shall burn on the altar, like the fat of the sacrifice of peace offerings; and the priest shall make atonement for him concerning his wrongdoing, and he will be forgiven.",
+      "notes": [
+        "Contextual human/ritual responsibility: concerning his sin → concerning his wrongdoing"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Leviticus 4:27",
+      "slug": "leviticus",
+      "chapter": 4,
+      "verse": 27,
+      "original": "\"'If anyone of the common people sins unwittingly, in doing any of the things which YHWH has commanded not to be done, and is guilty;",
+      "final": "\"'If anyone of the common people acts wrongly unwittingly, in doing any of the things which YHWH has commanded not to be done, and is guilty;",
+      "notes": [
+        "Contextual human/ritual responsibility: sins unwittingly → acts wrongly unwittingly"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Leviticus 4:28",
+      "slug": "leviticus",
+      "chapter": 4,
+      "verse": 28,
+      "original": "if his sin, which he has sinned, is made known to him, then he shall bring for his offering a goat, a female without blemish, for his sin which he has sinned.",
+      "final": "if the wrong he has committed is made known to him, then he shall bring for his offering a goat, a female without blemish, for the wrong he has committed.",
+      "notes": [
+        "Contextual human/ritual responsibility: his sin, which he has sinned → the wrong he has committed",
+        "Full-clause language QA: repair dangling clauses, avoid retained lexical terms, preserve intentional cultic wrongdoing."
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Leviticus 4:29",
+      "slug": "leviticus",
+      "chapter": 4,
+      "verse": 29,
+      "original": "He shall lay his hand on the head of the sin offering, and kill the sin offering in the place of burnt offering.",
+      "final": "He shall lay his hand on the head of the purification offering, and kill the purification offering in the place of burnt offering.",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Leviticus 4:32",
+      "slug": "leviticus",
+      "chapter": 4,
+      "verse": 32,
+      "original": "\"'If he brings a lamb as his offering for a sin offering, he shall bring a female without blemish.",
+      "final": "\"'If he brings a lamb as his offering for a purification offering, he shall bring a female without blemish.",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Leviticus 4:33",
+      "slug": "leviticus",
+      "chapter": 4,
+      "verse": 33,
+      "original": "He shall lay his hand on the head of the sin offering, and kill it for a sin offering in the place where they kill the burnt offering.",
+      "final": "He shall lay his hand on the head of the purification offering, and kill it for a purification offering in the place where they kill the burnt offering.",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Leviticus 4:34",
+      "slug": "leviticus",
+      "chapter": 4,
+      "verse": 34,
+      "original": "The priest shall take some of the blood of the sin offering with his finger, and put it on the horns of the altar of burnt offering; and all the rest of its blood he shall pour out at the base of the altar.",
+      "final": "The priest shall take some of the blood of the purification offering with his finger, and put it on the horns of the altar of burnt offering; and all the rest of its blood he shall pour out at the base of the altar.",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Leviticus 4:35",
+      "slug": "leviticus",
+      "chapter": 4,
+      "verse": 35,
+      "original": "All its fat he shall take away, like the fat of the lamb is taken away from the sacrifice of peace offerings; and the priest shall burn them on the altar, on the offerings of YHWH made by fire; and the priest shall make atonement for him concerning his sin that he has sinned, and he will be forgiven.",
+      "final": "All its fat he shall take away, like the fat of the lamb is taken away from the sacrifice of peace offerings; and the priest shall burn them on the altar, on the offerings of YHWH made by fire; and the priest shall make atonement for him concerning the wrong he has committed, and he will be forgiven.",
+      "notes": [
+        "Contextual human/ritual responsibility: his sin that he has sinned → the wrong he has committed"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Leviticus 5:1",
+      "slug": "leviticus",
+      "chapter": 5,
+      "verse": 1,
+      "original": "\"'If anyone sins, in that they hear the voice of adjuration, they being a witness, whether they have seen or known, if they don't report it, then they shall bear their iniquity.",
+      "final": "\"'If anyone does wrong by hearing the voice of adjuration, they being a witness, whether they have seen or known, if they don't report it, then they shall bear their iniquity.",
+      "notes": [
+        "Contextual human/ritual responsibility: If anyone sins, in that they hear → If anyone does wrong by hearing"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Leviticus 5:5",
+      "slug": "leviticus",
+      "chapter": 5,
+      "verse": 5,
+      "original": "It shall be, when he is guilty of one of these, he shall confess that in which he has sinned:",
+      "final": "It shall be, when he is guilty of one of these, he shall confess that in which he has acted wrongly:",
+      "notes": [
+        "Contextual human/ritual responsibility: in which he has sinned → in which he has acted wrongly"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Leviticus 5:6",
+      "slug": "leviticus",
+      "chapter": 5,
+      "verse": 6,
+      "original": "and he shall bring his trespass offering to YHWH for his sin which he has sinned, a female from the flock, a lamb or a goat, for a sin offering; and the priest shall make atonement for him concerning his sin.",
+      "final": "and he shall bring his trespass offering to YHWH for the wrong he has committed, a female from the flock, a lamb or a goat, for a purification offering; and the priest shall make atonement for him concerning his wrongdoing.",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure",
+        "Contextual human/ritual responsibility: his sin which he has sinned → the wrong he has committed",
+        "Contextual human/ritual responsibility: concerning his sin → concerning his wrongdoing"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Leviticus 5:7",
+      "slug": "leviticus",
+      "chapter": 5,
+      "verse": 7,
+      "original": "\"'If he can't afford a lamb, then he shall bring his trespass offering for that in which he has sinned, two turtledoves, or two young pigeons, to YHWH; one for a sin offering, and the other for a burnt offering.",
+      "final": "\"'If he can't afford a lamb, then he shall bring his trespass offering for the wrong he has committed, two turtledoves, or two young pigeons, to YHWH; one for a purification offering, and the other for a burnt offering.",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure",
+        "Contextual human/ritual responsibility: that in which he has sinned → the wrong he has committed"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Leviticus 5:8",
+      "slug": "leviticus",
+      "chapter": 5,
+      "verse": 8,
+      "original": "He shall bring them to the priest, who shall first offer the one which is for the sin offering, and wring off its head from its neck, but shall not sever it completely.",
+      "final": "He shall bring them to the priest, who shall first offer the one which is for the purification offering, and wring off its head from its neck, but shall not sever it completely.",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Leviticus 5:9",
+      "slug": "leviticus",
+      "chapter": 5,
+      "verse": 9,
+      "original": "He shall sprinkle some of the blood of the sin offering on the side of the altar; and the rest of the blood shall be drained out at the base of the altar. It is a sin offering.",
+      "final": "He shall sprinkle some of the blood of the purification offering on the side of the altar; and the rest of the blood shall be drained out at the base of the altar. It is a purification offering.",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Leviticus 5:10",
+      "slug": "leviticus",
+      "chapter": 5,
+      "verse": 10,
+      "original": "He shall offer the second for a burnt offering, according to the ordinance; and the priest shall make atonement for him concerning his sin which he has sinned, and he shall be forgiven.",
+      "final": "He shall offer the second for a burnt offering, according to the ordinance; and the priest shall make atonement for him concerning the wrong he has committed, and he shall be forgiven.",
+      "notes": [
+        "Contextual human/ritual responsibility: his sin which he has sinned → the wrong he has committed"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Leviticus 5:11",
+      "slug": "leviticus",
+      "chapter": 5,
+      "verse": 11,
+      "original": "\"'But if he can't afford two turtledoves, or two young pigeons, then he shall bring his offering for that in which he has sinned, the tenth part of an ephah of fine flour for a sin offering. He shall put no oil on it, neither shall he put any frankincense on it, for it is a sin offering.",
+      "final": "\"'But if he can't afford two turtledoves, or two young pigeons, then he shall bring his offering for the wrong he has committed, the tenth part of an ephah of fine flour for a purification offering. He shall put no oil on it, neither shall he put any frankincense on it, for it is a purification offering.",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure",
+        "Contextual human/ritual responsibility: that in which he has sinned → the wrong he has committed"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Leviticus 5:12",
+      "slug": "leviticus",
+      "chapter": 5,
+      "verse": 12,
+      "original": "He shall bring it to the priest, and the priest shall take his handful of it as the memorial portion, and burn it on the altar, on the offerings of YHWH made by fire. It is a sin offering.",
+      "final": "He shall bring it to the priest, and the priest shall take his handful of it as the memorial portion, and burn it on the altar, on the offerings of YHWH made by fire. It is a purification offering.",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Leviticus 5:13",
+      "slug": "leviticus",
+      "chapter": 5,
+      "verse": 13,
+      "original": "The priest shall make atonement for him concerning his sin that he has sinned in any of these things, and he will be forgiven; and the rest shall be the priest's, as the meal offering.'\"",
+      "final": "The priest shall make atonement for him concerning the wrong he has committed in any of these things, and he will be forgiven; and the rest shall be the priest's, as the meal offering.'\"",
+      "notes": [
+        "Contextual human/ritual responsibility: his sin that he has sinned → the wrong he has committed"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Leviticus 5:15",
+      "slug": "leviticus",
+      "chapter": 5,
+      "verse": 15,
+      "original": "\"If anyone commits a trespass, and sins unwittingly, in the holy things of YHWH; then he shall bring his trespass offering to YHWH, a ram without blemish from the flock, according to your estimation in silver by shekels, after the shekel of the sanctuary, for a trespass offering.",
+      "final": "\"If anyone commits a trespass, and acts wrongly unknowingly, in the holy things of YHWH; then he shall bring his trespass offering to YHWH, a ram without blemish from the flock, according to your estimation in silver by shekels, after the shekel of the sanctuary, for a trespass offering.",
+      "notes": [
+        "Contextual human/ritual responsibility: sins unwittingly → acts wrongly unknowingly"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Leviticus 5:17",
+      "slug": "leviticus",
+      "chapter": 5,
+      "verse": 17,
+      "original": "\"If anyone sins, and does any of the things which YHWH has commanded not to be done; though he didn't know it, yet he is guilty, and shall bear his iniquity.",
+      "final": "\"If anyone acts wrongly, and does any of the things which YHWH has commanded not to be done; though he didn't know it, yet he is guilty, and shall bear his iniquity.",
+      "notes": [
+        "Contextual human/ritual responsibility: If anyone sins → If anyone acts wrongly"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Leviticus 5:18",
+      "slug": "leviticus",
+      "chapter": 5,
+      "verse": 18,
+      "original": "He shall bring a ram without blemish from of the flock, according to your estimation, for a trespass offering, to the priest; and the priest shall make atonement for him concerning the thing in which he sinned and didn't know it, and he will be forgiven.",
+      "final": "He shall bring a ram without blemish from of the flock, according to your estimation, for a trespass offering, to the priest; and the priest shall make atonement for him concerning the thing in which he acted wrongly without knowing it, and he will be forgiven.",
+      "notes": [
+        "Contextual human/ritual responsibility: in which he sinned and didn't know it → in which he acted wrongly without knowing it"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Leviticus 6:2",
+      "slug": "leviticus",
+      "chapter": 6,
+      "verse": 2,
+      "original": "\"If anyone sins, and commits a trespass against YHWH, and deals falsely with their neighbor in a matter of deposit, or of bargain, or of robbery, or has oppressed their neighbor,",
+      "final": "\"If anyone does wrong, committing a trespass against YHWH, and deals falsely with their neighbor in a matter of deposit, or of bargain, or of robbery, or has oppressed their neighbor,",
+      "notes": [
+        "Contextual human/ritual responsibility: If anyone sins, and commits a trespass → If anyone does wrong, committing a trespass"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Leviticus 6:3",
+      "slug": "leviticus",
+      "chapter": 6,
+      "verse": 3,
+      "original": "or has found that which was lost, and dealt falsely therein, and swearing to a lie; in any of all these things that a person does, sinning therein;",
+      "final": "or has found that which was lost, and dealt falsely therein, and swearing to a lie; in any of all these things that a person does, doing wrong in these ways;",
+      "notes": [
+        "Contextual human/ritual responsibility: sinning therein → doing wrong in these ways"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Leviticus 6:4",
+      "slug": "leviticus",
+      "chapter": 6,
+      "verse": 4,
+      "original": "then it shall be, if he has sinned, and is guilty, he shall restore that which he took by robbery, or the thing which he has gotten by oppression, or the deposit which was committed to him, or the lost thing which he found,",
+      "final": "then it shall be, if he has done wrong, and is guilty, he shall restore that which he took by robbery, or the thing which he has gotten by oppression, or the deposit which was committed to him, or the lost thing which he found,",
+      "notes": [
+        "Contextual human/ritual responsibility: if he has sinned → if he has done wrong"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Leviticus 6:17",
+      "slug": "leviticus",
+      "chapter": 6,
+      "verse": 17,
+      "original": "It shall not be baked with yeast. I have given it as their portion of my offerings made by fire. It is most holy, as the sin offering, and as the trespass offering.",
+      "final": "It shall not be baked with yeast. I have given it as their portion of my offerings made by fire. It is most holy, as the purification offering, and as the trespass offering.",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Leviticus 6:25",
+      "slug": "leviticus",
+      "chapter": 6,
+      "verse": 25,
+      "original": "\"Speak to Aharon and to his sons, saying, 'This is the law of the sin offering: in the place where the burnt offering is killed, the sin offering shall be killed before YHWH. It is most holy.",
+      "final": "\"Speak to Aharon and to his sons, saying, 'This is the law of the purification offering: in the place where the burnt offering is killed, the purification offering shall be killed before YHWH. It is most holy.",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Leviticus 6:26",
+      "slug": "leviticus",
+      "chapter": 6,
+      "verse": 26,
+      "original": "The priest who offers it for sin shall eat it. It shall be eaten in a holy place, in the court of the Tent of Meeting.",
+      "final": "The priest who offers it for wrongdoing shall eat it. It shall be eaten in a holy place, in the court of the Tent of Meeting.",
+      "notes": [
+        "Contextual human/ritual responsibility: offers it for sin → offers it for wrongdoing"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Leviticus 6:30",
+      "slug": "leviticus",
+      "chapter": 6,
+      "verse": 30,
+      "original": "No sin offering, of which any of the blood is brought into the Tent of Meeting to make atonement in the Holy Place, shall be eaten: it shall be burned with fire.",
+      "final": "No purification offering, of which any of the blood is brought into the Tent of Meeting to make atonement in the Holy Place, shall be eaten: it shall be burned with fire.",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Leviticus 7:7",
+      "slug": "leviticus",
+      "chapter": 7,
+      "verse": 7,
+      "original": "\"'As is the sin offering, so is the trespass offering; there is one law for them. The priest who makes atonement with them shall have it.",
+      "final": "\"'As is the purification offering, so is the trespass offering; there is one law for them. The priest who makes atonement with them shall have it.",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Leviticus 7:37",
+      "slug": "leviticus",
+      "chapter": 7,
+      "verse": 37,
+      "original": "This is the law of the burnt offering, of the meal offering, and of the sin offering, and of the trespass offering, and of the consecration, and of the sacrifice of peace offerings;",
+      "final": "This is the law of the burnt offering, of the meal offering, and of the purification offering, and of the trespass offering, and of the consecration, and of the sacrifice of peace offerings;",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Leviticus 8:2",
+      "slug": "leviticus",
+      "chapter": 8,
+      "verse": 2,
+      "original": "\"Take Aharon and his sons with him, and the garments, and the anointing oil, and the bull of the sin offering, and the two rams, and the basket of unleavened bread;",
+      "final": "\"Take Aharon and his sons with him, and the garments, and the anointing oil, and the bull of the purification offering, and the two rams, and the basket of unleavened bread;",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Leviticus 8:14",
+      "slug": "leviticus",
+      "chapter": 8,
+      "verse": 14,
+      "original": "He brought the bull of the sin offering, and Aharon and his sons laid their hands on the head of the bull of the sin offering.",
+      "final": "He brought the bull of the purification offering, and Aharon and his sons laid their hands on the head of the bull of the purification offering.",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Leviticus 9:2",
+      "slug": "leviticus",
+      "chapter": 9,
+      "verse": 2,
+      "original": "and he said to Aharon, \"Take a calf from the herd for a sin offering, and a ram for a burnt offering, without blemish, and offer them before YHWH.",
+      "final": "and he said to Aharon, \"Take a calf from the herd for a purification offering, and a ram for a burnt offering, without blemish, and offer them before YHWH.",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Leviticus 9:3",
+      "slug": "leviticus",
+      "chapter": 9,
+      "verse": 3,
+      "original": "You shall speak to the children of Israel, saying, 'Take a male goat for a sin offering; and a calf and a lamb, both a year old, without blemish, for a burnt offering;",
+      "final": "You shall speak to the children of Israel, saying, 'Take a male goat for a purification offering; and a calf and a lamb, both a year old, without blemish, for a burnt offering;",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Leviticus 9:7",
+      "slug": "leviticus",
+      "chapter": 9,
+      "verse": 7,
+      "original": "Moshe said to Aharon, \"Draw near to the altar, and offer your sin offering, and your burnt offering, and make atonement for yourself, and for the people; and offer the offering of the people, and make atonement for them; as YHWH commanded.\"",
+      "final": "Moshe said to Aharon, \"Draw near to the altar, and offer your purification offering, and your burnt offering, and make atonement for yourself, and for the people; and offer the offering of the people, and make atonement for them; as YHWH commanded.\"",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Leviticus 9:8",
+      "slug": "leviticus",
+      "chapter": 9,
+      "verse": 8,
+      "original": "So Aharon drew near to the altar, and killed the calf of the sin offering, which was for himself.",
+      "final": "So Aharon drew near to the altar, and killed the calf of the purification offering, which was for himself.",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Leviticus 9:10",
+      "slug": "leviticus",
+      "chapter": 9,
+      "verse": 10,
+      "original": "but the fat, and the kidneys, and the cover from the liver of the sin offering, he burned upon the altar; as YHWH commanded Moshe.",
+      "final": "but the fat, and the kidneys, and the cover from the liver of the purification offering, he burned upon the altar; as YHWH commanded Moshe.",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Leviticus 9:15",
+      "slug": "leviticus",
+      "chapter": 9,
+      "verse": 15,
+      "original": "He presented the people's offering, and took the goat of the sin offering which was for the people, and killed it, and offered it for sin, like the first.",
+      "final": "He presented the people's offering, and took the goat of the purification offering which was for the people, and killed it, and offered it as a purification offering, like the first.",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure",
+        "Contextual human/ritual responsibility: offered it for sin → offered it as a purification rite",
+        "Full-clause language QA: repair dangling clauses, avoid retained lexical terms, preserve intentional cultic wrongdoing."
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Leviticus 9:22",
+      "slug": "leviticus",
+      "chapter": 9,
+      "verse": 22,
+      "original": "Aharon lifted up his hands toward the people, and blessed them; and he came down from offering the sin offering, and the burnt offering, and the peace offerings.",
+      "final": "Aharon lifted up his hands toward the people, and blessed them; and he came down from offering the purification offering, and the burnt offering, and the peace offerings.",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Leviticus 10:16",
+      "slug": "leviticus",
+      "chapter": 10,
+      "verse": 16,
+      "original": "Moshe diligently inquired about the goat of the sin offering, and, behold, it was burned: and he was angry with Eleazar and with Ithamar, the sons of Aharon who were left, saying,",
+      "final": "Moshe diligently inquired about the goat of the purification offering, and, behold, it was burned: and he was angry with Eleazar and with Ithamar, the sons of Aharon who were left, saying,",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Leviticus 10:17",
+      "slug": "leviticus",
+      "chapter": 10,
+      "verse": 17,
+      "original": "\"Why haven't you eaten the sin offering in the place of the sanctuary, seeing it is most holy, and he has given it you to bear the iniquity of the congregation, to make atonement for them before YHWH?",
+      "final": "\"Why haven't you eaten the purification offering in the place of the sanctuary, seeing it is most holy, and he has given it you to bear the iniquity of the congregation, to make atonement for them before YHWH?",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Leviticus 10:19",
+      "slug": "leviticus",
+      "chapter": 10,
+      "verse": 19,
+      "original": "Aharon spoke to Moshe, \"Behold, this day they have offered their sin offering and their burnt offering before YHWH; and such things as these have happened to me: and if I had eaten the sin offering today, would it have been pleasing in the sight of YHWH?\"",
+      "final": "Aharon spoke to Moshe, \"Behold, this day they have offered their purification offering and their burnt offering before YHWH; and such things as these have happened to me: and if I had eaten the purification offering today, would it have been pleasing in the sight of YHWH?\"",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Leviticus 12:6",
+      "slug": "leviticus",
+      "chapter": 12,
+      "verse": 6,
+      "original": "\"'When the days of her purification are completed, for a son, or for a daughter, she shall bring to the priest at the door of the Tent of Meeting, a year old lamb for a burnt offering, and a young pigeon, or a turtledove, for a sin offering:",
+      "final": "\"'When the days of her purification are completed, for a son, or for a daughter, she shall bring to the priest at the door of the Tent of Meeting, a year old lamb for a burnt offering, and a young pigeon, or a turtledove, for a purification offering:",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Leviticus 12:8",
+      "slug": "leviticus",
+      "chapter": 12,
+      "verse": 8,
+      "original": "If she cannot afford a lamb, then she shall take two turtledoves, or two young pigeons; the one for a burnt offering, and the other for a sin offering: and the priest shall make atonement for her, and she shall be clean.'\"",
+      "final": "If she cannot afford a lamb, then she shall take two turtledoves, or two young pigeons; the one for a burnt offering, and the other for a purification offering: and the priest shall make atonement for her, and she shall be clean.'\"",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Leviticus 14:13",
+      "slug": "leviticus",
+      "chapter": 14,
+      "verse": 13,
+      "original": "He shall kill the male lamb in the place where they kill the sin offering and the burnt offering, in the place of the sanctuary; for as the sin offering is the priest's, so is the trespass offering. It is most holy.",
+      "final": "He shall kill the male lamb in the place where they kill the purification offering and the burnt offering, in the place of the sanctuary; for as the purification offering is the priest's, so is the trespass offering. It is most holy.",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Leviticus 14:19",
+      "slug": "leviticus",
+      "chapter": 14,
+      "verse": 19,
+      "original": "\"The priest shall offer the sin offering, and make atonement for the one who is to be cleansed because of their uncleanness: and afterward they shall kill the burnt offering;",
+      "final": "\"The priest shall offer the purification offering, and make atonement for the one who is to be cleansed because of their uncleanness: and afterward they shall kill the burnt offering;",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Leviticus 14:22",
+      "slug": "leviticus",
+      "chapter": 14,
+      "verse": 22,
+      "original": "and two turtledoves, or two young pigeons, such as he is able to afford; and the one shall be a sin offering, and the other a burnt offering.",
+      "final": "and two turtledoves, or two young pigeons, such as he is able to afford; and the one shall be a purification offering, and the other a burnt offering.",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Leviticus 14:31",
+      "slug": "leviticus",
+      "chapter": 14,
+      "verse": 31,
+      "original": "even such as he is able to afford, the one for a sin offering, and the other for a burnt offering, with the meal offering. The priest shall make atonement for the one who is to be cleansed before YHWH.\"",
+      "final": "even such as he is able to afford, the one for a purification offering, and the other for a burnt offering, with the meal offering. The priest shall make atonement for the one who is to be cleansed before YHWH.\"",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Leviticus 15:15",
+      "slug": "leviticus",
+      "chapter": 15,
+      "verse": 15,
+      "original": "and the priest shall offer them, the one for a sin offering, and the other for a burnt offering. The priest shall make atonement for him before YHWH for his discharge.",
+      "final": "and the priest shall offer them, the one for a purification offering, and the other for a burnt offering. The priest shall make atonement for him before YHWH for his discharge.",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Leviticus 15:30",
+      "slug": "leviticus",
+      "chapter": 15,
+      "verse": 30,
+      "original": "The priest shall offer the one for a sin offering, and the other for a burnt offering; and the priest shall make atonement for her before YHWH for the uncleanness of her discharge.",
+      "final": "The priest shall offer the one for a purification offering, and the other for a burnt offering; and the priest shall make atonement for her before YHWH for the uncleanness of her discharge.",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Leviticus 16:3",
+      "slug": "leviticus",
+      "chapter": 16,
+      "verse": 3,
+      "original": "\"Herewith shall Aharon come into the sanctuary: with a young bull for a sin offering, and a ram for a burnt offering.",
+      "final": "\"Herewith shall Aharon come into the sanctuary: with a young bull for a purification offering, and a ram for a burnt offering.",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Leviticus 16:5",
+      "slug": "leviticus",
+      "chapter": 16,
+      "verse": 5,
+      "original": "He shall take from the congregation of the children of Israel two male goats for a sin offering, and one ram for a burnt offering.",
+      "final": "He shall take from the congregation of the children of Israel two male goats for a purification offering, and one ram for a burnt offering.",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Leviticus 16:6",
+      "slug": "leviticus",
+      "chapter": 16,
+      "verse": 6,
+      "original": "\"Aharon shall offer the bull of the sin offering, which is for himself, and make atonement for himself and for his house.",
+      "final": "\"Aharon shall offer the bull of the purification offering, which is for himself, and make atonement for himself and for his house.",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Leviticus 16:9",
+      "slug": "leviticus",
+      "chapter": 16,
+      "verse": 9,
+      "original": "Aharon shall present the goat on which the lot fell for YHWH, and offer him for a sin offering.",
+      "final": "Aharon shall present the goat on which the lot fell for YHWH, and offer him for a purification offering.",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Leviticus 16:11",
+      "slug": "leviticus",
+      "chapter": 16,
+      "verse": 11,
+      "original": "\"Aharon shall present the bull of the sin offering, which is for himself, and shall make atonement for himself and for his house, and shall kill the bull of the sin offering which is for himself.",
+      "final": "\"Aharon shall present the bull of the purification offering, which is for himself, and shall make atonement for himself and for his house, and shall kill the bull of the purification offering which is for himself.",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Leviticus 16:15",
+      "slug": "leviticus",
+      "chapter": 16,
+      "verse": 15,
+      "original": "\"Then he shall kill the goat of the sin offering, that is for the people, and bring his blood within the veil, and do with his blood as he did with the blood of the bull, and sprinkle it on the mercy seat, and before the mercy seat:",
+      "final": "\"Then he shall kill the goat of the purification offering, that is for the people, and bring his blood within the veil, and do with his blood as he did with the blood of the bull, and sprinkle it on the mercy seat, and before the mercy seat:",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Leviticus 16:16",
+      "slug": "leviticus",
+      "chapter": 16,
+      "verse": 16,
+      "original": "and he shall make atonement for the Holy Place, because of the uncleanness of the children of Israel, and because of their transgressions, even all their sins; and so he shall do for the Tent of Meeting, that dwells with them in the midst of their uncleanness.",
+      "final": "and he shall make atonement for the Holy Place, because of the uncleanness of the children of Israel, and because of their transgressions, even all their wrongdoings; and so he shall do for the Tent of Meeting, that dwells with them in the midst of their uncleanness.",
+      "notes": [
+        "Contextual human/ritual responsibility: all their sins → all their wrongdoings"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Leviticus 16:21",
+      "slug": "leviticus",
+      "chapter": 16,
+      "verse": 21,
+      "original": "Aharon shall lay both his hands on the head of the live goat, and confess over him all the iniquities of the children of Israel, and all their transgressions, even all their sins; and they shall put them on the head of the goat, and shall send him away into the wilderness by the hand of a person who is in readiness.",
+      "final": "Aharon shall lay both his hands on the head of the live goat, and confess over him all the iniquities of the children of Israel, and all their transgressions, even all their wrongdoings; and they shall put them on the head of the goat, and shall send him away into the wilderness by the hand of a person who is in readiness.",
+      "notes": [
+        "Contextual human/ritual responsibility: all their sins → all their wrongdoings"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Leviticus 16:25",
+      "slug": "leviticus",
+      "chapter": 16,
+      "verse": 25,
+      "original": "The fat of the sin offering he shall burn on the altar.",
+      "final": "The fat of the purification offering he shall burn on the altar.",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Leviticus 16:27",
+      "slug": "leviticus",
+      "chapter": 16,
+      "verse": 27,
+      "original": "The bull for the sin offering, and the goat for the sin offering, whose blood was brought in to make atonement in the Holy Place, shall be carried forth outside the camp; and they shall burn their skins, their flesh, and their dung with fire.",
+      "final": "The bull for the purification offering, and the goat for the purification offering, whose blood was brought in to make atonement in the Holy Place, shall be carried forth outside the camp; and they shall burn their skins, their flesh, and their dung with fire.",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Leviticus 16:30",
+      "slug": "leviticus",
+      "chapter": 16,
+      "verse": 30,
+      "original": "for on this day shall atonement be made for you, to cleanse you; from all your sins you shall be clean before YHWH.",
+      "final": "for on this day shall atonement be made for you, to cleanse you; from all your moral failures you shall be clean before YHWH.",
+      "notes": [
+        "Contextual human/ritual responsibility: all your sins → all your moral failures"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Leviticus 16:34",
+      "slug": "leviticus",
+      "chapter": 16,
+      "verse": 34,
+      "original": "\"This shall be an everlasting statute for you, to make atonement for the children of Israel once in the year because of all their sins.\" It was done as YHWH commanded Moshe.",
+      "final": "\"This shall be an everlasting statute for you, to make atonement for the children of Israel once in the year because of all their moral failures.\" It was done as YHWH commanded Moshe.",
+      "notes": [
+        "Contextual human/ritual responsibility: all their sins → all their moral failures"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Leviticus 19:17",
+      "slug": "leviticus",
+      "chapter": 19,
+      "verse": 17,
+      "original": "\"'You shall not hate your brother in your heart. You shall surely rebuke your neighbor, and not bear sin because of him.",
+      "final": "\"'You shall not hate your brother in your heart. You shall surely rebuke your neighbor, and not incur guilt because of him.",
+      "notes": [
+        "Contextual human/ritual responsibility: not bear sin because of him → not incur guilt because of him"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Leviticus 19:22",
+      "slug": "leviticus",
+      "chapter": 19,
+      "verse": 22,
+      "original": "The priest shall make atonement for him with the ram of the trespass offering before YHWH for his sin which he has committed: and the sin which he has committed shall be forgiven him.",
+      "final": "The priest shall make atonement for him with the ram of the trespass offering before YHWH for the wrong he has committed: and the wrong he has committed shall be forgiven him.",
+      "notes": [
+        "Contextual human/ritual responsibility: his sin which he has committed → the wrong he has committed",
+        "Contextual human/ritual responsibility: the sin which he has committed → the wrong he has committed"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Leviticus 20:20",
+      "slug": "leviticus",
+      "chapter": 20,
+      "verse": 20,
+      "original": "If someone lies with their uncle's wife, they have uncovered their uncle's nakedness: they shall bear their sin; they shall die childless.",
+      "final": "If someone lies with their uncle's wife, they have uncovered their uncle's nakedness: they shall bear responsibility for their wrongdoing; they shall die childless.",
+      "notes": [
+        "Contextual human/ritual responsibility: bear their sin → bear responsibility for their wrongdoing"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Leviticus 22:9",
+      "slug": "leviticus",
+      "chapter": 22,
+      "verse": 9,
+      "original": "\"'They shall therefore keep my charge, lest they bear sin for it, and die therein, if they profane it. I am YHWH who sanctifies them.",
+      "final": "\"'They shall therefore keep my charge, lest they bear guilt for it, and die therein, if they profane it. I am YHWH who sanctifies them.",
+      "notes": [
+        "Contextual human/ritual responsibility: bear sin for it → bear guilt for it"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Leviticus 23:19",
+      "slug": "leviticus",
+      "chapter": 23,
+      "verse": 19,
+      "original": "You shall offer one male goat for a sin offering, and two male lambs a year old for a sacrifice of peace offerings.",
+      "final": "You shall offer one male goat for a purification offering, and two male lambs a year old for a sacrifice of peace offerings.",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Leviticus 24:15",
+      "slug": "leviticus",
+      "chapter": 24,
+      "verse": 15,
+      "original": "You shall speak to the children of Israel, saying, 'Whoever curses their God shall bear their sin.",
+      "final": "You shall speak to the children of Israel, saying, 'Whoever curses their God shall bear responsibility for their wrongdoing.",
+      "notes": [
+        "Contextual human/ritual responsibility: bear their sin → bear responsibility for their wrongdoing"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Numbers 5:6",
+      "slug": "numbers",
+      "chapter": 5,
+      "verse": 6,
+      "original": "\"Speak to the children of Israel: When someone or woman commits any sin that men commit, so as to trespass against YHWH, and that soul is guilty;",
+      "final": "\"Speak to the children of Israel: When someone or woman commits a wrongdoing of the kind people commit, so as to trespass against YHWH, and that soul is guilty;",
+      "notes": [
+        "Contextual human/ritual responsibility: commits any sin that men commit → commits a wrongdoing of the kind people commit"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Numbers 5:7",
+      "slug": "numbers",
+      "chapter": 5,
+      "verse": 7,
+      "original": "then he shall confess his sin which he has done, and he shall make restitution for his guilt in full, and add to it the fifth part of it, and give it to him in respect of whom he has been guilty.",
+      "final": "then he shall confess the wrongdoing he has committed, and he shall make restitution for his guilt in full, and add to it the fifth part of it, and give it to him in respect of whom he has been guilty.",
+      "notes": [
+        "Contextual human/ritual responsibility: his sin which he has done → the wrongdoing he has committed"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Numbers 6:11",
+      "slug": "numbers",
+      "chapter": 6,
+      "verse": 11,
+      "original": "The priest shall offer one for a sin offering, and the other for a burnt offering, and make atonement for him, because he sinned by reason of the dead, and shall make his head holy that same day.",
+      "final": "The priest shall offer one for a purification offering, and the other for a burnt offering, and make atonement for him, because he incurred ritual impurity through the dead, and shall make his head holy that same day.",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure",
+        "Contextual human/ritual responsibility: he sinned by reason of the dead → he incurred ritual impurity through the dead"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Numbers 6:14",
+      "slug": "numbers",
+      "chapter": 6,
+      "verse": 14,
+      "original": "and he shall offer his offering to YHWH, one male lamb a year old without blemish for a burnt offering, and one ewe lamb a year old without blemish for a sin offering, and one ram without blemish for peace offerings,",
+      "final": "and he shall offer his offering to YHWH, one male lamb a year old without blemish for a burnt offering, and one ewe lamb a year old without blemish for a purification offering, and one ram without blemish for peace offerings,",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Numbers 6:16",
+      "slug": "numbers",
+      "chapter": 6,
+      "verse": 16,
+      "original": "The priest shall present them before YHWH, and shall offer his sin offering, and his burnt offering.",
+      "final": "The priest shall present them before YHWH, and shall offer his purification offering, and his burnt offering.",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Numbers 7:16",
+      "slug": "numbers",
+      "chapter": 7,
+      "verse": 16,
+      "original": "one male goat for a sin offering;",
+      "final": "one male goat for a purification offering;",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Numbers 7:22",
+      "slug": "numbers",
+      "chapter": 7,
+      "verse": 22,
+      "original": "one male goat for a sin offering;",
+      "final": "one male goat for a purification offering;",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Numbers 7:28",
+      "slug": "numbers",
+      "chapter": 7,
+      "verse": 28,
+      "original": "one male goat for a sin offering;",
+      "final": "one male goat for a purification offering;",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Numbers 7:34",
+      "slug": "numbers",
+      "chapter": 7,
+      "verse": 34,
+      "original": "one male goat for a sin offering;",
+      "final": "one male goat for a purification offering;",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Numbers 7:40",
+      "slug": "numbers",
+      "chapter": 7,
+      "verse": 40,
+      "original": "one male goat for a sin offering;",
+      "final": "one male goat for a purification offering;",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Numbers 7:46",
+      "slug": "numbers",
+      "chapter": 7,
+      "verse": 46,
+      "original": "one male goat for a sin offering;",
+      "final": "one male goat for a purification offering;",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Numbers 7:52",
+      "slug": "numbers",
+      "chapter": 7,
+      "verse": 52,
+      "original": "one male goat for a sin offering;",
+      "final": "one male goat for a purification offering;",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Numbers 7:58",
+      "slug": "numbers",
+      "chapter": 7,
+      "verse": 58,
+      "original": "one male goat for a sin offering;",
+      "final": "one male goat for a purification offering;",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Numbers 7:64",
+      "slug": "numbers",
+      "chapter": 7,
+      "verse": 64,
+      "original": "one male goat for a sin offering;",
+      "final": "one male goat for a purification offering;",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Numbers 7:70",
+      "slug": "numbers",
+      "chapter": 7,
+      "verse": 70,
+      "original": "one male goat for a sin offering;",
+      "final": "one male goat for a purification offering;",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Numbers 7:76",
+      "slug": "numbers",
+      "chapter": 7,
+      "verse": 76,
+      "original": "one male goat for a sin offering;",
+      "final": "one male goat for a purification offering;",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Numbers 7:82",
+      "slug": "numbers",
+      "chapter": 7,
+      "verse": 82,
+      "original": "one male goat for a sin offering;",
+      "final": "one male goat for a purification offering;",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Numbers 7:87",
+      "slug": "numbers",
+      "chapter": 7,
+      "verse": 87,
+      "original": "all the oxen for the burnt offering twelve bulls, the rams twelve, the male lambs a year old twelve, and their meal offering; and the male goats for a sin offering twelve;",
+      "final": "all the oxen for the burnt offering twelve bulls, the rams twelve, the male lambs a year old twelve, and their meal offering; and the male goats for a purification offering twelve;",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Numbers 8:8",
+      "slug": "numbers",
+      "chapter": 8,
+      "verse": 8,
+      "original": "Then let them take a young bull, and its meal offering, fine flour mixed with oil; and another young bull you shall take for a sin offering.",
+      "final": "Then let them take a young bull, and its meal offering, fine flour mixed with oil; and another young bull you shall take for a purification offering.",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Numbers 8:12",
+      "slug": "numbers",
+      "chapter": 8,
+      "verse": 12,
+      "original": "The Levites shall lay their hands on the heads of the bulls, and you shall offer the one for a sin offering, and the other for a burnt offering to YHWH, to make atonement for the Levites.",
+      "final": "The Levites shall lay their hands on the heads of the bulls, and you shall offer the one for a purification offering, and the other for a burnt offering to YHWH, to make atonement for the Levites.",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Numbers 8:21",
+      "slug": "numbers",
+      "chapter": 8,
+      "verse": 21,
+      "original": "The Levites purified themselves from sin, and they werehed their clothes; and Aharon offered them for a wave offering before YHWH; and Aharon made atonement for them to cleanse them.",
+      "final": "The Levites purified themselves from impurity, and they werehed their clothes; and Aharon offered them for a wave offering before YHWH; and Aharon made atonement for them to cleanse them.",
+      "notes": [
+        "Contextual human/ritual responsibility: purified themselves from sin → purified themselves from impurity"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Numbers 9:13",
+      "slug": "numbers",
+      "chapter": 9,
+      "verse": 13,
+      "original": "But the one who is clean, and is not on a journey, and fails to keep the Passover, that soul shall be cut off from their people. Because he didn't offer the offering of YHWH in its appointed season, that man shall bear his sin.",
+      "final": "But the one who is clean, and is not on a journey, and fails to keep the Passover, that soul shall be cut off from their people. Because he didn't offer the offering of YHWH in its appointed season, that man shall bear responsibility for his failure.",
+      "notes": [
+        "Contextual human/ritual responsibility: bear his sin → bear responsibility for his failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Numbers 12:11",
+      "slug": "numbers",
+      "chapter": 12,
+      "verse": 11,
+      "original": "Aharon said to Moshe, Oh, my lord, please don't lay sin on us, for that we have done foolishly, and for that we have sinned.",
+      "final": "Aharon said to Moshe, Oh, my lord, please don't hold the wrongdoing against us, for that we have done foolishly, and for that we have acted wrongly.",
+      "notes": [
+        "Contextual human/ritual responsibility: lay sin on us → hold the wrongdoing against us",
+        "Contextual human/ritual responsibility: we have sinned → we have acted wrongly"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Numbers 14:40",
+      "slug": "numbers",
+      "chapter": 14,
+      "verse": 40,
+      "original": "They rose up early in the morning, and got them up to the top of the mountain, saying, Behold, we are here, and will go up to the place which YHWH has promised: for we have sinned.",
+      "final": "They rose up early in the morning, and got them up to the top of the mountain, saying, Behold, we are here, and will go up to the place which YHWH has promised: for we have acted wrongly.",
+      "notes": [
+        "Contextual human/ritual responsibility: we have sinned → we have acted wrongly"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Numbers 15:24",
+      "slug": "numbers",
+      "chapter": 15,
+      "verse": 24,
+      "original": "then it shall be, if it be done unwittingly, without the knowledge of the congregation, that all the congregation shall offer one young bull for a burnt offering, for a sweet savor to YHWH, with the meal offering of it, and the drink offering of it, according to the ordinance, and one male goat for a sin offering.",
+      "final": "then it shall be, if it be done unwittingly, without the knowledge of the congregation, that all the congregation shall offer one young bull for a burnt offering, for a sweet savor to YHWH, with the meal offering of it, and the drink offering of it, according to the ordinance, and one male goat for a purification offering.",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Numbers 15:25",
+      "slug": "numbers",
+      "chapter": 15,
+      "verse": 25,
+      "original": "The priest shall make atonement for all the congregation of the children of Israel, and they shall be forgiven; for it was an error, and they have brought their offering, an offering made by fire to YHWH, and their sin offering before YHWH, for their error:",
+      "final": "The priest shall make atonement for all the congregation of the children of Israel, and they shall be forgiven; for it was an error, and they have brought their offering, an offering made by fire to YHWH, and their purification offering before YHWH, for their error:",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Numbers 15:27",
+      "slug": "numbers",
+      "chapter": 15,
+      "verse": 27,
+      "original": "If one person sins unwittingly, then he shall offer a female goat a year old for a sin offering.",
+      "final": "If one person acts wrongly unknowingly, then he shall offer a female goat a year old for a purification offering.",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure",
+        "Contextual human/ritual responsibility: sins unwittingly → acts wrongly unknowingly"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Numbers 15:28",
+      "slug": "numbers",
+      "chapter": 15,
+      "verse": 28,
+      "original": "The priest shall make atonement for the soul who errs, when he sins unwittingly, before YHWH, to make atonement for him; and he shall be forgiven.",
+      "final": "The priest shall make atonement for the soul who errs, when he acts wrongly unknowingly, before YHWH, to make atonement for him; and he shall be forgiven.",
+      "notes": [
+        "Contextual human/ritual responsibility: sins unwittingly → acts wrongly unknowingly"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Numbers 16:22",
+      "slug": "numbers",
+      "chapter": 16,
+      "verse": 22,
+      "original": "They fell on their faces, and said, Elohim, the God of the spirits of all flesh, shall one man sin, and will you be angry with all the congregation?",
+      "final": "They fell on their faces, and said, Elohim, the God of the spirits of all flesh, if one man does wrong, and will you be angry with all the congregation?",
+      "notes": [
+        "Contextual human/ritual responsibility: shall one man sin → if one man does wrong"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Numbers 16:26",
+      "slug": "numbers",
+      "chapter": 16,
+      "verse": 26,
+      "original": "He spoke to the congregation, saying, Depart, I pray you, from the tents of these wicked men, and touch nothing of theirs, lest you be consumed in all their sins.",
+      "final": "He spoke to the congregation, saying, Depart, I pray you, from the tents of these wicked men, and touch nothing of theirs, lest you be consumed in all their wrongdoings.",
+      "notes": [
+        "Contextual human/ritual responsibility: all their sins → all their wrongdoings"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Numbers 16:38",
+      "slug": "numbers",
+      "chapter": 16,
+      "verse": 38,
+      "original": "even the censers of these sinners against their own lives; and let them be made beaten plates for a covering of the altar: for they offered them before YHWH; therefore they are holy; and they shall be a sign to the children of Israel.",
+      "final": "even the censers of those who wronged themselves; and let them be made beaten plates for a covering of the altar: for they offered them before YHWH; therefore they are holy; and they shall be a sign to the children of Israel.",
+      "notes": [
+        "Contextual human/ritual responsibility: these sinners against their own lives → those who wronged themselves"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Numbers 18:9",
+      "slug": "numbers",
+      "chapter": 18,
+      "verse": 9,
+      "original": "This shall be your of the most holy things, [reserved] from the fire: every offering of theirs, even every meal offering of theirs, and every sin offering of theirs, and every trespass offering of theirs, which they shall render to me, shall be most holy for you and for your sons.",
+      "final": "This shall be your of the most holy things, [reserved] from the fire: every offering of theirs, even every meal offering of theirs, and every purification offering of theirs, and every trespass offering of theirs, which they shall render to me, shall be most holy for you and for your sons.",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Numbers 18:22",
+      "slug": "numbers",
+      "chapter": 18,
+      "verse": 22,
+      "original": "Henceforth the children of Israel shall not come near the tent of meeting, lest they bear sin, and die.",
+      "final": "Henceforth the children of Israel shall not come near the tent of meeting, lest they incur guilt, and die.",
+      "notes": [
+        "Contextual human/ritual responsibility: bear sin → incur guilt"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Numbers 18:32",
+      "slug": "numbers",
+      "chapter": 18,
+      "verse": 32,
+      "original": "You shall bear no sin by reason of it, when you have heaved from it the best of it: and you shall not profane the holy things of the children of Israel, that you not die.",
+      "final": "You shall incur no guilt by reason of it, when you have heaved from it the best of it: and you shall not profane the holy things of the children of Israel, that you not die.",
+      "notes": [
+        "Contextual human/ritual responsibility: bear no sin → incur no guilt"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Numbers 19:9",
+      "slug": "numbers",
+      "chapter": 19,
+      "verse": 9,
+      "original": "A person who is clean shall gather up the ashes of the heifer, and lay them up outside of the camp in a clean place; and it shall be kept for the congregation of the children of Israel for a water for impurity: it is a sin offering.",
+      "final": "A person who is clean shall gather up the ashes of the heifer, and lay them up outside of the camp in a clean place; and it shall be kept for the congregation of the children of Israel for a water for impurity: it is a purification offering.",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Numbers 19:17",
+      "slug": "numbers",
+      "chapter": 19,
+      "verse": 17,
+      "original": "For the unclean they shall take of the ashes of the burning of the sin offering; and running water shall be put thereto in a vessel:",
+      "final": "For the unclean they shall take of the ashes of the burning of the purification offering; and running water shall be put thereto in a vessel:",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Numbers 21:7",
+      "slug": "numbers",
+      "chapter": 21,
+      "verse": 7,
+      "original": "The people came to Moshe, and said, We have sinned, because we have spoken against YHWH, and against you; pray to YHWH, that YHWH take away the serpents from us. Moshe prayed for the people.",
+      "final": "The people came to Moshe, and said, We have done wrong, because we have spoken against YHWH, and against you; pray to YHWH, that YHWH take away the serpents from us. Moshe prayed for the people.",
+      "notes": [
+        "Contextual human/ritual responsibility: We have sinned → We have done wrong"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Numbers 22:34",
+      "slug": "numbers",
+      "chapter": 22,
+      "verse": 34,
+      "original": "Bil'am said to the angel of YHWH, I have sinned; for I didn't know that you stood in the way against me: now therefore, if it displease you, I will get me back again.",
+      "final": "Bil'am said to the angel of YHWH, I have acted wrongly; for I didn't know that you stood in the way against me: now therefore, if it displease you, I will get me back again.",
+      "notes": [
+        "Contextual human/ritual responsibility: I have sinned → I have acted wrongly"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Numbers 27:3",
+      "slug": "numbers",
+      "chapter": 27,
+      "verse": 3,
+      "original": "Our father died in the wilderness, and he was not among the company of those who gathered themselves together against YHWH in the company of Korah: but he died in his own sin; and he had no sons.",
+      "final": "Our father died in the wilderness, and he was not among the company of those who gathered themselves together against YHWH in the company of Korah: but he died in his own wrongdoing; and he had no sons.",
+      "notes": [
+        "Contextual human/ritual responsibility: his own sin → his own wrongdoing"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Numbers 28:15",
+      "slug": "numbers",
+      "chapter": 28,
+      "verse": 15,
+      "original": "One male goat for a sin offering to YHWH; it shall be offered besides the continual burnt offering, and the drink offering of it.",
+      "final": "One male goat for a purification offering to YHWH; it shall be offered besides the continual burnt offering, and the drink offering of it.",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Numbers 28:22",
+      "slug": "numbers",
+      "chapter": 28,
+      "verse": 22,
+      "original": "and one male goat for a sin offering, to make atonement for you.",
+      "final": "and one male goat for a purification offering, to make atonement for you.",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Numbers 29:5",
+      "slug": "numbers",
+      "chapter": 29,
+      "verse": 5,
+      "original": "and one male goat for a sin offering, to make atonement for you;",
+      "final": "and one male goat for a purification offering, to make atonement for you;",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Numbers 29:11",
+      "slug": "numbers",
+      "chapter": 29,
+      "verse": 11,
+      "original": "one male goat for a sin offering; besides the sin offering of atonement, and the continual burnt offering, and the meal offering of it, and their drink offerings.",
+      "final": "one male goat for a purification offering; besides the purification offering of atonement, and the continual burnt offering, and the meal offering of it, and their drink offerings.",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Numbers 29:16",
+      "slug": "numbers",
+      "chapter": 29,
+      "verse": 16,
+      "original": "and one male goat for a sin offering, besides the continual burnt offering, the meal offering of it, and the drink offering of it.",
+      "final": "and one male goat for a purification offering, besides the continual burnt offering, the meal offering of it, and the drink offering of it.",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Numbers 29:19",
+      "slug": "numbers",
+      "chapter": 29,
+      "verse": 19,
+      "original": "and one male goat for a sin offering; besides the continual burnt offering, and the meal offering of it, and their drink offerings.",
+      "final": "and one male goat for a purification offering; besides the continual burnt offering, and the meal offering of it, and their drink offerings.",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Numbers 29:22",
+      "slug": "numbers",
+      "chapter": 29,
+      "verse": 22,
+      "original": "and one male goat for a sin offering; besides the continual burnt offering, and the meal offering of it, and the drink offering of it.",
+      "final": "and one male goat for a purification offering; besides the continual burnt offering, and the meal offering of it, and the drink offering of it.",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Numbers 29:25",
+      "slug": "numbers",
+      "chapter": 29,
+      "verse": 25,
+      "original": "and one male goat for a sin offering; besides the continual burnt offering, the meal offering of it, and the drink offering of it.",
+      "final": "and one male goat for a purification offering; besides the continual burnt offering, the meal offering of it, and the drink offering of it.",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Numbers 29:28",
+      "slug": "numbers",
+      "chapter": 29,
+      "verse": 28,
+      "original": "and one male goat for a sin offering, besides the continual burnt offering, and the meal offering of it, and the drink offering of it.",
+      "final": "and one male goat for a purification offering, besides the continual burnt offering, and the meal offering of it, and the drink offering of it.",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Numbers 29:31",
+      "slug": "numbers",
+      "chapter": 29,
+      "verse": 31,
+      "original": "and one male goat for a sin offering; besides the continual burnt offering, the meal offering of it, and the drink offerings of it.",
+      "final": "and one male goat for a purification offering; besides the continual burnt offering, the meal offering of it, and the drink offerings of it.",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Numbers 29:34",
+      "slug": "numbers",
+      "chapter": 29,
+      "verse": 34,
+      "original": "and one male goat for a sin offering; besides the continual burnt offering, the meal offering of it, and the drink offering of it.",
+      "final": "and one male goat for a purification offering; besides the continual burnt offering, the meal offering of it, and the drink offering of it.",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Numbers 29:38",
+      "slug": "numbers",
+      "chapter": 29,
+      "verse": 38,
+      "original": "and one male goat for a sin offering, besides the continual burnt offering, and the meal offering of it, and the drink offering of it.",
+      "final": "and one male goat for a purification offering, besides the continual burnt offering, and the meal offering of it, and the drink offering of it.",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Numbers 32:23",
+      "slug": "numbers",
+      "chapter": 32,
+      "verse": 23,
+      "original": "But if you will not do so, behold, you have sinned against YHWH; and be sure your sin will find you out.",
+      "final": "But if you will not do so, behold, you have done wrong against YHWH; and be sure your wrongdoing will find you out.",
+      "notes": [
+        "Contextual human/ritual responsibility: you have sinned against YHWH → you have done wrong against YHWH",
+        "Contextual human/ritual responsibility: your sin will find you out → your wrongdoing will find you out"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "2 Samuel 12:13",
+      "slug": "2-samuel",
+      "chapter": 12,
+      "verse": 13,
+      "original": "Dawid said to Natan, \"I have sinned against YHWH.\" Natan said to Dawid, \"YHWH also has put away your sin. You will not die.",
+      "final": "Dawid said to Natan, \"I have done wrong against YHWH.\" Natan said to Dawid, \"YHWH also has put away your wrongdoing. You will not die.",
+      "notes": [
+        "Contextual human/ritual responsibility: I have sinned against YHWH → I have done wrong against YHWH",
+        "Contextual human/ritual responsibility: put away your sin → put away your wrongdoing"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "2 Samuel 19:20",
+      "slug": "2-samuel",
+      "chapter": 19,
+      "verse": 20,
+      "original": "For your servant does know that I have sinned: therefore, behold, I am come this day the first of all the house of Yosef to go down to meet my lord the king.",
+      "final": "For your servant does know that I have acted wrongly: therefore, behold, I am come this day the first of all the house of Yosef to go down to meet my lord the king.",
+      "notes": [
+        "Contextual human/ritual responsibility: I have sinned → I have acted wrongly"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "2 Samuel 24:10",
+      "slug": "2-samuel",
+      "chapter": 24,
+      "verse": 10,
+      "original": "Dawid's heart struck him after that he had numbered the people. Dawid said to YHWH, I have sinned greatly in that which I have done: but now, YHWH, put away, I beg you, the iniquity of your servant; for I have done very foolishly.",
+      "final": "Dawid's heart struck him after that he had numbered the people. Dawid said to YHWH, I have acted grievously wrongly in that which I have done: but now, YHWH, put away, I beg you, the iniquity of your servant; for I have done very foolishly.",
+      "notes": [
+        "Contextual human/ritual responsibility: I have sinned greatly → I have acted grievously wrongly"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "2 Samuel 24:17",
+      "slug": "2-samuel",
+      "chapter": 24,
+      "verse": 17,
+      "original": "Dawid spoke to YHWH when he saw the angel who struck the people, and said, Behold, I have sinned, and I have done perversely; but these sheep, what have they done? Please let your hand be against me, and against my father's house.",
+      "final": "Dawid spoke to YHWH when he saw the angel who struck the people, and said, Behold, I have acted wrongly, and I have done perversely; but these sheep, what have they done? Please let your hand be against me, and against my father's house.",
+      "notes": [
+        "Contextual human/ritual responsibility: I have sinned → I have acted wrongly"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "1 Kings 14:16",
+      "slug": "1-kings",
+      "chapter": 14,
+      "verse": 16,
+      "original": "YHWH will give Israel up because of the sins of Yerovam, which he has sinned, and with which he has made Israel to sin.",
+      "final": "YHWH will give Israel up because of Yerovam's wrongdoings, which he committed and led Israel to commit.",
+      "notes": [
+        "Hebrew historical formula for cultic misconduct: actual wrongdoing, not an innocent failure",
+        "Full-clause language QA: repair dangling clauses, avoid retained lexical terms, preserve intentional cultic wrongdoing."
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "1 Kings 15:26",
+      "slug": "1-kings",
+      "chapter": 15,
+      "verse": 26,
+      "original": "He did what was broken in the sight of YHWH, and walked in the way of his father, and in his sin with which he made Israel to sin.",
+      "final": "He did what was broken in the sight of YHWH, and walked in the way of his father, continuing in his wrongdoing by which he led Israel into wrongdoing.",
+      "notes": [
+        "Hebrew historical formula for cultic misconduct: actual wrongdoing, not an innocent failure",
+        "Full-clause language QA: repair dangling clauses, avoid retained lexical terms, preserve intentional cultic wrongdoing."
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "1 Kings 15:30",
+      "slug": "1-kings",
+      "chapter": 15,
+      "verse": 30,
+      "original": "for the sins of Yerovam which he sinned, and with which he made Israel to sin, because of his provocation with which he provoked YHWH, the God of Israel, to anger.",
+      "final": "for the wrongdoings Yerovam committed and led Israel to commit, because of his provocation with which he provoked YHWH, the God of Israel, to anger.",
+      "notes": [
+        "Hebrew historical formula for cultic misconduct: actual wrongdoing, not an innocent failure",
+        "Full-clause language QA: repair dangling clauses, avoid retained lexical terms, preserve intentional cultic wrongdoing."
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "1 Kings 15:34",
+      "slug": "1-kings",
+      "chapter": 15,
+      "verse": 34,
+      "original": "He did what was broken in the sight of YHWH, and walked in the way of Yerovam, and in his sin with which he made Israel to sin.",
+      "final": "He did what was broken in the sight of YHWH, and walked in the way of Yerovam, continuing in the wrongdoing by which Yerovam led Israel into wrongdoing.",
+      "notes": [
+        "Hebrew historical formula for cultic misconduct: actual wrongdoing, not an innocent failure",
+        "Full-clause language QA: repair dangling clauses, avoid retained lexical terms, preserve intentional cultic wrongdoing."
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "1 Kings 16:2",
+      "slug": "1-kings",
+      "chapter": 16,
+      "verse": 2,
+      "original": "Because I exalted you out of the dust, and made you prince over my people Israel, and you have walked in the way of Yerovam, and have made my people Israel to sin, to provoke me to anger with their sins;",
+      "final": "Because I exalted you out of the dust, and made you prince over my people Israel, and you have walked in the way of Yerovam, and have led my people Israel into wrongdoing, provoking me to anger with their wrongdoings;",
+      "notes": [
+        "Hebrew historical formula for cultic misconduct: actual wrongdoing, not an innocent failure",
+        "Full-clause language QA: repair dangling clauses, avoid retained lexical terms, preserve intentional cultic wrongdoing."
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "1 Kings 16:13",
+      "slug": "1-kings",
+      "chapter": 16,
+      "verse": 13,
+      "original": "for all the sins of Baasha, and the sins of Elah his son, which they sinned, and with which they made Israel to sin, to provoke YHWH, the God of Israel, to anger with their vanities.",
+      "final": "for all the wrongdoings of Baasha and the wrongdoings of Elah his son, which they committed and led Israel to commit, provoking YHWH, the God of Israel, to anger with their vanities.",
+      "notes": [
+        "Hebrew historical formula for cultic misconduct: actual wrongdoing, not an innocent failure",
+        "Full-clause language QA: repair dangling clauses, avoid retained lexical terms, preserve intentional cultic wrongdoing."
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "1 Kings 16:19",
+      "slug": "1-kings",
+      "chapter": 16,
+      "verse": 19,
+      "original": "for his sins which he sinned in doing what was broken in the sight of YHWH, in walking in the way of Yerovam, and in his sin which he did, to make Israel to sin.",
+      "final": "for the wrongdoings he committed by doing what was broken in the sight of YHWH, following the way of Yerovam and leading Israel into wrongdoing.",
+      "notes": [
+        "Hebrew historical formula for cultic misconduct: actual wrongdoing, not an innocent failure",
+        "Full-clause language QA: repair dangling clauses, avoid retained lexical terms, preserve intentional cultic wrongdoing."
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "1 Kings 16:26",
+      "slug": "1-kings",
+      "chapter": 16,
+      "verse": 26,
+      "original": "For he walked in all the way of Yerovam the son of Nebat, and in his sins with which he made Israel to sin, to provoke YHWH, the God of Israel, to anger with their vanities.",
+      "final": "For he walked in all the way of Yerovam the son of Nebat, and in the wrongdoings by which he led Israel into wrongdoing, provoking YHWH, the God of Israel, to anger with their vanities.",
+      "notes": [
+        "Hebrew historical formula for cultic misconduct: actual wrongdoing, not an innocent failure",
+        "Full-clause language QA: repair dangling clauses, avoid retained lexical terms, preserve intentional cultic wrongdoing."
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "1 Kings 16:31",
+      "slug": "1-kings",
+      "chapter": 16,
+      "verse": 31,
+      "original": "It happened, as if it had been a light thing for him to walk in the sins of Yerovam the son of Nebat, that he took as wife Jezebel the daughter of Ethbaal king of the Sidonians, and went and served Baal, and worshiped him.",
+      "final": "It happened, as if it had been a light thing for him to walk in the wrongdoings of Yerovam the son of Nebat, that he took as wife Jezebel the daughter of Ethbaal king of the Sidonians, and went and served Baal, and worshiped him.",
+      "notes": [
+        "Hebrew historical formula for cultic misconduct: actual wrongdoing, not an innocent failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "1 Kings 21:22",
+      "slug": "1-kings",
+      "chapter": 21,
+      "verse": 22,
+      "original": "and I will make your house like the house of Yerovam the son of Nebat, and like the house of Baasha the son of Ahijah for the provocation with which you have provoked me to anger, and have made Israel to sin.",
+      "final": "and I will make your house like the house of Yerovam the son of Nebat, and like the house of Baasha the son of Ahijah for the provocation with which you have provoked me to anger, and have led Israel into wrongdoing.",
+      "notes": [
+        "Hebrew historical formula for cultic misconduct: actual wrongdoing, not an innocent failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "1 Kings 22:52",
+      "slug": "1-kings",
+      "chapter": 22,
+      "verse": 52,
+      "original": "He did what was broken in the sight of YHWH, and walked in the way of his father, and in the way of his mother, and in the way of Yerovam the son of Nebat, in which he made Israel to sin.",
+      "final": "He did what was broken in the sight of YHWH, and walked in the way of his father, and in the way of his mother, and in the way of Yerovam the son of Nebat, in which he led Israel into wrongdoing.",
+      "notes": [
+        "Hebrew historical formula for cultic misconduct: actual wrongdoing, not an innocent failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "2 Kings 3:3",
+      "slug": "2-kings",
+      "chapter": 3,
+      "verse": 3,
+      "original": "Nevertheless he cleaved to the sins of Yerovam the son of Nebat, with which he made Israel to sin; he didn't depart from it.",
+      "final": "Nevertheless he cleaved to the wrongdoings of Yerovam the son of Nebat, with which he led Israel into wrongdoing; he didn't depart from it.",
+      "notes": [
+        "Hebrew historical formula for cultic misconduct: actual wrongdoing, not an innocent failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "2 Kings 10:29",
+      "slug": "2-kings",
+      "chapter": 10,
+      "verse": 29,
+      "original": "However from the sins of Yerovam the son of Nebat, with which he made Israel to sin, Yehu didn't depart from after them, [to wit], the golden calves that were in Beit El, and that were in Dan.",
+      "final": "However from the wrongdoings of Yerovam the son of Nebat, with which he led Israel into wrongdoing, Yehu didn't depart from after them, [to wit], the golden calves that were in Beit El, and that were in Dan.",
+      "notes": [
+        "Hebrew historical formula for cultic misconduct: actual wrongdoing, not an innocent failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "2 Kings 10:31",
+      "slug": "2-kings",
+      "chapter": 10,
+      "verse": 31,
+      "original": "But Yehu took no heed to walk in the law of YHWH, the God of Israel, with all his heart: he didn't depart from the sins of Yerovam, with which he made Israel to sin.",
+      "final": "But Yehu took no heed to walk in the law of YHWH, the God of Israel, with all his heart: he didn't depart from the wrongdoings of Yerovam, with which he led Israel into wrongdoing.",
+      "notes": [
+        "Hebrew historical formula for cultic misconduct: actual wrongdoing, not an innocent failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "2 Kings 12:16",
+      "slug": "2-kings",
+      "chapter": 12,
+      "verse": 16,
+      "original": "The money for the trespass offerings, and the money for the sin offerings, was not brought into the house of YHWH: it was the priests'.",
+      "final": "The money for the trespass offerings, and the money for the purification offerings, was not brought into the house of YHWH: it was the priests'.",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "2 Kings 13:2",
+      "slug": "2-kings",
+      "chapter": 13,
+      "verse": 2,
+      "original": "He did what was broken in the sight of YHWH, and followed the sins of Yerovam the son of Nebat, with which he made Israel to sin; he didn't depart from it.",
+      "final": "He did what was broken in the sight of YHWH, and followed the wrongdoings of Yerovam the son of Nebat, with which he led Israel into wrongdoing; he didn't depart from it.",
+      "notes": [
+        "Hebrew historical formula for cultic misconduct: actual wrongdoing, not an innocent failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "2 Kings 13:6",
+      "slug": "2-kings",
+      "chapter": 13,
+      "verse": 6,
+      "original": "Nevertheless they didn't depart from the sins of the house of Yerovam, with which he made Israel to sin, but walked therein: and there remained the Asherah also in Shomron.)",
+      "final": "Nevertheless they didn't depart from the wrongdoings of the house of Yerovam, by which he led Israel into wrongdoing, but walked therein: and there remained the Asherah also in Shomron.)",
+      "notes": [
+        "Hebrew historical formula for cultic misconduct: actual wrongdoing, not an innocent failure",
+        "Full-clause language QA: repair dangling clauses, avoid retained lexical terms, preserve intentional cultic wrongdoing."
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "2 Kings 13:11",
+      "slug": "2-kings",
+      "chapter": 13,
+      "verse": 11,
+      "original": "He did what was broken in the sight of YHWH; he didn't depart from all the sins of Yerovam the son of Nebat, with which he made Israel to sin; but he walked therein.",
+      "final": "He did what was broken in the sight of YHWH; he didn't depart from all the wrongdoings of Yerovam the son of Nebat, with which he led Israel into wrongdoing; but he walked therein.",
+      "notes": [
+        "Hebrew historical formula for cultic misconduct: actual wrongdoing, not an innocent failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "2 Kings 14:24",
+      "slug": "2-kings",
+      "chapter": 14,
+      "verse": 24,
+      "original": "He did what was broken in the sight of YHWH: he didn't depart from all the sins of Yerovam the son of Nebat, with which he made Israel to sin.",
+      "final": "He did what was broken in the sight of YHWH: he didn't depart from all the wrongdoings of Yerovam the son of Nebat, with which he led Israel into wrongdoing.",
+      "notes": [
+        "Hebrew historical formula for cultic misconduct: actual wrongdoing, not an innocent failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "2 Kings 15:9",
+      "slug": "2-kings",
+      "chapter": 15,
+      "verse": 9,
+      "original": "He did what was broken in the sight of YHWH, as his fathers had done: he didn't depart from the sins of Yerovam the son of Nebat, with which he made Israel to sin.",
+      "final": "He did what was broken in the sight of YHWH, as his fathers had done: he didn't depart from the wrongdoings of Yerovam the son of Nebat, with which he led Israel into wrongdoing.",
+      "notes": [
+        "Hebrew historical formula for cultic misconduct: actual wrongdoing, not an innocent failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "2 Kings 15:18",
+      "slug": "2-kings",
+      "chapter": 15,
+      "verse": 18,
+      "original": "He did what was broken in the sight of YHWH: he didn't depart all his days from the sins of Yerovam the son of Nebat, with which he made Israel to sin.",
+      "final": "He did what was broken in the sight of YHWH: he didn't depart all his days from the wrongdoings of Yerovam the son of Nebat, with which he led Israel into wrongdoing.",
+      "notes": [
+        "Hebrew historical formula for cultic misconduct: actual wrongdoing, not an innocent failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "2 Kings 15:24",
+      "slug": "2-kings",
+      "chapter": 15,
+      "verse": 24,
+      "original": "He did what was broken in the sight of YHWH: he didn't depart from the sins of Yerovam the son of Nebat, with which he made Israel to sin.",
+      "final": "He did what was broken in the sight of YHWH: he didn't depart from the wrongdoings of Yerovam the son of Nebat, with which he led Israel into wrongdoing.",
+      "notes": [
+        "Hebrew historical formula for cultic misconduct: actual wrongdoing, not an innocent failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "2 Kings 15:28",
+      "slug": "2-kings",
+      "chapter": 15,
+      "verse": 28,
+      "original": "He did what was broken in the sight of YHWH: he didn't depart from the sins of Yerovam the son of Nebat, with which he made Israel to sin.",
+      "final": "He did what was broken in the sight of YHWH: he didn't depart from the wrongdoings of Yerovam the son of Nebat, with which he led Israel into wrongdoing.",
+      "notes": [
+        "Hebrew historical formula for cultic misconduct: actual wrongdoing, not an innocent failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "2 Kings 17:22",
+      "slug": "2-kings",
+      "chapter": 17,
+      "verse": 22,
+      "original": "The children of Israel walked in all the sins of Yerovam which he did; they didn't depart from them;",
+      "final": "The children of Israel walked in all the wrongdoings of Yerovam which he did; they didn't depart from them;",
+      "notes": [
+        "Hebrew historical formula for cultic misconduct: actual wrongdoing, not an innocent failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "2 Kings 23:15",
+      "slug": "2-kings",
+      "chapter": 23,
+      "verse": 15,
+      "original": "Moreover the altar that was at Beit El, and the high place which Yerovam the son of Nebat, who made Israel to sin, had made, even that altar and the high place he broke down; and he burned the high place and beat it to dust, and burned the Asherah.",
+      "final": "Moreover the altar that was at Beit El, and the high place which Yerovam the son of Nebat, who led Israel into wrongdoing, had made, even that altar and the high place he broke down; and he burned the high place and beat it to dust, and burned the Asherah.",
+      "notes": [
+        "Hebrew historical formula for cultic misconduct: actual wrongdoing, not an innocent failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "2 Chronicles 29:21",
+      "slug": "2-chronicles",
+      "chapter": 29,
+      "verse": 21,
+      "original": "They brought seven bulls, and seven rams, and seven lambs, and seven male goats, for a sin offering for the kingdom and for the sanctuary and for Yehudah. He commanded the priests the sons of Aharon to offer them on the altar of YHWH.",
+      "final": "They brought seven bulls, and seven rams, and seven lambs, and seven male goats, for a purification offering for the kingdom and for the sanctuary and for Yehudah. He commanded the priests the sons of Aharon to offer them on the altar of YHWH.",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "2 Chronicles 29:23",
+      "slug": "2-chronicles",
+      "chapter": 29,
+      "verse": 23,
+      "original": "They brought near the male goats for the sin offering before the king and the assembly; and they laid their hands on them:",
+      "final": "They brought near the male goats for the purification offering before the king and the assembly; and they laid their hands on them:",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "2 Chronicles 29:24",
+      "slug": "2-chronicles",
+      "chapter": 29,
+      "verse": 24,
+      "original": "and the priests killed them, and they made a sin offering with their blood on the altar, to make atonement for all Israel; for the king commanded [that] the burnt offering and the sin offering [should be made] for all Israel.",
+      "final": "and the priests killed them, and they made a purification offering with their blood on the altar, to make atonement for all Israel; for the king commanded [that] the burnt offering and the purification offering [should be made] for all Israel.",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Ezra 6:17",
+      "slug": "ezra",
+      "chapter": 6,
+      "verse": 17,
+      "original": "They offered at the dedication of this house of Elohim one hundred bulls, two hundred rams, four hundred lambs; and for a sin offering for all Israel, twelve male goats, according to the number of the tribes of Israel.",
+      "final": "They offered at the dedication of this house of Elohim one hundred bulls, two hundred rams, four hundred lambs; and for a purification offering for all Israel, twelve male goats, according to the number of the tribes of Israel.",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Ezra 8:35",
+      "slug": "ezra",
+      "chapter": 8,
+      "verse": 35,
+      "original": "The children of the captivity, who had come out of exile, offered burnt offerings to the God of Israel, twelve bulls for all Israel, ninety-six rams, seventy-seven lambs, and twelve male goats for a sin offering: all this was a burnt offering to YHWH.",
+      "final": "The children of the captivity, who had come out of exile, offered burnt offerings to the God of Israel, twelve bulls for all Israel, ninety-six rams, seventy-seven lambs, and twelve male goats for a purification offering: all this was a burnt offering to YHWH.",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Nehemiah 10:33",
+      "slug": "nehemiah",
+      "chapter": 10,
+      "verse": 33,
+      "original": "for the show bread, and for the continual meal offering, and for the continual burnt offering, for the Sabbaths, for the new moons, for the set feasts, and for the holy things, and for the sin offerings to make atonement for Israel, and for all the work of the house of our God.",
+      "final": "for the show bread, and for the continual meal offering, and for the continual burnt offering, for the Sabbaths, for the new moons, for the set feasts, and for the holy things, and for the purification offerings to make atonement for Israel, and for all the work of the house of our God.",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Psalms 40:6",
+      "slug": "psalms",
+      "chapter": 40,
+      "verse": 6,
+      "original": "Sacrifice and offering you didn't desire. You have opened my ears. You have not required burnt offering and sin offering.",
+      "final": "Sacrifice and offering you didn't desire. You have opened my ears. You have not required burnt offering and purification offering.",
+      "notes": [
+        "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure"
+      ],
+      "stagedForSourceReview": true
+    }
+  ]
+}

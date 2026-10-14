@@ -1,0 +1,1365 @@
+{
+  "baselineEpubSha256": "b5500415431a339ba10c7021e9b091b7af38f0badb2a4d9e1e7cc0e15f46b943",
+  "status": "Per-passage contextual review overrides; exact original → revised for merged wave 2",
+  "errors": [],
+  "edits": [
+    {
+      "reference": "Genesis 18:20",
+      "slug": "genesis",
+      "chapter": 18,
+      "verse": 20,
+      "original": "YHWH said, “Because the cry of Sedom and Amora is great, and because their sin is very grievous,",
+      "final": "YHWH said, “Because the cry of Sedom and Amora is great, and because their wrongdoing is very grievous,",
+      "notes": [
+        "Targeted context/source revision: their sin is very grievous → their wrongdoing is very grievous"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Genesis 31:36",
+      "slug": "genesis",
+      "chapter": 31,
+      "verse": 36,
+      "original": "Yaakov was angry, and argued with Lavan. Yaakov answered Lavan, “What is my trespass? What is my sin, that you have hotly pursued me?",
+      "final": "Yaakov was angry, and argued with Lavan. Yaakov answered Lavan, “What is my trespass? What wrong have I done, that you have hotly pursued me?",
+      "notes": [
+        "Targeted context/source revision: What is my sin → What wrong have I done"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Genesis 50:17",
+      "slug": "genesis",
+      "chapter": 50,
+      "verse": 17,
+      "original": "‘You shall tell Yosef, “Now please forgive the disobedience of your brothers, and their sin, because they did wrong to you.”’ Now, please forgive the disobedience of the servants of the God of your father.” Yosef wept when they spoke to him.",
+      "final": "‘You shall tell Yosef, “Now please forgive the disobedience of your brothers, and their wrongdoing, because they did wrong to you.”’ Now, please forgive the disobedience of the servants of the God of your father.” Yosef wept when they spoke to him.",
+      "notes": [
+        "Targeted context/source revision: their sin, because → their wrongdoing, because"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Leviticus 4:28",
+      "slug": "leviticus",
+      "chapter": 4,
+      "verse": 28,
+      "original": "if his sin, which he has sinned, is made known to him, then he shall bring for his offering a goat, a female without blemish, for his sin which he has sinned.",
+      "final": "if the wrong he has committed, is made known to him, then he shall bring for his offering a goat, a female without blemish, for the wrongdoing he committed.",
+      "notes": [
+        "Contextual human/ritual responsibility: his sin, which he has sinned → the wrong he has committed",
+        "Targeted context/source revision: for his sin which he has sinned → for the wrongdoing he committed"
+      ],
+      "supersedesDraft": true,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Numbers 32:14",
+      "slug": "numbers",
+      "chapter": 32,
+      "verse": 14,
+      "original": "Behold, you are risen up in your fathers' place, an increase of sinful men, to augment yet the fierce anger of YHWH toward Israel.",
+      "final": "Behold, you are risen up in your fathers' place, an increase of people doing wrong, to augment yet the fierce anger of YHWH toward Israel.",
+      "notes": [
+        "Targeted context/source revision: an increase of sinful men → an increase of people doing wrong"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Deuteronomy 9:18",
+      "slug": "deuteronomy",
+      "chapter": 9,
+      "verse": 18,
+      "original": "I fell down before YHWH, as at the first, forty days and forty nights; I did neither eat bread nor drink water; because of all your sin which you sinned, in doing what was broken in the sight of YHWH, to provoke YHWH to anger.",
+      "final": "I fell down before YHWH, as at the first, forty days and forty nights; I did neither eat bread nor drink water; because of all the wrongdoing you committed, in doing what was broken in the sight of YHWH, to provoke YHWH to anger.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context",
+        "Targeted context/source revision: all your sin which you acted wrongly → all the wrongdoing you committed"
+      ],
+      "supersedesDraft": true,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Deuteronomy 9:27",
+      "slug": "deuteronomy",
+      "chapter": 9,
+      "verse": 27,
+      "original": "Remember your servants, Avraham, Yitzhak, and Ya'akov; don't look to the stubbornness of this people, nor to their wickedness, nor to their sin,",
+      "final": "Remember your servants, Avraham, Yitzhak, and Ya'akov; don't look to the stubbornness of this people, nor to their wickedness, nor to their wrongdoing,",
+      "notes": [
+        "Targeted context/source revision: their sin → their wrongdoing"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Deuteronomy 15:9",
+      "slug": "deuteronomy",
+      "chapter": 15,
+      "verse": 9,
+      "original": "Beware that there not be a base thought in your heart, saying, The seventh year, the year of release, is at hand; and your eye be harm against your poor brother, and you give him nothing; and he cry to YHWH against you, and it be sin to you.",
+      "final": "Beware that there not be a base thought in your heart, saying, The seventh year, the year of release, is at hand; and your eye be harm against your poor brother, and you give him nothing; and he cry to YHWH against you, and you be held responsible for wrongdoing.",
+      "notes": [
+        "Targeted context/source revision: it be sin to you → you be held responsible for wrongdoing"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Deuteronomy 20:18",
+      "slug": "deuteronomy",
+      "chapter": 20,
+      "verse": 18,
+      "original": "that they not teach you to do after all their abominations, which they have done to their gods; so would you sin against YHWH your God.",
+      "final": "that they not teach you to do after all their abominations, which they have done to their gods; so would you do wrong against YHWH your God.",
+      "notes": [
+        "Targeted context/source revision: would you sin against → would you do wrong against"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Deuteronomy 22:26",
+      "slug": "deuteronomy",
+      "chapter": 22,
+      "verse": 26,
+      "original": "but to the lady you shall do nothing; there is in the lady no sin worthy of death: for as when someone rises against their neighbor, and kills him, even so is this matter;",
+      "final": "but to the lady you shall do nothing; there is in the lady no wrongdoing deserving death: for as when someone rises against their neighbor, and kills him, even so is this matter;",
+      "notes": [
+        "Targeted context/source revision: no sin worthy of death → no wrongdoing deserving death"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Deuteronomy 23:21",
+      "slug": "deuteronomy",
+      "chapter": 23,
+      "verse": 21,
+      "original": "When you shall vow a vow to YHWH your God, you shall not be slack to pay it: for YHWH your God will surely require it of you; and it would be sin in you.",
+      "final": "When you shall vow a vow to YHWH your God, you shall not be slack to pay it: for YHWH your God will surely require it of you; and you would be guilty of wrongdoing.",
+      "notes": [
+        "Targeted context/source revision: it would be sin in you → you would be guilty of wrongdoing"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Deuteronomy 24:4",
+      "slug": "deuteronomy",
+      "chapter": 24,
+      "verse": 4,
+      "original": "her former husband, who sent her away, may not take her again to be his wife, after that she is defiled; for that is abomination before YHWH: and you shall not cause the land to sin, which YHWH your God gives you for an inheritance.",
+      "final": "her former husband, who sent her away, may not take her again to be his wife, after that she is defiled; for that is abomination before YHWH: and you shall not bring wrongdoing upon the land, which YHWH your God gives you for an inheritance.",
+      "notes": [
+        "Targeted context/source revision: cause the land to sin → bring wrongdoing upon the land"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Deuteronomy 24:16",
+      "slug": "deuteronomy",
+      "chapter": 24,
+      "verse": 16,
+      "original": "The fathers shall not be put to death for the children, neither shall the children be put to death for the fathers: everyone shall be put to death for their own sin.",
+      "final": "The fathers shall not be put to death for the children, neither shall the children be put to death for the fathers: everyone shall be put to death for their own wrongdoing.",
+      "notes": [
+        "Targeted context/source revision: their own sin → their own wrongdoing"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "1 Samuel 2:17",
+      "slug": "1-samuel",
+      "chapter": 2,
+      "verse": 17,
+      "original": "The sin of the young people was very great before YHWH; for the men despised the offering of YHWH.",
+      "final": "The wrongdoing of the young people was very great before YHWH; for the men despised the offering of YHWH.",
+      "notes": [
+        "Targeted context/source revision: The sin of the young people → The wrongdoing of the young people"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "1 Samuel 2:25",
+      "slug": "1-samuel",
+      "chapter": 2,
+      "verse": 25,
+      "original": "If one man sin against another, Elohim shall judge him; but if someone sin against YHWH, who shall entreat for them? Notwithstanding, they didn't listen to the voice of their father, because YHWH was minded to kill them.",
+      "final": "If one person wrongs another, Elohim shall judge him; but if someone does wrong against YHWH, who shall entreat for them? Notwithstanding, they didn't listen to the voice of their father, because YHWH was minded to kill them.",
+      "notes": [
+        "Targeted context/source revision: If one man sin against another → If one person wrongs another",
+        "Targeted context/source revision: if someone sin against YHWH → if someone does wrong against YHWH"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "1 Samuel 12:23",
+      "slug": "1-samuel",
+      "chapter": 12,
+      "verse": 23,
+      "original": "Moreover as for me, far be it from me that I should sin against YHWH in ceasing to pray for you: but I will instruct you in the good and the right way.",
+      "final": "Moreover as for me, far be it from me that I should fail morally by ceasing to pray for you: but I will instruct you in the good and the right way.",
+      "notes": [
+        "Targeted context/source revision: should sin against YHWH in ceasing to pray → should fail morally by ceasing to pray"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "1 Samuel 14:34",
+      "slug": "1-samuel",
+      "chapter": 14,
+      "verse": 34,
+      "original": "Shaul said, Disperse yourselves among the people, and tell them, Bring me here everyone their ox, and everyone their sheep, and kill them here, and eat; and don't sin against YHWH in eating with the blood. All the people brought everyone their ox with him that night, and killed them there.",
+      "final": "Shaul said, Disperse yourselves among the people, and tell them, Bring me here everyone their ox, and everyone their sheep, and kill them here, and eat; and don't do wrong against YHWH in eating with the blood. All the people brought everyone their ox with him that night, and killed them there.",
+      "notes": [
+        "Targeted context/source revision: don't sin against YHWH → don't do wrong against YHWH"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "1 Samuel 15:18",
+      "slug": "1-samuel",
+      "chapter": 15,
+      "verse": 18,
+      "original": "and YHWH sent you on a journey, and said, 'Go, and utterly destroy the sinners the Amalekites, and fight against them until they are consumed.'",
+      "final": "and YHWH sent you on a journey, and said, 'Go, and utterly destroy the Amalekites, whom this oracle condemns as wrongdoers, and fight against them until they are consumed.'",
+      "notes": [
+        "Targeted context/source revision: destroy the sinners the Amalekites → destroy the Amalekites, whom this oracle condemns as wrongdoers"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "1 Samuel 15:25",
+      "slug": "1-samuel",
+      "chapter": 15,
+      "verse": 25,
+      "original": "Now therefore, please pardon my sin, and turn again with me, that I may worship YHWH.",
+      "final": "Now therefore, please pardon my wrongdoing, and turn again with me, that I may worship YHWH.",
+      "notes": [
+        "Targeted context/source revision: pardon my sin → pardon my wrongdoing"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "1 Samuel 19:4",
+      "slug": "1-samuel",
+      "chapter": 19,
+      "verse": 4,
+      "original": "Yonatan spoke good of Dawid to Shaul his father, and said to him, Don't let the king sin against his servant, against Dawid; because he has not sinned against you, and because his works have been very good toward you:",
+      "final": "Yonatan spoke good of Dawid to Shaul his father, and said to him, Don't let the king wrong his servant, against Dawid; because he has not acted wrongly against you, and because his works have been very good toward you:",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context",
+        "Targeted context/source revision: Don't let the king sin against his servant → Don't let the king wrong his servant"
+      ],
+      "supersedesDraft": true,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "1 Samuel 20:1",
+      "slug": "1-samuel",
+      "chapter": 20,
+      "verse": 1,
+      "original": "Dawid fled from Naioth in Ramah, and came and said before Yonatan, \"What have I done? What is my iniquity?\" and \"What is my sin before your father, that he seeks my life?\"",
+      "final": "Dawid fled from Naioth in Ramah, and came and said before Yonatan, \"What have I done? What is my iniquity?\" and \"What wrong have I done before your father, that he seeks my life?\"",
+      "notes": [
+        "Targeted context/source revision: What is my sin before your father → What wrong have I done before your father"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "1 Kings 8:34",
+      "slug": "1-kings",
+      "chapter": 8,
+      "verse": 34,
+      "original": "then hear you in heavens, and forgive the sin of your people Israel, and bring them again to the land which you gave to their fathers.",
+      "final": "then hear you in heavens, and forgive the wrongdoing of your people Israel, and bring them again to the land which you gave to their fathers.",
+      "notes": [
+        "Targeted context/source revision: forgive the sin of your people → forgive the wrongdoing of your people"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "1 Kings 8:35",
+      "slug": "1-kings",
+      "chapter": 8,
+      "verse": 35,
+      "original": "When the heavens is shut up, and there is no rain, because they have sinned against you; if they pray toward this place, and confess your name, and turn from their sin, when you do afflict them:",
+      "final": "When the heavens is shut up, and there is no rain, because they have acted wrongly against you; if they pray toward this place, and confess your name, and turn from their wrongdoing, when you do afflict them:",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context",
+        "Targeted context/source revision: turn from their sin → turn from their wrongdoing"
+      ],
+      "supersedesDraft": true,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "1 Kings 12:30",
+      "slug": "1-kings",
+      "chapter": 12,
+      "verse": 30,
+      "original": "This thing became a sin; for the people went [to worship] before the one, even to Dan.",
+      "final": "This practice became wrongdoing; for the people went [to worship] before the one, even to Dan.",
+      "notes": [
+        "Targeted context/source revision: This thing became a sin → This practice became wrongdoing"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "1 Kings 14:16",
+      "slug": "1-kings",
+      "chapter": 14,
+      "verse": 16,
+      "original": "YHWH will give Israel up because of the sins of Yerovam, which he has sinned, and with which he has made Israel to sin.",
+      "final": "YHWH will give Israel up because of the wrongdoings of Yerovam, which he committed, and with which he has led Israel into wrongdoing.",
+      "notes": [
+        "Hebrew historical formula for cultic misconduct: actual wrongdoing, not an innocent failure",
+        "Targeted context/source revision: which he has sinned → which he committed"
+      ],
+      "supersedesDraft": true,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "1 Kings 15:26",
+      "slug": "1-kings",
+      "chapter": 15,
+      "verse": 26,
+      "original": "He did what was broken in the sight of YHWH, and walked in the way of his father, and in his sin with which he made Israel to sin.",
+      "final": "He did what was broken in the sight of YHWH, and walked in the way of his father, and in the wrongdoing through which he led Israel into wrongdoing.",
+      "notes": [
+        "Hebrew historical formula for cultic misconduct: actual wrongdoing, not an innocent failure",
+        "Targeted context/source revision: in his sin with which he led → in the wrongdoing through which he led"
+      ],
+      "supersedesDraft": true,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "1 Kings 15:34",
+      "slug": "1-kings",
+      "chapter": 15,
+      "verse": 34,
+      "original": "He did what was broken in the sight of YHWH, and walked in the way of Yerovam, and in his sin with which he made Israel to sin.",
+      "final": "He did what was broken in the sight of YHWH, and walked in the way of Yerovam, and in the wrongdoing through which he led Israel into wrongdoing.",
+      "notes": [
+        "Hebrew historical formula for cultic misconduct: actual wrongdoing, not an innocent failure",
+        "Targeted context/source revision: in his sin with which he led → in the wrongdoing through which he led"
+      ],
+      "supersedesDraft": true,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "1 Kings 16:2",
+      "slug": "1-kings",
+      "chapter": 16,
+      "verse": 2,
+      "original": "Because I exalted you out of the dust, and made you prince over my people Israel, and you have walked in the way of Yerovam, and have made my people Israel to sin, to provoke me to anger with their sins;",
+      "final": "Because I exalted you out of the dust, and made you prince over my people Israel, and you have walked in the way of Yerovam, and have led my people Israel into wrongdoing, to provoke me to anger with their wrongdoings;",
+      "notes": [
+        "Hebrew historical formula for cultic misconduct: actual wrongdoing, not an innocent failure",
+        "Targeted context/source revision: made my people Israel into wrongdoing → led my people Israel into wrongdoing",
+        "Targeted context/source revision: their sins → their wrongdoings"
+      ],
+      "supersedesDraft": true,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "1 Kings 16:19",
+      "slug": "1-kings",
+      "chapter": 16,
+      "verse": 19,
+      "original": "for his sins which he sinned in doing what was broken in the sight of YHWH, in walking in the way of Yerovam, and in his sin which he did, to make Israel to sin.",
+      "final": "for the wrongs he committed in doing what was broken in the sight of YHWH, in walking in the way of Yerovam, and in the wrongdoing he practiced, to make Israel into wrongdoing.",
+      "notes": [
+        "Hebrew historical formula for cultic misconduct: actual wrongdoing, not an innocent failure",
+        "Targeted context/source revision: his sins which he sinned → the wrongs he committed",
+        "Targeted context/source revision: in his sin which he did → in the wrongdoing he practiced"
+      ],
+      "supersedesDraft": true,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "1 Kings 16:26",
+      "slug": "1-kings",
+      "chapter": 16,
+      "verse": 26,
+      "original": "For he walked in all the way of Yerovam the son of Nebat, and in his sins with which he made Israel to sin, to provoke YHWH, the God of Israel, to anger with their vanities.",
+      "final": "For he walked in all the way of Yerovam the son of Nebat, and in his wrongdoings with which he led Israel into wrongdoing, to provoke YHWH, the God of Israel, to anger with their vanities.",
+      "notes": [
+        "Hebrew historical formula for cultic misconduct: actual wrongdoing, not an innocent failure",
+        "Targeted context/source revision: his sins with which → his wrongdoings with which"
+      ],
+      "supersedesDraft": true,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "1 Kings 17:18",
+      "slug": "1-kings",
+      "chapter": 17,
+      "verse": 18,
+      "original": "She said to Eliyahu, What have I to do with you, you man of Elohim? You have come to me to bring my sin to memory, and to kill my son!",
+      "final": "She said to Eliyahu, What have I to do with you, you man of Elohim? You have come to me to bring my wrongdoing to remembrance, and to kill my son!",
+      "notes": [
+        "Targeted context/source revision: my sin to memory → my wrongdoing to remembrance"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "2 Kings 13:6",
+      "slug": "2-kings",
+      "chapter": 13,
+      "verse": 6,
+      "original": "Nevertheless they didn't depart from the sins of the house of Yerovam, with which he made Israel to sin, but walked therein: and there remained the Asherah also in Shomron.)",
+      "final": "Nevertheless they didn't depart from the wrongdoings of the house of Yerovam, with which he led Israel into wrongdoing, but walked therein: and there remained the Asherah also in Shomron.)",
+      "notes": [
+        "Hebrew historical formula for cultic misconduct: actual wrongdoing, not an innocent failure",
+        "Targeted context/source revision: the sins of the house of Yerovam → the wrongdoings of the house of Yerovam"
+      ],
+      "supersedesDraft": true,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "2 Kings 14:6",
+      "slug": "2-kings",
+      "chapter": 14,
+      "verse": 6,
+      "original": "but the children of the murderers he didn't put to death; according to that which is written in the book of the law of Moshe, as YHWH commanded, saying, The fathers shall not be put to death for the children, nor the children be put to death for the fathers; but everyone shall die for their own sin.",
+      "final": "but the children of the murderers he didn't put to death; according to that which is written in the book of the law of Moshe, as YHWH commanded, saying, The fathers shall not be put to death for the children, nor the children be put to death for the fathers; but everyone shall die for their own wrongdoing.",
+      "notes": [
+        "Targeted context/source revision: their own sin → their own wrongdoing"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "2 Kings 17:21",
+      "slug": "2-kings",
+      "chapter": 17,
+      "verse": 21,
+      "original": "For he tore Israel from the house of Dawid; and they made Yerovam the son of Nebat king: and Yerovam drove Israel from following YHWH, and made them sin a great sin.",
+      "final": "For he tore Israel from the house of Dawid; and they made Yerovam the son of Nebat king: and Yerovam drove Israel from following YHWH, and led them into grave wrongdoing.",
+      "notes": [
+        "Targeted context/source revision: made them sin a great sin → led them into grave wrongdoing"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "2 Kings 21:11",
+      "slug": "2-kings",
+      "chapter": 21,
+      "verse": 11,
+      "original": "Because Menashe king of Yehudah has done these abominations, and has done wickedly above all that the Amorites did, who were before him, and has made Yehudah also to sin with his idols;",
+      "final": "Because Menashe king of Yehudah has done these abominations, and has done wickedly above all that the Amorites did, who were before him, and has led Yehudah into wrongdoing through his idols;",
+      "notes": [
+        "Targeted context/source revision: made Yehudah also to sin with his idols → led Yehudah into wrongdoing through his idols"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "2 Kings 21:17",
+      "slug": "2-kings",
+      "chapter": 21,
+      "verse": 17,
+      "original": "Now the rest of the acts of Menashe, and all that he did, and his sin that he sinned, aren't they written in the book of the chronicles of the kings of Yehudah?",
+      "final": "Now the rest of the acts of Menashe, and all that he did, and the wrongdoing he committed, aren't they written in the book of the chronicles of the kings of Yehudah?",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context",
+        "Targeted context/source revision: his sin that he acted wrongly → the wrongdoing he committed"
+      ],
+      "supersedesDraft": true,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "2 Chronicles 6:25",
+      "slug": "2-chronicles",
+      "chapter": 6,
+      "verse": 25,
+      "original": "then hear from heavens, and forgive the sin of your people Israel, and bring them again to the land which you gave to them and to their fathers.",
+      "final": "then hear from heavens, and forgive the wrongdoing of your people Israel, and bring them again to the land which you gave to them and to their fathers.",
+      "notes": [
+        "Targeted context/source revision: forgive the sin of your people → forgive the wrongdoing of your people"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "2 Chronicles 6:26",
+      "slug": "2-chronicles",
+      "chapter": 6,
+      "verse": 26,
+      "original": "When the heavens is shut up, and there is no rain, because they have sinned against you; if they pray toward this place, and confess your name, and turn from their sin, when you do afflict them:",
+      "final": "When the heavens is shut up, and there is no rain, because they have acted wrongly against you; if they pray toward this place, and confess your name, and turn from their wrongdoing, when you do afflict them:",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context",
+        "Targeted context/source revision: turn from their sin → turn from their wrongdoing"
+      ],
+      "supersedesDraft": true,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "2 Chronicles 6:36",
+      "slug": "2-chronicles",
+      "chapter": 6,
+      "verse": 36,
+      "original": "If they sin against you (for there is no one who doesn't sin), and you are angry with them, and deliver them to the enemy, so that they carry them away captive to a land far off or near;",
+      "final": "If they do wrong against you (for there is no one who never does wrong), and you are angry with them, and deliver them to the enemy, so that they carry them away captive to a land far off or near;",
+      "notes": [
+        "Targeted context/source revision: If they sin against you (for there is no one who doesn't sin) → If they do wrong against you (for there is no one who never does wrong)"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "2 Chronicles 7:14",
+      "slug": "2-chronicles",
+      "chapter": 7,
+      "verse": 14,
+      "original": "if my people, who are called by my name, shall humble themselves, and pray, and seek my face, and turn from their wicked ways; then will I hear from heavens, and will forgive their sin, and will heal their land.",
+      "final": "if my people, who are called by my name, shall humble themselves, and pray, and seek my face, and turn from their wicked ways; then will I hear from heavens, and will forgive their wrongdoing, and will heal their land.",
+      "notes": [
+        "Targeted context/source revision: forgive their sin → forgive their wrongdoing"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "2 Chronicles 25:4",
+      "slug": "2-chronicles",
+      "chapter": 25,
+      "verse": 4,
+      "original": "But he didn't put their children to death, but did according to that which is written in the law in the book of Moshe, as YHWH commanded, saying, The fathers shall not die for the children, neither shall the children die for the fathers; but everyone shall die for their own sin.",
+      "final": "But he didn't put their children to death, but did according to that which is written in the law in the book of Moshe, as YHWH commanded, saying, The fathers shall not die for the children, neither shall the children die for the fathers; but everyone shall die for their own wrongdoing.",
+      "notes": [
+        "Targeted context/source revision: their own sin → their own wrongdoing"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "2 Chronicles 33:19",
+      "slug": "2-chronicles",
+      "chapter": 33,
+      "verse": 19,
+      "original": "His prayer also, and how [Elohim] was entreated of him, and all his sin and his trespass, and the places in which he built high places, and set up the Asherim and the engraved images, before he humbled himself: behold, they are written in the history of Hozai.",
+      "final": "His prayer also, and how [Elohim] was entreated of him, and all his wrongdoing and his trespass, and the places in which he built high places, and set up the Asherim and the engraved images, before he humbled himself: behold, they are written in the history of Hozai.",
+      "notes": [
+        "Targeted context/source revision: all his sin and his trespass → all his wrongdoing and his trespass"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Nehemiah 4:5",
+      "slug": "nehemiah",
+      "chapter": 4,
+      "verse": 5,
+      "original": "and don't cover their iniquity, and don't let their sin be blotted out from before you; for they have provoked [you] to anger before the builders.",
+      "final": "and don't cover their iniquity, and don't let their wrongdoing be blotted out from before you; for they have provoked [you] to anger before the builders.",
+      "notes": [
+        "Targeted context/source revision: their sin be blotted out → their wrongdoing be blotted out"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Nehemiah 6:13",
+      "slug": "nehemiah",
+      "chapter": 6,
+      "verse": 13,
+      "original": "For this cause was he hired, that I should be afraid, and do so, and sin, and that they might have matter for a harmful report, that they might reproach me.",
+      "final": "For this cause was he hired, that I should be afraid, and do so, and act wrongly, so that they might have matter for a harmful report, that they might reproach me.",
+      "notes": [
+        "Targeted context/source revision: and sin, and that they → and act wrongly, so that they"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Nehemiah 13:26",
+      "slug": "nehemiah",
+      "chapter": 13,
+      "verse": 26,
+      "original": "Did not Shlomo king of Israel sin by these things? yet among many nations was there no king like him, and he was beloved of his God, and Elohim made him king over all Israel: nevertheless even him did foreign women cause to sin.",
+      "final": "Did not Shlomo king of Israel do wrong in these things? yet among many nations was there no king like him, and he was beloved of his God, and Elohim made him king over all Israel: nevertheless even him did foreign women lead into wrongdoing.",
+      "notes": [
+        "Targeted context/source revision: sin by these things → do wrong in these things",
+        "Targeted context/source revision: cause to sin → lead into wrongdoing"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Job 1:22",
+      "slug": "job",
+      "chapter": 1,
+      "verse": 22,
+      "original": "In all this, Job did not sin, nor charge Elohim with wrongdoing.",
+      "final": "In all this, Job did no wrong, nor charge Elohim with wrongdoing.",
+      "notes": [
+        "Targeted context/source revision: did not sin → did no wrong"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Job 2:10",
+      "slug": "job",
+      "chapter": 2,
+      "verse": 10,
+      "original": "But he said to her, \"You speak as one of the foolish women would speak. What? Shall we receive good at the hand of Elohim, and shall we not receive adversity?\" In all this Job didn't sin with his lips.",
+      "final": "But he said to her, \"You speak as one of the foolish women would speak. What? Shall we receive good at the hand of Elohim, and shall we not receive adversity?\" In all this Job did no wrong with his lips.",
+      "notes": [
+        "Targeted context/source revision: didn't sin → did no wrong"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Job 10:6",
+      "slug": "job",
+      "chapter": 10,
+      "verse": 6,
+      "original": "that you inquire after my iniquity, and search after my sin?",
+      "final": "that you inquire after my iniquity, and search after my wrongdoing?",
+      "notes": [
+        "Targeted context/source revision: my sin → my wrongdoing"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Job 13:23",
+      "slug": "job",
+      "chapter": 13,
+      "verse": 23,
+      "original": "How many are my iniquities and sins? Make me know my disobedience and my sin.",
+      "final": "How many are my iniquities and moral failures? Make me know my disobedience and my wrongdoing.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context",
+        "Targeted context/source revision: my sin → my wrongdoing"
+      ],
+      "supersedesDraft": true,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Job 31:30",
+      "slug": "job",
+      "chapter": 31,
+      "verse": 30,
+      "original": "(yes, I have not allowed my mouth to sin by asking his life with a curse);",
+      "final": "(yes, I have not allowed my mouth to speak wrongly by asking his life with a curse);",
+      "notes": [
+        "Targeted context/source revision: my mouth to sin → my mouth to speak wrongly"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Job 34:37",
+      "slug": "job",
+      "chapter": 34,
+      "verse": 37,
+      "original": "For he adds rebellion to his sin. He claps his hands among us, and multiplies his words against Elohim.\"",
+      "final": "For he adds rebellion to his wrongdoing. He claps his hands among us, and multiplies his words against Elohim.\"",
+      "notes": [
+        "Targeted context/source revision: his sin → his wrongdoing"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Psalms 4:4",
+      "slug": "psalms",
+      "chapter": 4,
+      "verse": 4,
+      "original": "Stand in awe, and don't sin. Search your own heart on your bed, and be still. Selah.",
+      "final": "Stand in awe, and do no wrong. Search your own heart on your bed, and be still. Selah.",
+      "notes": [
+        "Targeted context/source revision: don't sin → do no wrong"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Psalms 36:2",
+      "slug": "psalms",
+      "chapter": 36,
+      "verse": 2,
+      "original": "For they flatter themselves in their own eyes, too much to detect and hate their sin.",
+      "final": "For they flatter themselves in their own eyes, too much to detect and hate their wrongdoing.",
+      "notes": [
+        "Targeted context/source revision: their sin → their wrongdoing"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Psalms 38:3",
+      "slug": "psalms",
+      "chapter": 38,
+      "verse": 3,
+      "original": "There is no soundness in my flesh because of your indignation, neither is there any health in my bones because of my sin.",
+      "final": "There is no soundness in my flesh because of your indignation, neither is there any health in my bones because of my moral failure.",
+      "notes": [
+        "Targeted context/source revision: my sin → my moral failure"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Psalms 51:2",
+      "slug": "psalms",
+      "chapter": 51,
+      "verse": 2,
+      "original": "Wash me thoroughly from my iniquity. Cleanse me from my sin.",
+      "final": "Wash me thoroughly from my iniquity. Cleanse me from my moral failure.",
+      "notes": [
+        "Targeted context/source revision: my sin → my moral failure"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Psalms 59:3",
+      "slug": "psalms",
+      "chapter": 59,
+      "verse": 3,
+      "original": "For, behold, they lie in wait for my soul. The mighty gather themselves together against me, not for my disobedience, nor for my sin, YHWH.",
+      "final": "For, behold, they lie in wait for my soul. The mighty gather themselves together against me, not for my disobedience, nor for my wrongdoing, YHWH.",
+      "notes": [
+        "Targeted context/source revision: my sin → my wrongdoing"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Psalms 66:18",
+      "slug": "psalms",
+      "chapter": 66,
+      "verse": 18,
+      "original": "If I cherished sin in my heart, YHWH wouldn't have listened.",
+      "final": "If I cherished wrongdoing in my heart, YHWH wouldn't have listened.",
+      "notes": [
+        "Targeted context/source revision: cherished sin in my heart → cherished wrongdoing in my heart"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Psalms 78:17",
+      "slug": "psalms",
+      "chapter": 78,
+      "verse": 17,
+      "original": "Yet they still went on to sin against the Most High, to rebel against the Most High in the desert.",
+      "final": "Yet they still went on to do wrong against the Most High, to rebel against the Most High in the desert.",
+      "notes": [
+        "Targeted context/source revision: to sin against → to do wrong against"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Psalms 85:2",
+      "slug": "psalms",
+      "chapter": 85,
+      "verse": 2,
+      "original": "You have forgiven the iniquity of your people. You have covered all their sin. Selah.",
+      "final": "You have forgiven the iniquity of your people. You have covered all their moral failures. Selah.",
+      "notes": [
+        "Targeted context/source revision: all their sin → all their moral failures"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Psalms 109:7",
+      "slug": "psalms",
+      "chapter": 109,
+      "verse": 7,
+      "original": "When he is judged, let him come forth guilty. Let his prayer be turned into sin.",
+      "final": "When he is judged, let him come forth guilty. Let his prayer be counted as wrongdoing.",
+      "notes": [
+        "Targeted context/source revision: prayer be turned into sin → prayer be counted as wrongdoing"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Psalms 119:11",
+      "slug": "psalms",
+      "chapter": 119,
+      "verse": 11,
+      "original": "I have hidden your word in my heart, that I might not sin against you.",
+      "final": "I have hidden your word in my heart, that I might not do wrong against you.",
+      "notes": [
+        "Targeted context/source revision: not sin against you → not do wrong against you"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Proverbs 5:22",
+      "slug": "proverbs",
+      "chapter": 5,
+      "verse": 22,
+      "original": "The wrong deeds of the wicked ensnare them. The cords of their sin hold them firmly.",
+      "final": "The wrong deeds of the wicked ensnare them. The cords of their wrongdoing hold them firmly.",
+      "notes": [
+        "Targeted context/source revision: cords of their sin → cords of their wrongdoing"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Proverbs 10:16",
+      "slug": "proverbs",
+      "chapter": 10,
+      "verse": 16,
+      "original": "The labor of the righteous leads to life. The increase of the wicked leads to sin.",
+      "final": "The labor of the righteous leads to life. The increase of the wicked leads to wrongdoing.",
+      "notes": [
+        "Targeted context/source revision: leads to sin → leads to wrongdoing"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Proverbs 12:13",
+      "slug": "proverbs",
+      "chapter": 12,
+      "verse": 13,
+      "original": "A wicked person is trapped by sinfulness of lips, but the righteous shall come out of trouble.",
+      "final": "A wicked person is trapped by wrongful speech, but the righteous shall come out of trouble.",
+      "notes": [
+        "Targeted context/source revision: sinfulness of lips → wrongful speech"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Proverbs 14:34",
+      "slug": "proverbs",
+      "chapter": 14,
+      "verse": 34,
+      "original": "Righteousness exalts a nation, but sin is a disgrace to any people.",
+      "final": "Righteousness exalts a nation, but wrongdoing is a disgrace to any people.",
+      "notes": [
+        "Targeted context/source revision: sin is a disgrace → wrongdoing is a disgrace"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Proverbs 20:9",
+      "slug": "proverbs",
+      "chapter": 20,
+      "verse": 9,
+      "original": "Who can say, \"I have made my heart pure. I am clean and without sin?\"",
+      "final": "Who can say, \"I have made my heart pure. I am clean and without moral failure?\"",
+      "notes": [
+        "Targeted context/source revision: without sin → without moral failure"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Proverbs 24:9",
+      "slug": "proverbs",
+      "chapter": 24,
+      "verse": 9,
+      "original": "The schemes of folly are sin. The mocker is detested by men.",
+      "final": "The schemes of folly are wrongdoing. The mocker is detested by men.",
+      "notes": [
+        "Targeted context/source revision: folly are sin → folly are wrongdoing"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Proverbs 29:6",
+      "slug": "proverbs",
+      "chapter": 29,
+      "verse": 6,
+      "original": "A wicked person is snared by their sin, but the righteous can sing and be glad.",
+      "final": "A wicked person is snared by their wrongdoing, but the righteous can sing and be glad.",
+      "notes": [
+        "Targeted context/source revision: by their sin → by their wrongdoing"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Proverbs 29:22",
+      "slug": "proverbs",
+      "chapter": 29,
+      "verse": 22,
+      "original": "An angry man stirs up strife, and a wrathful man abounds in sin.",
+      "final": "An angry man stirs up strife, and a wrathful man abounds in wrongdoing.",
+      "notes": [
+        "Targeted context/source revision: abounds in sin → abounds in wrongdoing"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Ecclesiastes 5:6",
+      "slug": "ecclesiastes",
+      "chapter": 5,
+      "verse": 6,
+      "original": "Don't allow your mouth to lead you into sin. Don't protest before the messenger that this was a mistake. Why should Elohim be angry at your voice, and destroy the work of your hands?",
+      "final": "Don't allow your mouth to lead you into wrongdoing. Don't protest before the messenger that this was a mistake. Why should Elohim be angry at your voice, and destroy the work of your hands?",
+      "notes": [
+        "Targeted context/source revision: into sin → into wrongdoing"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Ecclesiastes 7:20",
+      "slug": "ecclesiastes",
+      "chapter": 7,
+      "verse": 20,
+      "original": "Surely there is not a righteous person on earth, who does good and doesn't sin.",
+      "final": "Surely there is not a righteous person on earth, who does good and never does wrong.",
+      "notes": [
+        "Targeted context/source revision: doesn't sin → never does wrong"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Isaiah 1:4",
+      "slug": "isaiah",
+      "chapter": 1,
+      "verse": 4,
+      "original": "Ah sinful nation, a people loaded with iniquity, offspring of people who do wrong, children who deal corruptly! They have forsaken YHWH. They have despised the Holy One of Israel. They are estranged and backward.",
+      "final": "Ah nation marked by wrongdoing, a people loaded with iniquity, offspring of people who do wrong, children who deal corruptly! They have forsaken YHWH. They have despised the Holy One of Israel. They are estranged and backward.",
+      "notes": [
+        "Targeted context/source revision: sinful nation → nation marked by wrongdoing"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Isaiah 3:9",
+      "slug": "isaiah",
+      "chapter": 3,
+      "verse": 9,
+      "original": "The look of their faces testify against them. They parade their sin like Sedom. They don't hide it. Woe to their soul! For they have brought disaster upon themselves.",
+      "final": "The look of their faces testify against them. They parade their wrongdoing like Sedom. They don't hide it. Woe to their soul! For they have brought disaster upon themselves.",
+      "notes": [
+        "Targeted context/source revision: their sin like Sedom → their wrongdoing like Sedom"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Isaiah 6:7",
+      "slug": "isaiah",
+      "chapter": 6,
+      "verse": 7,
+      "original": "He touched my mouth with it, and said, \"Behold, this has touched your lips; and your iniquity is taken away, and your sin forgiven.\"",
+      "final": "He touched my mouth with it, and said, \"Behold, this has touched your lips; and your iniquity is taken away, and your moral failure forgiven.\"",
+      "notes": [
+        "Targeted context/source revision: your sin forgiven → your moral failure forgiven"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Isaiah 27:9",
+      "slug": "isaiah",
+      "chapter": 27,
+      "verse": 9,
+      "original": "Therefore, by this the iniquity of Ya'akov will be forgiven, and this is all the fruit of taking away his sin: that he makes all the stones of the altar as chalk stones that are beaten in pieces, so that the Asherim and the incense altars shall rise no more.",
+      "final": "Therefore, by this the iniquity of Ya'akov will be forgiven, and this is all the fruit of taking away his wrongdoing: that he makes all the stones of the altar as chalk stones that are beaten in pieces, so that the Asherim and the incense altars shall rise no more.",
+      "notes": [
+        "Targeted context/source revision: taking away his sin → taking away his wrongdoing"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Isaiah 30:1",
+      "slug": "isaiah",
+      "chapter": 30,
+      "verse": 1,
+      "original": "\"Woe to the rebellious children,\" says YHWH, \"who take counsel, but not from me; and who make an alliance, but not with my Ruach, that they may add sin to sin,",
+      "final": "\"Woe to the rebellious children,\" says YHWH, \"who take counsel, but not from me; and who make an alliance, but not with my Ruach, that they may add wrongdoing to wrongdoing,",
+      "notes": [
+        "Targeted context/source revision: sin to sin → wrongdoing to wrongdoing"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Isaiah 53:10",
+      "slug": "isaiah",
+      "chapter": 53,
+      "verse": 10,
+      "original": "Yet it pleased YHWH to bruise him. YHWH has caused him to suffer. When you make his soul an offering for sin, he shall see his seed. He shall prolong his days, and the pleasure of YHWH shall prosper in his hand.",
+      "final": "Yet it pleased YHWH to bruise him. YHWH has caused him to suffer. When you make his soul a reparation offering, he shall see his seed. He shall prolong his days, and the pleasure of YHWH shall prosper in his hand.",
+      "notes": [
+        "Targeted context/source revision: an offering for sin → a reparation offering"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Jeremiah 16:10",
+      "slug": "jeremiah",
+      "chapter": 16,
+      "verse": 10,
+      "original": "It shall happen, when you shall show this people all these words, and they shall tell you, Why has YHWH pronounced all this great harm against us? or what is our iniquity? or what is our sin that we have committed against YHWH our God?",
+      "final": "It shall happen, when you shall show this people all these words, and they shall tell you, Why has YHWH pronounced all this great harm against us? or what is our iniquity? or what is our wrongdoing that we have committed against YHWH our God?",
+      "notes": [
+        "Targeted context/source revision: our sin that we have committed → our wrongdoing that we have committed"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Jeremiah 17:1",
+      "slug": "jeremiah",
+      "chapter": 17,
+      "verse": 1,
+      "original": "The sin of Yehudah is written with a pen of iron, [and] with the point of a diamond: it is engraved on the tablet of their heart, and on the horns of your altars;",
+      "final": "The wrongdoing of Yehudah is written with a pen of iron, [and] with the point of a diamond: it is engraved on the tablet of their heart, and on the horns of your altars;",
+      "notes": [
+        "Targeted context/source revision: The sin of Yehudah → The wrongdoing of Yehudah"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Jeremiah 17:3",
+      "slug": "jeremiah",
+      "chapter": 17,
+      "verse": 3,
+      "original": "My mountain in the field, I will give your substance and all your treasures for a spoil, [and] your high places, because of sin, throughout all your borders.",
+      "final": "My mountain in the field, I will give your substance and all your treasures for a spoil, [and] your high places, because of wrongdoing, throughout all your borders.",
+      "notes": [
+        "Targeted context/source revision: because of sin → because of wrongdoing"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Jeremiah 31:34",
+      "slug": "jeremiah",
+      "chapter": 31,
+      "verse": 34,
+      "original": "and they shall teach no more everyone their neighbor, and everyone their brother, saying, Know YHWH; for they shall all know me, from the least of them to the greatest of them, says YHWH: for I will forgive their iniquity, and their sin will I remember no more.",
+      "final": "and they shall teach no more everyone their neighbor, and everyone their brother, saying, Know YHWH; for they shall all know me, from the least of them to the greatest of them, says YHWH: for I will forgive their iniquity, and their wrongdoing will I remember no more.",
+      "notes": [
+        "Targeted context/source revision: their sin will I remember no more → their wrongdoing will I remember no more"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Jeremiah 32:35",
+      "slug": "jeremiah",
+      "chapter": 32,
+      "verse": 35,
+      "original": "They built the high places of Baal, which are in the valley of the son of Hinnom, to cause their sons and their daughters to pass through [the fire] to Molech; which I didn't command them, neither did it come into my mind, that they should do this abomination, to cause Yehudah to sin.",
+      "final": "They built the high places of Baal, which are in the valley of the son of Hinnom, to cause their sons and their daughters to pass through [the fire] to Molech; which I didn't command them, neither did it come into my mind, that they should do this abomination, to lead Yehudah into wrongdoing.",
+      "notes": [
+        "Targeted context/source revision: cause Yehudah to sin → lead Yehudah into wrongdoing"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Jeremiah 36:3",
+      "slug": "jeremiah",
+      "chapter": 36,
+      "verse": 3,
+      "original": "It may be that the house of Yehudah will hear all the calamity which I purpose to bring on them; that they may return everyone from their wrong way; that I may forgive their iniquity and their sin.",
+      "final": "It may be that the house of Yehudah will hear all the calamity which I purpose to bring on them; that they may return everyone from their wrong way; that I may forgive their iniquity and their wrongdoing.",
+      "notes": [
+        "Targeted context/source revision: their sin → their wrongdoing"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Lamentations 4:6",
+      "slug": "lamentations",
+      "chapter": 4,
+      "verse": 6,
+      "original": "For the iniquity of the daughter of my people is greater than the sin of Sedom, That was overthrown as in a moment, and no hands were laid on her.",
+      "final": "For the iniquity of the daughter of my people is greater than the wrongdoing of Sedom, That was overthrown as in a moment, and no hands were laid on her.",
+      "notes": [
+        "Targeted context/source revision: the sin of Sedom → the wrongdoing of Sedom"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Ezekiel 3:20",
+      "slug": "ezekiel",
+      "chapter": 3,
+      "verse": 20,
+      "original": "Again, when a righteous person does turn from their righteousness, and commit iniquity, and I lay a stumbling block before him, they shall die: because you have not given him warning, they shall die in their sin, and their righteous deeds which they have done shall not be remembered; but his blood will I require at your hand.",
+      "final": "Again, when a righteous person does turn from their righteousness, and commit iniquity, and I lay a stumbling block before him, they shall die: because you have not given him warning, they shall die in their wrongdoing, and their righteous deeds which they have done shall not be remembered; but his blood will I require at your hand.",
+      "notes": [
+        "Targeted context/source revision: die in their sin → die in their wrongdoing"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Ezekiel 18:20",
+      "slug": "ezekiel",
+      "chapter": 18,
+      "verse": 20,
+      "original": "The soul who sins, he shall die: the son shall not bear the iniquity of the father, neither shall the father bear the iniquity of the son; the righteousness of the righteous shall be on him, and the wickedness of the wicked shall be on him.",
+      "final": "The person who does wrong shall die: the son shall not bear the iniquity of the father, neither shall the father bear the iniquity of the son; the righteousness of the righteous shall be on him, and the wickedness of the wicked shall be on him.",
+      "notes": [
+        "Targeted context/source revision: The soul who sins, he shall die → The person who does wrong shall die"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Ezekiel 18:24",
+      "slug": "ezekiel",
+      "chapter": 18,
+      "verse": 24,
+      "original": "But when the righteous turns away from their righteousness, and commits iniquity, and does according to all the abominations that the wicked person does, shall they live? None of his righteous deeds that he has done shall be remembered: in his trespass that he has trespassed, and in his sin that he has sinned, in them shall he die.",
+      "final": "But when the righteous turns away from their righteousness, and commits iniquity, and does according to all the abominations that the wicked person does, shall they live? None of his righteous deeds that he has done shall be remembered: in his trespass that he has trespassed, and in the wrongdoing he committed, in them shall he die.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context",
+        "Targeted context/source revision: his sin that he has acted wrongly → the wrongdoing he committed"
+      ],
+      "supersedesDraft": true,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Ezekiel 33:14",
+      "slug": "ezekiel",
+      "chapter": 33,
+      "verse": 14,
+      "original": "Again, when I say to the wicked, You shall surely die; if he turn from his sin, and do that which is lawful and right;",
+      "final": "Again, when I say to the wicked, You shall surely die; if he turn from his wrongdoing, and do that which is lawful and right;",
+      "notes": [
+        "Targeted context/source revision: turn from his sin → turn from his wrongdoing"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Daniel 9:20",
+      "slug": "daniel",
+      "chapter": 9,
+      "verse": 20,
+      "original": "While I was speaking, and praying, and confessing my sin and the sin of my people Israel, and presenting my supplication before YHWH my God for the holy mountain of my God;",
+      "final": "While I was speaking, and praying, and confessing my wrongdoing and the wrongdoing of my people Israel, and presenting my supplication before YHWH my God for the holy mountain of my God;",
+      "notes": [
+        "Targeted context/source revision: my sin and the sin of my people Israel → my wrongdoing and the wrongdoing of my people Israel"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Hosea 4:8",
+      "slug": "hosea",
+      "chapter": 4,
+      "verse": 8,
+      "original": "They feed on the sin of my people, and set their heart on their iniquity.",
+      "final": "They feed on the wrongdoing of my people, and set their heart on their iniquity.",
+      "notes": [
+        "Targeted context/source revision: sin of my people → wrongdoing of my people"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Hosea 10:8",
+      "slug": "hosea",
+      "chapter": 10,
+      "verse": 8,
+      "original": "The high places also of Aven, the sin of Israel, will be destroyed. The thorn and the thistle will come up on their altars. They will tell the mountains, \"Cover us!\" and the hills, \"Fall on us!\"",
+      "final": "The high places also of Aven, the wrongdoing of Israel, will be destroyed. The thorn and the thistle will come up on their altars. They will tell the mountains, \"Cover us!\" and the hills, \"Fall on us!\"",
+      "notes": [
+        "Targeted context/source revision: the sin of Israel → the wrongdoing of Israel"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Hosea 12:8",
+      "slug": "hosea",
+      "chapter": 12,
+      "verse": 8,
+      "original": "Efrayim said, \"Surely I have become rich, I have found myself wealth. In all my wealth they won't find in me any iniquity that is sin.\"",
+      "final": "Efrayim said, \"Surely I have become rich, I have found myself wealth. In all my wealth they won't find in me any guilt arising from wrongdoing.\"",
+      "notes": [
+        "Targeted context/source revision: any iniquity that is sin → any guilt arising from wrongdoing"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Hosea 13:12",
+      "slug": "hosea",
+      "chapter": 13,
+      "verse": 12,
+      "original": "The guilt of Efrayim is stored up. His sin is stored up.",
+      "final": "The guilt of Efrayim is stored up. His wrongdoing is stored up.",
+      "notes": [
+        "Targeted context/source revision: His sin is stored up → His wrongdoing is stored up"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Hosea 14:1",
+      "slug": "hosea",
+      "chapter": 14,
+      "verse": 1,
+      "original": "Israel, return to YHWH your God; for you have fallen because of your sin.",
+      "final": "Israel, return to YHWH your God; for you have fallen because of your wrongdoing.",
+      "notes": [
+        "Targeted context/source revision: because of your sin → because of your wrongdoing"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Amos 4:4",
+      "slug": "amos",
+      "chapter": 4,
+      "verse": 4,
+      "original": "\"Go to Beit El, and sin; to Gilgal, and sin more. Bring your sacrifices every morning, your tithes every three days,",
+      "final": "\"Go to Beit El, and do wrong; to Gilgal, and do more wrong. Bring your sacrifices every morning, your tithes every three days,",
+      "notes": [
+        "Targeted context/source revision: and sin; to Gilgal, and sin more → and do wrong; to Gilgal, and do more wrong"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Amos 9:8",
+      "slug": "amos",
+      "chapter": 9,
+      "verse": 8,
+      "original": "Behold, the eyes of YHWH God are on the sinful kingdom, and I will destroy it from off the surface of the earth; except that I will not utterly destroy the house of Ya'akov,\" says YHWH.",
+      "final": "Behold, the eyes of YHWH God are on the kingdom marked by wrongdoing, and I will destroy it from off the surface of the earth; except that I will not utterly destroy the house of Ya'akov,\" says YHWH.",
+      "notes": [
+        "Targeted context/source revision: the sinful kingdom → the kingdom marked by wrongdoing"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Micah 1:13",
+      "slug": "micah",
+      "chapter": 1,
+      "verse": 13,
+      "original": "Harness the chariot to the swift steed, inhabitant of Lachish. She was the beginning of sin to the daughter of Tzion; For the transgressions of Israel were found in you.",
+      "final": "Harness the chariot to the swift steed, inhabitant of Lachish. She was the beginning of wrongdoing for the daughter of Tzion; For the transgressions of Israel were found in you.",
+      "notes": [
+        "Targeted context/source revision: beginning of sin to the daughter of Tzion → beginning of wrongdoing for the daughter of Tzion"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Micah 3:8",
+      "slug": "micah",
+      "chapter": 3,
+      "verse": 8,
+      "original": "But as for me, I am full of power by the Ruach of YHWH, and of judgment, and of might, to declare to Ya'akov his disobedience, and to Israel his sin.",
+      "final": "But as for me, I am full of power by the Ruach of YHWH, and of judgment, and of might, to declare to Ya'akov his disobedience, and to Israel its wrongdoing.",
+      "notes": [
+        "Targeted context/source revision: Israel his sin → Israel its wrongdoing"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Micah 6:7",
+      "slug": "micah",
+      "chapter": 6,
+      "verse": 7,
+      "original": "Will YHWH be pleased with thousands of rams? With tens of thousands of rivers of oil? Shall I give my firstborn for my disobedience? The fruit of my body for the sin of my soul?",
+      "final": "Will YHWH be pleased with thousands of rams? With tens of thousands of rivers of oil? Shall I give my firstborn for my disobedience? The fruit of my body for the wrongdoing of my life?",
+      "notes": [
+        "Targeted context/source revision: sin of my soul → wrongdoing of my life"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Zechariah 13:1",
+      "slug": "zechariah",
+      "chapter": 13,
+      "verse": 1,
+      "original": "\"In that day there will be a spring opened to the house of Dawid and to the inhabitants of Yerushalayim, for sin and for uncleanness.",
+      "final": "\"In that day there will be a spring opened to the house of Dawid and to the inhabitants of Yerushalayim, for wrongdoing and for uncleanness.",
+      "notes": [
+        "Targeted context/source revision: for sin and for uncleanness → for wrongdoing and for uncleanness"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "1 Corinthians 15:56",
+      "slug": "1-corinthians",
+      "chapter": 15,
+      "verse": 56,
+      "original": "The sting of death is sin, and the power of sin is the law.",
+      "final": "The sting of death is wrongdoing, and the power of wrongdoing is the law.",
+      "notes": [
+        "Targeted context/source revision: The sting of death is sin, and the power of sin is the law → The sting of death is wrongdoing, and the power of wrongdoing is the law"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Galatians 1:4",
+      "slug": "galatians",
+      "chapter": 1,
+      "verse": 4,
+      "original": "who gave himself for our sins, that he might deliver us out of this present unripeness age, according to the will of our God and Cosmic Parent--",
+      "final": "who gave himself for our moral failures, that he might deliver us out of this present unripeness age, according to the will of our God and Cosmic Parent--",
+      "notes": [
+        "Targeted context/source revision: for our sins → for our moral failures"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Galatians 3:22",
+      "slug": "galatians",
+      "chapter": 3,
+      "verse": 22,
+      "original": "But the Scriptures imprisoned all things under sin, that the promise by faith in Yeshua the Messiah might be given to those who trust.",
+      "final": "But the Scriptures imprisoned all things under wrongdoing, that the promise by faith in Yeshua the Messiah might be given to those who trust.",
+      "notes": [
+        "Targeted context/source revision: imprisoned all things under sin → imprisoned all things under wrongdoing"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    }
+  ]
+}

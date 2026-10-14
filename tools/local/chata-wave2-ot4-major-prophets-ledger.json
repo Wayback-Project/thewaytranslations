@@ -1,0 +1,492 @@
+{
+  "baselineEpubSha256": "b5500415431a339ba10c7021e9b091b7af38f0badb2a4d9e1e7cc0e15f46b943",
+  "status": "FULL VERSE CANDIDATES",
+  "edits": [
+    {
+      "reference": "Isaiah 1:4",
+      "slug": "isaiah",
+      "chapter": 1,
+      "verse": 4,
+      "original": "Ah sinful nation, a people loaded with iniquity, offspring of people who do wrong, children who deal corruptly! They have forsaken YHWH. They have despised the Holy One of Israel. They are estranged and backward.",
+      "final": "Ah nation marked by wrongdoing, a people loaded with iniquity, offspring of people who do wrong, children who deal corruptly! They have forsaken YHWH. They have despised the Holy One of Israel. They are estranged and backward.",
+      "rationale": "Hebrew prophetic context emphasizes concrete responsibility or moral failure; image and divine wording preserved."
+    },
+    {
+      "reference": "Isaiah 1:28",
+      "slug": "isaiah",
+      "chapter": 1,
+      "verse": 28,
+      "original": "But the destruction of transgressors and sinners shall be together, and those who forsake YHWH shall be consumed.",
+      "final": "But the destruction of transgressors and those who do wrong shall be together, and those who forsake YHWH shall be consumed.",
+      "rationale": "Hebrew prophetic context emphasizes concrete responsibility or moral failure; image and divine wording preserved."
+    },
+    {
+      "reference": "Isaiah 3:9",
+      "slug": "isaiah",
+      "chapter": 3,
+      "verse": 9,
+      "original": "The look of their faces testify against them. They parade their sin like Sedom. They don't hide it. Woe to their soul! For they have brought disaster upon themselves.",
+      "final": "The look of their faces testify against them. They parade their wrongdoing like Sedom. They don't hide it. Woe to their soul! For they have brought disaster upon themselves.",
+      "rationale": "Hebrew prophetic context emphasizes concrete responsibility or moral failure; image and divine wording preserved."
+    },
+    {
+      "reference": "Isaiah 6:7",
+      "slug": "isaiah",
+      "chapter": 6,
+      "verse": 7,
+      "original": "He touched my mouth with it, and said, \"Behold, this has touched your lips; and your iniquity is taken away, and your sin forgiven.\"",
+      "final": "He touched my mouth with it, and said, \"Behold, this has touched your lips; and your iniquity is taken away, and your moral failure forgiven.\"",
+      "rationale": "Hebrew prophetic context emphasizes concrete responsibility or moral failure; image and divine wording preserved."
+    },
+    {
+      "reference": "Isaiah 13:9",
+      "slug": "isaiah",
+      "chapter": 13,
+      "verse": 9,
+      "original": "Behold, the day of YHWH comes, cruel, with wrath and fierce anger; to make the land a desolation, and to destroy its sinners out of it.",
+      "final": "Behold, the day of YHWH comes, cruel, with wrath and fierce anger; to make the land a desolation, and to destroy those who persist in wrongdoing out of it.",
+      "rationale": "Hebrew prophetic context emphasizes concrete responsibility or moral failure; image and divine wording preserved."
+    },
+    {
+      "reference": "Isaiah 27:9",
+      "slug": "isaiah",
+      "chapter": 27,
+      "verse": 9,
+      "original": "Therefore, by this the iniquity of Ya'akov will be forgiven, and this is all the fruit of taking away his sin: that he makes all the stones of the altar as chalk stones that are beaten in pieces, so that the Asherim and the incense altars shall rise no more.",
+      "final": "Therefore, by this the iniquity of Ya'akov will be forgiven, and this is all the fruit of removing his wrongdoing: that he makes all the stones of the altar as chalk stones that are beaten in pieces, so that the Asherim and the incense altars shall rise no more.",
+      "rationale": "Hebrew prophetic context emphasizes concrete responsibility or moral failure; image and divine wording preserved."
+    },
+    {
+      "reference": "Isaiah 30:1",
+      "slug": "isaiah",
+      "chapter": 30,
+      "verse": 1,
+      "original": "\"Woe to the rebellious children,\" says YHWH, \"who take counsel, but not from me; and who make an alliance, but not with my Ruach, that they may add sin to sin,",
+      "final": "\"Woe to the rebellious children,\" says YHWH, \"who take counsel, but not from me; and who make an alliance, but not with my Ruach, that they may add wrongdoing to wrongdoing,",
+      "rationale": "Hebrew prophetic context emphasizes concrete responsibility or moral failure; image and divine wording preserved."
+    },
+    {
+      "reference": "Isaiah 31:7",
+      "slug": "isaiah",
+      "chapter": 31,
+      "verse": 7,
+      "original": "For in that day everyone shall cast away their idols of silver and their idols of gold--sin which your own hands have made for you.",
+      "final": "For in that day everyone shall cast away their idols of silver and their idols of gold--the wrongdoing your own hands have fashioned for you.",
+      "rationale": "Hebrew prophetic context emphasizes concrete responsibility or moral failure; image and divine wording preserved."
+    },
+    {
+      "reference": "Isaiah 33:14",
+      "slug": "isaiah",
+      "chapter": 33,
+      "verse": 14,
+      "original": "The sinners in Tzion are afraid. Trembling has seized the godless ones. Who among us can live with the devouring fire? Who among us can live with everlasting burning?",
+      "final": "Those who do wrong in Tzion are afraid. Trembling has seized the godless ones. Who among us can live with the devouring fire? Who among us can live with everlasting burning?",
+      "rationale": "Hebrew prophetic context emphasizes concrete responsibility or moral failure; image and divine wording preserved."
+    },
+    {
+      "reference": "Isaiah 38:17",
+      "slug": "isaiah",
+      "chapter": 38,
+      "verse": 17,
+      "original": "Behold, for peace I had great anguish, but you have in love for my soul delivered it from the pit of corruption; for you have cast all my sins behind your back.",
+      "final": "Behold, for peace I had great anguish, but you have in love for my soul delivered it from the pit of corruption; for you have cast all my moral failures behind your back.",
+      "rationale": "Hebrew prophetic context emphasizes concrete responsibility or moral failure; image and divine wording preserved."
+    },
+    {
+      "reference": "Isaiah 40:2",
+      "slug": "isaiah",
+      "chapter": 40,
+      "verse": 2,
+      "original": "\"Speak comfortably to Yerushalayim; and call out to her that her warfare is accomplished, that her iniquity is pardoned, that she has received of YHWH's hand double for all her sins.\"",
+      "final": "\"Speak comfortably to Yerushalayim; and call out to her that her warfare is accomplished, that her iniquity is pardoned, that she has received of YHWH's hand double for all her moral failures.\"",
+      "rationale": "Hebrew prophetic context emphasizes concrete responsibility or moral failure; image and divine wording preserved."
+    },
+    {
+      "reference": "Isaiah 42:24",
+      "slug": "isaiah",
+      "chapter": 42,
+      "verse": 24,
+      "original": "Who gave Ya'akov as plunder, and Israel to the robbers? Didn't YHWH, against whom we have sinned? For they would not walk in YHWH’s ways, and they disobeyed YHWH’s law.",
+      "final": "Who gave Ya'akov as plunder, and Israel to the robbers? Didn't YHWH, against whom we have done wrong? For they would not walk in YHWH’s ways, and they disobeyed YHWH’s law.",
+      "rationale": "Hebrew prophetic context emphasizes concrete responsibility or moral failure; image and divine wording preserved."
+    },
+    {
+      "reference": "Isaiah 43:24",
+      "slug": "isaiah",
+      "chapter": 43,
+      "verse": 24,
+      "original": "You have bought me no sweet cane with money, nor have you filled me with the fat of your sacrifices; but you have burdened me with your sins. You have wearied me with your iniquities.",
+      "final": "You have bought me no sweet cane with money, nor have you filled me with the fat of your sacrifices; but you have burdened me with your wrongdoings. You have wearied me with your iniquities.",
+      "rationale": "Hebrew prophetic context emphasizes concrete responsibility or moral failure; image and divine wording preserved."
+    },
+    {
+      "reference": "Isaiah 43:25",
+      "slug": "isaiah",
+      "chapter": 43,
+      "verse": 25,
+      "original": "I, even I, am the one who blots out your transgressions for my own sake; and I will not remember your sins.",
+      "final": "I, even I, am the one who blots out your transgressions for my own sake; and I will not remember your moral failures.",
+      "rationale": "Hebrew prophetic context emphasizes concrete responsibility or moral failure; image and divine wording preserved."
+    },
+    {
+      "reference": "Isaiah 43:27",
+      "slug": "isaiah",
+      "chapter": 43,
+      "verse": 27,
+      "original": "Your first father sinned, and your teachers have transgressed against me.",
+      "final": "Your first father did wrong, and your teachers have transgressed against me.",
+      "rationale": "Hebrew prophetic context emphasizes concrete responsibility or moral failure; image and divine wording preserved."
+    },
+    {
+      "reference": "Isaiah 44:22",
+      "slug": "isaiah",
+      "chapter": 44,
+      "verse": 22,
+      "original": "I have blotted out, as a thick cloud, your transgressions, and, as a cloud, your sins. Return to me, for I have redeemed you.",
+      "final": "I have blotted out, as a thick cloud, your transgressions, and, as a cloud, your moral failures. Return to me, for I have redeemed you.",
+      "rationale": "Hebrew prophetic context emphasizes concrete responsibility or moral failure; image and divine wording preserved."
+    },
+    {
+      "reference": "Isaiah 53:10",
+      "slug": "isaiah",
+      "chapter": 53,
+      "verse": 10,
+      "original": "Yet it pleased YHWH to bruise him. YHWH has caused him to suffer. When you make his soul an offering for sin, he shall see his seed. He shall prolong his days, and the pleasure of YHWH shall prosper in his hand.",
+      "final": "Yet it pleased YHWH to bruise him. YHWH has caused him to suffer. When you make his soul a guilt offering, he shall see his seed. He shall prolong his days, and the pleasure of YHWH shall prosper in his hand.",
+      "rationale": "Hebrew ʾāšām is a guilt/reparation offering, not hṭʾ purification offering"
+    },
+    {
+      "reference": "Isaiah 58:1",
+      "slug": "isaiah",
+      "chapter": 58,
+      "verse": 1,
+      "original": "Cry aloud, don't spare, lift up your voice like a trumpet, and declare to my people their disobedience, and to the house of Ya'akov their sins.",
+      "final": "Cry aloud, don't spare, lift up your voice like a trumpet, and declare to my people their disobedience, and to the house of Ya'akov their wrongdoings.",
+      "rationale": "Hebrew prophetic context emphasizes concrete responsibility or moral failure; image and divine wording preserved."
+    },
+    {
+      "reference": "Isaiah 59:2",
+      "slug": "isaiah",
+      "chapter": 59,
+      "verse": 2,
+      "original": "but your iniquities have separated between you and your God, and your sins have hidden God’s face from you, so that God will not hear.",
+      "final": "but your iniquities have separated between you and your God, and your wrongdoings have hidden God’s face from you, so that God will not hear.",
+      "rationale": "Hebrew prophetic context emphasizes concrete responsibility or moral failure; image and divine wording preserved."
+    },
+    {
+      "reference": "Isaiah 59:12",
+      "slug": "isaiah",
+      "chapter": 59,
+      "verse": 12,
+      "original": "For our transgressions are multiplied before you, and our sins testify against us; for our transgressions are with us, and as for our iniquities, we know them:",
+      "final": "For our transgressions are multiplied before you, and our wrongdoings testify against us; for our transgressions are with us, and as for our iniquities, we know them:",
+      "rationale": "Hebrew prophetic context emphasizes concrete responsibility or moral failure; image and divine wording preserved."
+    },
+    {
+      "reference": "Isaiah 64:5",
+      "slug": "isaiah",
+      "chapter": 64,
+      "verse": 5,
+      "original": "You meet the one who rejoices and works righteousness, those who remember you in your ways: behold, you were angry, and we sinned: in them [have we been] of long time; and shall we be saved?",
+      "final": "You meet the one who rejoices and works righteousness, those who remember you in your ways: behold, you were angry, and we did wrong: in them [have we been] of long time; and shall we be saved?",
+      "rationale": "Hebrew prophetic context emphasizes concrete responsibility or moral failure; image and divine wording preserved."
+    },
+    {
+      "reference": "Isaiah 65:20",
+      "slug": "isaiah",
+      "chapter": 65,
+      "verse": 20,
+      "original": "There shall be no more there an infant of days, nor an old man who has not filled his days; for the child shall die one hundred years old, and the sinner being one hundred years old shall be accursed.",
+      "final": "There shall be no more there an infant of days, nor an old man who has not filled his days; for the child shall die one hundred years old, and the one who does wrong, being one hundred years old shall be accursed.",
+      "rationale": "Hebrew prophetic context emphasizes concrete responsibility or moral failure; image and divine wording preserved."
+    },
+    {
+      "reference": "Jeremiah 2:35",
+      "slug": "jeremiah",
+      "chapter": 2,
+      "verse": 35,
+      "original": "Yet you said, I am innocent; surely his anger is turned away from me. Behold, I will enter into judgment with you, because you say, I have not sinned.",
+      "final": "Yet you said, I am innocent; surely his anger is turned away from me. Behold, I will enter into judgment with you, because you say, I have done no wrong.",
+      "rationale": "Hebrew prophetic context emphasizes concrete responsibility or moral failure; image and divine wording preserved."
+    },
+    {
+      "reference": "Jeremiah 3:25",
+      "slug": "jeremiah",
+      "chapter": 3,
+      "verse": 25,
+      "original": "Let us lie down in our shame, and let our confusion cover us; for we have sinned against YHWH our God, we and our fathers, from our youth even to this day; and we have not obeyed the voice of YHWH our God.",
+      "final": "Let us lie down in our shame, and let our confusion cover us; for we have done wrong against YHWH our God, we and our fathers, from our youth even to this day; and we have not obeyed the voice of YHWH our God.",
+      "rationale": "Hebrew prophetic context emphasizes concrete responsibility or moral failure; image and divine wording preserved."
+    },
+    {
+      "reference": "Jeremiah 5:25",
+      "slug": "jeremiah",
+      "chapter": 5,
+      "verse": 25,
+      "original": "Your iniquities have turned away these things, and your sins have withheld good from you.",
+      "final": "Your iniquities have turned away these things, and your wrongdoings have withheld good from you.",
+      "rationale": "Hebrew prophetic context emphasizes concrete responsibility or moral failure; image and divine wording preserved."
+    },
+    {
+      "reference": "Jeremiah 8:14",
+      "slug": "jeremiah",
+      "chapter": 8,
+      "verse": 14,
+      "original": "Why do we sit still? Assemble yourselves, and let us enter into the fortified cities, and let us be silent there; for YHWH our God has put us to silence, and given us water of gall to drink, because we have sinned against YHWH.",
+      "final": "Why do we sit still? Assemble yourselves, and let us enter into the fortified cities, and let us be silent there; for YHWH our God has put us to silence, and given us water of gall to drink, because we have done wrong against YHWH.",
+      "rationale": "Hebrew prophetic context emphasizes concrete responsibility or moral failure; image and divine wording preserved."
+    },
+    {
+      "reference": "Jeremiah 14:7",
+      "slug": "jeremiah",
+      "chapter": 14,
+      "verse": 7,
+      "original": "Though our iniquities testify against us, work you for your name's sake, YHWH; for our backslidings are many; we have sinned against you.",
+      "final": "Though our iniquities testify against us, work you for your name's sake, YHWH; for our backslidings are many; we have done wrong against you.",
+      "rationale": "Hebrew prophetic context emphasizes concrete responsibility or moral failure; image and divine wording preserved."
+    },
+    {
+      "reference": "Jeremiah 14:10",
+      "slug": "jeremiah",
+      "chapter": 14,
+      "verse": 10,
+      "original": "Thus says YHWH to this people, Even so have they loved to wander; they have not refrained their feet: therefore YHWH does not accept them; now YHWH will remember their iniquity, and visit their sins.",
+      "final": "Thus says YHWH to this people, Even so have they loved to wander; they have not refrained their feet: therefore YHWH does not accept them; now YHWH will remember their iniquity, and hold them accountable for their wrongdoings.",
+      "rationale": "Hebrew prophetic context emphasizes concrete responsibility or moral failure; image and divine wording preserved."
+    },
+    {
+      "reference": "Jeremiah 14:20",
+      "slug": "jeremiah",
+      "chapter": 14,
+      "verse": 20,
+      "original": "We acknowledge, YHWH, our wickedness, and the iniquity of our fathers; for we have sinned against you.",
+      "final": "We acknowledge, YHWH, our wickedness, and the iniquity of our fathers; for we have done wrong against you.",
+      "rationale": "Hebrew prophetic context emphasizes concrete responsibility or moral failure; image and divine wording preserved."
+    },
+    {
+      "reference": "Jeremiah 15:13",
+      "slug": "jeremiah",
+      "chapter": 15,
+      "verse": 13,
+      "original": "Your substance and your treasures will I give for a spoil without price, and that for all your sins, even in all your borders.",
+      "final": "Your substance and your treasures will I give for a spoil without price, and that for all your wrongdoings, even in all your borders.",
+      "rationale": "Hebrew prophetic context emphasizes concrete responsibility or moral failure; image and divine wording preserved."
+    },
+    {
+      "reference": "Jeremiah 16:10",
+      "slug": "jeremiah",
+      "chapter": 16,
+      "verse": 10,
+      "original": "It shall happen, when you shall show this people all these words, and they shall tell you, Why has YHWH pronounced all this great harm against us? or what is our iniquity? or what is our sin that we have committed against YHWH our God?",
+      "final": "It shall happen, when you shall show this people all these words, and they shall tell you, Why has YHWH pronounced all this great harm against us? or what is our iniquity? or what is the wrongdoing we have committed against YHWH our God?",
+      "rationale": "Hebrew prophetic context emphasizes concrete responsibility or moral failure; image and divine wording preserved."
+    },
+    {
+      "reference": "Jeremiah 16:18",
+      "slug": "jeremiah",
+      "chapter": 16,
+      "verse": 18,
+      "original": "First I will recompense their iniquity and their sin double, because they have polluted my land with the carcasses of their detestable things, and have filled my inheritance with their abominations.",
+      "final": "First I will recompense their iniquity and their wrongdoing double, because they have polluted my land with the carcasses of their detestable things, and have filled my inheritance with their abominations.",
+      "rationale": "Hebrew prophetic context emphasizes concrete responsibility or moral failure; image and divine wording preserved."
+    },
+    {
+      "reference": "Jeremiah 17:1",
+      "slug": "jeremiah",
+      "chapter": 17,
+      "verse": 1,
+      "original": "The sin of Yehudah is written with a pen of iron, [and] with the point of a diamond: it is engraved on the tablet of their heart, and on the horns of your altars;",
+      "final": "The wrongdoing of Yehudah is written with a pen of iron, [and] with the point of a diamond: it is engraved on the tablet of their heart, and on the horns of your altars;",
+      "rationale": "Hebrew prophetic context emphasizes concrete responsibility or moral failure; image and divine wording preserved."
+    },
+    {
+      "reference": "Jeremiah 17:3",
+      "slug": "jeremiah",
+      "chapter": 17,
+      "verse": 3,
+      "original": "My mountain in the field, I will give your substance and all your treasures for a spoil, [and] your high places, because of sin, throughout all your borders.",
+      "final": "My mountain in the field, I will give your substance and all your treasures for a spoil, [and] your high places, because of wrongdoing, throughout all your borders.",
+      "rationale": "Hebrew prophetic context emphasizes concrete responsibility or moral failure; image and divine wording preserved."
+    },
+    {
+      "reference": "Jeremiah 18:23",
+      "slug": "jeremiah",
+      "chapter": 18,
+      "verse": 23,
+      "original": "Yet, YHWH, you know all their counsel against me to kill me; don't forgive their iniquity, neither blot out their sin from your sight; but let them be overthrown before you; deal you with them in the time of your anger.",
+      "final": "Yet, YHWH, you know all their counsel against me to kill me; don't forgive their iniquity, neither blot out their wrongdoing from your sight; but let them be overthrown before you; deal you with them in the time of your anger.",
+      "rationale": "Hebrew prophetic context emphasizes concrete responsibility or moral failure; image and divine wording preserved."
+    },
+    {
+      "reference": "Jeremiah 30:14",
+      "slug": "jeremiah",
+      "chapter": 30,
+      "verse": 14,
+      "original": "All your lovers have forgotten you; they don't seek you: for I have wounded you with the wound of an enemy, with the chastisement of a cruel one, for the greatness of your iniquity, because your sins were increased.",
+      "final": "All your lovers have forgotten you; they don't seek you: for I have wounded you with the wound of an enemy, with the chastisement of a cruel one, for the greatness of your iniquity, because your wrongdoings multiplied.",
+      "rationale": "Hebrew prophetic context emphasizes concrete responsibility or moral failure; image and divine wording preserved."
+    },
+    {
+      "reference": "Jeremiah 30:15",
+      "slug": "jeremiah",
+      "chapter": 30,
+      "verse": 15,
+      "original": "Why cry you for your hurt? your pain is incurable: for the greatness of your iniquity, because your sins were increased, I have done these things to you.",
+      "final": "Why cry you for your hurt? your pain is incurable: for the greatness of your iniquity, because your wrongdoings multiplied, I have done these things to you.",
+      "rationale": "Hebrew prophetic context emphasizes concrete responsibility or moral failure; image and divine wording preserved."
+    },
+    {
+      "reference": "Jeremiah 31:34",
+      "slug": "jeremiah",
+      "chapter": 31,
+      "verse": 34,
+      "original": "and they shall teach no more everyone their neighbor, and everyone their brother, saying, Know YHWH; for they shall all know me, from the least of them to the greatest of them, says YHWH: for I will forgive their iniquity, and their sin will I remember no more.",
+      "final": "and they shall teach no more everyone their neighbor, and everyone their brother, saying, Know YHWH; for they shall all know me, from the least of them to the greatest of them, says YHWH: for I will forgive their iniquity, and their wrongdoing will I remember no more.",
+      "rationale": "Hebrew prophetic context emphasizes concrete responsibility or moral failure; image and divine wording preserved."
+    },
+    {
+      "reference": "Jeremiah 32:35",
+      "slug": "jeremiah",
+      "chapter": 32,
+      "verse": 35,
+      "original": "They built the high places of Baal, which are in the valley of the son of Hinnom, to cause their sons and their daughters to pass through [the fire] to Molech; which I didn't command them, neither did it come into my mind, that they should do this abomination, to cause Yehudah to sin.",
+      "final": "They built the high places of Baal, which are in the valley of the son of Hinnom, to cause their sons and their daughters to pass through [the fire] to Molech; which I didn't command them, neither did it come into my mind, that they should do this abomination, to lead Yehudah into wrongdoing.",
+      "rationale": "Hebrew prophetic context emphasizes concrete responsibility or moral failure; image and divine wording preserved."
+    },
+    {
+      "reference": "Jeremiah 33:8",
+      "slug": "jeremiah",
+      "chapter": 33,
+      "verse": 8,
+      "original": "I will cleanse them from all their iniquity, by which they have sinned against me; and I will pardon all their iniquities, by which they have sinned against me, and by which they have transgressed against me.",
+      "final": "I will cleanse them from all their iniquity, by which they have done wrong against me; and I will pardon all their iniquities, by which they have done wrong against me, and by which they have transgressed against me.",
+      "rationale": "Hebrew prophetic context emphasizes concrete responsibility or moral failure; image and divine wording preserved."
+    },
+    {
+      "reference": "Jeremiah 36:3",
+      "slug": "jeremiah",
+      "chapter": 36,
+      "verse": 3,
+      "original": "It may be that the house of Yehudah will hear all the calamity which I purpose to bring on them; that they may return everyone from their wrong way; that I may forgive their iniquity and their sin.",
+      "final": "It may be that the house of Yehudah will hear all the calamity which I purpose to bring on them; that they may return everyone from their wrong way; that I may forgive their iniquity and their wrongdoing.",
+      "rationale": "Hebrew prophetic context emphasizes concrete responsibility or moral failure; image and divine wording preserved."
+    },
+    {
+      "reference": "Jeremiah 37:18",
+      "slug": "jeremiah",
+      "chapter": 37,
+      "verse": 18,
+      "original": "Moreover Yirmeyahu said to king Tzidkiyahu, Wherein have I sinned against you, or against your servants, or against this people, that you have put me in prison?",
+      "final": "Moreover Yirmeyahu said to king Tzidkiyahu, How have I wronged you, or against your servants, or against this people, that you have put me in prison?",
+      "rationale": "Hebrew prophetic context emphasizes concrete responsibility or moral failure; image and divine wording preserved."
+    },
+    {
+      "reference": "Jeremiah 40:3",
+      "slug": "jeremiah",
+      "chapter": 40,
+      "verse": 3,
+      "original": "and YHWH has brought it, and done according as YHWH spoke: because you have sinned against YHWH, and have not obeyed YHWH’s voice, therefore this thing is come on you.",
+      "final": "and YHWH has brought it, and done according as YHWH spoke: because you have done wrong against YHWH, and have not obeyed YHWH’s voice, therefore this thing is come on you.",
+      "rationale": "Hebrew prophetic context emphasizes concrete responsibility or moral failure; image and divine wording preserved."
+    },
+    {
+      "reference": "Jeremiah 44:23",
+      "slug": "jeremiah",
+      "chapter": 44,
+      "verse": 23,
+      "original": "Because you have burned incense, and because you have sinned against YHWH, and have not obeyed the voice of YHWH, nor walked in YHWH’s law, nor in YHWH’s statutes, nor in YHWH’s testimonies; therefore this calamity has happened to you, as it is this day.",
+      "final": "Because you have burned incense, and because you have done wrong against YHWH, and have not obeyed the voice of YHWH, nor walked in YHWH’s law, nor in YHWH’s statutes, nor in YHWH’s testimonies; therefore this calamity has happened to you, as it is this day.",
+      "rationale": "Hebrew prophetic context emphasizes concrete responsibility or moral failure; image and divine wording preserved."
+    },
+    {
+      "reference": "Jeremiah 50:7",
+      "slug": "jeremiah",
+      "chapter": 50,
+      "verse": 7,
+      "original": "All who found them have devoured them; and their adversaries said, We are not guilty, because they have sinned against YHWH, the habitation of righteousness, even YHWH, the hope of their fathers.",
+      "final": "All who found them have devoured them; and their adversaries said, We are not guilty, because they have done wrong against YHWH, the habitation of righteousness, even YHWH, the hope of their fathers.",
+      "rationale": "Hebrew prophetic context emphasizes concrete responsibility or moral failure; image and divine wording preserved."
+    },
+    {
+      "reference": "Jeremiah 50:14",
+      "slug": "jeremiah",
+      "chapter": 50,
+      "verse": 14,
+      "original": "Set yourselves in array against Bavel round about, all you who bend the bow; shoot at her, spare no arrows: for she has sinned against YHWH.",
+      "final": "Set yourselves in array against Bavel round about, all you who bend the bow; shoot at her, spare no arrows: for she has done wrong against YHWH.",
+      "rationale": "Hebrew prophetic context emphasizes concrete responsibility or moral failure; image and divine wording preserved."
+    },
+    {
+      "reference": "Jeremiah 50:20",
+      "slug": "jeremiah",
+      "chapter": 50,
+      "verse": 20,
+      "original": "In those days, and in that time, says YHWH, the iniquity of Israel shall be sought for, and there shall be none; and the sins of Yehudah, and they shall not be found: for I will pardon them whom I leave as a remnant.",
+      "final": "In those days, and in that time, says YHWH, the iniquity of Israel shall be sought for, and there shall be none; and the moral failures of Yehudah, and they shall not be found: for I will pardon them whom I leave as a remnant.",
+      "rationale": "Hebrew prophetic context emphasizes concrete responsibility or moral failure; image and divine wording preserved."
+    },
+    {
+      "reference": "Lamentations 1:8",
+      "slug": "lamentations",
+      "chapter": 1,
+      "verse": 8,
+      "original": "Yerushalayim has grievously sinned; therefore she is become as an unclean thing; all who honored her despise her, because they have seen her nakedness: yes, she sighs, and turns backward.",
+      "final": "Yerushalayim has acted gravely wrongly; therefore she is become as an unclean thing; all who honored her despise her, because they have seen her nakedness: yes, she sighs, and turns backward.",
+      "rationale": "Hebrew prophetic context emphasizes concrete responsibility or moral failure; image and divine wording preserved."
+    },
+    {
+      "reference": "Lamentations 3:39",
+      "slug": "lamentations",
+      "chapter": 3,
+      "verse": 39,
+      "original": "Why does a living man complain, a person for the punishment of their sins?",
+      "final": "Why does a living man complain, a person for the punishment for their wrongdoings?",
+      "rationale": "Hebrew prophetic context emphasizes concrete responsibility or moral failure; image and divine wording preserved."
+    },
+    {
+      "reference": "Lamentations 4:6",
+      "slug": "lamentations",
+      "chapter": 4,
+      "verse": 6,
+      "original": "For the iniquity of the daughter of my people is greater than the sin of Sedom, That was overthrown as in a moment, and no hands were laid on her.",
+      "final": "For the iniquity of the daughter of my people is greater than the wrongdoing of Sedom, That was overthrown as in a moment, and no hands were laid on her.",
+      "rationale": "Hebrew prophetic context emphasizes concrete responsibility or moral failure; image and divine wording preserved."
+    },
+    {
+      "reference": "Lamentations 4:13",
+      "slug": "lamentations",
+      "chapter": 4,
+      "verse": 13,
+      "original": "[It is] because of the sins of her prophets, [and] the iniquities of her priests, That have shed the blood of the just in the midst of her.",
+      "final": "[It is] because of the wrongdoings of her prophets, [and] the iniquities of her priests, That have shed the blood of the just in the midst of her.",
+      "rationale": "Hebrew prophetic context emphasizes concrete responsibility or moral failure; image and divine wording preserved."
+    },
+    {
+      "reference": "Lamentations 4:22",
+      "slug": "lamentations",
+      "chapter": 4,
+      "verse": 22,
+      "original": "The punishment of your iniquity is accomplished, daughter of Tzion; he will no more carry you away into captivity: He will visit your iniquity, daughter of Edom; he will uncover your sins.",
+      "final": "The punishment of your iniquity is accomplished, daughter of Tzion; he will no more carry you away into captivity: He will visit your iniquity, daughter of Edom; he will uncover your wrongdoings.",
+      "rationale": "Hebrew prophetic context emphasizes concrete responsibility or moral failure; image and divine wording preserved."
+    },
+    {
+      "reference": "Lamentations 5:7",
+      "slug": "lamentations",
+      "chapter": 5,
+      "verse": 7,
+      "original": "Our fathers sinned, and are no more; We have borne their iniquities.",
+      "final": "Our ancestors did wrong, and are no more; We have borne their iniquities.",
+      "rationale": "Hebrew prophetic context emphasizes concrete responsibility or moral failure; image and divine wording preserved."
+    },
+    {
+      "reference": "Lamentations 5:16",
+      "slug": "lamentations",
+      "chapter": 5,
+      "verse": 16,
+      "original": "The crown is fallen from our head: Woe to us! for we have sinned.",
+      "final": "The crown is fallen from our head: Woe to us! for we have done wrong.",
+      "rationale": "Hebrew prophetic context emphasizes concrete responsibility or moral failure; image and divine wording preserved."
+    }
+  ]
+}

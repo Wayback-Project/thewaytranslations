@@ -1,0 +1,536 @@
+{
+  "baselineEpubSha256": "b5500415431a339ba10c7021e9b091b7af38f0badb2a4d9e1e7cc0e15f46b943",
+  "status": "Last contextual Hebrew ritual and idiom amendments; high-risk holds listed",
+  "errors": [],
+  "held": [
+    "Psalms 51:5",
+    "2 Corinthians 5:21",
+    "1 Samuel 15:18",
+    "Revelation 21:8",
+    "2 Thessalonians 2:3"
+  ],
+  "edits": [
+    {
+      "reference": "Deuteronomy 21:22",
+      "slug": "deuteronomy",
+      "chapter": 21,
+      "verse": 22,
+      "original": "If someone has committed a sin worthy of death, and they are put to death, and you hang them on a tree;",
+      "final": "If someone has committed a wrongdoing deserving death, and they are put to death, and you hang them on a tree;",
+      "notes": [
+        "Contextual phrasing: a sin worthy of death → a wrongdoing deserving death"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Deuteronomy 23:22",
+      "slug": "deuteronomy",
+      "chapter": 23,
+      "verse": 22,
+      "original": "But if you shall forbear to vow, it shall be no sin in you.",
+      "final": "But if you shall forbear to vow, it shall be no wrongdoing on your part.",
+      "notes": [
+        "Contextual phrasing: no sin in you → no wrongdoing on your part"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Deuteronomy 24:15",
+      "slug": "deuteronomy",
+      "chapter": 24,
+      "verse": 15,
+      "original": "in his day you shall give him his hire, neither shall the sun go down on it; for he is poor, and sets his heart on it: lest he cry against you to YHWH, and it be sin to you.",
+      "final": "in his day you shall give him his hire, neither shall the sun go down on it; for he is poor, and sets his heart on it: lest he cry against you to YHWH, and you bear guilt for wrongdoing.",
+      "notes": [
+        "Contextual phrasing: it be sin to you → you bear guilt for wrongdoing"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "1 Samuel 14:33",
+      "slug": "1-samuel",
+      "chapter": 14,
+      "verse": 33,
+      "original": "Then they told Shaul, saying, Behold, the people sin against YHWH, in that they eat with the blood. He said, you have dealt treacherously: roll a great stone to me this day.",
+      "final": "Then they told Shaul, saying, Behold, the people do wrong against YHWH, in that they eat with the blood. He said, you have dealt treacherously: roll a great stone to me this day.",
+      "notes": [
+        "Contextual phrasing: the people sin against YHWH → the people do wrong against YHWH"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "1 Samuel 14:38",
+      "slug": "1-samuel",
+      "chapter": 14,
+      "verse": 38,
+      "original": "Shaul said, Draw near here, all you chiefs of the people; and know and see in which this sin has been this day.",
+      "final": "Shaul said, Draw near here, all you chiefs of the people; and know and see in what wrongdoing has occurred this day.",
+      "notes": [
+        "Contextual phrasing: which this sin has been → what wrongdoing has occurred"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "1 Samuel 15:23",
+      "slug": "1-samuel",
+      "chapter": 15,
+      "verse": 23,
+      "original": "For rebellion is as the sin of witchcraft, and stubbornness is as idolatry and teraphim. Because you have rejected the word of YHWH, he has also rejected you from being king.",
+      "final": "For rebellion is as the wrongdoing of witchcraft, and stubbornness is as idolatry and teraphim. Because you have rejected the word of YHWH, he has also rejected you from being king.",
+      "notes": [
+        "Contextual phrasing: the sin of witchcraft → the wrongdoing of witchcraft"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "1 Kings 8:36",
+      "slug": "1-kings",
+      "chapter": 8,
+      "verse": 36,
+      "original": "then hear in heavens, and forgive the sin of your servants, and of your people Israel, when you teach them the good way in which they should walk; and send rain on your land, which you have given to your people for an inheritance.",
+      "final": "then hear in heavens, and forgive the wrongdoing of your servants, and of your people Israel, when you teach them the good way in which they should walk; and send rain on your land, which you have given to your people for an inheritance.",
+      "notes": [
+        "Contextual phrasing: forgive the sin of your servants → forgive the wrongdoing of your servants"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "1 Kings 13:34",
+      "slug": "1-kings",
+      "chapter": 13,
+      "verse": 34,
+      "original": "This thing became sin to the house of Yerovam, even to cut it off, and to destroy it from off the surface of the earth.",
+      "final": "This practice became wrongdoing to the house of Yerovam, even to cut it off, and to destroy it from off the surface of the earth.",
+      "notes": [
+        "Contextual phrasing: This thing became sin → This practice became wrongdoing"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "1 Kings 15:30",
+      "slug": "1-kings",
+      "chapter": 15,
+      "verse": 30,
+      "original": "for the sins of Yerovam which he sinned, and with which he made Israel to sin, because of his provocation with which he provoked YHWH, the God of Israel, to anger.",
+      "final": "for the wrongdoings of Yerovam which he committed, and with which he led Israel into wrongdoing, because of his provocation with which he provoked YHWH, the God of Israel, to anger.",
+      "notes": [
+        "Hebrew historical formula for cultic misconduct: actual wrongdoing, not an innocent failure",
+        "Contextual phrasing: which he sinned → which he committed"
+      ],
+      "supersedesDraft": true,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "1 Kings 16:13",
+      "slug": "1-kings",
+      "chapter": 16,
+      "verse": 13,
+      "original": "for all the sins of Baasha, and the sins of Elah his son, which they sinned, and with which they made Israel to sin, to provoke YHWH, the God of Israel, to anger with their vanities.",
+      "final": "for all the wrongdoings of Baasha and of his son Elah, which they committed, and with which they led Israel into wrongdoing, to provoke YHWH, the God of Israel, to anger with their vanities.",
+      "notes": [
+        "Hebrew historical formula for cultic misconduct: actual wrongdoing, not an innocent failure",
+        "Contextual phrasing: the sins of Baasha, and the sins of Elah his son, which they sinned → the wrongdoings of Baasha and of his son Elah, which they committed"
+      ],
+      "supersedesDraft": true,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "2 Chronicles 6:27",
+      "slug": "2-chronicles",
+      "chapter": 6,
+      "verse": 27,
+      "original": "then hear in heavens, and forgive the sin of your servants, and of your people Israel, when you teach them the good way in which they should walk; and send rain on your land, which you have given to your people for an inheritance.",
+      "final": "then hear in heavens, and forgive the wrongdoing of your servants, and of your people Israel, when you teach them the good way in which they should walk; and send rain on your land, which you have given to your people for an inheritance.",
+      "notes": [
+        "Contextual phrasing: forgive the sin of your servants → forgive the wrongdoing of your servants"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Job 10:14",
+      "slug": "job",
+      "chapter": 10,
+      "verse": 14,
+      "original": "if I sin, then you mark me. You will not acquit me from my iniquity.",
+      "final": "if I do wrong, then you mark me. You will not acquit me from my iniquity.",
+      "notes": [
+        "Contextual phrasing: if I sin → if I do wrong"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Job 14:16",
+      "slug": "job",
+      "chapter": 14,
+      "verse": 16,
+      "original": "But now you number my steps. Don't you watch over my sin?",
+      "final": "But now you number my steps. Don't you watch over my wrongdoing?",
+      "notes": [
+        "Contextual phrasing: my sin → my wrongdoing"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Psalms 39:1",
+      "slug": "psalms",
+      "chapter": 39,
+      "verse": 1,
+      "original": "I said, \"I will watch my ways, so that I don't sin with my tongue. I will keep my mouth with a bridle while the wicked is before me.\"",
+      "final": "I said, \"I will watch my ways, so that I do no wrong with my tongue. I will keep my mouth with a bridle while the wicked is before me.\"",
+      "notes": [
+        "Contextual phrasing: don't sin with my tongue → do no wrong with my tongue"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Psalms 59:12",
+      "slug": "psalms",
+      "chapter": 59,
+      "verse": 12,
+      "original": "For the sin of their mouth, and the words of their lips, let them be caught in their pride, for the curses and lies which they utter.",
+      "final": "For the wrongdoing of their mouths, and the words of their lips, let them be caught in their pride, for the curses and lies which they utter.",
+      "notes": [
+        "Contextual phrasing: the sin of their mouth → the wrongdoing of their mouths"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Psalms 89:32",
+      "slug": "psalms",
+      "chapter": 89,
+      "verse": 32,
+      "original": "then I will punish their sin with the rod, and their iniquity with stripes.",
+      "final": "then I will punish their wrongdoing with the rod, and their iniquity with stripes.",
+      "notes": [
+        "Contextual phrasing: their sin with the rod → their wrongdoing with the rod"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Psalms 109:14",
+      "slug": "psalms",
+      "chapter": 109,
+      "verse": 14,
+      "original": "Let the iniquity of his fathers be remembered by YHWH. Don't let the sin of his mother be blotted out.",
+      "final": "Let the iniquity of his fathers be remembered by YHWH. Don't let the wrongdoing of his mother be blotted out.",
+      "notes": [
+        "Contextual phrasing: the sin of his mother → the wrongdoing of his mother"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Proverbs 8:36",
+      "slug": "proverbs",
+      "chapter": 8,
+      "verse": 36,
+      "original": "But the one who sins against me wrongs their own soul. All those who hate me love death.\"",
+      "final": "But the one who acts against me harms their own life. All those who hate me love death.\"",
+      "notes": [
+        "Contextual phrasing: the one who sins against me wrongs their own soul → the one who acts against me harms their own life"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Proverbs 21:4",
+      "slug": "proverbs",
+      "chapter": 21,
+      "verse": 4,
+      "original": "A high look, and a proud heart, the lamp of the wicked, is sin.",
+      "final": "A high look, and a proud heart, the lamp of the wicked, is wrongdoing.",
+      "notes": [
+        "Contextual phrasing: is sin → is wrongdoing"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Proverbs 29:16",
+      "slug": "proverbs",
+      "chapter": 29,
+      "verse": 16,
+      "original": "When the wicked increase, sin increases; but the righteous will see their downfall.",
+      "final": "When the wicked increase, wrongdoing increases; but the righteous will see their downfall.",
+      "notes": [
+        "Contextual phrasing: sin increases → wrongdoing increases"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Isaiah 31:7",
+      "slug": "isaiah",
+      "chapter": 31,
+      "verse": 7,
+      "original": "For in that day everyone shall cast away their idols of silver and their idols of gold--sin which your own hands have made for you.",
+      "final": "For in that day everyone shall cast away their idols of silver and their idols of gold—objects of wrongdoing that your own hands have made for you.",
+      "notes": [
+        "Contextual phrasing: --sin which your own hands have made → —objects of wrongdoing that your own hands have made"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Jeremiah 16:18",
+      "slug": "jeremiah",
+      "chapter": 16,
+      "verse": 18,
+      "original": "First I will recompense their iniquity and their sin double, because they have polluted my land with the carcasses of their detestable things, and have filled my inheritance with their abominations.",
+      "final": "First I will recompense their iniquity and their wrongdoing double, because they have polluted my land with the carcasses of their detestable things, and have filled my inheritance with their abominations.",
+      "notes": [
+        "Contextual phrasing: their sin double → their wrongdoing double"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Jeremiah 18:23",
+      "slug": "jeremiah",
+      "chapter": 18,
+      "verse": 23,
+      "original": "Yet, YHWH, you know all their counsel against me to kill me; don't forgive their iniquity, neither blot out their sin from your sight; but let them be overthrown before you; deal you with them in the time of your anger.",
+      "final": "Yet, YHWH, you know all their counsel against me to kill me; don't forgive their iniquity, neither blot out their wrongdoing from your sight; but let them be overthrown before you; deal you with them in the time of your anger.",
+      "notes": [
+        "Contextual phrasing: their sin from your sight → their wrongdoing from your sight"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Ezekiel 3:21",
+      "slug": "ezekiel",
+      "chapter": 3,
+      "verse": 21,
+      "original": "Nevertheless if you warn the righteous person, that the righteous not sin, and they do not sin, they shall surely live, because they took warning; and you have delivered your soul.",
+      "final": "Nevertheless if you warn the righteous person, so the righteous person does not do wrong, and they do no wrong, they shall surely live, because they took warning; and you have delivered your soul.",
+      "notes": [
+        "Contextual phrasing: that the righteous not sin, and they do not sin → so the righteous person does not do wrong, and they do no wrong"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Ezekiel 40:39",
+      "slug": "ezekiel",
+      "chapter": 40,
+      "verse": 39,
+      "original": "In the porch of the gate were two tables on this side, and two tables on that side, to kill thereon the burnt offering and the sin offering and the trespass offering.",
+      "final": "In the porch of the gate were two tables on this side, and two tables on that side, to kill thereon the burnt offering and the purification offering and the trespass offering.",
+      "notes": [
+        "Hebrew priestly ḥaṭṭāʾt: purification offering in sanctuary ritual"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Ezekiel 42:13",
+      "slug": "ezekiel",
+      "chapter": 42,
+      "verse": 13,
+      "original": "Then said he to me, The north chambers and the south chambers, which are before the separate place, they are the holy chambers, where the priests who are near to YHWH shall eat the most holy things: there shall they lay the most holy things, and the meal offering, and the sin offering, and the trespass offering; for the place is holy.",
+      "final": "Then said he to me, The north chambers and the south chambers, which are before the separate place, they are the holy chambers, where the priests who are near to YHWH shall eat the most holy things: there shall they lay the most holy things, and the meal offering, and the purification offering, and the trespass offering; for the place is holy.",
+      "notes": [
+        "Hebrew priestly ḥaṭṭāʾt: purification offering in sanctuary ritual"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Ezekiel 43:19",
+      "slug": "ezekiel",
+      "chapter": 43,
+      "verse": 19,
+      "original": "You shall give to the priests the Levites who are of the seed of Tzadok, who are near to me, to minister to me, says YHWH God, a young bull for a sin offering.",
+      "final": "You shall give to the priests the Levites who are of the seed of Tzadok, who are near to me, to minister to me, says YHWH God, a young bull for a purification offering.",
+      "notes": [
+        "Hebrew priestly ḥaṭṭāʾt: purification offering in sanctuary ritual"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Ezekiel 43:21",
+      "slug": "ezekiel",
+      "chapter": 43,
+      "verse": 21,
+      "original": "You shall also take the bull of the sin offering, and it shall be burnt in the appointed place of the house, outside of the sanctuary.",
+      "final": "You shall also take the bull of the purification offering, and it shall be burnt in the appointed place of the house, outside of the sanctuary.",
+      "notes": [
+        "Hebrew priestly ḥaṭṭāʾt: purification offering in sanctuary ritual"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Ezekiel 43:22",
+      "slug": "ezekiel",
+      "chapter": 43,
+      "verse": 22,
+      "original": "On the second day you shall offer a male goat without blemish for a sin offering; and they shall cleanse the altar, as they did cleanse it with the bull.",
+      "final": "On the second day you shall offer a male goat without blemish for a purification offering; and they shall cleanse the altar, as they did cleanse it with the bull.",
+      "notes": [
+        "Hebrew priestly ḥaṭṭāʾt: purification offering in sanctuary ritual"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Ezekiel 43:25",
+      "slug": "ezekiel",
+      "chapter": 43,
+      "verse": 25,
+      "original": "Seven days shall you prepare every day a goat for a sin offering: they shall also prepare a young bull, and a ram out of the flock, without blemish.",
+      "final": "Seven days shall you prepare every day a goat for a purification offering: they shall also prepare a young bull, and a ram out of the flock, without blemish.",
+      "notes": [
+        "Hebrew priestly ḥaṭṭāʾt: purification offering in sanctuary ritual"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Ezekiel 44:27",
+      "slug": "ezekiel",
+      "chapter": 44,
+      "verse": 27,
+      "original": "In the day that he goes into the sanctuary, into the inner court, to minister in the sanctuary, he shall offer his sin offering, says YHWH God.",
+      "final": "In the day that he goes into the sanctuary, into the inner court, to minister in the sanctuary, he shall offer his purification offering, says YHWH God.",
+      "notes": [
+        "Hebrew priestly ḥaṭṭāʾt: purification offering in sanctuary ritual"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Ezekiel 44:29",
+      "slug": "ezekiel",
+      "chapter": 44,
+      "verse": 29,
+      "original": "They shall eat the meal offering, and the sin offering, and the trespass offering; and every devoted thing in Israel shall be theirs.",
+      "final": "They shall eat the meal offering, and the purification offering, and the trespass offering; and every devoted thing in Israel shall be theirs.",
+      "notes": [
+        "Hebrew priestly ḥaṭṭāʾt: purification offering in sanctuary ritual"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Ezekiel 45:17",
+      "slug": "ezekiel",
+      "chapter": 45,
+      "verse": 17,
+      "original": "It shall be the prince's part to give the burnt offerings, and the meal offerings, and the drink offerings, in the feasts, and on the new moons, and on the Sabbaths, in all the appointed feasts of the house of Israel: he shall prepare the sin offering, and the meal offering, and the burnt offering, and the peace offerings, to make atonement for the house of Israel.",
+      "final": "It shall be the prince's part to give the burnt offerings, and the meal offerings, and the drink offerings, in the feasts, and on the new moons, and on the Sabbaths, in all the appointed feasts of the house of Israel: he shall prepare the purification offering, and the meal offering, and the burnt offering, and the peace offerings, to make atonement for the house of Israel.",
+      "notes": [
+        "Hebrew priestly ḥaṭṭāʾt: purification offering in sanctuary ritual"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Ezekiel 45:19",
+      "slug": "ezekiel",
+      "chapter": 45,
+      "verse": 19,
+      "original": "The priest shall take of the blood of the sin offering, and put it on the door posts of the house, and on the four corners of the ledge of the altar, and on the posts of the gate of the inner court.",
+      "final": "The priest shall take of the blood of the purification offering, and put it on the door posts of the house, and on the four corners of the ledge of the altar, and on the posts of the gate of the inner court.",
+      "notes": [
+        "Hebrew priestly ḥaṭṭāʾt: purification offering in sanctuary ritual"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Ezekiel 45:22",
+      "slug": "ezekiel",
+      "chapter": 45,
+      "verse": 22,
+      "original": "On that day shall the prince prepare for himself and for all the people of the land a bull for a sin offering.",
+      "final": "On that day shall the prince prepare for himself and for all the people of the land a bull for a purification offering.",
+      "notes": [
+        "Hebrew priestly ḥaṭṭāʾt: purification offering in sanctuary ritual"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Ezekiel 45:23",
+      "slug": "ezekiel",
+      "chapter": 45,
+      "verse": 23,
+      "original": "The seven days of the feast he shall prepare a burnt offering to YHWH, seven bulls and seven rams without blemish daily the seven days; and a male goat daily for a sin offering.",
+      "final": "The seven days of the feast he shall prepare a burnt offering to YHWH, seven bulls and seven rams without blemish daily the seven days; and a male goat daily for a purification offering.",
+      "notes": [
+        "Hebrew priestly ḥaṭṭāʾt: purification offering in sanctuary ritual"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Ezekiel 45:25",
+      "slug": "ezekiel",
+      "chapter": 45,
+      "verse": 25,
+      "original": "In the seventh [month], in the fifteenth day of the month, in the feast, shall he do the like the seven days; according to the sin offering, according to the burnt offering, and according to the meal offering, and according to the oil.",
+      "final": "In the seventh [month], in the fifteenth day of the month, in the feast, shall he do the like the seven days; according to the purification offering, according to the burnt offering, and according to the meal offering, and according to the oil.",
+      "notes": [
+        "Hebrew priestly ḥaṭṭāʾt: purification offering in sanctuary ritual"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Ezekiel 46:20",
+      "slug": "ezekiel",
+      "chapter": 46,
+      "verse": 20,
+      "original": "He said to me, This is the place where the priests shall boil the trespass offering and the sin offering, [and] where they shall bake the meal offering; that they not bring them forth into the outer court, to sanctify the people.",
+      "final": "He said to me, This is the place where the priests shall boil the trespass offering and the purification offering, [and] where they shall bake the meal offering; that they not bring them forth into the outer court, to sanctify the people.",
+      "notes": [
+        "Hebrew priestly ḥaṭṭāʾt: purification offering in sanctuary ritual"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Hosea 13:2",
+      "slug": "hosea",
+      "chapter": 13,
+      "verse": 2,
+      "original": "Now they sin more and more, and have made themselves molten images of their silver, even idols according to their own understanding, all of them the work of the craftsmen. They say of them, 'They offer human sacrifice and kiss the calves.'",
+      "final": "Now they do wrong more and more, and have made themselves molten images of their silver, even idols according to their own understanding, all of them the work of the craftsmen. They say of them, 'They offer human sacrifice and kiss the calves.'",
+      "notes": [
+        "Contextual phrasing: they sin more and more → they do wrong more and more"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Amos 8:14",
+      "slug": "amos",
+      "chapter": 8,
+      "verse": 14,
+      "original": "Those who swear by the sin of Shomron, and say, 'As your god, Dan, lives;' and, 'As the way of Be'er Sheva lives;' they will fall, and never rise up again.\"",
+      "final": "Those who swear by the shameful idol of Shomron, and say, 'As your god, Dan, lives;' and, 'As the way of Be'er Sheva lives;' they will fall, and never rise up again.\"",
+      "notes": [
+        "Contextual phrasing: the sin of Shomron → the shameful idol of Shomron"
+      ],
+      "supersedesDraft": false,
+      "stagedForSourceReview": true
+    }
+  ]
+}

@@ -1,0 +1,1577 @@
+{
+  "baselineEpubSha256": "b5500415431a339ba10c7021e9b091b7af38f0badb2a4d9e1e7cc0e15f46b943",
+  "source": "Released 2026-10-15 full-verse English current residual audit",
+  "status": "EDITOR-DIRECTED CONTEXTUAL CANDIDATES: independently verify before publish",
+  "edits": [
+    {
+      "reference": "Matthew 3:6",
+      "slug": "matthew",
+      "chapter": 3,
+      "verse": 6,
+      "original": "They were immersed by him in the Yarden, confessing their sins.",
+      "final": "They were immersed by him in the Yarden, confessing their moral failures.",
+      "notes": [
+        "Greek plural moral noun, context allows moral failures"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Matthew 9:6",
+      "slug": "matthew",
+      "chapter": 9,
+      "verse": 6,
+      "original": "But that you may know that the Human One has authority on earth to forgive sins...\" (then he said to the paralytic), \"Get up, and take up your mat, and go up to your house.\"",
+      "final": "But that you may know that the Human One has authority on earth to forgive moral failures...\" (then he said to the paralytic), \"Get up, and take up your mat, and go up to your house.\"",
+      "notes": [
+        "Greek plural moral noun, context allows moral failures"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Matthew 9:10",
+      "slug": "matthew",
+      "chapter": 9,
+      "verse": 10,
+      "original": "It happened as he sat in the house, behold, many tax collectors and sinners came and sat down with Yeshua and his disciples.",
+      "final": "It happened as he sat in the house, behold, many tax collectors and people who have done wrong came and sat down with Yeshua and his disciples.",
+      "notes": [
+        "Precise contextual construction: tax collectors and sinners → tax collectors and people who have done wrong"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Matthew 9:11",
+      "slug": "matthew",
+      "chapter": 9,
+      "verse": 11,
+      "original": "When the Pharisees saw it, they said to his disciples, \"Why does your teacher eat with tax collectors and sinners?\"",
+      "final": "When the Pharisees saw it, they said to his disciples, \"Why does your teacher eat with tax collectors and people regarded as wrongdoers?\"",
+      "notes": [
+        "Precise contextual construction: tax collectors and sinners → tax collectors and people regarded as wrongdoers"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Matthew 9:13",
+      "slug": "matthew",
+      "chapter": 9,
+      "verse": 13,
+      "original": "But you go and learn what this means: 'I desire mercy, and not sacrifice,' for I came not to call the righteous, but sinners to turning back.\"",
+      "final": "But you go and learn what this means: 'I desire mercy, and not sacrifice,' for I came not to call the righteous, but those who have done wrong to turn back.\"",
+      "notes": [
+        "Precise contextual construction: sinners to turning back → those who have done wrong to turn back"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Matthew 11:19",
+      "slug": "matthew",
+      "chapter": 11,
+      "verse": 19,
+      "original": "The Human One came eating and drinking, and they say, 'Behold, a gluttonous man and a drunkard, a friend of tax collectors and sinners!' But wisdom is justified by her children.\"",
+      "final": "The Human One came eating and drinking, and they say, 'Behold, a gluttonous man and a drunkard, a friend of tax collectors and people considered wrongdoers!' But wisdom is justified by her children.\"",
+      "notes": [
+        "Precise contextual construction: tax collectors and sinners → tax collectors and people considered wrongdoers"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Matthew 15:19",
+      "slug": "matthew",
+      "chapter": 15,
+      "verse": 19,
+      "original": "For out of the heart come forth unripe thoughts, murders, adulteries, sexual sins, thefts, false testimony, and blasphemies.",
+      "final": "For out of the heart come forth unripe thoughts, murders, adulteries, sexual misconduct, thefts, false testimony, and blasphemies.",
+      "notes": [
+        "Precise contextual construction: sexual sins → sexual misconduct"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Matthew 18:15",
+      "slug": "matthew",
+      "chapter": 18,
+      "verse": 15,
+      "original": "\"If your brother or sister sins against you, go and show them their fault between you and them alone. If they listen to you, you have gained back your brother or sister.",
+      "final": "\"If your brother or sister wrongs you, go and show them their fault between you and them alone. If they listen to you, you have gained back your brother or sister.",
+      "notes": [
+        "Precise contextual construction: sins against you → wrongs you"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Matthew 26:45",
+      "slug": "matthew",
+      "chapter": 26,
+      "verse": 45,
+      "original": "Then he came to his disciples, and said to them, \"Sleep on now, and take your rest. Behold, the hour is at hand, and the Human One is betrayed into the hands of sinners.",
+      "final": "Then he came to his disciples, and said to them, \"Sleep on now, and take your rest. Behold, the hour is at hand, and the Human One is betrayed into the hands of people acting wrongly.",
+      "notes": [
+        "Precise contextual construction: hands of sinners → hands of people acting wrongly"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Matthew 27:4",
+      "slug": "matthew",
+      "chapter": 27,
+      "verse": 4,
+      "original": "saying, \"I have sinned in that I betrayed innocent blood.\" But they said, \"What is that to us? You see to it.\"",
+      "final": "saying, \"I have done wrong by betraying innocent blood.\" But they said, \"What is that to us? You see to it.\"",
+      "notes": [
+        "Precise contextual construction: I have sinned in that I betrayed innocent blood → I have done wrong by betraying innocent blood"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Mark 1:4",
+      "slug": "mark",
+      "chapter": 1,
+      "verse": 4,
+      "original": "Yochanan came immersing in the wilderness and preaching the immersion of turning back for forgiveness of sins.",
+      "final": "Yochanan came immersing in the wilderness and preaching the immersion of turning back for forgiveness of moral failures.",
+      "notes": [
+        "Greek plural moral noun, context allows moral failures"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Mark 1:5",
+      "slug": "mark",
+      "chapter": 1,
+      "verse": 5,
+      "original": "All the country of Yehudah and all those of Yerushalayim went out to him. They were immersed by him in the Yarden river, confessing their sins.",
+      "final": "All the country of Yehudah and all those of Yerushalayim went out to him. They were immersed by him in the Yarden river, confessing their moral failures.",
+      "notes": [
+        "Greek plural moral noun, context allows moral failures"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Mark 2:7",
+      "slug": "mark",
+      "chapter": 2,
+      "verse": 7,
+      "original": "\"Why does this man speak blasphemies like that? Who can forgive sins but Elohim alone?\"",
+      "final": "\"Why does this man speak blasphemies like that? Who can forgive moral failures but Elohim alone?\"",
+      "notes": [
+        "Greek plural moral noun, context allows moral failures"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Mark 2:9",
+      "slug": "mark",
+      "chapter": 2,
+      "verse": 9,
+      "original": "Which is easier, to tell the paralytic, 'Your sins are forgiven;' or to say, 'Arise, and take up your bed, and walk?'",
+      "final": "Which is easier, to tell the paralytic, 'Your moral failures are forgiven;' or to say, 'Arise, and take up your bed, and walk?'",
+      "notes": [
+        "Greek plural moral noun, context allows moral failures"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Mark 2:10",
+      "slug": "mark",
+      "chapter": 2,
+      "verse": 10,
+      "original": "But that you may know that the Human One has authority on earth to forgive sins\"--he said to the paralytic--",
+      "final": "But that you may know that the Human One has authority on earth to forgive moral failures\"--he said to the paralytic--",
+      "notes": [
+        "Greek plural moral noun, context allows moral failures"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Mark 2:15",
+      "slug": "mark",
+      "chapter": 2,
+      "verse": 15,
+      "original": "It happened, that he was reclining at the table in his house, and many tax collectors and sinners sat down with Yeshua and his disciples, for there were many, and they followed him.",
+      "final": "It happened, that he was reclining at the table in his house, and many tax collectors and people who have done wrong sat down with Yeshua and his disciples, for there were many, and they followed him.",
+      "notes": [
+        "Precise contextual construction: tax collectors and sinners → tax collectors and people who have done wrong"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Mark 2:16",
+      "slug": "mark",
+      "chapter": 2,
+      "verse": 16,
+      "original": "The scribes and the Pharisees, when they saw that he was eating with the sinners and tax collectors, said to his disciples, \"Why is it that he eats and drinks with tax collectors and sinners?\"",
+      "final": "The scribes and the Pharisees, when they saw that he was eating with people regarded as wrongdoers and tax collectors, said to his disciples, \"Why is it that he eats and drinks with tax collectors and people regarded as wrongdoers?\"",
+      "notes": [
+        "Precise contextual construction: the sinners and tax collectors → people regarded as wrongdoers and tax collectors",
+        "Precise contextual construction: tax collectors and sinners → tax collectors and people regarded as wrongdoers"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Mark 3:29",
+      "slug": "mark",
+      "chapter": 3,
+      "verse": 29,
+      "original": "but whoever may blaspheme against the Ruach of Elohim never has forgiveness, but is guilty of an age-enduring sin\"",
+      "final": "but whoever may blaspheme against the Ruach of Elohim never has forgiveness, but is guilty of an age-enduring moral failure\"",
+      "notes": [
+        "Precise contextual construction: an age-enduring sin → an age-enduring moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Mark 4:12",
+      "slug": "mark",
+      "chapter": 4,
+      "verse": 12,
+      "original": "that 'seeing they may see, and not perceive; and hearing they may hear, and not understand; lest perhaps they should turn again, and their sins should be forgiven them.'\"",
+      "final": "that 'seeing they may see, and not perceive; and hearing they may hear, and not understand; lest perhaps they should turn again, and their moral failures should be forgiven them.'\"",
+      "notes": [
+        "Greek plural moral noun, context allows moral failures"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Mark 7:21",
+      "slug": "mark",
+      "chapter": 7,
+      "verse": 21,
+      "original": "For from within, out of the hearts of people, proceed unripe thoughts, adulteries, sexual sins, murders, thefts,",
+      "final": "For from within, out of the hearts of people, proceed unripe thoughts, adulteries, sexual misconduct, murders, thefts,",
+      "notes": [
+        "Precise contextual construction: sexual sins → sexual misconduct"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Mark 8:38",
+      "slug": "mark",
+      "chapter": 8,
+      "verse": 38,
+      "original": "For whoever will be ashamed of me and of my words in this adulterous and sinful generation, the Human One also will be ashamed of them, when they come in the glory of their Cosmic Parent with the holy angels.\"",
+      "final": "For whoever will be ashamed of me and of my words in this adulterous and morally compromised generation, the Human One also will be ashamed of them, when they come in the glory of their Cosmic Parent with the holy angels.\"",
+      "notes": [
+        "Precise contextual construction: sinful generation → morally compromised generation"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Mark 14:41",
+      "slug": "mark",
+      "chapter": 14,
+      "verse": 41,
+      "original": "He came the third time, and said to them, \"Sleep on now, and take your rest. It is enough. The hour has come. Behold, the Human One is betrayed into the hands of sinners.",
+      "final": "He came the third time, and said to them, \"Sleep on now, and take your rest. It is enough. The hour has come. Behold, the Human One is betrayed into the hands of people doing wrong.",
+      "notes": [
+        "Precise contextual construction: hands of sinners → hands of people doing wrong"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Luke 1:77",
+      "slug": "luke",
+      "chapter": 1,
+      "verse": 77,
+      "original": "to give knowledge of salvation to YHWH’s people by the remission of their sins,",
+      "final": "to give knowledge of salvation to YHWH’s people by the remission of their moral failures,",
+      "notes": [
+        "Greek plural moral noun, context allows moral failures"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Luke 3:3",
+      "slug": "luke",
+      "chapter": 3,
+      "verse": 3,
+      "original": "He came into all the region around the Yarden, preaching the immersion of turning back for remission of sins.",
+      "final": "He came into all the region around the Yarden, preaching the immersion of turning back for remission of moral failures.",
+      "notes": [
+        "Greek plural moral noun, context allows moral failures"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Luke 5:8",
+      "slug": "luke",
+      "chapter": 5,
+      "verse": 8,
+      "original": "But Shimon (called Kepha), when he saw it, fell down at Yeshua' knees, saying, \"Depart from me, for I am a sinful man, Master.\"",
+      "final": "But Shimon (called Kepha), when he saw it, fell down at Yeshua' knees, saying, \"Depart from me, for I am a man who has failed morally, Master.\"",
+      "notes": [
+        "Precise contextual construction: I am a sinful man → I am a man who has failed morally"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Luke 5:20",
+      "slug": "luke",
+      "chapter": 5,
+      "verse": 20,
+      "original": "Seeing their faith, he said to him, \"Man, your sins are forgiven you.\"",
+      "final": "Seeing their faith, he said to him, \"Man, your moral failures are forgiven you.\"",
+      "notes": [
+        "Greek plural moral noun, context allows moral failures"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Luke 5:21",
+      "slug": "luke",
+      "chapter": 5,
+      "verse": 21,
+      "original": "The scribes and the Pharisees began to reason, saying, \"Who is this that speaks blasphemies? Who can forgive sins, but Elohim alone?\"",
+      "final": "The scribes and the Pharisees began to reason, saying, \"Who is this that speaks blasphemies? Who can forgive moral failures, but Elohim alone?\"",
+      "notes": [
+        "Greek plural moral noun, context allows moral failures"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Luke 5:23",
+      "slug": "luke",
+      "chapter": 5,
+      "verse": 23,
+      "original": "Which is easier to say, 'Your sins are forgiven you;' or to say, 'Arise and walk?'",
+      "final": "Which is easier to say, 'Your moral failures are forgiven you;' or to say, 'Arise and walk?'",
+      "notes": [
+        "Greek plural moral noun, context allows moral failures"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Luke 5:24",
+      "slug": "luke",
+      "chapter": 5,
+      "verse": 24,
+      "original": "But that you may know that the Human One has authority on earth to forgive sins\" (he said to the paralyzed man), \"I tell you, arise, and take up your cot, and go to your house.\"",
+      "final": "But that you may know that the Human One has authority on earth to forgive moral failures\" (he said to the paralyzed man), \"I tell you, arise, and take up your cot, and go to your house.\"",
+      "notes": [
+        "Greek plural moral noun, context allows moral failures"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Luke 5:30",
+      "slug": "luke",
+      "chapter": 5,
+      "verse": 30,
+      "original": "Their scribes and the Pharisees murmured against his disciples, saying, \"Why do you eat and drink with the tax collectors and sinners?\"",
+      "final": "Their scribes and the Pharisees murmured against his disciples, saying, \"Why do you eat and drink with the tax collectors and people considered wrongdoers?\"",
+      "notes": [
+        "Precise contextual construction: tax collectors and sinners → tax collectors and people considered wrongdoers"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Luke 6:32",
+      "slug": "luke",
+      "chapter": 6,
+      "verse": 32,
+      "original": "If you love those who love you, what credit is that to you? For even sinners love those who love them.",
+      "final": "If you love those who love you, what credit is that to you? For even people who do wrong love those who love them.",
+      "notes": [
+        "Precise contextual construction: even sinners love → even people who do wrong love"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Luke 6:33",
+      "slug": "luke",
+      "chapter": 6,
+      "verse": 33,
+      "original": "If you do good to those who do good to you, what credit is that to you? For even sinners do the same.",
+      "final": "If you do good to those who do good to you, what credit is that to you? For even people who do wrong do the same.",
+      "notes": [
+        "Precise contextual construction: even sinners do the same → even people who do wrong do the same"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Luke 6:34",
+      "slug": "luke",
+      "chapter": 6,
+      "verse": 34,
+      "original": "If you lend to those from whom you hope to receive, what credit is that to you? Even sinners lend to sinners, to receive back as much.",
+      "final": "If you lend to those from whom you hope to receive, what credit is that to you? Even people who do wrong lend to others who do wrong, to receive back as much.",
+      "notes": [
+        "Precise contextual construction: Even sinners lend to sinners → Even people who do wrong lend to others who do wrong"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Luke 7:34",
+      "slug": "luke",
+      "chapter": 7,
+      "verse": 34,
+      "original": "The Human One has come eating and drinking, and you say, 'Behold, a gluttonous man, and a drunkard; a friend of tax collectors and sinners!'",
+      "final": "The Human One has come eating and drinking, and you say, 'Behold, a gluttonous man, and a drunkard; a friend of tax collectors and people regarded as wrongdoers!'",
+      "notes": [
+        "Precise contextual construction: tax collectors and sinners → tax collectors and people regarded as wrongdoers"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Luke 7:37",
+      "slug": "luke",
+      "chapter": 7,
+      "verse": 37,
+      "original": "Behold, a woman in the city who was a sinner, when she knew that he was reclining in the Pharisee's house, she brought an alabaster jar of ointment.",
+      "final": "Behold, a woman in the city who was known for wrongdoing, when she knew that he was reclining in the Pharisee's house, she brought an alabaster jar of ointment.",
+      "notes": [
+        "Precise contextual construction: who was a sinner → who was known for wrongdoing"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Luke 7:39",
+      "slug": "luke",
+      "chapter": 7,
+      "verse": 39,
+      "original": "Now when the Pharisee who had invited him saw it, he said to himself, \"This man, if he were a prophet, would have perceived who and what kind of woman this is who touches him, that she is a sinner.\"",
+      "final": "Now when the Pharisee who had invited him saw it, he said to himself, \"This man, if he were a prophet, would have perceived who and what kind of woman this is who touches him, that she is someone regarded as morally compromised.\"",
+      "notes": [
+        "Precise contextual construction: she is a sinner → she is someone regarded as morally compromised"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Luke 7:48",
+      "slug": "luke",
+      "chapter": 7,
+      "verse": 48,
+      "original": "He said to her, \"Your sins are forgiven.\"",
+      "final": "He said to her, \"Your moral failures are forgiven.\"",
+      "notes": [
+        "Greek plural moral noun, context allows moral failures"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Luke 7:49",
+      "slug": "luke",
+      "chapter": 7,
+      "verse": 49,
+      "original": "Those who sat at the table with him began to say to themselves, \"Who is this who even forgives sins?\"",
+      "final": "Those who sat at the table with him began to say to themselves, \"Who is this who even forgives moral failures?\"",
+      "notes": [
+        "Greek plural moral noun, context allows moral failures"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Luke 11:4",
+      "slug": "luke",
+      "chapter": 11,
+      "verse": 4,
+      "original": "Forgive us our sins, for we ourselves also forgive everyone who is indebted to us. Do not let us enter the trial that is too great for us, but free us from what has gone sour and corrupt in us and around us.'\"",
+      "final": "Forgive us our moral failures, for we ourselves also forgive everyone who is indebted to us. Do not let us enter the trial that is too great for us, but free us from what has gone sour and corrupt in us and around us.'\"",
+      "notes": [
+        "Greek plural moral noun, context allows moral failures"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Luke 13:2",
+      "slug": "luke",
+      "chapter": 13,
+      "verse": 2,
+      "original": "Yeshua answered them, \"Do you think that these Galileans were worse sinners than all the other Galileans, because they suffered such things?",
+      "final": "Yeshua answered them, \"Do you think that these Galileans were more morally culpable than all the other Galileans, because they suffered such things?",
+      "notes": [
+        "Precise contextual construction: worse sinners than → more morally culpable than"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Luke 15:1",
+      "slug": "luke",
+      "chapter": 15,
+      "verse": 1,
+      "original": "Now all the tax collectors and sinners were coming close to him to hear him.",
+      "final": "Now all the tax collectors and people considered wrongdoers were coming close to him to hear him.",
+      "notes": [
+        "Precise contextual construction: tax collectors and sinners → tax collectors and people considered wrongdoers"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Luke 15:2",
+      "slug": "luke",
+      "chapter": 15,
+      "verse": 2,
+      "original": "The Pharisees and the scribes murmured, saying, \"This man welcomes sinners, and eats with them.\"",
+      "final": "The Pharisees and the scribes murmured, saying, \"This man welcomes people considered wrongdoers, and eats with them.\"",
+      "notes": [
+        "Precise contextual construction: welcomes sinners → welcomes people considered wrongdoers"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Luke 15:10",
+      "slug": "luke",
+      "chapter": 15,
+      "verse": 10,
+      "original": "Even so, I tell you, there is joy in the presence of the angels of Elohim over one sinner turning back.\"",
+      "final": "Even so, I tell you, there is joy in the presence of the angels of Elohim over one person who has done wrong turning back.\"",
+      "notes": [
+        "Precise contextual construction: one sinner turning back → one person who has done wrong turning back"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Luke 15:18",
+      "slug": "luke",
+      "chapter": 15,
+      "verse": 18,
+      "original": "I will get up and go to my father, and will tell him, \"Father, I have sinned against heaven, and in your sight.",
+      "final": "I will get up and go to my father, and will tell him, \"Father, I have done wrong before heaven and in your sight.",
+      "notes": [
+        "Precise contextual construction: I have sinned against heaven, and in your sight → I have done wrong before heaven and in your sight"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Luke 15:21",
+      "slug": "luke",
+      "chapter": 15,
+      "verse": 21,
+      "original": "The son said to him, 'Father, I have sinned against heaven, and in your sight. I am no longer worthy to be called your son.'",
+      "final": "The son said to him, 'Father, I have done wrong before heaven and in your sight. I am no longer worthy to be called your son.'",
+      "notes": [
+        "Precise contextual construction: I have sinned against heaven, and in your sight → I have done wrong before heaven and in your sight"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Luke 18:13",
+      "slug": "luke",
+      "chapter": 18,
+      "verse": 13,
+      "original": "But the tax collector, standing far away, wouldn't even lift up his eyes to heaven, but beat his breast, saying, 'Elohim, be merciful to me, a sinner!'",
+      "final": "But the tax collector, standing far away, wouldn't even lift up his eyes to heaven, but beat his breast, saying, 'Elohim, be merciful to me, someone who has done wrong!'",
+      "notes": [
+        "Precise contextual construction: be merciful to me, a sinner → be merciful to me, someone who has done wrong"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Luke 19:7",
+      "slug": "luke",
+      "chapter": 19,
+      "verse": 7,
+      "original": "When they saw it, they all murmured, saying, \"He has gone in to lodge with a person who is a sinner.\"",
+      "final": "When they saw it, they all murmured, saying, \"He has gone in to lodge with someone known for wrongdoing.\"",
+      "notes": [
+        "Precise contextual construction: a person who is a sinner → someone known for wrongdoing"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Luke 24:7",
+      "slug": "luke",
+      "chapter": 24,
+      "verse": 7,
+      "original": "saying that the Human One must be delivered up into the hands of sinful men, and be crucified, and the third day rise again?\"",
+      "final": "saying that the Human One must be delivered up into the hands of men acting wrongly, and be crucified, and the third day rise again?\"",
+      "notes": [
+        "Precise contextual construction: sinful men → men acting wrongly"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "John 1:29",
+      "slug": "john",
+      "chapter": 1,
+      "verse": 29,
+      "original": "The next day, he saw Yeshua coming to him, and said, \"Behold, the Lamb of Elohim, who takes away the sin of the world!",
+      "final": "The next day, he saw Yeshua coming to him, and said, \"Behold, the Lamb of Elohim, who takes away the wrongdoing of the world!",
+      "notes": [
+        "Precise contextual construction: the sin of the world → the wrongdoing of the world"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "John 5:14",
+      "slug": "john",
+      "chapter": 5,
+      "verse": 14,
+      "original": "Afterward Yeshua found him in the temple, and said to him, \"Behold, you are made well. Sin no more, so that nothing worse happens to you.\"",
+      "final": "Afterward Yeshua found him in the temple, and said to him, \"Behold, you are made well. Do no wrong again, so that nothing worse happens to you.\"",
+      "notes": [
+        "Precise contextual construction: Sin no more → Do no wrong again"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "John 8:7",
+      "slug": "john",
+      "chapter": 8,
+      "verse": 7,
+      "original": "But when they continued asking him, they looked up and said to them, \"The one who is without sin among you, let them throw the first stone at her.\"",
+      "final": "But when they continued asking him, they looked up and said to them, \"The one who is without wrongdoing among you, let them throw the first stone at her.\"",
+      "notes": [
+        "Precise contextual construction: without sin among you → without wrongdoing among you"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "John 8:11",
+      "slug": "john",
+      "chapter": 8,
+      "verse": 11,
+      "original": "She said, \"No one, Master.\" Yeshua said, \"Neither do I condemn you. Go your way. From now on, sin no more.\"",
+      "final": "She said, \"No one, Master.\" Yeshua said, \"Neither do I condemn you. Go your way. From now on, do no wrong again.\"",
+      "notes": [
+        "Precise contextual construction: sin no more → do no wrong again"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "John 8:21",
+      "slug": "john",
+      "chapter": 8,
+      "verse": 21,
+      "original": "Yeshua said therefore again to them, \"I am going away, and you will seek me, and you will die in your sins. Where I go, you can't come.\"",
+      "final": "Yeshua said therefore again to them, \"I am going away, and you will seek me, and you will die in your moral failures. Where I go, you can't come.\"",
+      "notes": [
+        "Precise contextual construction: die in your sins → die in your moral failures"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "John 8:24",
+      "slug": "john",
+      "chapter": 8,
+      "verse": 24,
+      "original": "I said therefore to you that you will die in your sins; for unless you trust that I AM he, you will die in your sins.\"",
+      "final": "I said therefore to you that you will die in your moral failures; for unless you trust that I AM he, you will die in your moral failures.\"",
+      "notes": [
+        "Greek plural moral noun, context allows moral failures"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "John 8:46",
+      "slug": "john",
+      "chapter": 8,
+      "verse": 46,
+      "original": "Which of you convicts me of sin? If I tell the truth, why do you not trust me?",
+      "final": "Which of you convicts me of wrongdoing? If I tell the truth, why do you not trust me?",
+      "notes": [
+        "Precise contextual construction: convicts me of sin → convicts me of wrongdoing"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "John 9:2",
+      "slug": "john",
+      "chapter": 9,
+      "verse": 2,
+      "original": "His disciples asked him, \"Rabbi, who sinned, this man or his parents, that he was born blind?\"",
+      "final": "His disciples asked him, \"Rabbi, whose wrongdoing caused this man to be born blind: his own or his parents'?\"",
+      "notes": [
+        "Precise contextual construction: who sinned, this man or his parents, that he was born blind → whose wrongdoing caused this man to be born blind: his own or his parents'"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "John 9:3",
+      "slug": "john",
+      "chapter": 9,
+      "verse": 3,
+      "original": "Yeshua answered, \"Neither did this man sin, nor his parents; but, that the works of Elohim might be revealed in him.",
+      "final": "Yeshua answered, \"Neither this man nor his parents caused his blindness by wrongdoing; but, that the works of Elohim might be revealed in him.",
+      "notes": [
+        "Precise contextual construction: Neither did this man sin, nor his parents → Neither this man nor his parents caused his blindness by wrongdoing"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "John 9:16",
+      "slug": "john",
+      "chapter": 9,
+      "verse": 16,
+      "original": "Some therefore of the Pharisees said, \"This man is not from Elohim, because he doesn't keep the Sabbath.\" Others said, \"How can a person who is a sinner do such signs?\" There was division among them.",
+      "final": "Some therefore of the Pharisees said, \"This man is not from Elohim, because he doesn't keep the Sabbath.\" Others said, \"How can a person who does wrong do such signs?\" There was division among them.",
+      "notes": [
+        "Precise contextual construction: a person who is a sinner → a person who does wrong"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "John 9:24",
+      "slug": "john",
+      "chapter": 9,
+      "verse": 24,
+      "original": "So they called the one who was blind a second time, and said to him, \"Give glory to Elohim. We know that this a person is a sinner.\"",
+      "final": "So they called the one who was blind a second time, and said to him, \"Give glory to Elohim. We know that this person is a wrongdoer.\"",
+      "notes": [
+        "Precise contextual construction: this a person is a sinner → this person is a wrongdoer"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "John 9:25",
+      "slug": "john",
+      "chapter": 9,
+      "verse": 25,
+      "original": "He therefore answered, \"I don't know if he is a sinner. One thing I do know: that though I was blind, now I see.\"",
+      "final": "He therefore answered, \"I don't know if he has done wrong. One thing I do know: that though I was blind, now I see.\"",
+      "notes": [
+        "Precise contextual construction: he is a sinner → he has done wrong"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "John 9:31",
+      "slug": "john",
+      "chapter": 9,
+      "verse": 31,
+      "original": "We know that Elohim doesn't listen to sinners, but if anyone is a worshipper of Elohim, and does God’s will, God listens to them.",
+      "final": "We know that Elohim doesn't listen to those who do wrong, but if anyone is a worshipper of Elohim, and does God’s will, God listens to them.",
+      "notes": [
+        "Precise contextual construction: listen to sinners → listen to those who do wrong"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "John 9:34",
+      "slug": "john",
+      "chapter": 9,
+      "verse": 34,
+      "original": "They answered him, \"You were altogether born in sins, and do you teach us?\" They threw him out.",
+      "final": "They answered him, \"You were altogether born in moral failure, and do you teach us?\" They threw him out.",
+      "notes": [
+        "Precise contextual construction: born in sins → born in moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "John 9:41",
+      "slug": "john",
+      "chapter": 9,
+      "verse": 41,
+      "original": "Yeshua said to them, \"If you were blind, you would have no sin; but now you say, 'We see.' Therefore your sin remains.",
+      "final": "Yeshua said to them, \"If you were blind, you would bear no guilt; but now you say, 'We see.' Therefore your wrongdoing remains.",
+      "notes": [
+        "Precise contextual construction: you would have no sin → you would bear no guilt",
+        "Precise contextual construction: your sin remains → your wrongdoing remains"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "John 15:22",
+      "slug": "john",
+      "chapter": 15,
+      "verse": 22,
+      "original": "If I had not come and spoken to them, they would not have had sin; but now they have no excuse for their sin.",
+      "final": "If I had not come and spoken to them, they would not have been guilty of wrongdoing; but now they have no excuse for their wrongdoing.",
+      "notes": [
+        "Precise contextual construction: not have had sin → not have been guilty of wrongdoing",
+        "Precise contextual construction: excuse for their sin → excuse for their wrongdoing"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "John 15:24",
+      "slug": "john",
+      "chapter": 15,
+      "verse": 24,
+      "original": "If I hadn't done among them the works which no one else did, they wouldn't have had sin. But now have they seen and also hated both me and my Cosmic Parent.",
+      "final": "If I hadn't done among them the works which no one else did, they wouldn't have been guilty of wrongdoing. But now have they seen and also hated both me and my Cosmic Parent.",
+      "notes": [
+        "Precise contextual construction: wouldn't have had sin → wouldn't have been guilty of wrongdoing"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "John 16:8",
+      "slug": "john",
+      "chapter": 16,
+      "verse": 8,
+      "original": "When he has come, he will convict the world about sin, about righteousness, and about judgment;",
+      "final": "When he has come, he will convict the world about wrongdoing, about righteousness, and about judgment;",
+      "notes": [
+        "Precise contextual construction: about sin, about righteousness → about wrongdoing, about righteousness"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "John 16:9",
+      "slug": "john",
+      "chapter": 16,
+      "verse": 9,
+      "original": "about sin, because they don't trust in me;",
+      "final": "about wrongdoing, because they don't trust in me;",
+      "notes": [
+        "Precise contextual construction: about sin, because → about wrongdoing, because"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "John 19:11",
+      "slug": "john",
+      "chapter": 19,
+      "verse": 11,
+      "original": "Yeshua answered, \"You would have no power at all against me, unless it were given to you from above. Therefore the one who delivered me to you has greater sin.\"",
+      "final": "Yeshua answered, \"You would have no power at all against me, unless it were given to you from above. Therefore the one who delivered me to you has greater wrongdoing.\"",
+      "notes": [
+        "Precise contextual construction: greater sin → greater wrongdoing"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "John 20:23",
+      "slug": "john",
+      "chapter": 20,
+      "verse": 23,
+      "original": "Whoever's sins you forgive, they are forgiven them. Whoever's sins you retain, they have been retained.\"",
+      "final": "If you forgive anyone's moral failures, they are forgiven; if you retain them, they remain.\"",
+      "notes": [
+        "Whole-verse editorial construction retains source grammatical argument and figures"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Acts 7:60",
+      "slug": "acts",
+      "chapter": 7,
+      "verse": 60,
+      "original": "He kneeled down, and cried with a loud voice, \"Master, don't hold this sin against them!\" When he had said this, he fell asleep.",
+      "final": "He kneeled down, and cried with a loud voice, \"Master, don't hold this wrongdoing against them!\" When he had said this, he fell asleep.",
+      "notes": [
+        "Precise contextual construction: hold this sin against them → hold this wrongdoing against them"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Acts 13:38",
+      "slug": "acts",
+      "chapter": 13,
+      "verse": 38,
+      "original": "Be it known to you therefore, brothers and sisters, that through this a person is proclaimed to you remission of sins,",
+      "final": "Be it known to you therefore, brothers and sisters, that through this a person is proclaimed to you remission of moral failures,",
+      "notes": [
+        "Greek plural moral noun, context allows moral failures"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Acts 22:16",
+      "slug": "acts",
+      "chapter": 22,
+      "verse": 16,
+      "original": "Now why do you wait? Arise, be immersed, and wash away your sins, calling on the name of YHWH.'",
+      "final": "Now why do you wait? Arise, be immersed, and wash away your moral failures, calling on the name of YHWH.'",
+      "notes": [
+        "Greek plural moral noun, context allows moral failures"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Acts 25:8",
+      "slug": "acts",
+      "chapter": 25,
+      "verse": 8,
+      "original": "while he said in his defense, \"Neither against the law of the Judeans, nor against the temple, nor against Caesar, have I sinned at all.\"",
+      "final": "while he said in his defense, \"Neither against the law of the Judeans, nor against the temple, nor against Caesar, have I done any wrong at all.\"",
+      "notes": [
+        "Precise contextual construction: have I sinned at all → have I done any wrong at all"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Acts 26:18",
+      "slug": "acts",
+      "chapter": 26,
+      "verse": 18,
+      "original": "to open their eyes, that they may turn from darkness to light and from the power of the Adversary to God, that they may receive remission of sins and an inheritance among those who are sanctified by faith in me.'",
+      "final": "to open their eyes, that they may turn from darkness to light and from the power of the Adversary to God, that they may receive remission of moral failures and an inheritance among those who are sanctified by faith in me.'",
+      "notes": [
+        "Greek plural moral noun, context allows moral failures"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Romans 2:12",
+      "slug": "romans",
+      "chapter": 2,
+      "verse": 12,
+      "original": "For as many as have sinned without law will also perish without the law. As many as have sinned under the law will be judged by the law.",
+      "final": "For as many as have acted wrongly without law will also perish without the law. As many as have acted wrongly under the law will be judged by the law.",
+      "notes": [
+        "Precise contextual construction: have sinned without law → have acted wrongly without law",
+        "Precise contextual construction: have sinned under the law → have acted wrongly under the law"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Romans 3:7",
+      "slug": "romans",
+      "chapter": 3,
+      "verse": 7,
+      "original": "For if the truth of God through my lie abounded to God’s glory, why am I also still judged as a sinner?",
+      "final": "For if the truth of God through my lie abounded to God’s glory, why am I also still judged as a wrongdoer?",
+      "notes": [
+        "Precise contextual construction: judged as a sinner → judged as a wrongdoer"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Romans 3:9",
+      "slug": "romans",
+      "chapter": 3,
+      "verse": 9,
+      "original": "What then? Are we better than they? No, in no way. For we previously charged both Judeans and Greeks, that they are all under sin.",
+      "final": "What then? Are we better than they? No, in no way. For we previously charged both Judeans and Greeks, that they are all under the power of wrongdoing.",
+      "notes": [
+        "Precise contextual construction: all under sin → all under the power of wrongdoing"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Romans 3:20",
+      "slug": "romans",
+      "chapter": 3,
+      "verse": 20,
+      "original": "Because by the works of the law, no flesh will be justified in God's sight. For through the law comes the knowledge of sin.",
+      "final": "Because by the works of the law, no flesh will be justified in God's sight. For through the law comes the knowledge of wrongdoing.",
+      "notes": [
+        "Precise contextual construction: knowledge of sin → knowledge of wrongdoing"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Romans 3:25",
+      "slug": "romans",
+      "chapter": 3,
+      "verse": 25,
+      "original": "whom God set forth to be an atoning sacrifice, through faith in his blood, for a demonstration of God’s righteousness through the passing over of prior sins, in God's forbearance;",
+      "final": "whom God set forth to be an atoning sacrifice, through faith in his blood, for a demonstration of God’s righteousness through the passing over of earlier moral failures, in God's forbearance;",
+      "notes": [
+        "Precise contextual construction: prior sins → earlier moral failures"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Romans 4:8",
+      "slug": "romans",
+      "chapter": 4,
+      "verse": 8,
+      "original": "Blessed is the person whom the Master will by no means charge with sin.\"",
+      "final": "Blessed is the person whom the Master will by no means charge with wrongdoing.\"",
+      "notes": [
+        "Precise contextual construction: charge with sin → charge with wrongdoing"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Romans 5:8",
+      "slug": "romans",
+      "chapter": 5,
+      "verse": 8,
+      "original": "But God commends God’s own love toward us, in that while we were yet sinners, Messiah died for us.",
+      "final": "But God commends God’s own love toward us, in that while we had still done wrong, Messiah died for us.",
+      "notes": [
+        "Precise contextual construction: we were yet sinners → we had still done wrong"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Romans 5:12",
+      "slug": "romans",
+      "chapter": 5,
+      "verse": 12,
+      "original": "Therefore, as sin entered into the world through one man, and death through sin; and so death passed to all people, because all sinned.",
+      "final": "Therefore, as wrongdoing entered into the world through one man, and death through wrongdoing; and so death passed to all people, because all acted wrongly.",
+      "notes": [
+        "Precise contextual construction: because all sinned → because all acted wrongly",
+        "Personified hamartia and domination imagery in Romans 5–8"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Romans 5:13",
+      "slug": "romans",
+      "chapter": 5,
+      "verse": 13,
+      "original": "For until the law, sin was in the world; but sin is not charged when there is no law.",
+      "final": "For until the law, wrongdoing was in the world; but wrongdoing is not charged when there is no law.",
+      "notes": [
+        "Personified hamartia and domination imagery in Romans 5–8"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Romans 5:14",
+      "slug": "romans",
+      "chapter": 5,
+      "verse": 14,
+      "original": "Nevertheless death reigned from Adam until Moshe, even over those whose sins weren't like Adam's disobedience, who is a foreshadowing of the one who was to come.",
+      "final": "Nevertheless death reigned from Adam until Moshe, even over those whose wrongdoings weren't like Adam's disobedience, who is a foreshadowing of the one who was to come.",
+      "notes": [
+        "Precise contextual construction: whose sins weren't like Adam's disobedience → whose wrongdoings weren't like Adam's disobedience"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Romans 5:16",
+      "slug": "romans",
+      "chapter": 5,
+      "verse": 16,
+      "original": "The gift is not as through one who sinned: for the judgment came by one to condemnation, but the free gift came of many trespasses to justification.",
+      "final": "The gift is not as through one who acted wrongly: for the judgment came by one to condemnation, but the free gift came of many trespasses to justification.",
+      "notes": [
+        "Precise contextual construction: one who sinned → one who acted wrongly"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Romans 5:19",
+      "slug": "romans",
+      "chapter": 5,
+      "verse": 19,
+      "original": "For as through the disobedience of one person many were made sinners, even so through the obedience of the one, many will be made righteous.",
+      "final": "For as through the disobedience of one person many came to be marked by moral failure, even so through the obedience of the one, many will be made righteous.",
+      "notes": [
+        "Precise contextual construction: many were made sinners → many came to be marked by moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Romans 5:20",
+      "slug": "romans",
+      "chapter": 5,
+      "verse": 20,
+      "original": "The law came in besides, that the trespass might abound; but where sin abounded, grace abounded more exceedingly;",
+      "final": "The law came in besides, that the trespass might abound; but where wrongdoing abounded, grace abounded more exceedingly;",
+      "notes": [
+        "Personified hamartia and domination imagery in Romans 5–8"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Romans 5:21",
+      "slug": "romans",
+      "chapter": 5,
+      "verse": 21,
+      "original": "that as sin reigned in death, even so grace might reign through righteousness to life of the age through Yeshua the Messiah, our Master.",
+      "final": "that as wrongdoing reigned in death, even so grace might reign through righteousness to life of the age through Yeshua the Messiah, our Master.",
+      "notes": [
+        "Personified hamartia and domination imagery in Romans 5–8"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Romans 6:2",
+      "slug": "romans",
+      "chapter": 6,
+      "verse": 2,
+      "original": "May it never be! We who died to sin, how could we live in it any longer?",
+      "final": "May it never be! We who died to wrongdoing, how could we live in it any longer?",
+      "notes": [
+        "Personified hamartia and domination imagery in Romans 5–8"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Romans 6:6",
+      "slug": "romans",
+      "chapter": 6,
+      "verse": 6,
+      "original": "knowing this, that our old self was crucified with him, that the body of sin might be done away with, so that we would no longer be in bondage to sin.",
+      "final": "knowing this, that our old self was crucified with him, that the body of wrongdoing might be done away with, so that we would no longer be in bondage to wrongdoing.",
+      "notes": [
+        "Personified hamartia and domination imagery in Romans 5–8"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Romans 6:7",
+      "slug": "romans",
+      "chapter": 6,
+      "verse": 7,
+      "original": "For the one who has died has been freed from sin.",
+      "final": "For the one who has died has been freed from wrongdoing.",
+      "notes": [
+        "Personified hamartia and domination imagery in Romans 5–8"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Romans 6:10",
+      "slug": "romans",
+      "chapter": 6,
+      "verse": 10,
+      "original": "For the death that he died, he died to sin one time; but the life that he lives, he lives to God.",
+      "final": "For the death that he died, he died to wrongdoing one time; but the life that he lives, he lives to God.",
+      "notes": [
+        "Personified hamartia and domination imagery in Romans 5–8"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Romans 6:11",
+      "slug": "romans",
+      "chapter": 6,
+      "verse": 11,
+      "original": "Thus consider yourselves also to be dead to sin, but alive to God in Messiah Yeshua our Master.",
+      "final": "Thus consider yourselves also to be dead to wrongdoing, but alive to God in Messiah Yeshua our Master.",
+      "notes": [
+        "Personified hamartia and domination imagery in Romans 5–8"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Romans 6:13",
+      "slug": "romans",
+      "chapter": 6,
+      "verse": 13,
+      "original": "Neither present your members to sin as instruments of unrighteousness, but present yourselves to God, as alive from the dead, and your members as instruments of righteousness to God.",
+      "final": "Neither present your members to wrongdoing as instruments of unrighteousness, but present yourselves to God, as alive from the dead, and your members as instruments of righteousness to God.",
+      "notes": [
+        "Personified hamartia and domination imagery in Romans 5–8"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Romans 6:14",
+      "slug": "romans",
+      "chapter": 6,
+      "verse": 14,
+      "original": "For sin will not have dominion over you. For you are not under law, but under grace.",
+      "final": "For wrongdoing will not have dominion over you. For you are not under law, but under grace.",
+      "notes": [
+        "Personified hamartia and domination imagery in Romans 5–8"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Romans 6:15",
+      "slug": "romans",
+      "chapter": 6,
+      "verse": 15,
+      "original": "What then? Shall we sin, because we are not under law, but under grace? May it never be!",
+      "final": "What then? Shall we do wrong, because we are not under law, but under grace? May it never be!",
+      "notes": [
+        "Precise contextual construction: Shall we sin → Shall we do wrong"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Romans 6:16",
+      "slug": "romans",
+      "chapter": 6,
+      "verse": 16,
+      "original": "Don't you know that to whom you present yourselves as servants to obedience, his servants you are whom you obey; whether of sin to death, or of obedience to righteousness?",
+      "final": "Don't you know that to whom you present yourselves as servants to obedience, his servants you are whom you obey; whether of wrongdoing to death, or of obedience to righteousness?",
+      "notes": [
+        "Personified hamartia and domination imagery in Romans 5–8"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Romans 6:17",
+      "slug": "romans",
+      "chapter": 6,
+      "verse": 17,
+      "original": "But thanks be to God, that, whereas you were bondservants of sin, you became obedient from the heart to that form of teaching whereunto you were delivered.",
+      "final": "But thanks be to God, that, whereas you were bondservants of wrongdoing, you became obedient from the heart to that form of teaching whereunto you were delivered.",
+      "notes": [
+        "Personified hamartia and domination imagery in Romans 5–8"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Romans 6:18",
+      "slug": "romans",
+      "chapter": 6,
+      "verse": 18,
+      "original": "Being made free from sin, you became bondservants of righteousness.",
+      "final": "Being made free from wrongdoing, you became bondservants of righteousness.",
+      "notes": [
+        "Personified hamartia and domination imagery in Romans 5–8"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Romans 6:20",
+      "slug": "romans",
+      "chapter": 6,
+      "verse": 20,
+      "original": "For when you were servants of sin, you were free in regard to righteousness.",
+      "final": "For when you were servants of wrongdoing, you were free in regard to righteousness.",
+      "notes": [
+        "Personified hamartia and domination imagery in Romans 5–8"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Romans 6:22",
+      "slug": "romans",
+      "chapter": 6,
+      "verse": 22,
+      "original": "But now, being made free from sin, and having become servants of God, you have your fruit of sanctification, and the result of life of the age.",
+      "final": "But now, being made free from wrongdoing, and having become servants of God, you have your fruit of sanctification, and the result of life of the age.",
+      "notes": [
+        "Personified hamartia and domination imagery in Romans 5–8"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Romans 6:23",
+      "slug": "romans",
+      "chapter": 6,
+      "verse": 23,
+      "original": "For the wages of sin is death, but the free gift of God is life of the age in Messiah Yeshua our Master.",
+      "final": "For the wages of wrongdoing is death, but the free gift of God is life of the age in Messiah Yeshua our Master.",
+      "notes": [
+        "Personified hamartia and domination imagery in Romans 5–8"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Romans 7:5",
+      "slug": "romans",
+      "chapter": 7,
+      "verse": 5,
+      "original": "For when we were in the flesh, the sinful passions which were through the law, worked in our members to bring forth fruit to death.",
+      "final": "For when we were in the flesh, the passions shaped by wrongdoing which were through the law, worked in our members to bring forth fruit to death.",
+      "notes": [
+        "Precise contextual construction: sinful passions → passions shaped by wrongdoing"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Romans 7:7",
+      "slug": "romans",
+      "chapter": 7,
+      "verse": 7,
+      "original": "What shall we say then? Is the law sin? May it never be! However, I wouldn't have known sin, except through the law. For I wouldn't have known coveting, unless the law had said, \"You shall not covet.\"",
+      "final": "What shall we say then? Is the law wrongdoing? May it never be! However, I wouldn't have known wrongdoing, except through the law. For I wouldn't have known coveting, unless the law had said, \"You shall not covet.\"",
+      "notes": [
+        "Personified hamartia and domination imagery in Romans 5–8"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Romans 7:8",
+      "slug": "romans",
+      "chapter": 7,
+      "verse": 8,
+      "original": "But sin, finding occasion through the commandment, produced in me all kinds of coveting. For apart from the law, sin is dead.",
+      "final": "But wrongdoing, finding occasion through the commandment, produced in me all kinds of coveting. For apart from the law, wrongdoing is dead.",
+      "notes": [
+        "Personified hamartia and domination imagery in Romans 5–8"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Romans 7:9",
+      "slug": "romans",
+      "chapter": 7,
+      "verse": 9,
+      "original": "I was alive apart from the law once, but when the commandment came, sin revived, and I died.",
+      "final": "I was alive apart from the law once, but when the commandment came, wrongdoing revived, and I died.",
+      "notes": [
+        "Personified hamartia and domination imagery in Romans 5–8"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Romans 7:11",
+      "slug": "romans",
+      "chapter": 7,
+      "verse": 11,
+      "original": "for sin, finding occasion through the commandment, deceived me, and through it killed me.",
+      "final": "for wrongdoing, finding occasion through the commandment, deceived me, and through it killed me.",
+      "notes": [
+        "Personified hamartia and domination imagery in Romans 5–8"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Romans 7:13",
+      "slug": "romans",
+      "chapter": 7,
+      "verse": 13,
+      "original": "Did then that which is good become death to me? May it never be! But sin, that it might be shown to be sin, by working death to me through that which is good; that through the commandment sin might become exceeding sinful.",
+      "final": "Did then that which is good become death to me? May it never be! Rather, wrongdoing brought death to me through what is good, so that wrongdoing might be exposed for what it is; through the commandment, its destructive character became unmistakable.",
+      "notes": [
+        "Whole-verse editorial construction retains source grammatical argument and figures"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Romans 7:14",
+      "slug": "romans",
+      "chapter": 7,
+      "verse": 14,
+      "original": "For we know that the law is spiritual, but I am fleshly, sold under sin.",
+      "final": "For we know that the law is spiritual, but I am fleshly, sold under wrongdoing.",
+      "notes": [
+        "Personified hamartia and domination imagery in Romans 5–8"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Romans 7:17",
+      "slug": "romans",
+      "chapter": 7,
+      "verse": 17,
+      "original": "So now it is no more I that do it, but sin which dwells in me.",
+      "final": "So now it is no more I that do it, but wrongdoing which dwells in me.",
+      "notes": [
+        "Personified hamartia and domination imagery in Romans 5–8"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Romans 7:20",
+      "slug": "romans",
+      "chapter": 7,
+      "verse": 20,
+      "original": "But if what I don't desire, that I do, it is no more I that do it, but sin which dwells in me.",
+      "final": "But if what I don't desire, that I do, it is no more I that do it, but wrongdoing which dwells in me.",
+      "notes": [
+        "Personified hamartia and domination imagery in Romans 5–8"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Romans 7:23",
+      "slug": "romans",
+      "chapter": 7,
+      "verse": 23,
+      "original": "but I see a different law in my members, warring against the law of my mind, and bringing me into captivity under the law of sin which is in my members.",
+      "final": "but I see a different law in my members, warring against the law of my mind, and bringing me into captivity under the law of wrongdoing which is in my members.",
+      "notes": [
+        "Personified hamartia and domination imagery in Romans 5–8"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Romans 7:25",
+      "slug": "romans",
+      "chapter": 7,
+      "verse": 25,
+      "original": "I thank God through Yeshua the Messiah, our Master! So then with the mind, I myself serve God's law, but with the flesh, the sin's law.",
+      "final": "I thank God through Yeshua the Messiah, our Master! So then with the mind, I myself serve God's law, but with the flesh, the law of wrongdoing.",
+      "notes": [
+        "Precise contextual construction: the sin's law → the law of wrongdoing"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Romans 8:2",
+      "slug": "romans",
+      "chapter": 8,
+      "verse": 2,
+      "original": "For the law of the Ruach of life in Messiah Yeshua made me free from the law of sin and of death.",
+      "final": "For the law of the Ruach of life in Messiah Yeshua made me free from the law of wrongdoing and of death.",
+      "notes": [
+        "Personified hamartia and domination imagery in Romans 5–8"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Romans 8:3",
+      "slug": "romans",
+      "chapter": 8,
+      "verse": 3,
+      "original": "For what the law couldn't do, in that it was weak through the flesh, God did, sending God’s own Son in the likeness of sinful flesh and for sin, God condemned sin in the flesh;",
+      "final": "For what the law couldn't do, in that it was weak through the flesh, God did, sending God’s own Son in the likeness of flesh marked by wrongdoing and for wrongdoing, God condemned wrongdoing in the flesh;",
+      "notes": [
+        "Precise contextual construction: sinful flesh → flesh marked by wrongdoing",
+        "Personified hamartia and domination imagery in Romans 5–8"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Romans 8:10",
+      "slug": "romans",
+      "chapter": 8,
+      "verse": 10,
+      "original": "If Messiah is in you, the body is dead because of sin, but the spirit is alive because of righteousness.",
+      "final": "If Messiah is in you, the body is dead because of wrongdoing, but the spirit is alive because of righteousness.",
+      "notes": [
+        "Personified hamartia and domination imagery in Romans 5–8"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Romans 11:27",
+      "slug": "romans",
+      "chapter": 11,
+      "verse": 27,
+      "original": "This is my covenant to them, when I will take away their sins.\"",
+      "final": "This is my covenant to them, when I will take away their moral failures.\"",
+      "notes": [
+        "Precise contextual construction: their sins → their moral failures"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "1 Corinthians 5:9",
+      "slug": "1-corinthians",
+      "chapter": 5,
+      "verse": 9,
+      "original": "I wrote to you in my letter to have no company with sexual sinners;",
+      "final": "I wrote to you in my letter to have no company with people engaging in sexual wrongdoing;",
+      "notes": [
+        "Precise contextual construction: sexual sinners → people engaging in sexual wrongdoing"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "1 Corinthians 5:10",
+      "slug": "1-corinthians",
+      "chapter": 5,
+      "verse": 10,
+      "original": "yet not at all meaning with the sexual sinners of this world, or with the covetous and extortioners, or with idolaters; for then you would have to leave the world.",
+      "final": "yet not at all meaning with the people engaging in sexual wrongdoing of this world, or with the covetous and extortioners, or with idolaters; for then you would have to leave the world.",
+      "notes": [
+        "Precise contextual construction: sexual sinners → people engaging in sexual wrongdoing"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "1 Corinthians 5:11",
+      "slug": "1-corinthians",
+      "chapter": 5,
+      "verse": 11,
+      "original": "But as it is, I wrote to you not to associate with anyone who is called a brother or sister who is a sexual sinner, or covetous, or an idolater, or a slanderer, or a drunkard, or an extortioner. Don't even eat with such a person.",
+      "final": "But as it is, I wrote to you not to associate with anyone who is called a brother or sister who is someone engaging in sexual wrongdoing, or covetous, or an idolater, or a slanderer, or a drunkard, or an extortioner. Don't even eat with such a person.",
+      "notes": [
+        "Precise contextual construction: a sexual sinner → someone engaging in sexual wrongdoing"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "1 Corinthians 6:18",
+      "slug": "1-corinthians",
+      "chapter": 6,
+      "verse": 18,
+      "original": "Flee sexual immorality! \"Every sin that a person does is outside the body,\" but the one who commits sexual immorality sins against their own body.",
+      "final": "Flee sexual immorality! \"Every moral failure that a person commits is outside the body,\" but the one who commits sexual immorality does wrong against their own body.",
+      "notes": [
+        "Precise contextual construction: Every sin that a person does → Every moral failure that a person commits",
+        "Precise contextual construction: sins against their own body → does wrong against their own body"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "1 Corinthians 7:28",
+      "slug": "1-corinthians",
+      "chapter": 7,
+      "verse": 28,
+      "original": "But if you marry, you have not sinned. If a virgin marries, she has not sinned. Yet such will have oppression in the flesh, and I want to spare you.",
+      "final": "But if you marry, you have not acted wrongly. If a virgin marries, she has not acted wrongly. Yet such will have oppression in the flesh, and I want to spare you.",
+      "notes": [
+        "Precise contextual construction: you have not sinned → you have not acted wrongly",
+        "Precise contextual construction: she has not sinned → she has not acted wrongly"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "1 Corinthians 7:36",
+      "slug": "1-corinthians",
+      "chapter": 7,
+      "verse": 36,
+      "original": "But if any man thinks that he is behaving inappropriately toward his virgin, if she is past the flower of her age, and if need so requires, let him do what he desires. He doesn't sin. Let them marry.",
+      "final": "But if any man thinks that he is behaving inappropriately toward his virgin, if she is past the flower of her age, and if need so requires, let him do what he desires. He does no wrong. Let them marry.",
+      "notes": [
+        "Precise contextual construction: He doesn't sin → He does no wrong"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "1 Corinthians 8:12",
+      "slug": "1-corinthians",
+      "chapter": 8,
+      "verse": 12,
+      "original": "Thus, sinning against the brothers and sisters, and wounding their conscience when it is weak, you sin against Messiah.",
+      "final": "Thus, wronging the brothers and sisters, and wounding their conscience when it is weak, you wrong Messiah.",
+      "notes": [
+        "Precise contextual construction: sinning against the brothers and sisters → wronging the brothers and sisters",
+        "Precise contextual construction: you sin against Messiah → you wrong Messiah"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "1 Corinthians 15:34",
+      "slug": "1-corinthians",
+      "chapter": 15,
+      "verse": 34,
+      "original": "Wake up righteously, and don't sin, for some have no knowledge of God. I say this to your shame.",
+      "final": "Wake up righteously, and do no wrong, for some have no knowledge of God. I say this to your shame.",
+      "notes": [
+        "Precise contextual construction: don't sin → do no wrong"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "2 Corinthians 11:7",
+      "slug": "2-corinthians",
+      "chapter": 11,
+      "verse": 7,
+      "original": "Or did I commit a sin in humbling myself that you might be exalted, because I preached to you God's good news free of charge?",
+      "final": "Or did I commit a moral failure in humbling myself that you might be exalted, because I preached to you God's good news free of charge?",
+      "notes": [
+        "Precise contextual construction: commit a sin → commit a moral failure"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "2 Corinthians 12:21",
+      "slug": "2-corinthians",
+      "chapter": 12,
+      "verse": 21,
+      "original": "that again when I come my God would humble me before you, and I would mourn for many of those who have sinned before now, and not repented of the uncleanness and sexual immorality and lustfulness which they committed.",
+      "final": "that again when I come my God would humble me before you, and I would mourn for many of those who have acted wrongly before now, and not repented of the uncleanness and sexual immorality and lustfulness which they committed.",
+      "notes": [
+        "Precise contextual construction: have sinned before now → have acted wrongly before now"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "2 Corinthians 13:2",
+      "slug": "2-corinthians",
+      "chapter": 13,
+      "verse": 2,
+      "original": "I have said beforehand, and I do say beforehand, as when I was present the second time, so now, being absent, I write to those who have sinned before now, and to all the rest, that, if I come again, I will not spare;",
+      "final": "I have said beforehand, and I do say beforehand, as when I was present the second time, so now, being absent, I write to those who have acted wrongly before now, and to all the rest, that, if I come again, I will not spare;",
+      "notes": [
+        "Precise contextual construction: have sinned before now → have acted wrongly before now"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Galatians 2:15",
+      "slug": "galatians",
+      "chapter": 2,
+      "verse": 15,
+      "original": "\"We, being Judeans by nature, and not Gentile sinners,",
+      "final": "\"We, being Judeans by nature, and not Gentiles considered wrongdoers,",
+      "notes": [
+        "Precise contextual construction: Gentile sinners → Gentiles considered wrongdoers"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Galatians 2:17",
+      "slug": "galatians",
+      "chapter": 2,
+      "verse": 17,
+      "original": "But if, while we sought to be justified in Messiah, we ourselves also were found sinners, is Messiah a servant of sin? Certainly not!",
+      "final": "But if, while we sought to be justified in Messiah, we ourselves also were found to have done wrong, is Messiah a servant of wrongdoing? Certainly not!",
+      "notes": [
+        "Precise contextual construction: were found sinners → were found to have done wrong",
+        "Precise contextual construction: servant of sin → servant of wrongdoing"
+      ],
+      "stagedForSourceReview": true
+    }
+  ]
+}

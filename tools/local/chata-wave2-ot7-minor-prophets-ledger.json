@@ -1,0 +1,335 @@
+{
+  "baselineEpubSha256": "b5500415431a339ba10c7021e9b091b7af38f0badb2a4d9e1e7cc0e15f46b943",
+  "held": [
+    {
+      "ref": "Hosea 4:8",
+      "why": "Hebrew ḥaṭṭāʾt may denote purification offerings or culpable wrongdoing here; priestly exploitation ambiguity. Defer rather than guess."
+    }
+  ],
+  "edits": [
+    {
+      "reference": "Daniel 4:27",
+      "slug": "daniel",
+      "chapter": 4,
+      "verse": 27,
+      "original": "Therefore, O king, let my counsel be acceptable to you, and break off your sins by righteousness, and your iniquities by showing mercy to the poor; if there may be a lengthening of your tranquility.",
+      "final": "Therefore, O king, let my counsel be acceptable to you, and break away from your wrongdoings by doing what is right, and your iniquities by showing mercy to the poor; if there may be a lengthening of your tranquility.",
+      "rationale": "Prophetic wrongdoing, responsibility, and restoration with rhetorical images maintained."
+    },
+    {
+      "reference": "Daniel 9:5",
+      "slug": "daniel",
+      "chapter": 9,
+      "verse": 5,
+      "original": "we have sinned, and have dealt perversely, and have done wickedly, and have rebelled, even turning aside from your precepts and from your ordinances;",
+      "final": "we have done wrong, and have dealt perversely, and have done wickedly, and have rebelled, even turning aside from your precepts and from your ordinances;",
+      "rationale": "Prophetic wrongdoing, responsibility, and restoration with rhetorical images maintained."
+    },
+    {
+      "reference": "Daniel 9:8",
+      "slug": "daniel",
+      "chapter": 9,
+      "verse": 8,
+      "original": "YHWH, to us belongs confusion of face, to our kings, to our princes, and to our fathers, because we have sinned against you.",
+      "final": "YHWH, to us belongs confusion of face, to our kings, to our princes, and to our fathers, because we have done wrong against you.",
+      "rationale": "Prophetic wrongdoing, responsibility, and restoration with rhetorical images maintained."
+    },
+    {
+      "reference": "Daniel 9:11",
+      "slug": "daniel",
+      "chapter": 9,
+      "verse": 11,
+      "original": "Yes, all Israel have transgressed your law, even turning aside, that they should not obey your voice: therefore has the curse been poured out on us, and the oath that is written in the law of Moshe the servant of Elohim; for we have sinned against him.",
+      "final": "Yes, all Israel have transgressed your law, even turning aside, that they should not obey your voice: therefore has the curse been poured out on us, and the oath that is written in the law of Moshe the servant of Elohim; for we have done wrong against him.",
+      "rationale": "Prophetic wrongdoing, responsibility, and restoration with rhetorical images maintained."
+    },
+    {
+      "reference": "Daniel 9:15",
+      "slug": "daniel",
+      "chapter": 9,
+      "verse": 15,
+      "original": "Now, YHWH our God, who has brought your people forth out of the land of Mitzrayim with a mighty hand, and have gotten you renown, as at this day; we have sinned, we have done wickedly.",
+      "final": "Now, YHWH our God, who has brought your people forth out of the land of Mitzrayim with a mighty hand, and have gotten you renown, as at this day; we have done wrong, we have done wickedly.",
+      "rationale": "Prophetic wrongdoing, responsibility, and restoration with rhetorical images maintained."
+    },
+    {
+      "reference": "Daniel 9:16",
+      "slug": "daniel",
+      "chapter": 9,
+      "verse": 16,
+      "original": "YHWH, according to all your righteousness, let your anger and please let your wrath be turned away from your city Yerushalayim, your holy mountain; because for our sins, and for the iniquities of our fathers, Yerushalayim and your people are become a reproach to all who are round about us.",
+      "final": "YHWH, according to all your righteousness, let your anger and please let your wrath be turned away from your city Yerushalayim, your holy mountain; because for our wrongdoings, and for the iniquities of our fathers, Yerushalayim and your people are become a reproach to all who are round about us.",
+      "rationale": "Prophetic wrongdoing, responsibility, and restoration with rhetorical images maintained."
+    },
+    {
+      "reference": "Daniel 9:20",
+      "slug": "daniel",
+      "chapter": 9,
+      "verse": 20,
+      "original": "While I was speaking, and praying, and confessing my sin and the sin of my people Israel, and presenting my supplication before YHWH my God for the holy mountain of my God;",
+      "final": "While I was speaking, and praying, and confessing my wrongdoing and the wrongdoing of my people Israel, and presenting my supplication before YHWH my God for the holy mountain of my God;",
+      "rationale": "Prophetic wrongdoing, responsibility, and restoration with rhetorical images maintained."
+    },
+    {
+      "reference": "Daniel 9:24",
+      "slug": "daniel",
+      "chapter": 9,
+      "verse": 24,
+      "original": "Seventy weeks are decreed on your people and on your holy city, to finish disobedience, and to make an end of sins, and to make reconciliation for iniquity, and to bring in everlasting righteousness, and to seal up vision and prophecy, and to anoint the most holy.",
+      "final": "Seventy weeks are decreed on your people and on your holy city, to finish disobedience, and to make an end of moral failures, and to make reconciliation for iniquity, and to bring in everlasting righteousness, and to seal up vision and prophecy, and to anoint the most holy.",
+      "rationale": "Prophetic wrongdoing, responsibility, and restoration with rhetorical images maintained."
+    },
+    {
+      "reference": "Hosea 4:7",
+      "slug": "hosea",
+      "chapter": 4,
+      "verse": 7,
+      "original": "As they were multiplied, so they sinned against me. I will change their glory into shame.",
+      "final": "As they were multiplied, so they did wrong against me. I will change their glory into shame.",
+      "rationale": "Prophetic wrongdoing, responsibility, and restoration with rhetorical images maintained."
+    },
+    {
+      "reference": "Hosea 8:11",
+      "slug": "hosea",
+      "chapter": 8,
+      "verse": 11,
+      "original": "Because Efrayim has multiplied altars for sinning, they became for him altars for sinning.",
+      "final": "Because Efrayim has multiplied altars for wrongdoing, they became for him altars for wrongdoing.",
+      "rationale": "Repeated altar formula describes idolatrous wrongdoing, not inability."
+    },
+    {
+      "reference": "Hosea 8:13",
+      "slug": "hosea",
+      "chapter": 8,
+      "verse": 13,
+      "original": "As for the sacrifices of my offerings, they sacrifice flesh and eat it; But YHWH doesn't accept them. Now he will remember their iniquity, and punish their sins. They will return to Mitzrayim.",
+      "final": "As for the sacrifices of my offerings, they sacrifice flesh and eat it; But YHWH doesn't accept them. Now he will remember their iniquity, and punish their wrongdoings. They will return to Mitzrayim.",
+      "rationale": "Prophetic wrongdoing, responsibility, and restoration with rhetorical images maintained."
+    },
+    {
+      "reference": "Hosea 9:7",
+      "slug": "hosea",
+      "chapter": 9,
+      "verse": 7,
+      "original": "The days of visitation have come. The days of reckoning have come. Israel will consider the prophet to be a fool, and the one who is inspired to be insane, because of the abundance of your sins, and because your hostility is great.",
+      "final": "The days of visitation have come. The days of reckoning have come. Israel will consider the prophet to be a fool, and the one who is inspired to be insane, because of the abundance of your wrongdoings, and because your hostility is great.",
+      "rationale": "Prophetic wrongdoing, responsibility, and restoration with rhetorical images maintained."
+    },
+    {
+      "reference": "Hosea 9:9",
+      "slug": "hosea",
+      "chapter": 9,
+      "verse": 9,
+      "original": "They have deeply corrupted themselves, as in the days of Gibeah. He will remember their iniquity. He will punish them for their sins.",
+      "final": "They have deeply corrupted themselves, as in the days of Gibeah. He will remember their iniquity. He will punish them for their wrongdoings.",
+      "rationale": "Prophetic wrongdoing, responsibility, and restoration with rhetorical images maintained."
+    },
+    {
+      "reference": "Hosea 10:8",
+      "slug": "hosea",
+      "chapter": 10,
+      "verse": 8,
+      "original": "The high places also of Aven, the sin of Israel, will be destroyed. The thorn and the thistle will come up on their altars. They will tell the mountains, \"Cover us!\" and the hills, \"Fall on us!\"",
+      "final": "The high places also of Aven, the wrongdoing of Israel, will be destroyed. The thorn and the thistle will come up on their altars. They will tell the mountains, \"Cover us!\" and the hills, \"Fall on us!\"",
+      "rationale": "Prophetic wrongdoing, responsibility, and restoration with rhetorical images maintained."
+    },
+    {
+      "reference": "Hosea 10:9",
+      "slug": "hosea",
+      "chapter": 10,
+      "verse": 9,
+      "original": "\"Israel, you have sinned from the days of Gibeah. There they remained. The battle against the children of iniquity doesn't overtake them in Gibeah.",
+      "final": "\"Israel, you have done wrong from the days of Gibeah. There they remained. The battle against the children of iniquity doesn't overtake them in Gibeah.",
+      "rationale": "Prophetic wrongdoing, responsibility, and restoration with rhetorical images maintained."
+    },
+    {
+      "reference": "Hosea 12:8",
+      "slug": "hosea",
+      "chapter": 12,
+      "verse": 8,
+      "original": "Efrayim said, \"Surely I have become rich, I have found myself wealth. In all my wealth they won't find in me any iniquity that is sin.\"",
+      "final": "Efrayim said, \"Surely I have become rich, I have found myself wealth. In all my wealth they won't find in me any iniquity that is wrongdoing.\"",
+      "rationale": "Prophetic wrongdoing, responsibility, and restoration with rhetorical images maintained."
+    },
+    {
+      "reference": "Hosea 13:2",
+      "slug": "hosea",
+      "chapter": 13,
+      "verse": 2,
+      "original": "Now they sin more and more, and have made themselves molten images of their silver, even idols according to their own understanding, all of them the work of the craftsmen. They say of them, 'They offer human sacrifice and kiss the calves.'",
+      "final": "Now they do wrong more and more, and have made themselves molten images of their silver, even idols according to their own understanding, all of them the work of the craftsmen. They say of them, 'They offer human sacrifice and kiss the calves.'",
+      "rationale": "Prophetic wrongdoing, responsibility, and restoration with rhetorical images maintained."
+    },
+    {
+      "reference": "Hosea 13:12",
+      "slug": "hosea",
+      "chapter": 13,
+      "verse": 12,
+      "original": "The guilt of Efrayim is stored up. His sin is stored up.",
+      "final": "The guilt of Efrayim is stored up. His wrongdoing is stored up.",
+      "rationale": "Prophetic wrongdoing, responsibility, and restoration with rhetorical images maintained."
+    },
+    {
+      "reference": "Hosea 14:1",
+      "slug": "hosea",
+      "chapter": 14,
+      "verse": 1,
+      "original": "Israel, return to YHWH your God; for you have fallen because of your sin.",
+      "final": "Israel, return to YHWH your God; for you have fallen because of your wrongdoing.",
+      "rationale": "Prophetic wrongdoing, responsibility, and restoration with rhetorical images maintained."
+    },
+    {
+      "reference": "Hosea 14:2",
+      "slug": "hosea",
+      "chapter": 14,
+      "verse": 2,
+      "original": "Take words with you, and return to YHWH. Tell him, \"Forgive all our sins, and accept that which is good: so we offer our lips like bulls.",
+      "final": "Take words with you, and return to YHWH. Tell him, \"Forgive all our moral failures, and accept that which is good: so we offer our lips like bulls.",
+      "rationale": "Prophetic wrongdoing, responsibility, and restoration with rhetorical images maintained."
+    },
+    {
+      "reference": "Amos 3:2",
+      "slug": "amos",
+      "chapter": 3,
+      "verse": 2,
+      "original": "\"You only have I chosen of all the families of the earth. Therefore I will punish you for all of your sins.\"",
+      "final": "\"You only have I chosen of all the families of the earth. Therefore I will punish you for all of your wrongdoings.\"",
+      "rationale": "Prophetic wrongdoing, responsibility, and restoration with rhetorical images maintained."
+    },
+    {
+      "reference": "Amos 4:4",
+      "slug": "amos",
+      "chapter": 4,
+      "verse": 4,
+      "original": "\"Go to Beit El, and sin; to Gilgal, and sin more. Bring your sacrifices every morning, your tithes every three days,",
+      "final": "\"Go to Beit El, and do wrong; to Gilgal, and do wrong still more. Bring your sacrifices every morning, your tithes every three days,",
+      "rationale": "Prophetic wrongdoing, responsibility, and restoration with rhetorical images maintained."
+    },
+    {
+      "reference": "Amos 5:12",
+      "slug": "amos",
+      "chapter": 5,
+      "verse": 12,
+      "original": "For I know how many your offenses, and how great are your sins-- you who afflict the just, who take a bribe, and who turn aside the needy in the courts.",
+      "final": "For I know how many your offenses, and how grave are your wrongdoings-- you who afflict the just, who take a bribe, and who turn aside the needy in the courts.",
+      "rationale": "Prophetic wrongdoing, responsibility, and restoration with rhetorical images maintained."
+    },
+    {
+      "reference": "Amos 8:14",
+      "slug": "amos",
+      "chapter": 8,
+      "verse": 14,
+      "original": "Those who swear by the sin of Shomron, and say, 'As your god, Dan, lives;' and, 'As the way of Be'er Sheva lives;' they will fall, and never rise up again.\"",
+      "final": "Those who swear by the guilt of Shomron, and say, 'As your god, Dan, lives;' and, 'As the way of Be'er Sheva lives;' they will fall, and never rise up again.\"",
+      "rationale": "Hebrew ʾašmat Shomron: 'guilt of Samaria' likely names idolatrous object; source-variant review needed before approval"
+    },
+    {
+      "reference": "Amos 9:8",
+      "slug": "amos",
+      "chapter": 9,
+      "verse": 8,
+      "original": "Behold, the eyes of YHWH God are on the sinful kingdom, and I will destroy it from off the surface of the earth; except that I will not utterly destroy the house of Ya'akov,\" says YHWH.",
+      "final": "Behold, the eyes of YHWH God are on the kingdom marked by wrongdoing, and I will destroy it from off the surface of the earth; except that I will not utterly destroy the house of Ya'akov,\" says YHWH.",
+      "rationale": "Prophetic wrongdoing, responsibility, and restoration with rhetorical images maintained."
+    },
+    {
+      "reference": "Amos 9:10",
+      "slug": "amos",
+      "chapter": 9,
+      "verse": 10,
+      "original": "All the sinners of my people will die by the sword, who say, 'Disaster won't overtake nor meet us.'",
+      "final": "All those among my people who persist in wrongdoing will die by the sword, who say, 'Disaster won't overtake nor meet us.'",
+      "rationale": "Prophetic wrongdoing, responsibility, and restoration with rhetorical images maintained."
+    },
+    {
+      "reference": "Micah 1:5",
+      "slug": "micah",
+      "chapter": 1,
+      "verse": 5,
+      "original": "\"All this is for the disobedience of Ya'akov, and for the sins of the house of Israel. What is the disobedience of Ya'akov? Isn't it Shomron? And what are the high places of Yehudah? Aren't they Yerushalayim?",
+      "final": "\"All this is for the disobedience of Ya'akov, and for the wrongdoings of the house of Israel. What is the disobedience of Ya'akov? Isn't it Shomron? And what are the high places of Yehudah? Aren't they Yerushalayim?",
+      "rationale": "Prophetic wrongdoing, responsibility, and restoration with rhetorical images maintained."
+    },
+    {
+      "reference": "Micah 1:13",
+      "slug": "micah",
+      "chapter": 1,
+      "verse": 13,
+      "original": "Harness the chariot to the swift steed, inhabitant of Lachish. She was the beginning of sin to the daughter of Tzion; For the transgressions of Israel were found in you.",
+      "final": "Harness the chariot to the swift steed, inhabitant of Lachish. She was the beginning of wrongdoing to the daughter of Tzion; For the transgressions of Israel were found in you.",
+      "rationale": "Prophetic wrongdoing, responsibility, and restoration with rhetorical images maintained."
+    },
+    {
+      "reference": "Micah 3:8",
+      "slug": "micah",
+      "chapter": 3,
+      "verse": 8,
+      "original": "But as for me, I am full of power by the Ruach of YHWH, and of judgment, and of might, to declare to Ya'akov his disobedience, and to Israel his sin.",
+      "final": "But as for me, I am full of power by the Ruach of YHWH, and of judgment, and of might, to declare to Ya'akov his disobedience, and to Israel its wrongdoing.",
+      "rationale": "Prophetic wrongdoing, responsibility, and restoration with rhetorical images maintained."
+    },
+    {
+      "reference": "Micah 6:7",
+      "slug": "micah",
+      "chapter": 6,
+      "verse": 7,
+      "original": "Will YHWH be pleased with thousands of rams? With tens of thousands of rivers of oil? Shall I give my firstborn for my disobedience? The fruit of my body for the sin of my soul?",
+      "final": "Will YHWH be pleased with thousands of rams? With tens of thousands of rivers of oil? Shall I give my firstborn for my disobedience? The fruit of my body for my own wrongdoing?",
+      "rationale": "Prophetic wrongdoing, responsibility, and restoration with rhetorical images maintained."
+    },
+    {
+      "reference": "Micah 6:13",
+      "slug": "micah",
+      "chapter": 6,
+      "verse": 13,
+      "original": "Therefore I also have struck you with a grievous wound. I have made you desolate because of your sins.",
+      "final": "Therefore I also have struck you with a grievous wound. I have made you desolate because of your wrongdoings.",
+      "rationale": "Prophetic wrongdoing, responsibility, and restoration with rhetorical images maintained."
+    },
+    {
+      "reference": "Micah 7:9",
+      "slug": "micah",
+      "chapter": 7,
+      "verse": 9,
+      "original": "I will bear the indignation of YHWH, because I have sinned against YHWH, until YHWH pleads my case, and executes judgment for me. YHWH will bring me forth to the light. I will see YHWH’s righteousness.",
+      "final": "I will bear the indignation of YHWH, because I have done wrong against YHWH, until YHWH pleads my case, and executes judgment for me. YHWH will bring me forth to the light. I will see YHWH’s righteousness.",
+      "rationale": "Prophetic wrongdoing, responsibility, and restoration with rhetorical images maintained."
+    },
+    {
+      "reference": "Micah 7:19",
+      "slug": "micah",
+      "chapter": 7,
+      "verse": 19,
+      "original": "Elohim will again have compassion on us. Elohim will tread our iniquities under foot; and you will cast all their sins into the depths of the sea.",
+      "final": "Elohim will again have compassion on us. Elohim will tread our iniquities under foot; and you will cast all their moral failures into the depths of the sea.",
+      "rationale": "Prophetic wrongdoing, responsibility, and restoration with rhetorical images maintained."
+    },
+    {
+      "reference": "Habakkuk 2:10",
+      "slug": "habakkuk",
+      "chapter": 2,
+      "verse": 10,
+      "original": "You have devised shame to your house, by cutting off many peoples, and have sinned against your soul.",
+      "final": "You have devised shame to your house, by cutting off many peoples, and have wronged your own soul.",
+      "rationale": "Prophetic wrongdoing, responsibility, and restoration with rhetorical images maintained."
+    },
+    {
+      "reference": "Zephaniah 1:17",
+      "slug": "zephaniah",
+      "chapter": 1,
+      "verse": 17,
+      "original": "I will bring distress on men, that they will walk like blind men, because they have sinned against YHWH, and their blood will be poured out like dust, and their flesh like dung.",
+      "final": "I will bring distress on men, that they will walk like blind men, because they have done wrong against YHWH, and their blood will be poured out like dust, and their flesh like dung.",
+      "rationale": "Prophetic wrongdoing, responsibility, and restoration with rhetorical images maintained."
+    },
+    {
+      "reference": "Zechariah 13:1",
+      "slug": "zechariah",
+      "chapter": 13,
+      "verse": 1,
+      "original": "\"In that day there will be a spring opened to the house of Dawid and to the inhabitants of Yerushalayim, for sin and for uncleanness.",
+      "final": "\"In that day there will be a spring opened to the house of Dawid and to the inhabitants of Yerushalayim, for wrongdoing and for uncleanness.",
+      "rationale": "Prophetic wrongdoing, responsibility, and restoration with rhetorical images maintained."
+    }
+  ]
+}
