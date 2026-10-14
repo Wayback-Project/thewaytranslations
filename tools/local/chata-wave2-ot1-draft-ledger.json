@@ -373,9 +373,10 @@
       "chapter": 4,
       "verse": 28,
       "original": "if his sin, which he has sinned, is made known to him, then he shall bring for his offering a goat, a female without blemish, for his sin which he has sinned.",
-      "final": "if the wrong he has committed, is made known to him, then he shall bring for his offering a goat, a female without blemish, for his sin which he has sinned.",
+      "final": "if the wrong he has committed is made known to him, then he shall bring for his offering a goat, a female without blemish, for the wrong he has committed.",
       "notes": [
-        "Contextual human/ritual responsibility: his sin, which he has sinned → the wrong he has committed"
+        "Contextual human/ritual responsibility: his sin, which he has sinned → the wrong he has committed",
+        "Full-clause language QA: repair dangling clauses, avoid retained lexical terms, preserve intentional cultic wrongdoing."
       ],
       "stagedForSourceReview": true
     },
@@ -797,10 +798,11 @@
       "chapter": 9,
       "verse": 15,
       "original": "He presented the people's offering, and took the goat of the sin offering which was for the people, and killed it, and offered it for sin, like the first.",
-      "final": "He presented the people's offering, and took the goat of the purification offering which was for the people, and killed it, and offered it as a purification rite, like the first.",
+      "final": "He presented the people's offering, and took the goat of the purification offering which was for the people, and killed it, and offered it as a purification offering, like the first.",
       "notes": [
         "Technical Hebrew ḥaṭṭāʾt: name of ritual purification offering; not a moral failure",
-        "Contextual human/ritual responsibility: offered it for sin → offered it as a purification rite"
+        "Contextual human/ritual responsibility: offered it for sin → offered it as a purification rite",
+        "Full-clause language QA: repair dangling clauses, avoid retained lexical terms, preserve intentional cultic wrongdoing."
       ],
       "stagedForSourceReview": true
     },
@@ -1848,9 +1850,10 @@
       "chapter": 14,
       "verse": 16,
       "original": "YHWH will give Israel up because of the sins of Yerovam, which he has sinned, and with which he has made Israel to sin.",
-      "final": "YHWH will give Israel up because of the wrongdoings of Yerovam, which he has sinned, and with which he has led Israel into wrongdoing.",
+      "final": "YHWH will give Israel up because of Yerovam's wrongdoings, which he committed and led Israel to commit.",
       "notes": [
-        "Hebrew historical formula for cultic misconduct: actual wrongdoing, not an innocent failure"
+        "Hebrew historical formula for cultic misconduct: actual wrongdoing, not an innocent failure",
+        "Full-clause language QA: repair dangling clauses, avoid retained lexical terms, preserve intentional cultic wrongdoing."
       ],
       "stagedForSourceReview": true
     },
@@ -1860,9 +1863,10 @@
       "chapter": 15,
       "verse": 26,
       "original": "He did what was broken in the sight of YHWH, and walked in the way of his father, and in his sin with which he made Israel to sin.",
-      "final": "He did what was broken in the sight of YHWH, and walked in the way of his father, and in his sin with which he led Israel into wrongdoing.",
+      "final": "He did what was broken in the sight of YHWH, and walked in the way of his father, continuing in his wrongdoing by which he led Israel into wrongdoing.",
       "notes": [
-        "Hebrew historical formula for cultic misconduct: actual wrongdoing, not an innocent failure"
+        "Hebrew historical formula for cultic misconduct: actual wrongdoing, not an innocent failure",
+        "Full-clause language QA: repair dangling clauses, avoid retained lexical terms, preserve intentional cultic wrongdoing."
       ],
       "stagedForSourceReview": true
     },
@@ -1872,9 +1876,10 @@
       "chapter": 15,
       "verse": 30,
       "original": "for the sins of Yerovam which he sinned, and with which he made Israel to sin, because of his provocation with which he provoked YHWH, the God of Israel, to anger.",
-      "final": "for the wrongdoings of Yerovam which he sinned, and with which he led Israel into wrongdoing, because of his provocation with which he provoked YHWH, the God of Israel, to anger.",
+      "final": "for the wrongdoings Yerovam committed and led Israel to commit, because of his provocation with which he provoked YHWH, the God of Israel, to anger.",
       "notes": [
-        "Hebrew historical formula for cultic misconduct: actual wrongdoing, not an innocent failure"
+        "Hebrew historical formula for cultic misconduct: actual wrongdoing, not an innocent failure",
+        "Full-clause language QA: repair dangling clauses, avoid retained lexical terms, preserve intentional cultic wrongdoing."
       ],
       "stagedForSourceReview": true
     },
@@ -1884,9 +1889,10 @@
       "chapter": 15,
       "verse": 34,
       "original": "He did what was broken in the sight of YHWH, and walked in the way of Yerovam, and in his sin with which he made Israel to sin.",
-      "final": "He did what was broken in the sight of YHWH, and walked in the way of Yerovam, and in his sin with which he led Israel into wrongdoing.",
+      "final": "He did what was broken in the sight of YHWH, and walked in the way of Yerovam, continuing in the wrongdoing by which Yerovam led Israel into wrongdoing.",
       "notes": [
-        "Hebrew historical formula for cultic misconduct: actual wrongdoing, not an innocent failure"
+        "Hebrew historical formula for cultic misconduct: actual wrongdoing, not an innocent failure",
+        "Full-clause language QA: repair dangling clauses, avoid retained lexical terms, preserve intentional cultic wrongdoing."
       ],
       "stagedForSourceReview": true
     },
@@ -1896,9 +1902,10 @@
       "chapter": 16,
       "verse": 2,
       "original": "Because I exalted you out of the dust, and made you prince over my people Israel, and you have walked in the way of Yerovam, and have made my people Israel to sin, to provoke me to anger with their sins;",
-      "final": "Because I exalted you out of the dust, and made you prince over my people Israel, and you have walked in the way of Yerovam, and have made my people Israel into wrongdoing, to provoke me to anger with their sins;",
+      "final": "Because I exalted you out of the dust, and made you prince over my people Israel, and you have walked in the way of Yerovam, and have led my people Israel into wrongdoing, provoking me to anger with their wrongdoings;",
       "notes": [
-        "Hebrew historical formula for cultic misconduct: actual wrongdoing, not an innocent failure"
+        "Hebrew historical formula for cultic misconduct: actual wrongdoing, not an innocent failure",
+        "Full-clause language QA: repair dangling clauses, avoid retained lexical terms, preserve intentional cultic wrongdoing."
       ],
       "stagedForSourceReview": true
     },
@@ -1908,9 +1915,10 @@
       "chapter": 16,
       "verse": 13,
       "original": "for all the sins of Baasha, and the sins of Elah his son, which they sinned, and with which they made Israel to sin, to provoke YHWH, the God of Israel, to anger with their vanities.",
-      "final": "for all the sins of Baasha, and the sins of Elah his son, which they sinned, and with which they led Israel into wrongdoing, to provoke YHWH, the God of Israel, to anger with their vanities.",
+      "final": "for all the wrongdoings of Baasha and the wrongdoings of Elah his son, which they committed and led Israel to commit, provoking YHWH, the God of Israel, to anger with their vanities.",
       "notes": [
-        "Hebrew historical formula for cultic misconduct: actual wrongdoing, not an innocent failure"
+        "Hebrew historical formula for cultic misconduct: actual wrongdoing, not an innocent failure",
+        "Full-clause language QA: repair dangling clauses, avoid retained lexical terms, preserve intentional cultic wrongdoing."
       ],
       "stagedForSourceReview": true
     },
@@ -1920,9 +1928,10 @@
       "chapter": 16,
       "verse": 19,
       "original": "for his sins which he sinned in doing what was broken in the sight of YHWH, in walking in the way of Yerovam, and in his sin which he did, to make Israel to sin.",
-      "final": "for his sins which he sinned in doing what was broken in the sight of YHWH, in walking in the way of Yerovam, and in his sin which he did, to make Israel into wrongdoing.",
+      "final": "for the wrongdoings he committed by doing what was broken in the sight of YHWH, following the way of Yerovam and leading Israel into wrongdoing.",
       "notes": [
-        "Hebrew historical formula for cultic misconduct: actual wrongdoing, not an innocent failure"
+        "Hebrew historical formula for cultic misconduct: actual wrongdoing, not an innocent failure",
+        "Full-clause language QA: repair dangling clauses, avoid retained lexical terms, preserve intentional cultic wrongdoing."
       ],
       "stagedForSourceReview": true
     },
@@ -1932,9 +1941,10 @@
       "chapter": 16,
       "verse": 26,
       "original": "For he walked in all the way of Yerovam the son of Nebat, and in his sins with which he made Israel to sin, to provoke YHWH, the God of Israel, to anger with their vanities.",
-      "final": "For he walked in all the way of Yerovam the son of Nebat, and in his sins with which he led Israel into wrongdoing, to provoke YHWH, the God of Israel, to anger with their vanities.",
+      "final": "For he walked in all the way of Yerovam the son of Nebat, and in the wrongdoings by which he led Israel into wrongdoing, provoking YHWH, the God of Israel, to anger with their vanities.",
       "notes": [
-        "Hebrew historical formula for cultic misconduct: actual wrongdoing, not an innocent failure"
+        "Hebrew historical formula for cultic misconduct: actual wrongdoing, not an innocent failure",
+        "Full-clause language QA: repair dangling clauses, avoid retained lexical terms, preserve intentional cultic wrongdoing."
       ],
       "stagedForSourceReview": true
     },
@@ -2040,9 +2050,10 @@
       "chapter": 13,
       "verse": 6,
       "original": "Nevertheless they didn't depart from the sins of the house of Yerovam, with which he made Israel to sin, but walked therein: and there remained the Asherah also in Shomron.)",
-      "final": "Nevertheless they didn't depart from the sins of the house of Yerovam, with which he led Israel into wrongdoing, but walked therein: and there remained the Asherah also in Shomron.)",
+      "final": "Nevertheless they didn't depart from the wrongdoings of the house of Yerovam, by which he led Israel into wrongdoing, but walked therein: and there remained the Asherah also in Shomron.)",
       "notes": [
-        "Hebrew historical formula for cultic misconduct: actual wrongdoing, not an innocent failure"
+        "Hebrew historical formula for cultic misconduct: actual wrongdoing, not an innocent failure",
+        "Full-clause language QA: repair dangling clauses, avoid retained lexical terms, preserve intentional cultic wrongdoing."
       ],
       "stagedForSourceReview": true
     },
