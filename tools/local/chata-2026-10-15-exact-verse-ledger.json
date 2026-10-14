@@ -493,8 +493,8 @@
       "verse": 9,
       "reference": "1-john 1:9",
       "original": "If we confess our sins, God is faithful and righteous to forgive us the sins, and to cleanse us from all unrighteousness.",
-      "final": "If we confess our moral failures, God is faithful and righteous to forgive us those moral failures, and to cleanse us from all unrighteousness.",
-      "rationale": "Avoid awkward 'the moral failures'; retain repeated forgiveness.",
+      "final": "If we confess our moral failures, God is faithful and righteous to forgive our moral failures, and to cleanse us from all unrighteousness.",
+      "rationale": "Natural English forgiveness clause; retain confession, forgiveness, cleansing and moral responsibility.",
       "reviewClass": "finite-contextual-sin-family"
     },
     {
