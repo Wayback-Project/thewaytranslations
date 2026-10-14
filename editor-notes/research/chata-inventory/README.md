@@ -2,6 +2,7 @@
 
 **Status:** automated candidate triage / **UNREVIEWED** (no Scripture changes)  
 **Audit date:** 2026-10-14 UTC  
+**Preference revision:** 2026-10-15 — **moral failure / failure** prioritized  
 **Audited canonical source SHA-256:** `58ccf8deb2f65ecaa0b35ce7b35137221c95998cee23d6461d98e250c297b4fc`  
 **Method:** scanned only `verses[].text` from the 66 EPUB-generated files in `drafthead/waywebsitenetlify/app/data/books/`; each file's `sourceSha256` was checked against the index during ingestion. Did not scan doubled copies in `chapters[].text`, HTML, search indexes, and notes.
 
@@ -10,7 +11,7 @@
 - 66/66 books; 1,189 chapter inventory; 31,102 indexed verses in this source release.
 - **863 exact whole-word, case-insensitive English term occurrences**, spread over **732 distinct verse references**.
 - **Old Testament:** 583; **New Testament:** 280.
-- Source-language alignment **has not** been done for each row, and the `suggested_direction` is an automatic triage suggestion, *not* final translation wording.
+- Source-language alignment **has not** been done for each row, and the `suggested_direction` is an automatic triage suggestion, *not* final translation wording. The editor now prefers **moral failure** as the first moral-noun candidate; plain **failure** needs contextual support. **Wrongdoing** remains for concrete harm, personification, and other source-justified usages.
 - Terms inspected: `sin`, `sins`, `sinned`, `sinning`, `sinner`, `sinners`, `sinful`, `sinfulness`, `sinfully`, and `sinless` where present. Non-lexical embedded substrings (for example in `single` and `since`) were excluded.
 - **Proper names:** 4 uses of the wilderness/place name **Sin** are `PROPER_NAME`; **do not replace**.
 - **Ritual compounds:** 124 **specific matched `sin` tokens in `sin offering` / `sin-offering` compounds**, not merely words co-occurring elsewhere in a ritual verse, are `RITUAL_OFFERING`, proposed for Hebrew/source review.
@@ -28,7 +29,27 @@
 - [08-philemon-3-john.csv](./08-philemon-3-john.csv) — 76 occurrences
 - [09-jude-revelation.csv](./09-jude-revelation.csv) — 5 occurrences
 
-Each CSV row has `testament, book, chapter, verse, reference, matched_term, triage, suggested_direction, status, original_verse`. Repeated occurrences in one verse appear in separate consecutive rows; every row preserves its source verse. No generated rendering has been spliced into Scripture.
+Each CSV row has the original fields `testament, book, chapter, verse, reference, matched_term, triage, suggested_direction, status, original_verse`, plus `preferred_register`, `review_flags`, and `occurrence_in_verse` (1-based). Repeated occurrences in one verse have separate ordered rows, original English verse text, and a stable ordinal. No generated rendering has been spliced into Scripture.
+
+### Revised first-pass preference distribution — not approvals
+
+These are **machine routing decisions**, **not source-confirmed translation choices**:
+
+| Preferred register | Occurrences | Review direction |
+|---|---:|---|
+| `MORAL_FAILURE_FIRST` | **638** | Try moral failure / moral failures / fail morally, according to grammar |
+| `HARM_CONTEXT_REVIEW` | 82 | Check concrete or intentional harm; wrongdoing/wronged may be best |
+| `FIGURATIVE_WRONGDOING` | 7 | Preserve personified action or ruling-force image |
+| `INADVERTENCE_REVIEW` | 6 | Check explicit ignorance/accident; consider unintentional moral failure, wrong or error |
+| `FAILURE_ALTERNATIVE` | 1 | Compare unqualified “failure” with moral failure in Romans 3:23 |
+| `HOLD_HIGH_SENSITIVITY` | 1 | Psalm 51:5: defer pending source, poetry and guilt review |
+| `RITUAL_TECHNICAL` | 124 | Keep ritual offering distinct; explore “purification offering” |
+| `KEEP_PROPER_NAME` | 4 | Preserve the geographical name “Sin” |
+| **Total** | **863** | **All UNREVIEWED** |
+
+`review_flags` are preliminary warning tags, not verified claims about individual verses. A high-risk label on a verse does not itself establish intention or harm. The source-language lemma, whole passage, agency, idiom and original rhetorical image determine the final wording.
+
+**Preferred translation principles:** [Revised Chata editorial proposal](../../consistency/2026-10-14-chata-sin-language-proposal.md). The approach is *moral failure first*, not *replace every token with “moral failure.”*
 
 ## Observed English surface forms
 
@@ -136,8 +157,8 @@ The canonical repository's `main` advanced while the inventory was being compile
 
 1. Confirm edition/release hashes and rerun scan on final release. Never aggregate `html`, `chapters[].text`, and `verses[].text` into one inflated word count.
 2. For every row, identify source-language lemma, grammatical function, passage context, and image. Resolve `NOUN_OR_VERB` cases especially.
-3. Write an **approved complete verse** candidate and rationale in a separate decision ledger, rather than interpreting these machine suggestions as replacements.
-4. Retain literal geographical **Sin**, distinguish **purification offering** from wrongdoing, and document source challenges. Do not erase personification of wrongdoing.
+3. Start from **moral failure / fail morally** as a candidate, then compare **failure**, **wrongdoing**, and source-specific alternatives. Write an **approved complete verse** candidate and rationale in a separate decision ledger, rather than interpreting machine suggestions as replacements.
+4. Retain literal geographical **Sin**, distinguish **purification offering** from moral failure, and document source challenges. Do not erase the personification of wrongdoing or soften direct harm.
 5. Run tests for full-book coverage, verse anchors, per-verse diffs, reader search aliases, original vocabulary lookup, and canonical release/fallback consistency.
 6. Proceed to EPUB/web/mobile release only after explicit editorial approval. The current branch is **documentation only**.
 
