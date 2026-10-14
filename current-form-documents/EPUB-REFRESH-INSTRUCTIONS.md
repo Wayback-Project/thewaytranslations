@@ -87,3 +87,7 @@ Correct exactly three verses. Romans 11:35 first him is God, second him is hypot
 ## 2026-10-14 Acts–Revelation divine-pronoun audit
 
 23 books / 4178 verses scanned, 66 reviewed exact God/Cosmic Parent/Master reference corrections in 16 books. Canonical EPUB SHA-256 58ccf8deb2f65ecaa0b35ce7b35137221c95998cee23d6461d98e250c297b4fc. Only ledger verses changed; all Yeshua and human male uses preserved where distinguished. Requires separate Word/PDF physical print proof.
+
+## 2026-10-14 Romans God referent four-verse followup
+
+Additional 4 contextual God/pronoun verses after 66-verse Acts–Revelation release, only 4 verse whole Bible diff. New canonical EPUB SHA 094be0ae8786e2e407515b5485946fc8ce35162fc4d0e62815b7983cf3ec4ffa. Older Word/PDF print master not automatically updated.

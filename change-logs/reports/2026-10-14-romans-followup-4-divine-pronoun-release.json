@@ -1,0 +1,69 @@
+{
+  "releaseDate": "2026-10-14",
+  "release": "Romans four additional God referent and divine quotation corrections after full Acts–Revelation release",
+  "baselineCanonicalEpubSha256": "58ccf8deb2f65ecaa0b35ce7b35137221c95998cee23d6461d98e250c297b4fc",
+  "releasedCanonicalEpubSha256": "094be0ae8786e2e407515b5485946fc8ce35162fc4d0e62815b7983cf3ec4ffa",
+  "changedVerseCount": 4,
+  "changes": [
+    {
+      "reference": "Romans 4:21",
+      "book": "Romans",
+      "chapter": 4,
+      "verse": 21,
+      "before": "and being fully assured that what he had promised, he was able also to perform.",
+      "after": "and being fully assured that what God had promised, God was able also to perform.",
+      "reason": "In Romans 4:20–21 the promise was made by God; Avraham is the one assured of it."
+    },
+    {
+      "reference": "Romans 9:18",
+      "book": "Romans",
+      "chapter": 9,
+      "verse": 18,
+      "before": "So then, he has mercy on whom he desires, and he hardens whom he desires.",
+      "after": "So then, God has mercy on whom God desires, and God hardens whom God desires.",
+      "reason": "Romans 9:15–19 repeatedly names God as the one who has mercy or hardens."
+    },
+    {
+      "reference": "Romans 15:10",
+      "book": "Romans",
+      "chapter": 15,
+      "verse": 10,
+      "before": "Again he says, \"Rejoice, you Gentiles, with his people.\"",
+      "after": "Again Scripture says, \"Rejoice, you Gentiles, with God’s people.\"",
+      "reason": "Romans 15:9–11 quotation sequence: the scriptural citation has the Gentiles rejoicing with the people of God. Speaker of “Again” is Scripture, not an implicit male God."
+    },
+    {
+      "reference": "Romans 15:11",
+      "book": "Romans",
+      "chapter": 15,
+      "verse": 11,
+      "before": "Again, \"Praise the Master, all you Gentiles! Let all the peoples praise him.\"",
+      "after": "Again, \"Praise the Master, all you Gentiles! Let all the peoples praise the Master.\"",
+      "reason": "The Master in this cited invitation to praise is God, not Yeshua, so use the established title twice."
+    }
+  ],
+  "archivedPriorEpub": "rendered-documents-history/2026-10-14_120844UTC/the-way-current.epub",
+  "sourceHistoricalHoseaAliasReconciledInLegacyTXT": true,
+  "qa": {
+    "onlyApprovedFourRomansVersesChanged": true,
+    "books": 66,
+    "chapters": 1189,
+    "verses": 31102,
+    "epubZipXmlLinks": "pass",
+    "grammar": "pass"
+  },
+  "canonicalMobileFallback": {
+    "schemaVersion": 1,
+    "releaseId": "canonical-094be0ae8786e2e4",
+    "canonicalEpubSha256": "094be0ae8786e2e407515b5485946fc8ce35162fc4d0e62815b7983cf3ec4ffa",
+    "generatedAt": "2026-10-14T12:08:44Z",
+    "contentSha256": "0937c47196b381a5c804763d1e7cbe186007a9f5a00d9605c0cb64c45f825bdb",
+    "contentBytes": 30119999,
+    "contentUrl": "https://raw.githubusercontent.com/Wayback-Project/thewaytranslations/main/current-form-documents/mobile-reader/content.json",
+    "source": "canonical-github-fallback",
+    "bookCount": 66,
+    "chapterCount": 1189,
+    "verseSearchCount": 31102
+  },
+  "printStatus": "must amend October 12–14 before/after print correction register, working full Word Bible print master, typeset PDF and printer proofs separately"
+}
