@@ -18,7 +18,7 @@ import release_2026_09_30_kingdom_residuals as rel
 
 base=rel.base
 ROOT,EPUB,REG=rel.ROOT,rel.EPUB,rel.REGISTRY
-BASE_SHA="b55004166631a339ba10c7021e9b091b7af38f0badb2a4d9e1e7cc0e15f46b943"
+BASE_SHA="b5500415431a339ba10c7021e9b091b7af38f0badb2a4d9e1e7cc0e15f46b943"
 LEDGER=ROOT/"tools/local/chata-wave2-exact-verse-ledger.json"
 REPORT=ROOT/"change-logs/reports/2026-10-15-chata-wave2-666-verse-release.json"
 NOTE=ROOT/"editor-notes/consistency/2026-10-15-chata-wave2-666-verse-release.md"
