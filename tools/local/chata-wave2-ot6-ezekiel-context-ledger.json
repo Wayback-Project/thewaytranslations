@@ -1,0 +1,303 @@
+{
+  "baselineEpubSha256": "b5500415431a339ba10c7021e9b091b7af38f0badb2a4d9e1e7cc0e15f46b943",
+  "held": [
+    {
+      "ref": "Ezekiel 30:15",
+      "reason": "Sin is a PLACE NAME in Egypt; must be preserved exactly; initial geographic triage missed this"
+    },
+    {
+      "ref": "Ezekiel 30:16",
+      "reason": "Sin is a PLACE NAME in Egypt; must be preserved exactly; initial geographic triage missed this"
+    }
+  ],
+  "edits": [
+    {
+      "reference": "Ezekiel 3:20",
+      "slug": "ezekiel",
+      "chapter": 3,
+      "verse": 20,
+      "original": "Again, when a righteous person does turn from their righteousness, and commit iniquity, and I lay a stumbling block before him, they shall die: because you have not given him warning, they shall die in their sin, and their righteous deeds which they have done shall not be remembered; but his blood will I require at your hand.",
+      "final": "Again, when a righteous person does turn from their righteousness, and commit iniquity, and I lay a stumbling block before him, they shall die: because you have not given him warning, they shall die because of their wrongdoing, and their righteous deeds which they have done shall not be remembered; but his blood will I require at your hand.",
+      "rationale": "Concrete wrongdoing or personal responsibility, source figure retained"
+    },
+    {
+      "reference": "Ezekiel 3:21",
+      "slug": "ezekiel",
+      "chapter": 3,
+      "verse": 21,
+      "original": "Nevertheless if you warn the righteous person, that the righteous not sin, and they do not sin, they shall surely live, because they took warning; and you have delivered your soul.",
+      "final": "Nevertheless if you warn the righteous person, that the righteous person not do wrong, and they do not do wrong, they shall surely live, because they took warning; and you have delivered your soul.",
+      "rationale": "Concrete wrongdoing or personal responsibility, source figure retained"
+    },
+    {
+      "reference": "Ezekiel 14:13",
+      "slug": "ezekiel",
+      "chapter": 14,
+      "verse": 13,
+      "original": "Child of humanity, when a land sins against me by committing a trespass, and I stretch out my hand on it, and break the staff of the bread of it, and send famine on it, and cut off from it man and animal;",
+      "final": "Child of humanity, when a land does wrong against me by committing a trespass, and I stretch out my hand on it, and break the staff of the bread of it, and send famine on it, and cut off from it man and animal;",
+      "rationale": "Concrete wrongdoing or personal responsibility, source figure retained"
+    },
+    {
+      "reference": "Ezekiel 16:51",
+      "slug": "ezekiel",
+      "chapter": 16,
+      "verse": 51,
+      "original": "Neither has Shomron committed half of your sins; but you have multiplied your abominations more than they, and have justified your sisters by all your abominations which you have done.",
+      "final": "Neither has Shomron committed half of your wrongdoings; but you have multiplied your abominations more than they, and have justified your sisters by all your abominations which you have done.",
+      "rationale": "Concrete wrongdoing or personal responsibility, source figure retained"
+    },
+    {
+      "reference": "Ezekiel 16:52",
+      "slug": "ezekiel",
+      "chapter": 16,
+      "verse": 52,
+      "original": "You also, bear you your own shame, in that you have given judgment for your sisters; through your sins that you have committed more abominable than they, they are more righteous that you: yes, be also confounded, and bear your shame, in that you have justified your sisters.",
+      "final": "You also, bear you your own shame, in that you have given judgment for your sisters; through the wrongdoings you have committed more abominable than they, they are more righteous that you: yes, be also confounded, and bear your shame, in that you have justified your sisters.",
+      "rationale": "Concrete wrongdoing or personal responsibility, source figure retained"
+    },
+    {
+      "reference": "Ezekiel 18:4",
+      "slug": "ezekiel",
+      "chapter": 18,
+      "verse": 4,
+      "original": "Behold, all souls are mine; as the soul of the father, so also the soul of the son is mine: the soul who sins, he shall die.",
+      "final": "Behold, all souls are mine; as the soul of the father, so also the soul of the son is mine: the soul that does wrong, he shall die.",
+      "rationale": "Concrete wrongdoing or personal responsibility, source figure retained"
+    },
+    {
+      "reference": "Ezekiel 18:14",
+      "slug": "ezekiel",
+      "chapter": 18,
+      "verse": 14,
+      "original": "Now, behold, if he fathers a son, who sees all his father's sins, which he has done, and fears, and does not such like;",
+      "final": "Now, behold, if he fathers a son, who sees all his father's wrongdoings, which he has done, and fears, and does not such like;",
+      "rationale": "Concrete wrongdoing or personal responsibility, source figure retained"
+    },
+    {
+      "reference": "Ezekiel 18:20",
+      "slug": "ezekiel",
+      "chapter": 18,
+      "verse": 20,
+      "original": "The soul who sins, he shall die: the son shall not bear the iniquity of the father, neither shall the father bear the iniquity of the son; the righteousness of the righteous shall be on him, and the wickedness of the wicked shall be on him.",
+      "final": "The soul that does wrong, he shall die: the son shall not bear the iniquity of the father, neither shall the father bear the iniquity of the son; the righteousness of the righteous shall be on him, and the wickedness of the wicked shall be on him.",
+      "rationale": "Concrete wrongdoing or personal responsibility, source figure retained"
+    },
+    {
+      "reference": "Ezekiel 18:21",
+      "slug": "ezekiel",
+      "chapter": 18,
+      "verse": 21,
+      "original": "But if the wicked turn from all his sins that he has committed, and keep all my statutes, and do that which is lawful and right, he shall surely live, he shall not die.",
+      "final": "But if the wicked turn from all the wrongdoings he has committed, and keep all my statutes, and do that which is lawful and right, he shall surely live, he shall not die.",
+      "rationale": "Concrete wrongdoing or personal responsibility, source figure retained"
+    },
+    {
+      "reference": "Ezekiel 18:24",
+      "slug": "ezekiel",
+      "chapter": 18,
+      "verse": 24,
+      "original": "But when the righteous turns away from their righteousness, and commits iniquity, and does according to all the abominations that the wicked person does, shall they live? None of his righteous deeds that he has done shall be remembered: in his trespass that he has trespassed, and in his sin that he has sinned, in them shall he die.",
+      "final": "But when the righteous turns away from their righteousness, and commits iniquity, and does according to all the abominations that the wicked person does, shall they live? None of his righteous deeds that he has done shall be remembered: in his trespass that he has trespassed, and in the wrongdoing he has committed, in them shall he die.",
+      "rationale": "Concrete wrongdoing or personal responsibility, source figure retained"
+    },
+    {
+      "reference": "Ezekiel 21:24",
+      "slug": "ezekiel",
+      "chapter": 21,
+      "verse": 24,
+      "original": "Therefore thus says YHWH God: Because you have made your iniquity to be remembered, in that your transgressions are uncovered, so that in all your doings your sins do appear; because you have come to memory, you shall be taken with the hand.",
+      "final": "Therefore thus says YHWH God: Because you have made your iniquity to be remembered, in that your transgressions are uncovered, so that in all your doings your wrongdoings are revealed; because you have come to memory, you shall be taken with the hand.",
+      "rationale": "Concrete wrongdoing or personal responsibility, source figure retained"
+    },
+    {
+      "reference": "Ezekiel 23:49",
+      "slug": "ezekiel",
+      "chapter": 23,
+      "verse": 49,
+      "original": "They shall recompense your lewdness on you, and you shall bear the sins of your idols; and you shall know that I am YHWH God.",
+      "final": "They shall recompense your lewdness on you, and you shall bear the wrongdoings arising from your idols; and you shall know that I am YHWH God.",
+      "rationale": "Concrete wrongdoing or personal responsibility, source figure retained"
+    },
+    {
+      "reference": "Ezekiel 28:16",
+      "slug": "ezekiel",
+      "chapter": 28,
+      "verse": 16,
+      "original": "By the abundance of your traffic they filled the midst of you with violence, and you have sinned: therefore I have cast you as profane out of the mountain of Elohim; and I have destroyed you, covering cherub, from the midst of the stones of fire.",
+      "final": "By the abundance of your traffic they filled the midst of you with violence, and you have done wrong: therefore I have cast you as profane out of the mountain of Elohim; and I have destroyed you, covering cherub, from the midst of the stones of fire.",
+      "rationale": "Concrete wrongdoing or personal responsibility, source figure retained"
+    },
+    {
+      "reference": "Ezekiel 33:10",
+      "slug": "ezekiel",
+      "chapter": 33,
+      "verse": 10,
+      "original": "You, child of humanity, tell the house of Israel: Thus you speak, saying, Our transgressions and our sins are on us, and we pine away in them; how then can we live?",
+      "final": "You, child of humanity, tell the house of Israel: Thus you speak, saying, Our transgressions and our moral failures are upon us, and we pine away in them; how then can we live?",
+      "rationale": "Concrete wrongdoing or personal responsibility, source figure retained"
+    },
+    {
+      "reference": "Ezekiel 33:12",
+      "slug": "ezekiel",
+      "chapter": 33,
+      "verse": 12,
+      "original": "You, child of humanity, tell the children of your people, The righteousness of the righteous shall not deliver him in the day of his disobedience; and as for the wickedness of the wicked, he shall not fall thereby in the day that he turns from his wickedness; neither shall the one who is righteous be able to live thereby in the day that they sins.",
+      "final": "You, child of humanity, tell the children of your people, The righteousness of the righteous shall not deliver him in the day of his disobedience; and as for the wickedness of the wicked, he shall not fall thereby in the day that he turns from his wickedness; neither shall the one who is righteous be able to live thereby on the day they do wrong.",
+      "rationale": "Concrete wrongdoing or personal responsibility, source figure retained"
+    },
+    {
+      "reference": "Ezekiel 33:14",
+      "slug": "ezekiel",
+      "chapter": 33,
+      "verse": 14,
+      "original": "Again, when I say to the wicked, You shall surely die; if he turn from his sin, and do that which is lawful and right;",
+      "final": "Again, when I say to the wicked, You shall surely die; if he turn away from his wrongdoing, and do that which is lawful and right;",
+      "rationale": "Concrete wrongdoing or personal responsibility, source figure retained"
+    },
+    {
+      "reference": "Ezekiel 33:16",
+      "slug": "ezekiel",
+      "chapter": 33,
+      "verse": 16,
+      "original": "None of his sins that he has committed shall be remembered against him: he has done that which is lawful and right; he shall surely live.",
+      "final": "None of his wrongdoings shall be remembered against him: he has done that which is lawful and right; he shall surely live.",
+      "rationale": "Concrete wrongdoing or personal responsibility, source figure retained"
+    },
+    {
+      "reference": "Ezekiel 37:23",
+      "slug": "ezekiel",
+      "chapter": 37,
+      "verse": 23,
+      "original": "neither shall they defile themselves any more with their idols, nor with their detestable things, nor with any of their transgressions; but I will save them out of all their dwelling places, in which they have sinned, and will cleanse them: so shall they be my people, and I will be their God.",
+      "final": "neither shall they defile themselves any more with their idols, nor with their detestable things, nor with any of their transgressions; but I will save them out of all their dwelling places, where they have done wrong, and will cleanse them: so shall they be my people, and I will be their God.",
+      "rationale": "Concrete wrongdoing or personal responsibility, source figure retained"
+    },
+    {
+      "reference": "Ezekiel 40:39",
+      "slug": "ezekiel",
+      "chapter": 40,
+      "verse": 39,
+      "original": "In the porch of the gate were two tables on this side, and two tables on that side, to kill thereon the burnt offering and the sin offering and the trespass offering.",
+      "final": "In the porch of the gate were two tables on this side, and two tables on that side, to kill thereon the burnt offering and the purification offering and the trespass offering.",
+      "rationale": "Hebrew hṭʾ ritual use: purification offering distinguished from failure"
+    },
+    {
+      "reference": "Ezekiel 42:13",
+      "slug": "ezekiel",
+      "chapter": 42,
+      "verse": 13,
+      "original": "Then said he to me, The north chambers and the south chambers, which are before the separate place, they are the holy chambers, where the priests who are near to YHWH shall eat the most holy things: there shall they lay the most holy things, and the meal offering, and the sin offering, and the trespass offering; for the place is holy.",
+      "final": "Then said he to me, The north chambers and the south chambers, which are before the separate place, they are the holy chambers, where the priests who are near to YHWH shall eat the most holy things: there shall they lay the most holy things, and the meal offering, and the purification offering, and the trespass offering; for the place is holy.",
+      "rationale": "Hebrew hṭʾ ritual use: purification offering distinguished from failure"
+    },
+    {
+      "reference": "Ezekiel 43:19",
+      "slug": "ezekiel",
+      "chapter": 43,
+      "verse": 19,
+      "original": "You shall give to the priests the Levites who are of the seed of Tzadok, who are near to me, to minister to me, says YHWH God, a young bull for a sin offering.",
+      "final": "You shall give to the priests the Levites who are of the seed of Tzadok, who are near to me, to minister to me, says YHWH God, a young bull for a purification offering.",
+      "rationale": "Hebrew hṭʾ ritual use: purification offering distinguished from failure"
+    },
+    {
+      "reference": "Ezekiel 43:21",
+      "slug": "ezekiel",
+      "chapter": 43,
+      "verse": 21,
+      "original": "You shall also take the bull of the sin offering, and it shall be burnt in the appointed place of the house, outside of the sanctuary.",
+      "final": "You shall also take the bull of the purification offering, and it shall be burnt in the appointed place of the house, outside of the sanctuary.",
+      "rationale": "Hebrew hṭʾ ritual use: purification offering distinguished from failure"
+    },
+    {
+      "reference": "Ezekiel 43:22",
+      "slug": "ezekiel",
+      "chapter": 43,
+      "verse": 22,
+      "original": "On the second day you shall offer a male goat without blemish for a sin offering; and they shall cleanse the altar, as they did cleanse it with the bull.",
+      "final": "On the second day you shall offer a male goat without blemish for a purification offering; and they shall cleanse the altar, as they did cleanse it with the bull.",
+      "rationale": "Hebrew hṭʾ ritual use: purification offering distinguished from failure"
+    },
+    {
+      "reference": "Ezekiel 43:25",
+      "slug": "ezekiel",
+      "chapter": 43,
+      "verse": 25,
+      "original": "Seven days shall you prepare every day a goat for a sin offering: they shall also prepare a young bull, and a ram out of the flock, without blemish.",
+      "final": "Seven days shall you prepare every day a goat for a purification offering: they shall also prepare a young bull, and a ram out of the flock, without blemish.",
+      "rationale": "Hebrew hṭʾ ritual use: purification offering distinguished from failure"
+    },
+    {
+      "reference": "Ezekiel 44:27",
+      "slug": "ezekiel",
+      "chapter": 44,
+      "verse": 27,
+      "original": "In the day that he goes into the sanctuary, into the inner court, to minister in the sanctuary, he shall offer his sin offering, says YHWH God.",
+      "final": "In the day that he goes into the sanctuary, into the inner court, to minister in the sanctuary, he shall offer his purification offering, says YHWH God.",
+      "rationale": "Hebrew hṭʾ ritual use: purification offering distinguished from failure"
+    },
+    {
+      "reference": "Ezekiel 44:29",
+      "slug": "ezekiel",
+      "chapter": 44,
+      "verse": 29,
+      "original": "They shall eat the meal offering, and the sin offering, and the trespass offering; and every devoted thing in Israel shall be theirs.",
+      "final": "They shall eat the meal offering, and the purification offering, and the trespass offering; and every devoted thing in Israel shall be theirs.",
+      "rationale": "Hebrew hṭʾ ritual use: purification offering distinguished from failure"
+    },
+    {
+      "reference": "Ezekiel 45:17",
+      "slug": "ezekiel",
+      "chapter": 45,
+      "verse": 17,
+      "original": "It shall be the prince's part to give the burnt offerings, and the meal offerings, and the drink offerings, in the feasts, and on the new moons, and on the Sabbaths, in all the appointed feasts of the house of Israel: he shall prepare the sin offering, and the meal offering, and the burnt offering, and the peace offerings, to make atonement for the house of Israel.",
+      "final": "It shall be the prince's part to give the burnt offerings, and the meal offerings, and the drink offerings, in the feasts, and on the new moons, and on the Sabbaths, in all the appointed feasts of the house of Israel: he shall prepare the purification offering, and the meal offering, and the burnt offering, and the peace offerings, to make atonement for the house of Israel.",
+      "rationale": "Hebrew hṭʾ ritual use: purification offering distinguished from failure"
+    },
+    {
+      "reference": "Ezekiel 45:19",
+      "slug": "ezekiel",
+      "chapter": 45,
+      "verse": 19,
+      "original": "The priest shall take of the blood of the sin offering, and put it on the door posts of the house, and on the four corners of the ledge of the altar, and on the posts of the gate of the inner court.",
+      "final": "The priest shall take of the blood of the purification offering, and put it on the door posts of the house, and on the four corners of the ledge of the altar, and on the posts of the gate of the inner court.",
+      "rationale": "Hebrew hṭʾ ritual use: purification offering distinguished from failure"
+    },
+    {
+      "reference": "Ezekiel 45:22",
+      "slug": "ezekiel",
+      "chapter": 45,
+      "verse": 22,
+      "original": "On that day shall the prince prepare for himself and for all the people of the land a bull for a sin offering.",
+      "final": "On that day shall the prince prepare for himself and for all the people of the land a bull for a purification offering.",
+      "rationale": "Hebrew hṭʾ ritual use: purification offering distinguished from failure"
+    },
+    {
+      "reference": "Ezekiel 45:23",
+      "slug": "ezekiel",
+      "chapter": 45,
+      "verse": 23,
+      "original": "The seven days of the feast he shall prepare a burnt offering to YHWH, seven bulls and seven rams without blemish daily the seven days; and a male goat daily for a sin offering.",
+      "final": "The seven days of the feast he shall prepare a burnt offering to YHWH, seven bulls and seven rams without blemish daily the seven days; and a male goat daily for a purification offering.",
+      "rationale": "Hebrew hṭʾ ritual use: purification offering distinguished from failure"
+    },
+    {
+      "reference": "Ezekiel 45:25",
+      "slug": "ezekiel",
+      "chapter": 45,
+      "verse": 25,
+      "original": "In the seventh [month], in the fifteenth day of the month, in the feast, shall he do the like the seven days; according to the sin offering, according to the burnt offering, and according to the meal offering, and according to the oil.",
+      "final": "In the seventh [month], in the fifteenth day of the month, in the feast, shall he do the like the seven days; according to the purification offering, according to the burnt offering, and according to the meal offering, and according to the oil.",
+      "rationale": "Hebrew hṭʾ ritual use: purification offering distinguished from failure"
+    },
+    {
+      "reference": "Ezekiel 46:20",
+      "slug": "ezekiel",
+      "chapter": 46,
+      "verse": 20,
+      "original": "He said to me, This is the place where the priests shall boil the trespass offering and the sin offering, [and] where they shall bake the meal offering; that they not bring them forth into the outer court, to sanctify the people.",
+      "final": "He said to me, This is the place where the priests shall boil the trespass offering and the purification offering, [and] where they shall bake the meal offering; that they not bring them forth into the outer court, to sanctify the people.",
+      "rationale": "Hebrew hṭʾ ritual use: purification offering distinguished from failure"
+    }
+  ]
+}
