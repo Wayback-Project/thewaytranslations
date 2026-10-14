@@ -1,0 +1,1104 @@
+{
+  "releaseDate": "2026-10-14",
+  "release": "Acts through Revelation reviewed God/Father masculine pronoun correction",
+  "baselineEpubSha256": "66dd3351d1f4d79b35d50f167e6f311fc39ee73f3c7c9266ee779d25308aefef",
+  "releasedEpubSha256": "58ccf8deb2f65ecaa0b35ce7b35137221c95998cee23d6461d98e250c297b4fc",
+  "archivePath": "rendered-documents-history/2026-10-14_115044UTC/the-way-current.epub",
+  "exactChangedVerseCount": 66,
+  "changedBookCount": 16,
+  "changedBooks": [
+    "1-corinthians",
+    "1-john",
+    "1-peter",
+    "1-thessalonians",
+    "2-corinthians",
+    "2-john",
+    "2-peter",
+    "2-thessalonians",
+    "colossians",
+    "ephesians",
+    "galatians",
+    "hebrews",
+    "james",
+    "revelation",
+    "romans",
+    "titus"
+  ],
+  "changedEpubMembers": [
+    "OEBPS/Text/1-corinthians.xhtml",
+    "OEBPS/Text/1-john.xhtml",
+    "OEBPS/Text/1-peter.xhtml",
+    "OEBPS/Text/1-thessalonians.xhtml",
+    "OEBPS/Text/2-corinthians.xhtml",
+    "OEBPS/Text/2-john.xhtml",
+    "OEBPS/Text/2-peter.xhtml",
+    "OEBPS/Text/2-thessalonians.xhtml",
+    "OEBPS/Text/colossians.xhtml",
+    "OEBPS/Text/ephesians.xhtml",
+    "OEBPS/Text/galatians.xhtml",
+    "OEBPS/Text/hebrews.xhtml",
+    "OEBPS/Text/james.xhtml",
+    "OEBPS/Text/revelation.xhtml",
+    "OEBPS/Text/romans.xhtml",
+    "OEBPS/Text/titus.xhtml"
+  ],
+  "wholeBibleVerseCount": 31102,
+  "allActsThroughRevelationVersesAudited": 4178,
+  "candidateMasculinePronounVerses": 986,
+  "sourceEditableNTAlignedReferences": [
+    "James 1:12",
+    "James 1:18",
+    "1 Peter 1:17",
+    "1 Peter 5:7",
+    "2 Peter 2:5",
+    "1 John 1:7",
+    "1 John 1:9",
+    "1 John 1:10",
+    "1 John 3:19",
+    "1 John 3:22",
+    "1 John 3:23",
+    "1 John 3:24",
+    "1 John 4:13",
+    "1 John 5:1",
+    "2 John 1:6",
+    "Revelation 11:15",
+    "Revelation 12:10",
+    "Revelation 21:4",
+    "Revelation 21:5",
+    "Revelation 21:6",
+    "Hebrews 1:7",
+    "Hebrews 1:13",
+    "Hebrews 2:5",
+    "Hebrews 2:10",
+    "Hebrews 3:15",
+    "Hebrews 3:17",
+    "Hebrews 3:18",
+    "Hebrews 4:3",
+    "Hebrews 4:7",
+    "Hebrews 4:13",
+    "Hebrews 8:5",
+    "Hebrews 8:8",
+    "Hebrews 8:13",
+    "Hebrews 10:16",
+    "Hebrews 11:11",
+    "Hebrews 12:5",
+    "Hebrews 12:6",
+    "Hebrews 12:10",
+    "Hebrews 12:26",
+    "Hebrews 13:5",
+    "Hebrews 13:21",
+    "Romans 1:2",
+    "Romans 1:20",
+    "Romans 2:18",
+    "Romans 3:20",
+    "Romans 3:24",
+    "Romans 8:3",
+    "Romans 9:15",
+    "Romans 9:19",
+    "Romans 9:24",
+    "1 Corinthians 15:27",
+    "2 Corinthians 1:10",
+    "2 Corinthians 6:2",
+    "2 Corinthians 8:19",
+    "Galatians 3:5",
+    "Ephesians 2:7",
+    "Ephesians 2:10",
+    "Ephesians 3:11",
+    "Colossians 1:9",
+    "Colossians 1:11",
+    "Colossians 1:26",
+    "Colossians 2:13",
+    "1 Thessalonians 1:10",
+    "2 Thessalonians 2:14",
+    "Titus 1:16"
+  ],
+  "sourceEditableNTOlderUnmatchedReferences": [
+    "Romans 9:25"
+  ],
+  "qa": {
+    "onlyApprovedVersesChanged": true,
+    "epubZipXmlLinks": "pass",
+    "grammar": "pass",
+    "bibleBooks": 66,
+    "chapters": 1189,
+    "verses": 31102,
+    "ntBooksReviewed": 23
+  },
+  "approvedExactVerses": [
+    {
+      "reference": "James 1:12",
+      "book": "James",
+      "chapter": 1,
+      "verse": 12,
+      "before": "Blessed is the one who endures temptation, for when they have been approved, they will receive the crown of life, which the Master promised to those who love him.",
+      "after": "Blessed is the one who endures temptation, for when they have been approved, they will receive the crown of life, which God promised to those who love God.",
+      "patches": [
+        [
+          "which the Master promised to those who love him",
+          "which God promised to those who love God"
+        ]
+      ]
+    },
+    {
+      "reference": "James 1:18",
+      "book": "James",
+      "chapter": 1,
+      "verse": 18,
+      "before": "Of his own will he brought us forth by the word of truth, that we should be a kind of first fruits of his creatures.",
+      "after": "Of God's own will God brought us forth by the word of truth, that we should be a kind of first fruits of God's creatures.",
+      "patches": [
+        [
+          "Of his own will he brought us forth",
+          "Of God's own will God brought us forth"
+        ],
+        [
+          "first fruits of his creatures",
+          "first fruits of God's creatures"
+        ]
+      ]
+    },
+    {
+      "reference": "1 Peter 1:17",
+      "book": "1 Peter",
+      "chapter": 1,
+      "verse": 17,
+      "before": "If you call on him as Cosmic Parent, who without respect of persons judges according to each a person's work, pass the time of your living as foreigners here in reverence:",
+      "after": "If you call on the Cosmic Parent, who without respect of persons judges according to each a person's work, pass the time of your living as foreigners here in reverence:",
+      "patches": [
+        [
+          "If you call on him as Cosmic Parent",
+          "If you call on the Cosmic Parent"
+        ]
+      ]
+    },
+    {
+      "reference": "1 Peter 5:7",
+      "book": "1 Peter",
+      "chapter": 5,
+      "verse": 7,
+      "before": "casting all your worries on him, because he cares for you.",
+      "after": "casting all your worries on God, because God cares for you.",
+      "patches": [
+        [
+          "casting all your worries on him, because he cares for you",
+          "casting all your worries on God, because God cares for you"
+        ]
+      ]
+    },
+    {
+      "reference": "2 Peter 2:5",
+      "book": "2 Peter",
+      "chapter": 2,
+      "verse": 5,
+      "before": "and didn't spare the ancient world, but preserved Noach with seven others, a preacher of righteousness, when he brought a flood on the world of the ungodly;",
+      "after": "and didn't spare the ancient world, but preserved Noach with seven others, a preacher of righteousness, when God brought a flood on the world of the ungodly;",
+      "patches": [
+        [
+          "when he brought a flood on the world of the ungodly",
+          "when God brought a flood on the world of the ungodly"
+        ]
+      ]
+    },
+    {
+      "reference": "1 John 1:7",
+      "book": "1 John",
+      "chapter": 1,
+      "verse": 7,
+      "before": "But if we walk in the light, as he is in the light, we have fellowship with one another, and the blood of Yeshua the Messiah, God’s Son, cleanses us from all sin.",
+      "after": "But if we walk in the light, as God is in the light, we have fellowship with one another, and the blood of Yeshua the Messiah, God’s Son, cleanses us from all sin.",
+      "patches": [
+        [
+          "as he is in the light",
+          "as God is in the light"
+        ]
+      ]
+    },
+    {
+      "reference": "1 John 1:9",
+      "book": "1 John",
+      "chapter": 1,
+      "verse": 9,
+      "before": "If we confess our sins, he is faithful and righteous to forgive us the sins, and to cleanse us from all unrighteousness.",
+      "after": "If we confess our sins, God is faithful and righteous to forgive us the sins, and to cleanse us from all unrighteousness.",
+      "patches": [
+        [
+          "he is faithful and righteous to forgive us the sins",
+          "God is faithful and righteous to forgive us the sins"
+        ]
+      ]
+    },
+    {
+      "reference": "1 John 1:10",
+      "book": "1 John",
+      "chapter": 1,
+      "verse": 10,
+      "before": "If we say that we haven't sinned, we make him a liar, and his word is not in us.",
+      "after": "If we say that we haven't sinned, we make God a liar, and God's word is not in us.",
+      "patches": [
+        [
+          "we make him a liar, and his word is not in us",
+          "we make God a liar, and God's word is not in us"
+        ]
+      ]
+    },
+    {
+      "reference": "1 John 3:19",
+      "book": "1 John",
+      "chapter": 3,
+      "verse": 19,
+      "before": "And by this we know that we are of the truth, and persuade our hearts before him,",
+      "after": "And by this we know that we are of the truth, and persuade our hearts before God,",
+      "patches": [
+        [
+          "persuade our hearts before him",
+          "persuade our hearts before God"
+        ]
+      ]
+    },
+    {
+      "reference": "1 John 3:22",
+      "book": "1 John",
+      "chapter": 3,
+      "verse": 22,
+      "before": "and whatever we ask, we receive from him, because we keep his commandments and do the things that are pleasing in his sight.",
+      "after": "and whatever we ask, we receive from God, because we keep God's commandments and do the things that are pleasing in God's sight.",
+      "patches": [
+        [
+          "we receive from him, because we keep his commandments and do the things that are pleasing in his sight",
+          "we receive from God, because we keep God's commandments and do the things that are pleasing in God's sight"
+        ]
+      ]
+    },
+    {
+      "reference": "1 John 3:23",
+      "book": "1 John",
+      "chapter": 3,
+      "verse": 23,
+      "before": "This is his commandment, that we should trust in the name of God’s Son, Yeshua the Messiah, and love one another, even as he commanded.",
+      "after": "This is God's commandment, that we should trust in the name of God’s Son, Yeshua the Messiah, and love one another, even as God commanded.",
+      "patches": [
+        [
+          "This is his commandment",
+          "This is God's commandment"
+        ],
+        [
+          "even as he commanded",
+          "even as God commanded"
+        ]
+      ]
+    },
+    {
+      "reference": "1 John 3:24",
+      "book": "1 John",
+      "chapter": 3,
+      "verse": 24,
+      "before": "The one who keeps their commandments remains in him, and they in him. By this we know that he remains in us, by the Ruach which he gave us.",
+      "after": "The one who keeps God's commandments remains in God, and God remains in them. By this we know that God remains in us, by the Ruach which God gave us.",
+      "patches": [
+        [
+          "The one who keeps their commandments remains in him, and they in him. By this we know that he remains in us, by the Ruach which he gave us.",
+          "The one who keeps God's commandments remains in God, and God remains in them. By this we know that God remains in us, by the Ruach which God gave us."
+        ]
+      ]
+    },
+    {
+      "reference": "1 John 4:13",
+      "book": "1 John",
+      "chapter": 4,
+      "verse": 13,
+      "before": "By this we know that we remain in him and he in us, because he has given us of his Ruach.",
+      "after": "By this we know that we remain in God and God remains in us, because God has given us of the Ruach.",
+      "patches": [
+        [
+          "we remain in him and he in us, because he has given us of his Ruach",
+          "we remain in God and God remains in us, because God has given us of the Ruach"
+        ]
+      ]
+    },
+    {
+      "reference": "1 John 5:1",
+      "book": "1 John",
+      "chapter": 5,
+      "verse": 1,
+      "before": "Whoever believes that Yeshua is the Messiah is born of God. Whoever loves the father also loves the child who is born of him.",
+      "after": "Whoever believes that Yeshua is the Messiah is born of God. Whoever loves the Cosmic Parent also loves the child who is born of the Cosmic Parent.",
+      "patches": [
+        [
+          "Whoever loves the father also loves the child who is born of him",
+          "Whoever loves the Cosmic Parent also loves the child who is born of the Cosmic Parent"
+        ]
+      ]
+    },
+    {
+      "reference": "2 John 1:6",
+      "book": "2 John",
+      "chapter": 1,
+      "verse": 6,
+      "before": "This is love, that we should walk according to his commandments. This is the commandment, even as you heard from the beginning, that you should walk in it.",
+      "after": "This is love, that we should walk according to God's commandments. This is the commandment, even as you heard from the beginning, that you should walk in it.",
+      "patches": [
+        [
+          "we should walk according to his commandments",
+          "we should walk according to God's commandments"
+        ]
+      ]
+    },
+    {
+      "reference": "Revelation 11:15",
+      "book": "Revelation",
+      "chapter": 11,
+      "verse": 15,
+      "before": "The seventh angel sounded, and great voices in heaven followed, saying, \"The reign of the world has become the Reign of our Master, and of his Messiah. He will reign forever and ever!\"",
+      "after": "The seventh angel sounded, and great voices in heaven followed, saying, \"The reign of the world has become the Reign of our Master, and of God's Messiah. God will reign forever and ever!\"",
+      "patches": [
+        [
+          "the Reign of our Master, and of his Messiah. He will reign forever and ever",
+          "the Reign of our Master, and of God's Messiah. God will reign forever and ever"
+        ]
+      ]
+    },
+    {
+      "reference": "Revelation 12:10",
+      "book": "Revelation",
+      "chapter": 12,
+      "verse": 10,
+      "before": "I heard a loud voice in heaven, saying, \"Now is come the salvation, the power, and the Reign of our God, and the authority of his Messiah; for the accuser of our brothers and sisters has been thrown down, who accuses them before our God day and night.",
+      "after": "I heard a loud voice in heaven, saying, \"Now is come the salvation, the power, and the Reign of our God, and the authority of God's Messiah; for the accuser of our brothers and sisters has been thrown down, who accuses them before our God day and night.",
+      "patches": [
+        [
+          "the authority of his Messiah",
+          "the authority of God's Messiah"
+        ]
+      ]
+    },
+    {
+      "reference": "Revelation 21:4",
+      "book": "Revelation",
+      "chapter": 21,
+      "verse": 4,
+      "before": "He will wipe away from them every tear from their eyes. Death will be no more; neither will there be mourning, nor crying, nor pain, any more. The first things have passed away.\"",
+      "after": "God will wipe away from them every tear from their eyes. Death will be no more; neither will there be mourning, nor crying, nor pain, any more. The first things have passed away.\"",
+      "patches": [
+        [
+          "He will wipe away from them every tear",
+          "God will wipe away from them every tear"
+        ]
+      ]
+    },
+    {
+      "reference": "Revelation 21:5",
+      "book": "Revelation",
+      "chapter": 21,
+      "verse": 5,
+      "before": "The one who sits on the throne said, \"Behold, I am making all things new.\" He said, \"Write, for these words of God are faithful and true.\"",
+      "after": "God, who sits on the throne, said, \"Behold, I am making all things new.\" God said, \"Write, for these words of God are faithful and true.\"",
+      "patches": [
+        [
+          "The one who sits on the throne said",
+          "God, who sits on the throne, said"
+        ],
+        [
+          "He said, \"Write, for these words of God are faithful and true.\"",
+          "God said, \"Write, for these words of God are faithful and true.\""
+        ]
+      ]
+    },
+    {
+      "reference": "Revelation 21:6",
+      "book": "Revelation",
+      "chapter": 21,
+      "verse": 6,
+      "before": "He said to me, \"It is done! I am the Alpha and the Omega, the Beginning and the End. I will give freely to the one who is thirsty from the spring of the water of life.",
+      "after": "God said to me, \"It is done! I am the Alpha and the Omega, the Beginning and the End. I will give freely to the one who is thirsty from the spring of the water of life.",
+      "patches": [
+        [
+          "He said to me, \"It is done!",
+          "God said to me, \"It is done!"
+        ]
+      ]
+    },
+    {
+      "reference": "Hebrews 1:7",
+      "book": "Hebrews",
+      "chapter": 1,
+      "verse": 7,
+      "before": "Of the angels he says, \"Who makes his angels winds, and his servants a flame of fire.\"",
+      "after": "Of the angels God says, \"Who makes God's angels winds, and God's servants a flame of fire.\"",
+      "patches": [
+        [
+          "Of the angels he says",
+          "Of the angels God says"
+        ],
+        [
+          "Who makes his angels winds, and his servants a flame of fire",
+          "Who makes God's angels winds, and God's servants a flame of fire"
+        ]
+      ]
+    },
+    {
+      "reference": "Hebrews 1:13",
+      "book": "Hebrews",
+      "chapter": 1,
+      "verse": 13,
+      "before": "But which of the angels has he told at any time, \"Sit at my right hand, until I make your enemies the footstool of your feet?\"",
+      "after": "But which of the angels has God told at any time, \"Sit at my right hand, until I make your enemies the footstool of your feet?\"",
+      "patches": [
+        [
+          "But which of the angels has he told at any time",
+          "But which of the angels has God told at any time"
+        ]
+      ]
+    },
+    {
+      "reference": "Hebrews 2:5",
+      "book": "Hebrews",
+      "chapter": 2,
+      "verse": 5,
+      "before": "For he didn't subject the world to come, of which we speak, to angels.",
+      "after": "For God didn't subject the world to come, of which we speak, to angels.",
+      "patches": [
+        [
+          "For he didn't subject the world to come",
+          "For God didn't subject the world to come"
+        ]
+      ]
+    },
+    {
+      "reference": "Hebrews 2:10",
+      "book": "Hebrews",
+      "chapter": 2,
+      "verse": 10,
+      "before": "For it became him, for whom are all things, and through whom are all things, in bringing many children to glory, to make the author of their salvation perfect through sufferings.",
+      "after": "For it was fitting for God, for whom are all things, and through whom are all things, in bringing many children to glory, to make the author of their salvation perfect through sufferings.",
+      "patches": [
+        [
+          "For it became him, for whom are all things, and through whom are all things",
+          "For it was fitting for God, for whom are all things, and through whom are all things"
+        ]
+      ]
+    },
+    {
+      "reference": "Hebrews 3:15",
+      "book": "Hebrews",
+      "chapter": 3,
+      "verse": 15,
+      "before": "while it is said, \"Today if you will hear his voice, don't harden your hearts, as in the rebellion.\"",
+      "after": "while it is said, \"Today if you will hear God's voice, don't harden your hearts, as in the rebellion.\"",
+      "patches": [
+        [
+          "Today if you will hear his voice",
+          "Today if you will hear God's voice"
+        ]
+      ]
+    },
+    {
+      "reference": "Hebrews 3:17",
+      "book": "Hebrews",
+      "chapter": 3,
+      "verse": 17,
+      "before": "With whom was he displeased forty years? Wasn't it with those who sinned, whose bodies fell in the wilderness?",
+      "after": "With whom was God displeased forty years? Wasn't it with those who sinned, whose bodies fell in the wilderness?",
+      "patches": [
+        [
+          "With whom was he displeased forty years",
+          "With whom was God displeased forty years"
+        ]
+      ]
+    },
+    {
+      "reference": "Hebrews 3:18",
+      "book": "Hebrews",
+      "chapter": 3,
+      "verse": 18,
+      "before": "To whom did he swear that they wouldn't enter into his rest, but to those who were disobedient?",
+      "after": "To whom did God swear that they wouldn't enter into God's rest, but to those who were disobedient?",
+      "patches": [
+        [
+          "To whom did he swear that they wouldn't enter into his rest",
+          "To whom did God swear that they wouldn't enter into God's rest"
+        ]
+      ]
+    },
+    {
+      "reference": "Hebrews 4:3",
+      "book": "Hebrews",
+      "chapter": 4,
+      "verse": 3,
+      "before": "For we who have believed do enter into that rest, even as he has said, \"As I swore in my wrath, they will not enter into my rest;\" although the works were finished from the foundation of the world.",
+      "after": "For we who have believed do enter into that rest, even as God has said, \"As I swore in my wrath, they will not enter into my rest;\" although the works were finished from the foundation of the world.",
+      "patches": [
+        [
+          "even as he has said",
+          "even as God has said"
+        ]
+      ]
+    },
+    {
+      "reference": "Hebrews 4:7",
+      "book": "Hebrews",
+      "chapter": 4,
+      "verse": 7,
+      "before": "he again defines a certain day, today, saying through Dawid so long a time afterward (just as has been said), \"Today if you will hear his voice, don't harden your hearts.\"",
+      "after": "God again defines a certain day, today, saying through Dawid so long a time afterward (just as has been said), \"Today if you will hear God's voice, don't harden your hearts.\"",
+      "patches": [
+        [
+          "he again defines a certain day",
+          "God again defines a certain day"
+        ],
+        [
+          "Today if you will hear his voice",
+          "Today if you will hear God's voice"
+        ]
+      ]
+    },
+    {
+      "reference": "Hebrews 4:13",
+      "book": "Hebrews",
+      "chapter": 4,
+      "verse": 13,
+      "before": "There is no creature that is hidden from his sight, but all things are naked and laid open before the eyes of him with whom we have to do.",
+      "after": "There is no creature hidden from God's sight, but all things are naked and laid open before the eyes of God, to whom we must give account.",
+      "patches": [
+        [
+          "There is no creature that is hidden from his sight, but all things are naked and laid open before the eyes of him with whom we have to do",
+          "There is no creature hidden from God's sight, but all things are naked and laid open before the eyes of God, to whom we must give account"
+        ]
+      ]
+    },
+    {
+      "reference": "Hebrews 8:5",
+      "book": "Hebrews",
+      "chapter": 8,
+      "verse": 5,
+      "before": "who serve a copy and shadow of the heavenly things, even as Moshe was warned by God when he was about to make the tabernacle, for he said, \"See, you shall make everything according to the pattern that was shown to you on the mountain.\"",
+      "after": "who serve a copy and shadow of the heavenly things, even as Moshe was warned by God when he was about to make the tabernacle, for God said, \"See, you shall make everything according to the pattern that was shown to you on the mountain.\"",
+      "patches": [
+        [
+          "for he said, \"See, you shall make everything",
+          "for God said, \"See, you shall make everything"
+        ]
+      ]
+    },
+    {
+      "reference": "Hebrews 8:8",
+      "book": "Hebrews",
+      "chapter": 8,
+      "verse": 8,
+      "before": "For finding fault with them, he said, \"Behold, the days come,\" says the Master, \"that I will make a new covenant with the house of Israel and with the house of Yehudah;",
+      "after": "For finding fault with them, God said, \"Behold, the days come,\" says the Master, \"that I will make a new covenant with the house of Israel and with the house of Yehudah;",
+      "patches": [
+        [
+          "For finding fault with them, he said",
+          "For finding fault with them, God said"
+        ]
+      ]
+    },
+    {
+      "reference": "Hebrews 8:13",
+      "book": "Hebrews",
+      "chapter": 8,
+      "verse": 13,
+      "before": "In that he says, \"A new covenant,\" he has made the first old. But that which is becoming old and grows aged is near to vanishing away.",
+      "after": "By saying, \"A new covenant,\" God has made the first old. But that which is becoming old and grows aged is near to vanishing away.",
+      "patches": [
+        [
+          "In that he says, \"A new covenant,\" he has made the first old",
+          "By saying, \"A new covenant,\" God has made the first old"
+        ]
+      ]
+    },
+    {
+      "reference": "Hebrews 10:16",
+      "book": "Hebrews",
+      "chapter": 10,
+      "verse": 16,
+      "before": "\"This is the covenant that I will make with them: 'After those days,' says the Master, 'I will put my laws on their heart, I will also write them on their mind;'\" then he says,",
+      "after": "\"This is the covenant that I will make with them: 'After those days,' says the Master, 'I will put my laws on their heart, I will also write them on their mind;'\" then the Master says,",
+      "patches": [
+        [
+          "then he says",
+          "then the Master says"
+        ]
+      ]
+    },
+    {
+      "reference": "Hebrews 11:11",
+      "book": "Hebrews",
+      "chapter": 11,
+      "verse": 11,
+      "before": "By faith, even Sarah herself received power to conceive, and she bore a child when she was past age, since she counted him faithful who had promised.",
+      "after": "By faith, even Sarah herself received power to conceive, and she bore a child when she was past age, since she counted God faithful who had promised.",
+      "patches": [
+        [
+          "since she counted him faithful who had promised",
+          "since she counted God faithful who had promised"
+        ]
+      ]
+    },
+    {
+      "reference": "Hebrews 12:5",
+      "book": "Hebrews",
+      "chapter": 12,
+      "verse": 5,
+      "before": "and you have forgotten the exhortation which reasons with you as with children, \"My son, don't take lightly the chastening of the Master, nor faint when you are reproved by him;",
+      "after": "and you have forgotten the exhortation which reasons with you as with children, \"My son, don't take lightly the chastening of the Master, nor faint when you are reproved by the Master;",
+      "patches": [
+        [
+          "nor faint when you are reproved by him",
+          "nor faint when you are reproved by the Master"
+        ]
+      ]
+    },
+    {
+      "reference": "Hebrews 12:6",
+      "book": "Hebrews",
+      "chapter": 12,
+      "verse": 6,
+      "before": "For whom the Master loves, he chastens, and scourges every son whom he receives.\"",
+      "after": "For whom the Master loves, the Master chastens, and scourges every child whom the Master receives.\"",
+      "patches": [
+        [
+          "For whom the Master loves, he chastens, and scourges every son whom he receives",
+          "For whom the Master loves, the Master chastens, and scourges every child whom the Master receives"
+        ]
+      ]
+    },
+    {
+      "reference": "Hebrews 12:10",
+      "book": "Hebrews",
+      "chapter": 12,
+      "verse": 10,
+      "before": "For they indeed, for a few days, punished us as seemed good to them; but he for our profit, that we may be partakers of his holiness.",
+      "after": "For they indeed, for a few days, punished us as seemed good to them; but the Cosmic Parent for our profit, that we may be partakers of the Cosmic Parent's holiness.",
+      "patches": [
+        [
+          "but he for our profit, that we may be partakers of his holiness",
+          "but the Cosmic Parent for our profit, that we may be partakers of the Cosmic Parent's holiness"
+        ]
+      ]
+    },
+    {
+      "reference": "Hebrews 12:26",
+      "book": "Hebrews",
+      "chapter": 12,
+      "verse": 26,
+      "before": "whose voice shook the earth then, but now he has promised, saying, \"Yet once more I will shake not only the earth, but also the heavens.\"",
+      "after": "whose voice shook the earth then, but now God has promised, saying, \"Yet once more I will shake not only the earth, but also the heavens.\"",
+      "patches": [
+        [
+          "but now he has promised",
+          "but now God has promised"
+        ]
+      ]
+    },
+    {
+      "reference": "Hebrews 13:5",
+      "book": "Hebrews",
+      "chapter": 13,
+      "verse": 5,
+      "before": "Be free from the love of money, content with such things as you have, for he has said, \"I will in no way leave you, neither will I in any way forsake you.\"",
+      "after": "Be free from the love of money, content with such things as you have, for God has said, \"I will in no way leave you, neither will I in any way forsake you.\"",
+      "patches": [
+        [
+          "for he has said",
+          "for God has said"
+        ]
+      ]
+    },
+    {
+      "reference": "Hebrews 13:21",
+      "book": "Hebrews",
+      "chapter": 13,
+      "verse": 21,
+      "before": "make you complete in every good work to do his will, working in you that which is well pleasing in his sight, through Yeshua the Messiah, to whom be the glory forever and ever. Amen.",
+      "after": "make you complete in every good work to do God's will, working in you that which is well pleasing in God's sight, through Yeshua the Messiah, to whom be the glory forever and ever. Amen.",
+      "patches": [
+        [
+          "to do his will, working in you that which is well pleasing in his sight",
+          "to do God's will, working in you that which is well pleasing in God's sight"
+        ]
+      ]
+    },
+    {
+      "reference": "Romans 1:2",
+      "book": "Romans",
+      "chapter": 1,
+      "verse": 2,
+      "before": "which he promised before through his prophets in the holy Scriptures,",
+      "after": "which God promised before through God's prophets in the holy Scriptures,",
+      "patches": [
+        [
+          "which he promised before through his prophets",
+          "which God promised before through God's prophets"
+        ]
+      ]
+    },
+    {
+      "reference": "Romans 1:20",
+      "book": "Romans",
+      "chapter": 1,
+      "verse": 20,
+      "before": "For the invisible things of him since the creation of the world are clearly seen, being perceived through the things that are made, even his everlasting power and divinity; that they may be without excuse.",
+      "after": "For the invisible things of God since the creation of the world are clearly seen, being perceived through the things that are made, even God's everlasting power and divinity; that they may be without excuse.",
+      "patches": [
+        [
+          "invisible things of him since the creation",
+          "invisible things of God since the creation"
+        ],
+        [
+          "even his everlasting power and divinity",
+          "even God's everlasting power and divinity"
+        ]
+      ]
+    },
+    {
+      "reference": "Romans 2:18",
+      "book": "Romans",
+      "chapter": 2,
+      "verse": 18,
+      "before": "and know his will, and approve the things that are excellent, being instructed out of the law,",
+      "after": "and know God's will, and approve the things that are excellent, being instructed out of the law,",
+      "patches": [
+        [
+          "and know his will",
+          "and know God's will"
+        ]
+      ]
+    },
+    {
+      "reference": "Romans 3:20",
+      "book": "Romans",
+      "chapter": 3,
+      "verse": 20,
+      "before": "Because by the works of the law, no flesh will be justified in his sight. For through the law comes the knowledge of sin.",
+      "after": "Because by the works of the law, no flesh will be justified in God's sight. For through the law comes the knowledge of sin.",
+      "patches": [
+        [
+          "no flesh will be justified in his sight",
+          "no flesh will be justified in God's sight"
+        ]
+      ]
+    },
+    {
+      "reference": "Romans 3:24",
+      "book": "Romans",
+      "chapter": 3,
+      "verse": 24,
+      "before": "being justified freely by his grace through the redemption that is in Messiah Yeshua;",
+      "after": "being justified freely by God's grace through the redemption that is in Messiah Yeshua;",
+      "patches": [
+        [
+          "being justified freely by his grace",
+          "being justified freely by God's grace"
+        ]
+      ]
+    },
+    {
+      "reference": "Romans 8:3",
+      "book": "Romans",
+      "chapter": 8,
+      "verse": 3,
+      "before": "For what the law couldn't do, in that it was weak through the flesh, God did, sending God’s own Son in the likeness of sinful flesh and for sin, he condemned sin in the flesh;",
+      "after": "For what the law couldn't do, in that it was weak through the flesh, God did, sending God’s own Son in the likeness of sinful flesh and for sin, God condemned sin in the flesh;",
+      "patches": [
+        [
+          "he condemned sin in the flesh",
+          "God condemned sin in the flesh"
+        ]
+      ]
+    },
+    {
+      "reference": "Romans 9:15",
+      "book": "Romans",
+      "chapter": 9,
+      "verse": 15,
+      "before": "For he said to Moshe, \"I will have mercy on whom I have mercy, and I will have compassion on whom I have compassion.\"",
+      "after": "For God said to Moshe, \"I will have mercy on whom I have mercy, and I will have compassion on whom I have compassion.\"",
+      "patches": [
+        [
+          "For he said to Moshe",
+          "For God said to Moshe"
+        ]
+      ]
+    },
+    {
+      "reference": "Romans 9:19",
+      "book": "Romans",
+      "chapter": 9,
+      "verse": 19,
+      "before": "You will say then to me, \"Why does he still find fault? For who withstands his will?\"",
+      "after": "You will say then to me, \"Why does God still find fault? For who withstands God's will?\"",
+      "patches": [
+        [
+          "Why does he still find fault? For who withstands his will?",
+          "Why does God still find fault? For who withstands God's will?"
+        ]
+      ]
+    },
+    {
+      "reference": "Romans 9:24",
+      "book": "Romans",
+      "chapter": 9,
+      "verse": 24,
+      "before": "us, whom he also called, not from the Judeans only, but also from the Gentiles?",
+      "after": "us, whom God also called, not from the Judeans only, but also from the Gentiles?",
+      "patches": [
+        [
+          "us, whom he also called",
+          "us, whom God also called"
+        ]
+      ]
+    },
+    {
+      "reference": "Romans 9:25",
+      "book": "Romans",
+      "chapter": 9,
+      "verse": 25,
+      "before": "As he says also in Hoshea, \"I will call them 'my people,' which were not my people; and her 'beloved,' who was not beloved.\"",
+      "after": "As God says also in Hoshea, \"I will call them 'my people,' which were not my people; and her 'beloved,' who was not beloved.\"",
+      "patches": [
+        [
+          "As he says also in Hoshea",
+          "As God says also in Hoshea"
+        ]
+      ]
+    },
+    {
+      "reference": "1 Corinthians 15:27",
+      "book": "1 Corinthians",
+      "chapter": 15,
+      "verse": 27,
+      "before": "For, \"He put all things in subjection under his feet.\" But when he says, \"All things are put in subjection,\" it is evident that he is excepted who subjected all things to him.",
+      "after": "For, \"God put all things in subjection under the Messiah's feet.\" But when Scripture says, \"All things are put in subjection,\" it is evident that God is excepted, who subjected all things to the Messiah.",
+      "patches": [
+        [
+          "\"He put all things in subjection under his feet.\" But when he says, \"All things are put in subjection,\" it is evident that he is excepted who subjected all things to him",
+          "\"God put all things in subjection under the Messiah's feet.\" But when Scripture says, \"All things are put in subjection,\" it is evident that God is excepted, who subjected all things to the Messiah"
+        ]
+      ]
+    },
+    {
+      "reference": "2 Corinthians 1:10",
+      "book": "2 Corinthians",
+      "chapter": 1,
+      "verse": 10,
+      "before": "who delivered us out of so great a death, and does deliver; on whom we have set our hope that he will also still deliver us;",
+      "after": "who delivered us out of so great a death, and does deliver; on God we have set our hope that God will also still deliver us;",
+      "patches": [
+        [
+          "on whom we have set our hope that he will also still deliver us",
+          "on God we have set our hope that God will also still deliver us"
+        ]
+      ]
+    },
+    {
+      "reference": "2 Corinthians 6:2",
+      "book": "2 Corinthians",
+      "chapter": 6,
+      "verse": 2,
+      "before": "for he says, \"At an acceptable time I listened to you, in a day of salvation I helped you.\" Behold, now is the acceptable time. Behold, now is the day of salvation.",
+      "after": "for God says, \"At an acceptable time I listened to you, in a day of salvation I helped you.\" Behold, now is the acceptable time. Behold, now is the day of salvation.",
+      "patches": [
+        [
+          "for he says, \"At an acceptable time",
+          "for God says, \"At an acceptable time"
+        ]
+      ]
+    },
+    {
+      "reference": "2 Corinthians 8:19",
+      "book": "2 Corinthians",
+      "chapter": 8,
+      "verse": 19,
+      "before": "Not only so, but who was also appointed by the assemblies to travel with us in this grace, which is served by us to the glory of God himself, and to show our readiness.",
+      "after": "Not only so, but who was also appointed by the assemblies to travel with us in this grace, which is served by us to the glory of God, and to show our readiness.",
+      "patches": [
+        [
+          "to the glory of God himself",
+          "to the glory of God"
+        ]
+      ]
+    },
+    {
+      "reference": "Galatians 3:5",
+      "book": "Galatians",
+      "chapter": 3,
+      "verse": 5,
+      "before": "He therefore who supplies the Ruach to you, and works miracles among you, does he do it by the works of the law, or by hearing of faith?",
+      "after": "Does God, who supplies the Ruach to you and works miracles among you, do it by the works of the law, or by hearing of faith?",
+      "patches": [
+        [
+          "He therefore who supplies the Ruach to you, and works miracles among you, does he do it",
+          "Does God, who supplies the Ruach to you and works miracles among you, do it"
+        ]
+      ]
+    },
+    {
+      "reference": "Ephesians 2:7",
+      "book": "Ephesians",
+      "chapter": 2,
+      "verse": 7,
+      "before": "that in the ages to come he might show the exceeding riches of his grace in kindness toward us in Messiah Yeshua;",
+      "after": "that in the ages to come God might show the exceeding riches of God's grace in kindness toward us in Messiah Yeshua;",
+      "patches": [
+        [
+          "he might show the exceeding riches of his grace",
+          "God might show the exceeding riches of God's grace"
+        ]
+      ]
+    },
+    {
+      "reference": "Ephesians 2:10",
+      "book": "Ephesians",
+      "chapter": 2,
+      "verse": 10,
+      "before": "For we are his workmanship, created in Messiah Yeshua for good works, which God prepared before that we would walk in them.",
+      "after": "For we are God's workmanship, created in Messiah Yeshua for good works, which God prepared before that we would walk in them.",
+      "patches": [
+        [
+          "For we are his workmanship",
+          "For we are God's workmanship"
+        ]
+      ]
+    },
+    {
+      "reference": "Ephesians 3:11",
+      "book": "Ephesians",
+      "chapter": 3,
+      "verse": 11,
+      "before": "according to the age-enduring purpose which he purposed in Messiah Yeshua our Master;",
+      "after": "according to the age-enduring purpose which God purposed in Messiah Yeshua our Master;",
+      "patches": [
+        [
+          "the age-enduring purpose which he purposed in Messiah Yeshua",
+          "the age-enduring purpose which God purposed in Messiah Yeshua"
+        ]
+      ]
+    },
+    {
+      "reference": "Colossians 1:9",
+      "book": "Colossians",
+      "chapter": 1,
+      "verse": 9,
+      "before": "For this cause, we also, since the day we heard this, don't cease praying and making requests for you, that you may be filled with the knowledge of his will in all spiritual wisdom and understanding,",
+      "after": "For this cause, we also, since the day we heard this, don't cease praying and making requests for you, that you may be filled with the knowledge of God's will in all spiritual wisdom and understanding,",
+      "patches": [
+        [
+          "knowledge of his will",
+          "knowledge of God's will"
+        ]
+      ]
+    },
+    {
+      "reference": "Colossians 1:11",
+      "book": "Colossians",
+      "chapter": 1,
+      "verse": 11,
+      "before": "strengthened with all power, according to the might of his glory, for all endurance and perseverance with joy;",
+      "after": "strengthened with all power, according to the might of God's glory, for all endurance and perseverance with joy;",
+      "patches": [
+        [
+          "according to the might of his glory",
+          "according to the might of God's glory"
+        ]
+      ]
+    },
+    {
+      "reference": "Colossians 1:26",
+      "book": "Colossians",
+      "chapter": 1,
+      "verse": 26,
+      "before": "the mystery which has been hidden for ages and generations. But now it has been revealed to his saints,",
+      "after": "the mystery which has been hidden for ages and generations. But now it has been revealed to God's saints,",
+      "patches": [
+        [
+          "revealed to his saints",
+          "revealed to God's saints"
+        ]
+      ]
+    },
+    {
+      "reference": "Colossians 2:13",
+      "book": "Colossians",
+      "chapter": 2,
+      "verse": 13,
+      "before": "You were dead through your trespasses and the uncircumcision of your flesh. He made you alive together with him, having forgiven us all our trespasses,",
+      "after": "You were dead through your trespasses and the uncircumcision of your flesh. God made you alive together with him, having forgiven us all our trespasses,",
+      "patches": [
+        [
+          "He made you alive together with him",
+          "God made you alive together with him"
+        ]
+      ]
+    },
+    {
+      "reference": "1 Thessalonians 1:10",
+      "book": "1 Thessalonians",
+      "chapter": 1,
+      "verse": 10,
+      "before": "and to wait for God’s Son from heaven, whom he raised from the dead--Yeshua, who delivers us from the wrath to come.",
+      "after": "and to wait for God’s Son from heaven, whom God raised from the dead--Yeshua, who delivers us from the wrath to come.",
+      "patches": [
+        [
+          "whom he raised from the dead--Yeshua",
+          "whom God raised from the dead--Yeshua"
+        ]
+      ]
+    },
+    {
+      "reference": "2 Thessalonians 2:14",
+      "book": "2 Thessalonians",
+      "chapter": 2,
+      "verse": 14,
+      "before": "to which he called you through our good news, for the obtaining of the glory of our Master Yeshua the Messiah.",
+      "after": "to which God called you through our good news, for the obtaining of the glory of our Master Yeshua the Messiah.",
+      "patches": [
+        [
+          "to which he called you through our good news",
+          "to which God called you through our good news"
+        ]
+      ]
+    },
+    {
+      "reference": "Titus 1:16",
+      "book": "Titus",
+      "chapter": 1,
+      "verse": 16,
+      "before": "They profess that they know God, but by their works they deny him, being abominable, disobedient, and unfit for any good work.",
+      "after": "They profess that they know God, but by their works they deny God, being abominable, disobedient, and unfit for any good work.",
+      "patches": [
+        [
+          "by their works they deny him",
+          "by their works they deny God"
+        ]
+      ]
+    }
+  ],
+  "textualNoteJames1_12": "James 1:12 earliest witnesses omit explicit subject; other witnesses add Lord or God. Adopt contextual God, explain not a uniform Greek God token; see https://www.biblegateway.com/passage/?search=James+1%3A12&version=NET.",
+  "protectedExamples": [
+    "James 2:21–23—Avraham and Yitzhak",
+    "Acts 20:28—complex God/Master and blood antecedent",
+    "1 John 2:3–6—Yeshua or shifting referent",
+    "1 John 3:2—Yeshua's appearance",
+    "1 John 5:14–15—Son or God ambiguous",
+    "Revelation 22:3–4—God and Lamb joint throne",
+    "2 Peter 3:9,13–14—Master's identity requires further manual interpretation",
+    "1 Corinthians 8:6—Yeshua explicitly",
+    "Revelation 1:1—ambiguous divine/messianic pronoun",
+    "1 John 2:29—shifting Jesus/God pronoun in transition from appearing Christ to born of God; requires detailed source-language editorial signoff"
+  ],
+  "canonicalMobileFallback": {
+    "schemaVersion": 1,
+    "releaseId": "canonical-58ccf8deb2f65eca",
+    "canonicalEpubSha256": "58ccf8deb2f65ecaa0b35ce7b35137221c95998cee23d6461d98e250c297b4fc",
+    "generatedAt": "2026-10-14T11:50:44Z",
+    "contentSha256": "a7dd882490fec5f972d1446f31714babcb700aba0321d8cd2349be69a7eb99cd",
+    "contentBytes": 30119881,
+    "contentUrl": "https://raw.githubusercontent.com/Wayback-Project/thewaytranslations/main/current-form-documents/mobile-reader/content.json",
+    "source": "canonical-github-fallback",
+    "bookCount": 66,
+    "chapterCount": 1189,
+    "verseSearchCount": 31102
+  },
+  "printStatus": "Exact before/after ledger ready in Docs; owner-controlled Word print master and press-ready PDF require separate production/reconciliation and proof."
+}

@@ -83,3 +83,7 @@ Single-verse source-faithful maturity contrast: "Now that I have become a person
 ## 2026-10-14 Romans 11:34–36 God referents
 
 Correct exactly three verses. Romans 11:35 first him is God, second him is hypothetical human giver (render “them”); new canonical EPUB SHA-256 66dd3351d1f4d79b35d50f167e6f311fc39ee73f3c7c9266ee779d25308aefef. Physical print working Word master and PDF require separate reflow/proof.
+
+## 2026-10-14 Acts–Revelation divine-pronoun audit
+
+23 books / 4178 verses scanned, 66 reviewed exact God/Cosmic Parent/Master reference corrections in 16 books. Canonical EPUB SHA-256 58ccf8deb2f65ecaa0b35ce7b35137221c95998cee23d6461d98e250c297b4fc. Only ledger verses changed; all Yeshua and human male uses preserved where distinguished. Requires separate Word/PDF physical print proof.
