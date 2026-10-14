@@ -1,0 +1,60 @@
+name: Chata 54 reviewed Scripture verses 2026-10-15
+on:
+  pull_request:
+    paths:
+      - '.github/workflows/release-2026-10-15-chata-54.yml'
+      - 'tools/local/release_2026_10_15_chata_54.py'
+      - 'tools/local/chata-2026-10-15-exact-verse-ledger.json'
+  push:
+    branches: [main]
+    paths: ['.github/workflows/release-2026-10-15-chata-54.yml']
+permissions:
+  contents: write
+concurrency:
+  group: chata-2026-10-15-finite-release
+  cancel-in-progress: false
+jobs:
+  preview:
+    if: github.event_name == 'pull_request'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Syntax-check exact finite release
+        run: python -m py_compile tools/local/release_2026_10_15_chata_54.py
+      - name: Verify all 54 exact baseline verses and safe XHTML replacements
+        run: python tools/local/release_2026_10_15_chata_54.py --check-only
+  release:
+    if: github.event_name == 'push'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Validate baseline and 54 full verses
+        run: python tools/local/release_2026_10_15_chata_54.py --check-only
+      - name: Release exactly 54 Chata verses and canonical GitHub mobile fallback
+        run: python tools/local/release_2026_10_15_chata_54.py
+      - name: Commit the reviewed canonical Scripture release
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add current-form-documents/the-way-current.epub
+          git add current-form-documents/mobile-reader/
+          git add current-form-documents/original-name-registry.json
+          git add current-form-documents/README.md current-form-documents/EPUB-REFRESH-INSTRUCTIONS.md
+          git add rendered-documents-history/
+          git add change-logs/reports/2026-10-15-chata-first-54-verse-release.json
+          git add editor-notes/consistency/2026-10-15-chata-first-54-verse-release.md
+          git add README.md
+          git diff --cached --quiet && { echo 'No canonical release changes' >&2; exit 1; }
+          git commit -m 'Release Chata finite 54-verse moral-failure language update'
+          git push origin HEAD:main

@@ -1,0 +1,551 @@
+{
+  "title": "Chata: finite context-sensitive sin-family change ledger",
+  "date": "2026-10-15",
+  "status": "EDITOR-DIRECTED CANDIDATE; RELEASE VALIDATION REQUIRED",
+  "canonicalBaselineEpubSha256": "094be0ae8786e2e407515b5485946fc8ce35162fc4d0e62815b7983cf3ec4ffa",
+  "sourceReader": "drafthead/waywebsitenetlify/netlify app/data/books/*.json generated from exact baseline EPUB",
+  "scope": "Exactly these verses, not all 863 preliminary occurrences. Other unreviewed occurrences retained until contextual source review.",
+  "count": 54,
+  "edits": [
+    {
+      "slug": "genesis",
+      "chapter": 4,
+      "verse": 7,
+      "reference": "genesis 4:7",
+      "original": "If you do well, won’t it be lifted up? If you don’t do well, sin crouches at the door. Its desire is for you, but you are to rule over it.”",
+      "final": "If you do well, won’t it be lifted up? If you don’t do well, wrongdoing crouches at the door. Its desire is for you, but you are to rule over it.”",
+      "rationale": "Personified threat; preserve crouching imagery.",
+      "reviewClass": "finite-contextual-sin-family"
+    },
+    {
+      "slug": "genesis",
+      "chapter": 20,
+      "verse": 9,
+      "reference": "genesis 20:9",
+      "original": "Then Abimelech called Avraham, and said to him, “What have you done to us? How have I sinned against you, that you have brought on me and on my kingdom a great sin? You have done deeds to me that ought not to be done!”",
+      "final": "Then Abimelech called Avraham, and said to him, “What have you done to us? How have I wronged you, that you have brought on me and on my kingdom such a grave wrong? You have done deeds to me that ought not to be done!”",
+      "rationale": "Relational injury and political consequence; distinguish verb from moral noun.",
+      "reviewClass": "finite-contextual-sin-family"
+    },
+    {
+      "slug": "genesis",
+      "chapter": 39,
+      "verse": 9,
+      "reference": "genesis 39:9",
+      "original": "No one is greater in this house than I am, and they have not kept back anything from me but you, because you are his wife. How then can I do this great wickedness, and sin against Elohim?”",
+      "final": "No one is greater in this house than I am, and they have not kept back anything from me but you, because you are his wife. How then can I do this great wickedness, and do wrong against Elohim?”",
+      "rationale": "Deliberate betrayal and moral agency; avoid calling it an inadvertent failure.",
+      "reviewClass": "finite-contextual-sin-family"
+    },
+    {
+      "slug": "psalms",
+      "chapter": 32,
+      "verse": 1,
+      "reference": "psalms 32:1",
+      "original": "Blessed is the one whose disobedience is forgiven, whose sin is covered.",
+      "final": "Blessed is the one whose disobedience is forgiven, whose moral failure is covered.",
+      "rationale": "Forgiveness image; source form contrasts with disobedience.",
+      "reviewClass": "finite-contextual-sin-family"
+    },
+    {
+      "slug": "psalms",
+      "chapter": 32,
+      "verse": 5,
+      "reference": "psalms 32:5",
+      "original": "I acknowledged my sin to you. I didn't hide my iniquity. I said, I will confess my transgressions to YHWH, and you forgave the iniquity of my sin. Selah.",
+      "final": "I acknowledged my moral failure to you. I didn't hide my iniquity. I said, I will confess my transgressions to YHWH, and you forgave the iniquity of my sin. Selah.",
+      "rationale": "First-person confession.",
+      "reviewClass": "finite-contextual-sin-family"
+    },
+    {
+      "slug": "psalms",
+      "chapter": 38,
+      "verse": 18,
+      "reference": "psalms 38:18",
+      "original": "For I will declare my iniquity. I will be sorry for my sin.",
+      "final": "For I will declare my iniquity. I will be sorry for my moral failure.",
+      "rationale": "Acknowledged personal moral lapse.",
+      "reviewClass": "finite-contextual-sin-family"
+    },
+    {
+      "slug": "psalms",
+      "chapter": 51,
+      "verse": 3,
+      "reference": "psalms 51:3",
+      "original": "For I know my transgressions. My sin is constantly before me.",
+      "final": "For I know my transgressions. My moral failure is constantly before me.",
+      "rationale": "Confession; responsibility instead of permanent identity.",
+      "reviewClass": "finite-contextual-sin-family"
+    },
+    {
+      "slug": "psalms",
+      "chapter": 103,
+      "verse": 10,
+      "reference": "psalms 103:10",
+      "original": "YHWH has not dealt with us according to our sins, nor repaid us for our iniquities.",
+      "final": "YHWH has not dealt with us according to our moral failures, nor repaid us for our iniquities.",
+      "rationale": "Parallel to iniquities; retain contrast.",
+      "reviewClass": "finite-contextual-sin-family"
+    },
+    {
+      "slug": "isaiah",
+      "chapter": 1,
+      "verse": 18,
+      "reference": "isaiah 1:18",
+      "original": "\"Come now, and let us reason together,\" says YHWH: \"Though your sins be as scarlet, they shall be as white as snow. Though they be red like crimson, they shall be as wool.",
+      "final": "\"Come now, and let us reason together,\" says YHWH: \"Though your moral failures be as scarlet, they shall be as white as snow. Though they be red like crimson, they shall be as wool.",
+      "rationale": "Preserve crimson/white imagery.",
+      "reviewClass": "finite-contextual-sin-family"
+    },
+    {
+      "slug": "isaiah",
+      "chapter": 53,
+      "verse": 12,
+      "reference": "isaiah 53:12",
+      "original": "Therefore will I divide him a portion with the great, and he shall divide the spoil with the strong; because he poured out his soul to death, and was numbered with the transgressors; yet he bore the sin of many, and made intercession for the transgressors.",
+      "final": "Therefore will I divide him a portion with the great, and he shall divide the spoil with the strong; because he poured out his soul to death, and was numbered with the transgressors; yet he bore the moral failures of many, and made intercession for the transgressors.",
+      "rationale": "Keep bearing metaphor, no doctrinal paraphrase.",
+      "reviewClass": "finite-contextual-sin-family"
+    },
+    {
+      "slug": "matthew",
+      "chapter": 1,
+      "verse": 21,
+      "reference": "matthew 1:21",
+      "original": "She shall bring forth a son. You shall call his name Yeshua, for he shall save his people from their sins.\"",
+      "final": "She shall bring forth a son. You shall call his name Yeshua, for he shall save his people from their moral failures.\"",
+      "rationale": "Generic plural moral noun.",
+      "reviewClass": "finite-contextual-sin-family"
+    },
+    {
+      "slug": "matthew",
+      "chapter": 9,
+      "verse": 2,
+      "reference": "matthew 9:2",
+      "original": "Behold, they brought to him a person who was paralyzed, lying on a bed. Yeshua, seeing their faith, said to the paralytic, \"Son, cheer up! Your sins are forgiven you.\"",
+      "final": "Behold, they brought to him a person who was paralyzed, lying on a bed. Yeshua, seeing their faith, said to the paralytic, \"Son, cheer up! Your moral failures are forgiven you.\"",
+      "rationale": "Forgiveness without essentializing label.",
+      "reviewClass": "finite-contextual-sin-family"
+    },
+    {
+      "slug": "matthew",
+      "chapter": 9,
+      "verse": 5,
+      "reference": "matthew 9:5",
+      "original": "For which is easier, to say, 'Your sins are forgiven;' or to say, 'Get up, and walk?'",
+      "final": "For which is easier, to say, 'Your moral failures are forgiven;' or to say, 'Get up, and walk?'",
+      "rationale": "Parallel to Matthew 9:2 with speech punctuation preserved.",
+      "reviewClass": "finite-contextual-sin-family"
+    },
+    {
+      "slug": "matthew",
+      "chapter": 12,
+      "verse": 31,
+      "reference": "matthew 12:31",
+      "original": "Therefore I tell you, every sin and blasphemy will be forgiven people, but the blasphemy against the Ruach will not be forgiven people.",
+      "final": "Therefore I tell you, every moral failure and blasphemy will be forgiven people, but the blasphemy against the Ruach will not be forgiven people.",
+      "rationale": "Keep separate blasphemy qualification.",
+      "reviewClass": "finite-contextual-sin-family"
+    },
+    {
+      "slug": "matthew",
+      "chapter": 18,
+      "verse": 21,
+      "reference": "matthew 18:21",
+      "original": "Then Shimon (called Kepha) came and said to him, \"Master, how often shall my brother or sister sin against me, and I forgive them? Until seven times?\"",
+      "final": "Then Shimon (called Kepha) came and said to him, \"Master, how often shall my brother or sister wrong me, and I forgive them? Until seven times?\"",
+      "rationale": "Direct wrong against interlocutor.",
+      "reviewClass": "finite-contextual-sin-family"
+    },
+    {
+      "slug": "matthew",
+      "chapter": 26,
+      "verse": 28,
+      "reference": "matthew 26:28",
+      "original": "for this is my blood of the new covenant, which is poured out for many for the remission of sins.",
+      "final": "for this is my blood of the new covenant, which is poured out for many for the remission of moral failures.",
+      "rationale": "Keep covenant/remission language, replace abstract moral noun.",
+      "reviewClass": "finite-contextual-sin-family"
+    },
+    {
+      "slug": "mark",
+      "chapter": 2,
+      "verse": 5,
+      "reference": "mark 2:5",
+      "original": "Yeshua, seeing their faith, said to the paralytic, \"Son, your sins are forgiven you.\"",
+      "final": "Yeshua, seeing their faith, said to the paralytic, \"Son, your moral failures are forgiven you.\"",
+      "rationale": "Equivalent Markan forgiveness usage.",
+      "reviewClass": "finite-contextual-sin-family"
+    },
+    {
+      "slug": "mark",
+      "chapter": 2,
+      "verse": 17,
+      "reference": "mark 2:17",
+      "original": "When Yeshua heard it, he said to them, \"Those who are healthy have no need for a physician, but those who are sick. I came not to call the righteous, but sinners to turning back.\"",
+      "final": "When Yeshua heard it, he said to them, \"Those who are healthy have no need for a physician, but those who are sick. I came not to call the righteous, but to call those who have failed morally to turn back.\"",
+      "rationale": "People not fixed identity; repairs awkward English syntax.",
+      "reviewClass": "finite-contextual-sin-family"
+    },
+    {
+      "slug": "mark",
+      "chapter": 3,
+      "verse": 28,
+      "reference": "mark 3:28",
+      "original": "Most certainly I tell you, all sins of the descendants of man will be forgiven, including their blasphemies with which they may blaspheme;",
+      "final": "Most certainly I tell you, all moral failures of the descendants of man will be forgiven, including their blasphemies with which they may blaspheme;",
+      "rationale": "Collective moral failures; preserve next blasphemy qualification.",
+      "reviewClass": "finite-contextual-sin-family"
+    },
+    {
+      "slug": "luke",
+      "chapter": 5,
+      "verse": 32,
+      "reference": "luke 5:32",
+      "original": "I have not come to call the righteous, but sinners to turning back.\"",
+      "final": "I have not come to call the righteous, but to call those who have failed morally to turn back.\"",
+      "rationale": "People label becomes lived conduct and change of direction.",
+      "reviewClass": "finite-contextual-sin-family"
+    },
+    {
+      "slug": "luke",
+      "chapter": 7,
+      "verse": 47,
+      "reference": "luke 7:47",
+      "original": "Therefore I tell you, her sins, which are many, are forgiven, for she loved much. But to whom little is forgiven, the same loves little.\"",
+      "final": "Therefore I tell you, her moral failures, which are many, are forgiven, for she loved much. But to whom little is forgiven, the same loves little.\"",
+      "rationale": "Retains plurality and forgiveness.",
+      "reviewClass": "finite-contextual-sin-family"
+    },
+    {
+      "slug": "luke",
+      "chapter": 15,
+      "verse": 7,
+      "reference": "luke 15:7",
+      "original": "I tell you that even so there will be more joy in heaven over one sinner who turns back, than over ninety-nine righteous people who need no turning back.",
+      "final": "I tell you that even so there will be more joy in heaven over one person who has failed morally and turns back, than over ninety-nine righteous people who need no turning back.",
+      "rationale": "Parable about turning, avoid essentializing.",
+      "reviewClass": "finite-contextual-sin-family"
+    },
+    {
+      "slug": "luke",
+      "chapter": 17,
+      "verse": 3,
+      "reference": "luke 17:3",
+      "original": "Be careful. If your brother or sister sins against you, rebuke them. If they turn back, forgive them.",
+      "final": "Be careful. If your brother or sister wrongs you, rebuke them. If they turn back, forgive them.",
+      "rationale": "Concrete interpersonal wrongdoing.",
+      "reviewClass": "finite-contextual-sin-family"
+    },
+    {
+      "slug": "luke",
+      "chapter": 17,
+      "verse": 4,
+      "reference": "luke 17:4",
+      "original": "If they sin against you seven times in the day, and seven times return, saying, 'I turn back,' you shall forgive them.\"",
+      "final": "If they wrong you seven times in the day, and seven times return, saying, 'I turn back,' you shall forgive them.\"",
+      "rationale": "Repeated harm of someone; preserve repeated forgiveness.",
+      "reviewClass": "finite-contextual-sin-family"
+    },
+    {
+      "slug": "luke",
+      "chapter": 24,
+      "verse": 47,
+      "reference": "luke 24:47",
+      "original": "and that turning back and remission of sins should be preached in his name to all the nations, beginning at Yerushalayim.",
+      "final": "and that turning back and remission of moral failures should be preached in his name to all the nations, beginning at Yerushalayim.",
+      "rationale": "Restoration/forgiveness in mission saying.",
+      "reviewClass": "finite-contextual-sin-family"
+    },
+    {
+      "slug": "john",
+      "chapter": 8,
+      "verse": 34,
+      "reference": "john 8:34",
+      "original": "Yeshua answered them, \"Most certainly I tell you, everyone who commits sin is the bondservant of sin.",
+      "final": "Yeshua answered them, \"Most certainly I tell you, everyone who practices wrongdoing is enslaved to wrongdoing.",
+      "rationale": "Keep servitude imagery; repeated action more precise than harmless failure.",
+      "reviewClass": "finite-contextual-sin-family"
+    },
+    {
+      "slug": "acts",
+      "chapter": 2,
+      "verse": 38,
+      "reference": "acts 2:38",
+      "original": "Shimon (called Kepha) said to them, \"Turn back, and let each one of you be immersed in the name of Yeshua the Messiah for the release of sins, and you will receive the gift of the Ruach of Elohim.",
+      "final": "Shimon (called Kepha) said to them, \"Turn back, and let each one of you be immersed in the name of Yeshua the Messiah for the release from moral failures, and you will receive the gift of the Ruach of Elohim.",
+      "rationale": "Freedom/remission, maintain immersion context.",
+      "reviewClass": "finite-contextual-sin-family"
+    },
+    {
+      "slug": "acts",
+      "chapter": 3,
+      "verse": 19,
+      "reference": "acts 3:19",
+      "original": "\"Turn back therefore, and turn again, that your sins may be blotted out, so that there may come times of refreshing from the presence of the Master,",
+      "final": "\"Turn back therefore, and turn again, that your moral failures may be blotted out, so that there may come times of refreshing from the presence of the Master,",
+      "rationale": "Preserve erasure image.",
+      "reviewClass": "finite-contextual-sin-family"
+    },
+    {
+      "slug": "acts",
+      "chapter": 5,
+      "verse": 31,
+      "reference": "acts 5:31",
+      "original": "God exalted him with God's right hand to be a Prince and a Savior, to give turning back to Israel, and remission of sins.",
+      "final": "God exalted him with God's right hand to be a Prince and a Savior, to give turning back to Israel, and remission of moral failures.",
+      "rationale": "Turning back with forgiveness.",
+      "reviewClass": "finite-contextual-sin-family"
+    },
+    {
+      "slug": "acts",
+      "chapter": 10,
+      "verse": 43,
+      "reference": "acts 10:43",
+      "original": "All the prophets testify about him, that through their name everyone who believes in him will receive remission of sins.\"",
+      "final": "All the prophets testify about him, that through their name everyone who believes in him will receive remission of moral failures.\"",
+      "rationale": "Forgiveness noun, do not alter pronoun wording.",
+      "reviewClass": "finite-contextual-sin-family"
+    },
+    {
+      "slug": "romans",
+      "chapter": 3,
+      "verse": 23,
+      "reference": "romans 3:23",
+      "original": "for all have sinned, and fall short of the glory of God;",
+      "final": "for all have failed morally, and fall short of the glory of God;",
+      "rationale": "Moral action contrasted with falling short.",
+      "reviewClass": "finite-contextual-sin-family"
+    },
+    {
+      "slug": "romans",
+      "chapter": 4,
+      "verse": 7,
+      "reference": "romans 4:7",
+      "original": "\"Blessed are they whose iniquities are forgiven, whose sins are covered.",
+      "final": "\"Blessed are they whose iniquities are forgiven, whose moral failures are covered.",
+      "rationale": "Paul quotes blessed forgiveness; preserve covering image.",
+      "reviewClass": "finite-contextual-sin-family"
+    },
+    {
+      "slug": "romans",
+      "chapter": 6,
+      "verse": 1,
+      "reference": "romans 6:1",
+      "original": "What shall we say then? Shall we continue in sin, that grace may abound?",
+      "final": "What shall we say then? Shall we continue in moral failure, that grace may abound?",
+      "rationale": "Continuing conduct not momentary imperfection.",
+      "reviewClass": "finite-contextual-sin-family"
+    },
+    {
+      "slug": "romans",
+      "chapter": 6,
+      "verse": 12,
+      "reference": "romans 6:12",
+      "original": "Therefore don't let sin reign in your mortal body, that you should obey it in its lusts.",
+      "final": "Therefore don't let wrongdoing reign in your mortal body, that you should obey it in its lusts.",
+      "rationale": "Active governing power metaphor.",
+      "reviewClass": "finite-contextual-sin-family"
+    },
+    {
+      "slug": "romans",
+      "chapter": 14,
+      "verse": 23,
+      "reference": "romans 14:23",
+      "original": "But the one who doubts is condemned if they eat, because it isn't of faith; and whatever is not of faith is sin.",
+      "final": "But the one who doubts is condemned if they eat, because it isn't of faith; and whatever is not of faith is a moral failure.",
+      "rationale": "Moral evaluation; grammatical article.",
+      "reviewClass": "finite-contextual-sin-family"
+    },
+    {
+      "slug": "1-corinthians",
+      "chapter": 15,
+      "verse": 3,
+      "reference": "1-corinthians 15:3",
+      "original": "For I delivered to you first of all that which I also received: that Messiah died for our sins according to the Scriptures,",
+      "final": "For I delivered to you first of all that which I also received: that Messiah died for our moral failures according to the Scriptures,",
+      "rationale": "Retain cited formula; avoid adding theological mechanism.",
+      "reviewClass": "finite-contextual-sin-family"
+    },
+    {
+      "slug": "1-corinthians",
+      "chapter": 15,
+      "verse": 17,
+      "reference": "1-corinthians 15:17",
+      "original": "If Messiah has not been raised, your faith is vain; you are still in your sins.",
+      "final": "If Messiah has not been raised, your faith is vain; you are still in your moral failures.",
+      "rationale": "Condition language and plurality.",
+      "reviewClass": "finite-contextual-sin-family"
+    },
+    {
+      "slug": "hebrews",
+      "chapter": 8,
+      "verse": 12,
+      "reference": "hebrews 8:12",
+      "original": "For I will be merciful to their unrighteousness. I will remember their sins and lawless deeds no more.\"",
+      "final": "For I will be merciful to their unrighteousness. I will remember their moral failures and lawless deeds no more.\"",
+      "rationale": "Keep moral noun distinct from lawlessness.",
+      "reviewClass": "finite-contextual-sin-family"
+    },
+    {
+      "slug": "hebrews",
+      "chapter": 10,
+      "verse": 17,
+      "reference": "hebrews 10:17",
+      "original": "\"I will remember their sins and their iniquities no more.\"",
+      "final": "\"I will remember their moral failures and their iniquities no more.\"",
+      "rationale": "Preserve dual-term contrast.",
+      "reviewClass": "finite-contextual-sin-family"
+    },
+    {
+      "slug": "hebrews",
+      "chapter": 10,
+      "verse": 18,
+      "reference": "hebrews 10:18",
+      "original": "Now where remission of these is, there is no more offering for sin.",
+      "final": "Now where remission of these is, there is no more offering for moral failure.",
+      "rationale": "Offering *for* moral failure, not a technical name of a purification offering.",
+      "reviewClass": "finite-contextual-sin-family"
+    },
+    {
+      "slug": "hebrews",
+      "chapter": 12,
+      "verse": 1,
+      "reference": "hebrews 12:1",
+      "original": "Therefore let us also, seeing we are surrounded by so great a cloud of witnesses, lay aside every weight and the sin which so easily entangles us, and let us run with patience the race that is set before us,",
+      "final": "Therefore let us also, seeing we are surrounded by so great a cloud of witnesses, lay aside every weight and the wrongdoing which so easily entangles us, and let us run with patience the race that is set before us,",
+      "rationale": "Preserve personified entanglement.",
+      "reviewClass": "finite-contextual-sin-family"
+    },
+    {
+      "slug": "james",
+      "chapter": 4,
+      "verse": 17,
+      "reference": "james 4:17",
+      "original": "To him therefore who knows to do good, and doesn't do it, to him it is sin.",
+      "final": "To him therefore who knows to do good, and doesn't do it, to him it is a moral failure.",
+      "rationale": "Failure to perform known good, natural singular construction.",
+      "reviewClass": "finite-contextual-sin-family"
+    },
+    {
+      "slug": "james",
+      "chapter": 5,
+      "verse": 15,
+      "reference": "james 5:15",
+      "original": "and the prayer of faith will heal the one who is sick, and the Master will raise them up. If they have committed sins, they will be forgiven.",
+      "final": "and the prayer of faith will heal the one who is sick, and the Master will raise them up. If they have committed moral failures, they will be forgiven.",
+      "rationale": "Distinct from illness; do not imply illness caused by moral failure.",
+      "reviewClass": "finite-contextual-sin-family"
+    },
+    {
+      "slug": "james",
+      "chapter": 5,
+      "verse": 20,
+      "reference": "james 5:20",
+      "original": "let them know that the one who turns a sinner from the error of their way will save a soul from death, and will cover a multitude of sins.",
+      "final": "let them know that the one who turns a person who has failed morally from the error of their way will save a soul from death, and will cover a multitude of moral failures.",
+      "rationale": "Greek hamartōlos is a label, planē separately error; preserve path and covering.",
+      "reviewClass": "finite-contextual-sin-family"
+    },
+    {
+      "slug": "1-peter",
+      "chapter": 2,
+      "verse": 22,
+      "reference": "1-peter 2:22",
+      "original": "who did not sin, \"neither was deceit found in his mouth.\"",
+      "final": "who did no wrong, \"neither was deceit found in his mouth.\"",
+      "rationale": "Action-focused negative; retain subsequent deceit line.",
+      "reviewClass": "finite-contextual-sin-family"
+    },
+    {
+      "slug": "1-peter",
+      "chapter": 4,
+      "verse": 8,
+      "reference": "1-peter 4:8",
+      "original": "And above all things be earnest in your love among yourselves, for love covers a multitude of sins.",
+      "final": "And above all things be earnest in your love among yourselves, for love covers a multitude of moral failures.",
+      "rationale": "Keep covering image.",
+      "reviewClass": "finite-contextual-sin-family"
+    },
+    {
+      "slug": "1-john",
+      "chapter": 1,
+      "verse": 7,
+      "reference": "1-john 1:7",
+      "original": "But if we walk in the light, as God is in the light, we have fellowship with one another, and the blood of Yeshua the Messiah, God’s Son, cleanses us from all sin.",
+      "final": "But if we walk in the light, as God is in the light, we have fellowship with one another, and the blood of Yeshua the Messiah, God’s Son, cleanses us from all moral failure.",
+      "rationale": "Universal moral noun.",
+      "reviewClass": "finite-contextual-sin-family"
+    },
+    {
+      "slug": "1-john",
+      "chapter": 1,
+      "verse": 8,
+      "reference": "1-john 1:8",
+      "original": "If we say that we have no sin, we deceive ourselves, and the truth is not in us.",
+      "final": "If we say that we have no moral failure, we deceive ourselves, and the truth is not in us.",
+      "rationale": "Denial of liability; confession context.",
+      "reviewClass": "finite-contextual-sin-family"
+    },
+    {
+      "slug": "1-john",
+      "chapter": 1,
+      "verse": 9,
+      "reference": "1-john 1:9",
+      "original": "If we confess our sins, God is faithful and righteous to forgive us the sins, and to cleanse us from all unrighteousness.",
+      "final": "If we confess our moral failures, God is faithful and righteous to forgive our moral failures, and to cleanse us from all unrighteousness.",
+      "rationale": "Natural English forgiveness clause; retain confession, forgiveness, cleansing and moral responsibility.",
+      "reviewClass": "finite-contextual-sin-family"
+    },
+    {
+      "slug": "1-john",
+      "chapter": 2,
+      "verse": 1,
+      "reference": "1-john 2:1",
+      "original": "My little children, I write these things to you so that you may not sin. If anyone sins, we have a Counselor with the Cosmic Parent, Yeshua the Messiah, the righteous.",
+      "final": "My little children, I write these things to you so that you may not fail morally. If anyone fails morally, we have a Counselor with the Cosmic Parent, Yeshua the Messiah, the righteous.",
+      "rationale": "Conjugate verbs rather than applying a noun mechanically.",
+      "reviewClass": "finite-contextual-sin-family"
+    },
+    {
+      "slug": "1-john",
+      "chapter": 2,
+      "verse": 2,
+      "reference": "1-john 2:2",
+      "original": "And he is the atoning sacrifice for our sins, and not for ours only, but also for the whole world.",
+      "final": "And he is the atoning sacrifice for our moral failures, and not for ours only, but also for the whole world.",
+      "rationale": "Keep sacrifice terminology distinct from the culpable conduct.",
+      "reviewClass": "finite-contextual-sin-family"
+    },
+    {
+      "slug": "1-john",
+      "chapter": 3,
+      "verse": 4,
+      "reference": "1-john 3:4",
+      "original": "Everyone who sins also commits lawlessness. Sin is lawlessness.",
+      "final": "Everyone who fails morally also commits lawlessness. Moral failure is lawlessness.",
+      "rationale": "Preserve author’s moral equation, no imported 'mere mistake'.",
+      "reviewClass": "finite-contextual-sin-family"
+    },
+    {
+      "slug": "revelation",
+      "chapter": 18,
+      "verse": 4,
+      "reference": "revelation 18:4",
+      "original": "I heard another voice from heaven, saying, \"Come out of her, my people, that you have no participation in her sins, and that you don't receive of her plagues,",
+      "final": "I heard another voice from heaven, saying, \"Come out of her, my people, that you have no participation in her wrongdoings, and that you don't receive of her plagues,",
+      "rationale": "Collective participation and ethical responsibility.",
+      "reviewClass": "finite-contextual-sin-family"
+    },
+    {
+      "slug": "revelation",
+      "chapter": 18,
+      "verse": 5,
+      "reference": "revelation 18:5",
+      "original": "for her sins have reached to the sky, and God has remembered her iniquities.",
+      "final": "for her wrongdoings have reached to the sky, and God has remembered her iniquities.",
+      "rationale": "Corporate injustice and judgment; maintain sky metaphor.",
+      "reviewClass": "finite-contextual-sin-family"
+    }
+  ]
+}

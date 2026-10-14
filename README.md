@@ -48,6 +48,8 @@ These examples describe questions the project evaluates, not automatic substitut
 | Greek *anthropos / aner* | human or person / man or husband | Does the source use a general human term or a specifically male term? |
 | *Sheol / Hades / Gehenna / Tartarus* | retained distinctly or translated by context | Does a single English label conceal different terms, settings, or images? |
 
+The English terms **sin**, **sinner**, and related forms are reviewed by context rather than substituted automatically. Where the original conveys moral wrongdoing or falling short, this edition considers **moral failure**, **failed morally**, or **failure**; when direct harm, injustice, or a destructive power is in view, **wrongdoing** may be clearer. Ritual **purification offerings**, source-specific guilt or rebellion, and proper names remain distinct. The [Chata editorial review](editor-notes/consistency/2026-10-15-chata-first-54-verse-release.md) documents an initial finite group of verse-level decisions; other occurrences are still being assessed.
+
 ### Examples from the current edition
 
 | Reference | Example rendering | What it illustrates |
