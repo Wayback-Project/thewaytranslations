@@ -1,0 +1,718 @@
+{
+  "canonicalBaselineEpubSha256": "b5500415431a339ba10c7021e9b091b7af38f0badb2a4d9e1e7cc0e15f46b943",
+  "status": "CANDIDATE full verse poetry/wisdom corrections",
+  "held": [
+    {
+      "ref": "Psalms 40:6",
+      "reason": "Not yet classified"
+    },
+    {
+      "ref": "Psalms 51:5",
+      "reason": "High-sensitivity poetic anthropology; source ambiguity and mother-blame risk; preserve until Hebrew review"
+    }
+  ],
+  "edits": [
+    {
+      "reference": "Job 1:5",
+      "slug": "job",
+      "chapter": 1,
+      "verse": 5,
+      "original": "It was so, when the days of their feasting had run their course, that Job sent and sanctified them, and rose up early in the morning, and offered burnt offerings according to the number of them all. For Job said, \"It may be that my sons have sinned, and renounced Elohim in their hearts.\" Thus did Job continually.",
+      "final": "It was so, when the days of their feasting had run their course, that Job sent and sanctified them, and rose up early in the morning, and offered burnt offerings according to the number of them all. For Job said, \"It may be that my sons have done wrong, and renounced Elohim in their hearts.\" Thus did Job continually.",
+      "rationale": "Hebrew poetry/wisdom: preserve figurative images and address culpability without permanent human labels."
+    },
+    {
+      "reference": "Job 1:22",
+      "slug": "job",
+      "chapter": 1,
+      "verse": 22,
+      "original": "In all this, Job did not sin, nor charge Elohim with wrongdoing.",
+      "final": "In all this, Job did no wrong, nor charge Elohim with wrongdoing.",
+      "rationale": "Hebrew poetry/wisdom: preserve figurative images and address culpability without permanent human labels."
+    },
+    {
+      "reference": "Job 2:10",
+      "slug": "job",
+      "chapter": 2,
+      "verse": 10,
+      "original": "But he said to her, \"You speak as one of the foolish women would speak. What? Shall we receive good at the hand of Elohim, and shall we not receive adversity?\" In all this Job didn't sin with his lips.",
+      "final": "But he said to her, \"You speak as one of the foolish women would speak. What? Shall we receive good at the hand of Elohim, and shall we not receive adversity?\" In all this Job did not speak wrongly.",
+      "rationale": "Hebrew poetry/wisdom: preserve figurative images and address culpability without permanent human labels."
+    },
+    {
+      "reference": "Job 7:20",
+      "slug": "job",
+      "chapter": 7,
+      "verse": 20,
+      "original": "If I have sinned, what do I do to you, you watcher of people? Why have you set me as a mark for you, so that I am a burden to myself?",
+      "final": "If I have done wrong, what do I do to you, you watcher of people? Why have you set me as a mark for you, so that I am a burden to myself?",
+      "rationale": "Hebrew poetry/wisdom: preserve figurative images and address culpability without permanent human labels."
+    },
+    {
+      "reference": "Job 8:4",
+      "slug": "job",
+      "chapter": 8,
+      "verse": 4,
+      "original": "If your children have sinned against him, He has delivered them into the hand of their disobedience.",
+      "final": "If your children have done wrong against him, He has delivered them into the hand of their disobedience.",
+      "rationale": "Hebrew poetry/wisdom: preserve figurative images and address culpability without permanent human labels."
+    },
+    {
+      "reference": "Job 10:6",
+      "slug": "job",
+      "chapter": 10,
+      "verse": 6,
+      "original": "that you inquire after my iniquity, and search after my sin?",
+      "final": "that you inquire after my iniquity, and search after my wrongdoing?",
+      "rationale": "Hebrew poetry/wisdom: preserve figurative images and address culpability without permanent human labels."
+    },
+    {
+      "reference": "Job 10:14",
+      "slug": "job",
+      "chapter": 10,
+      "verse": 14,
+      "original": "if I sin, then you mark me. You will not acquit me from my iniquity.",
+      "final": "if I do wrong, then you mark me. You will not acquit me from my iniquity.",
+      "rationale": "Hebrew poetry/wisdom: preserve figurative images and address culpability without permanent human labels."
+    },
+    {
+      "reference": "Job 13:23",
+      "slug": "job",
+      "chapter": 13,
+      "verse": 23,
+      "original": "How many are my iniquities and sins? Make me know my disobedience and my sin.",
+      "final": "How many are my iniquities and moral failures? Make me know my disobedience and my wrongdoing.",
+      "rationale": "Hebrew poetry/wisdom: preserve figurative images and address culpability without permanent human labels."
+    },
+    {
+      "reference": "Job 14:16",
+      "slug": "job",
+      "chapter": 14,
+      "verse": 16,
+      "original": "But now you number my steps. Don't you watch over my sin?",
+      "final": "But now you number my steps. Don't you watch over my wrongdoing?",
+      "rationale": "Hebrew poetry/wisdom: preserve figurative images and address culpability without permanent human labels."
+    },
+    {
+      "reference": "Job 24:19",
+      "slug": "job",
+      "chapter": 24,
+      "verse": 19,
+      "original": "Drought and heat consume the snow waters, so does Sheol those who have sinned.",
+      "final": "Drought and heat consume the snow waters, so does Sheol those who have done wrong.",
+      "rationale": "Hebrew poetry/wisdom: preserve figurative images and address culpability without permanent human labels."
+    },
+    {
+      "reference": "Job 31:30",
+      "slug": "job",
+      "chapter": 31,
+      "verse": 30,
+      "original": "(yes, I have not allowed my mouth to sin by asking his life with a curse);",
+      "final": "(yes, I have not allowed my mouth to do wrong by asking his life with a curse);",
+      "rationale": "Hebrew poetry/wisdom: preserve figurative images and address culpability without permanent human labels."
+    },
+    {
+      "reference": "Job 33:27",
+      "slug": "job",
+      "chapter": 33,
+      "verse": 27,
+      "original": "He sings before men, and says, 'I have sinned, and perverted that which was right, and it didn't profit me.",
+      "final": "He sings before men, and says, 'I have done wrong, and perverted that which was right, and it didn't profit me.",
+      "rationale": "Hebrew poetry/wisdom: preserve figurative images and address culpability without permanent human labels."
+    },
+    {
+      "reference": "Job 34:37",
+      "slug": "job",
+      "chapter": 34,
+      "verse": 37,
+      "original": "For he adds rebellion to his sin. He claps his hands among us, and multiplies his words against Elohim.\"",
+      "final": "For he adds rebellion to his wrongdoing. He claps his hands among us, and multiplies his words against Elohim.\"",
+      "rationale": "Hebrew poetry/wisdom: preserve figurative images and address culpability without permanent human labels."
+    },
+    {
+      "reference": "Job 35:3",
+      "slug": "job",
+      "chapter": 35,
+      "verse": 3,
+      "original": "That you ask, 'What advantage will it be to you? What profit shall I have, more than if I had sinned?'",
+      "final": "That you ask, 'What advantage will it be to you? What profit shall I have, more than if I had acted wrongly?'",
+      "rationale": "Hebrew poetry/wisdom: preserve figurative images and address culpability without permanent human labels."
+    },
+    {
+      "reference": "Job 35:6",
+      "slug": "job",
+      "chapter": 35,
+      "verse": 6,
+      "original": "If you have sinned, what effect do you have against him? If your transgressions are multiplied, what do you do to him?",
+      "final": "If you have done wrong, what effect do you have against him? If your transgressions are multiplied, what do you do to him?",
+      "rationale": "Hebrew poetry/wisdom: preserve figurative images and address culpability without permanent human labels."
+    },
+    {
+      "reference": "Psalms 1:1",
+      "slug": "psalms",
+      "chapter": 1,
+      "verse": 1,
+      "original": "Blessed is the one who doesn't walk in the counsel of the wicked, nor stand in the way of sinners, nor sit in the seat of scoffers;",
+      "final": "Blessed is the one who doesn't walk in the counsel of the wicked, nor stand in the way of those who do wrong, nor sit in the seat of scoffers;",
+      "rationale": "Hebrew poetry/wisdom: preserve figurative images and address culpability without permanent human labels."
+    },
+    {
+      "reference": "Psalms 1:5",
+      "slug": "psalms",
+      "chapter": 1,
+      "verse": 5,
+      "original": "Therefore the wicked shall not stand in the judgment, nor sinners in the congregation of the righteous.",
+      "final": "Therefore the wicked shall not stand in the judgment, nor people who do wrong in the congregation of the righteous.",
+      "rationale": "Hebrew poetry/wisdom: preserve figurative images and address culpability without permanent human labels."
+    },
+    {
+      "reference": "Psalms 4:4",
+      "slug": "psalms",
+      "chapter": 4,
+      "verse": 4,
+      "original": "Stand in awe, and don't sin. Search your own heart on your bed, and be still. Selah.",
+      "final": "Stand in awe, and do no wrong. Search your own heart on your bed, and be still. Selah.",
+      "rationale": "Hebrew poetry/wisdom: preserve figurative images and address culpability without permanent human labels."
+    },
+    {
+      "reference": "Psalms 19:13",
+      "slug": "psalms",
+      "chapter": 19,
+      "verse": 13,
+      "original": "Keep back your servant also from presumptuous sins. Let them not have dominion over me. Then I will be upright. I will be blameless and innocent of great transgression.",
+      "final": "Keep back your servant also from deliberate wrongdoings. Let them not have dominion over me. Then I will be upright. I will be blameless and innocent of great transgression.",
+      "rationale": "Hebrew poetry/wisdom: preserve figurative images and address culpability without permanent human labels."
+    },
+    {
+      "reference": "Psalms 25:7",
+      "slug": "psalms",
+      "chapter": 25,
+      "verse": 7,
+      "original": "Don't remember the sins of my youth, nor my transgressions. Remember me according to your loving kindness, for your goodness' sake, YHWH.",
+      "final": "Don't remember the moral failures of my youth, nor my transgressions. Remember me according to your loving kindness, for your goodness' sake, YHWH.",
+      "rationale": "Hebrew poetry/wisdom: preserve figurative images and address culpability without permanent human labels."
+    },
+    {
+      "reference": "Psalms 25:8",
+      "slug": "psalms",
+      "chapter": 25,
+      "verse": 8,
+      "original": "Good and upright is YHWH, therefore YHWH will instruct sinners in the way.",
+      "final": "Good and upright is YHWH, therefore YHWH will instruct those who do wrong in the way.",
+      "rationale": "Hebrew poetry/wisdom: preserve figurative images and address culpability without permanent human labels."
+    },
+    {
+      "reference": "Psalms 25:18",
+      "slug": "psalms",
+      "chapter": 25,
+      "verse": 18,
+      "original": "Consider my affliction and my travail. Forgive all my sins.",
+      "final": "Consider my affliction and my travail. Forgive all my moral failures.",
+      "rationale": "Hebrew poetry/wisdom: preserve figurative images and address culpability without permanent human labels."
+    },
+    {
+      "reference": "Psalms 26:9",
+      "slug": "psalms",
+      "chapter": 26,
+      "verse": 9,
+      "original": "Don't gather my soul with sinners, nor my life with bloodthirsty men;",
+      "final": "Don't gather my soul with those who do wrong, nor my life with bloodthirsty men;",
+      "rationale": "Hebrew poetry/wisdom: preserve figurative images and address culpability without permanent human labels."
+    },
+    {
+      "reference": "Psalms 32:5",
+      "slug": "psalms",
+      "chapter": 32,
+      "verse": 5,
+      "original": "I acknowledged my moral failure to you. I didn't hide my iniquity. I said, I will confess my transgressions to YHWH, and you forgave the iniquity of my sin. Selah.",
+      "final": "I acknowledged my moral failure to you. I didn't hide my iniquity. I said, I will confess my transgressions to YHWH, and you forgave the guilt of my wrongdoing. Selah.",
+      "rationale": "Hebrew poetry/wisdom: preserve figurative images and address culpability without permanent human labels."
+    },
+    {
+      "reference": "Psalms 36:2",
+      "slug": "psalms",
+      "chapter": 36,
+      "verse": 2,
+      "original": "For they flatter themselves in their own eyes, too much to detect and hate their sin.",
+      "final": "For they flatter themselves in their own eyes, too much to detect and hate their wrongdoing.",
+      "rationale": "Hebrew poetry/wisdom: preserve figurative images and address culpability without permanent human labels."
+    },
+    {
+      "reference": "Psalms 38:3",
+      "slug": "psalms",
+      "chapter": 38,
+      "verse": 3,
+      "original": "There is no soundness in my flesh because of your indignation, neither is there any health in my bones because of my sin.",
+      "final": "There is no soundness in my flesh because of your indignation, neither is there any health in my bones because of my moral failure.",
+      "rationale": "Hebrew poetry/wisdom: preserve figurative images and address culpability without permanent human labels."
+    },
+    {
+      "reference": "Psalms 39:1",
+      "slug": "psalms",
+      "chapter": 39,
+      "verse": 1,
+      "original": "I said, \"I will watch my ways, so that I don't sin with my tongue. I will keep my mouth with a bridle while the wicked is before me.\"",
+      "final": "I said, \"I will watch my ways, so that I do not speak wrongly. I will keep my mouth with a bridle while the wicked is before me.\"",
+      "rationale": "Hebrew poetry/wisdom: preserve figurative images and address culpability without permanent human labels."
+    },
+    {
+      "reference": "Psalms 41:4",
+      "slug": "psalms",
+      "chapter": 41,
+      "verse": 4,
+      "original": "I said, \"YHWH, have mercy on me! Heal me, for I have sinned against you.\"",
+      "final": "I said, \"YHWH, have mercy on me! Heal me, for I have done wrong against you.\"",
+      "rationale": "Hebrew poetry/wisdom: preserve figurative images and address culpability without permanent human labels."
+    },
+    {
+      "reference": "Psalms 51:2",
+      "slug": "psalms",
+      "chapter": 51,
+      "verse": 2,
+      "original": "Wash me thoroughly from my iniquity. Cleanse me from my sin.",
+      "final": "Wash me thoroughly from my iniquity. Cleanse me from my moral failure.",
+      "rationale": "Hebrew poetry/wisdom: preserve figurative images and address culpability without permanent human labels."
+    },
+    {
+      "reference": "Psalms 51:4",
+      "slug": "psalms",
+      "chapter": 51,
+      "verse": 4,
+      "original": "Against you, and you only, have I sinned, and done that which is broken in your sight; that you may be proved right when you speak, and justified when you judge.",
+      "final": "Against you, and you only, have I done wrong, and done that which is broken in your sight; that you may be proved right when you speak, and justified when you judge.",
+      "rationale": "Hebrew poetry/wisdom: preserve figurative images and address culpability without permanent human labels."
+    },
+    {
+      "reference": "Psalms 51:9",
+      "slug": "psalms",
+      "chapter": 51,
+      "verse": 9,
+      "original": "Hide your face from my sins, and blot out all of my iniquities.",
+      "final": "Hide your face from my moral failures, and blot out all of my iniquities.",
+      "rationale": "Hebrew poetry/wisdom: preserve figurative images and address culpability without permanent human labels."
+    },
+    {
+      "reference": "Psalms 51:13",
+      "slug": "psalms",
+      "chapter": 51,
+      "verse": 13,
+      "original": "Then I will teach transgressors your ways. Sinners shall be converted to you.",
+      "final": "Then I will teach transgressors your ways. Those who do wrong shall turn back to you.",
+      "rationale": "Hebrew poetry/wisdom: preserve figurative images and address culpability without permanent human labels."
+    },
+    {
+      "reference": "Psalms 59:3",
+      "slug": "psalms",
+      "chapter": 59,
+      "verse": 3,
+      "original": "For, behold, they lie in wait for my soul. The mighty gather themselves together against me, not for my disobedience, nor for my sin, YHWH.",
+      "final": "For, behold, they lie in wait for my soul. The mighty gather themselves together against me, not for my disobedience, nor for my wrongdoing, YHWH.",
+      "rationale": "Hebrew poetry/wisdom: preserve figurative images and address culpability without permanent human labels."
+    },
+    {
+      "reference": "Psalms 59:12",
+      "slug": "psalms",
+      "chapter": 59,
+      "verse": 12,
+      "original": "For the sin of their mouth, and the words of their lips, let them be caught in their pride, for the curses and lies which they utter.",
+      "final": "For the wrongdoing of their mouth, and the words of their lips, let them be caught in their pride, for the curses and lies which they utter.",
+      "rationale": "Hebrew poetry/wisdom: preserve figurative images and address culpability without permanent human labels."
+    },
+    {
+      "reference": "Psalms 65:3",
+      "slug": "psalms",
+      "chapter": 65,
+      "verse": 3,
+      "original": "Sins overwhelmed me, but you atoned for our transgressions.",
+      "final": "Moral failures overwhelmed me, but you atoned for our transgressions.",
+      "rationale": "Hebrew poetry/wisdom: preserve figurative images and address culpability without permanent human labels."
+    },
+    {
+      "reference": "Psalms 66:18",
+      "slug": "psalms",
+      "chapter": 66,
+      "verse": 18,
+      "original": "If I cherished sin in my heart, YHWH wouldn't have listened.",
+      "final": "If I cherished wrongdoing in my heart, YHWH wouldn't have listened.",
+      "rationale": "Hebrew poetry/wisdom: preserve figurative images and address culpability without permanent human labels."
+    },
+    {
+      "reference": "Psalms 69:5",
+      "slug": "psalms",
+      "chapter": 69,
+      "verse": 5,
+      "original": "Elohim, you know my foolishness. My sins aren't hidden from you.",
+      "final": "Elohim, you know my foolishness. My moral failures aren't hidden from you.",
+      "rationale": "Hebrew poetry/wisdom: preserve figurative images and address culpability without permanent human labels."
+    },
+    {
+      "reference": "Psalms 78:17",
+      "slug": "psalms",
+      "chapter": 78,
+      "verse": 17,
+      "original": "Yet they still went on to sin against the Most High, to rebel against the Most High in the desert.",
+      "final": "Yet they still went on to do wrong against the Most High, to rebel against the Most High in the desert.",
+      "rationale": "Hebrew poetry/wisdom: preserve figurative images and address culpability without permanent human labels."
+    },
+    {
+      "reference": "Psalms 78:32",
+      "slug": "psalms",
+      "chapter": 78,
+      "verse": 32,
+      "original": "For all this they still sinned, and didn't believe in Elohim’s wondrous works.",
+      "final": "For all this they still acted wrongly, and didn't believe in Elohim’s wondrous works.",
+      "rationale": "Hebrew poetry/wisdom: preserve figurative images and address culpability without permanent human labels."
+    },
+    {
+      "reference": "Psalms 79:9",
+      "slug": "psalms",
+      "chapter": 79,
+      "verse": 9,
+      "original": "Help us, God of our salvation, for the glory of your name. Deliver us, and forgive our sins, for your name's sake.",
+      "final": "Help us, God of our salvation, for the glory of your name. Deliver us, and forgive our moral failures, for your name's sake.",
+      "rationale": "Hebrew poetry/wisdom: preserve figurative images and address culpability without permanent human labels."
+    },
+    {
+      "reference": "Psalms 85:2",
+      "slug": "psalms",
+      "chapter": 85,
+      "verse": 2,
+      "original": "You have forgiven the iniquity of your people. You have covered all their sin. Selah.",
+      "final": "You have forgiven the iniquity of your people. You have covered all their wrongdoing. Selah.",
+      "rationale": "Hebrew poetry/wisdom: preserve figurative images and address culpability without permanent human labels."
+    },
+    {
+      "reference": "Psalms 89:32",
+      "slug": "psalms",
+      "chapter": 89,
+      "verse": 32,
+      "original": "then I will punish their sin with the rod, and their iniquity with stripes.",
+      "final": "then I will punish their wrongdoing with the rod, and their iniquity with stripes.",
+      "rationale": "Hebrew poetry/wisdom: preserve figurative images and address culpability without permanent human labels."
+    },
+    {
+      "reference": "Psalms 90:8",
+      "slug": "psalms",
+      "chapter": 90,
+      "verse": 8,
+      "original": "You have set our iniquities before you, our secret sins in the light of your presence.",
+      "final": "You have set our iniquities before you, our hidden moral failures in the light of your presence.",
+      "rationale": "Hebrew poetry/wisdom: preserve figurative images and address culpability without permanent human labels."
+    },
+    {
+      "reference": "Psalms 103:3",
+      "slug": "psalms",
+      "chapter": 103,
+      "verse": 3,
+      "original": "who forgives all your sins; who heals all your diseases;",
+      "final": "who forgives all your moral failures; who heals all your diseases;",
+      "rationale": "Hebrew poetry/wisdom: preserve figurative images and address culpability without permanent human labels."
+    },
+    {
+      "reference": "Psalms 104:35",
+      "slug": "psalms",
+      "chapter": 104,
+      "verse": 35,
+      "original": "Let sinners be consumed out of the earth. Let the wicked be no more. Bless YHWH, my soul. Praise Yah!",
+      "final": "Let those who persist in wrongdoing be consumed out of the earth. Let the wicked be no more. Bless YHWH, my soul. Praise Yah!",
+      "rationale": "Hebrew poetry/wisdom: preserve figurative images and address culpability without permanent human labels."
+    },
+    {
+      "reference": "Psalms 106:6",
+      "slug": "psalms",
+      "chapter": 106,
+      "verse": 6,
+      "original": "We have sinned with our fathers. We have committed iniquity. We have done wickedly.",
+      "final": "We have done wrong as our ancestors did. We have committed iniquity. We have done wickedly.",
+      "rationale": "Hebrew poetry/wisdom: preserve figurative images and address culpability without permanent human labels."
+    },
+    {
+      "reference": "Psalms 109:7",
+      "slug": "psalms",
+      "chapter": 109,
+      "verse": 7,
+      "original": "When he is judged, let him come forth guilty. Let his prayer be turned into sin.",
+      "final": "When he is judged, let him come forth guilty. Let his prayer be counted as wrongdoing.",
+      "rationale": "Hebrew poetry/wisdom: preserve figurative images and address culpability without permanent human labels."
+    },
+    {
+      "reference": "Psalms 109:14",
+      "slug": "psalms",
+      "chapter": 109,
+      "verse": 14,
+      "original": "Let the iniquity of his fathers be remembered by YHWH. Don't let the sin of his mother be blotted out.",
+      "final": "Let the iniquity of his fathers be remembered by YHWH. Don't let the wrongdoing of his mother be blotted out.",
+      "rationale": "Hebrew poetry/wisdom: preserve figurative images and address culpability without permanent human labels."
+    },
+    {
+      "reference": "Psalms 119:11",
+      "slug": "psalms",
+      "chapter": 119,
+      "verse": 11,
+      "original": "I have hidden your word in my heart, that I might not sin against you.",
+      "final": "I have hidden your word in my heart, that I might not do wrong against you.",
+      "rationale": "Hebrew poetry/wisdom: preserve figurative images and address culpability without permanent human labels."
+    },
+    {
+      "reference": "Psalms 130:3",
+      "slug": "psalms",
+      "chapter": 130,
+      "verse": 3,
+      "original": "If you, Yah, kept a record of sins, YHWH, who could stand?",
+      "final": "If you, Yah, kept a record of moral failures, YHWH, who could stand?",
+      "rationale": "Hebrew poetry/wisdom: preserve figurative images and address culpability without permanent human labels."
+    },
+    {
+      "reference": "Psalms 130:8",
+      "slug": "psalms",
+      "chapter": 130,
+      "verse": 8,
+      "original": "YHWH will redeem Israel from all their sins.",
+      "final": "YHWH will redeem Israel from all their moral failures.",
+      "rationale": "Hebrew poetry/wisdom: preserve figurative images and address culpability without permanent human labels."
+    },
+    {
+      "reference": "Proverbs 1:10",
+      "slug": "proverbs",
+      "chapter": 1,
+      "verse": 10,
+      "original": "My child, if sinners entice you, don't consent.",
+      "final": "My child, if people who do wrong entice you, don't consent.",
+      "rationale": "Hebrew poetry/wisdom: preserve figurative images and address culpability without permanent human labels."
+    },
+    {
+      "reference": "Proverbs 5:22",
+      "slug": "proverbs",
+      "chapter": 5,
+      "verse": 22,
+      "original": "The wrong deeds of the wicked ensnare them. The cords of their sin hold them firmly.",
+      "final": "The wrong deeds of the wicked ensnare them. The cords of their wrongdoing hold them firmly.",
+      "rationale": "Hebrew poetry/wisdom: preserve figurative images and address culpability without permanent human labels."
+    },
+    {
+      "reference": "Proverbs 8:36",
+      "slug": "proverbs",
+      "chapter": 8,
+      "verse": 36,
+      "original": "But the one who sins against me wrongs their own soul. All those who hate me love death.\"",
+      "final": "But the one who acts wrongly against me wrongs their own soul. All those who hate me love death.\"",
+      "rationale": "Hebrew poetry/wisdom: preserve figurative images and address culpability without permanent human labels."
+    },
+    {
+      "reference": "Proverbs 10:16",
+      "slug": "proverbs",
+      "chapter": 10,
+      "verse": 16,
+      "original": "The labor of the righteous leads to life. The increase of the wicked leads to sin.",
+      "final": "The labor of the righteous leads to life. The increase of the wicked leads to wrongdoing.",
+      "rationale": "Hebrew poetry/wisdom: preserve figurative images and address culpability without permanent human labels."
+    },
+    {
+      "reference": "Proverbs 11:31",
+      "slug": "proverbs",
+      "chapter": 11,
+      "verse": 31,
+      "original": "Behold, the righteous shall be repaid in the earth; how much more the wicked and the sinner!",
+      "final": "Behold, the righteous shall be repaid in the earth; how much more the wicked and the one who does wrong!",
+      "rationale": "Hebrew poetry/wisdom: preserve figurative images and address culpability without permanent human labels."
+    },
+    {
+      "reference": "Proverbs 12:13",
+      "slug": "proverbs",
+      "chapter": 12,
+      "verse": 13,
+      "original": "A wicked person is trapped by sinfulness of lips, but the righteous shall come out of trouble.",
+      "final": "A wicked person is trapped by wrongful speech, but the righteous shall come out of trouble.",
+      "rationale": "Hebrew poetry/wisdom: preserve figurative images and address culpability without permanent human labels."
+    },
+    {
+      "reference": "Proverbs 13:6",
+      "slug": "proverbs",
+      "chapter": 13,
+      "verse": 6,
+      "original": "Righteousness guards the way of integrity, but wickedness overthrows the sinner.",
+      "final": "Righteousness guards the way of integrity, but wickedness overthrows the one who does wrong.",
+      "rationale": "Hebrew poetry/wisdom: preserve figurative images and address culpability without permanent human labels."
+    },
+    {
+      "reference": "Proverbs 13:21",
+      "slug": "proverbs",
+      "chapter": 13,
+      "verse": 21,
+      "original": "Misfortune pursues sinners, but prosperity rewards the righteous.",
+      "final": "Misfortune pursues people who do wrong, but prosperity rewards the righteous.",
+      "rationale": "Hebrew poetry/wisdom: preserve figurative images and address culpability without permanent human labels."
+    },
+    {
+      "reference": "Proverbs 13:22",
+      "slug": "proverbs",
+      "chapter": 13,
+      "verse": 22,
+      "original": "A good person leaves an inheritance to their children's children, but the wealth of the sinner is stored for the righteous.",
+      "final": "A good person leaves an inheritance to their children's children, but the wealth of the one who does wrong is stored for the righteous.",
+      "rationale": "Hebrew poetry/wisdom: preserve figurative images and address culpability without permanent human labels."
+    },
+    {
+      "reference": "Proverbs 14:9",
+      "slug": "proverbs",
+      "chapter": 14,
+      "verse": 9,
+      "original": "Fools mock at making atonement for sins, but among the upright there is good will.",
+      "final": "Fools mock at making atonement for wrongdoing, but among the upright there is good will.",
+      "rationale": "Hebrew poetry/wisdom: preserve figurative images and address culpability without permanent human labels."
+    },
+    {
+      "reference": "Proverbs 14:21",
+      "slug": "proverbs",
+      "chapter": 14,
+      "verse": 21,
+      "original": "The one who despises their neighbor sins, but blessed is the one who has pity on the poor.",
+      "final": "The one who despises their neighbor does wrong, but blessed is the one who has pity on the poor.",
+      "rationale": "Hebrew poetry/wisdom: preserve figurative images and address culpability without permanent human labels."
+    },
+    {
+      "reference": "Proverbs 14:34",
+      "slug": "proverbs",
+      "chapter": 14,
+      "verse": 34,
+      "original": "Righteousness exalts a nation, but sin is a disgrace to any people.",
+      "final": "Righteousness exalts a nation, but wrongdoing is a disgrace to any people.",
+      "rationale": "Hebrew poetry/wisdom: preserve figurative images and address culpability without permanent human labels."
+    },
+    {
+      "reference": "Proverbs 20:9",
+      "slug": "proverbs",
+      "chapter": 20,
+      "verse": 9,
+      "original": "Who can say, \"I have made my heart pure. I am clean and without sin?\"",
+      "final": "Who can say, \"I have made my heart pure. I am clean and without moral failure?\"",
+      "rationale": "Hebrew poetry/wisdom: preserve figurative images and address culpability without permanent human labels."
+    },
+    {
+      "reference": "Proverbs 21:4",
+      "slug": "proverbs",
+      "chapter": 21,
+      "verse": 4,
+      "original": "A high look, and a proud heart, the lamp of the wicked, is sin.",
+      "final": "A high look, and a proud heart, the lamp of the wicked, is wrongdoing.",
+      "rationale": "Hebrew poetry/wisdom: preserve figurative images and address culpability without permanent human labels."
+    },
+    {
+      "reference": "Proverbs 23:17",
+      "slug": "proverbs",
+      "chapter": 23,
+      "verse": 17,
+      "original": "Don't let your heart envy sinners; but rather revere YHWH all the day long.",
+      "final": "Don't let your heart envy those who do wrong; but rather revere YHWH all the day long.",
+      "rationale": "Hebrew poetry/wisdom: preserve figurative images and address culpability without permanent human labels."
+    },
+    {
+      "reference": "Proverbs 24:9",
+      "slug": "proverbs",
+      "chapter": 24,
+      "verse": 9,
+      "original": "The schemes of folly are sin. The mocker is detested by men.",
+      "final": "The schemes of folly are wrongdoing. The mocker is detested by men.",
+      "rationale": "Hebrew poetry/wisdom: preserve figurative images and address culpability without permanent human labels."
+    },
+    {
+      "reference": "Proverbs 28:13",
+      "slug": "proverbs",
+      "chapter": 28,
+      "verse": 13,
+      "original": "The one who conceals their sins doesn't prosper, but whoever confesses and renounces them finds mercy.",
+      "final": "The one who conceals their wrongdoings doesn't prosper, but whoever confesses and renounces them finds mercy.",
+      "rationale": "Hebrew poetry/wisdom: preserve figurative images and address culpability without permanent human labels."
+    },
+    {
+      "reference": "Proverbs 29:6",
+      "slug": "proverbs",
+      "chapter": 29,
+      "verse": 6,
+      "original": "A wicked person is snared by their sin, but the righteous can sing and be glad.",
+      "final": "A wicked person is snared by their wrongdoing, but the righteous can sing and be glad.",
+      "rationale": "Hebrew poetry/wisdom: preserve figurative images and address culpability without permanent human labels."
+    },
+    {
+      "reference": "Proverbs 29:16",
+      "slug": "proverbs",
+      "chapter": 29,
+      "verse": 16,
+      "original": "When the wicked increase, sin increases; but the righteous will see their downfall.",
+      "final": "When the wicked increase, wrongdoing increases; but the righteous will see their downfall.",
+      "rationale": "Hebrew poetry/wisdom: preserve figurative images and address culpability without permanent human labels."
+    },
+    {
+      "reference": "Proverbs 29:22",
+      "slug": "proverbs",
+      "chapter": 29,
+      "verse": 22,
+      "original": "An angry man stirs up strife, and a wrathful man abounds in sin.",
+      "final": "An angry man stirs up strife, and a wrathful man abounds in wrongdoing.",
+      "rationale": "Hebrew poetry/wisdom: preserve figurative images and address culpability without permanent human labels."
+    },
+    {
+      "reference": "Ecclesiastes 2:26",
+      "slug": "ecclesiastes",
+      "chapter": 2,
+      "verse": 26,
+      "original": "For to the one who pleases Elohim, Elohim gives wisdom, knowledge, and joy; but to the sinner Elohim gives travail, to gather and to heap up, that they may give to the one who pleases Elohim. This also is vanity and a chasing after wind.",
+      "final": "For to the one who pleases Elohim, Elohim gives wisdom, knowledge, and joy; but to the one who does wrong Elohim gives travail, to gather and to heap up, that they may give to the one who pleases Elohim. This also is vanity and a chasing after wind.",
+      "rationale": "Hebrew poetry/wisdom: preserve figurative images and address culpability without permanent human labels."
+    },
+    {
+      "reference": "Ecclesiastes 5:6",
+      "slug": "ecclesiastes",
+      "chapter": 5,
+      "verse": 6,
+      "original": "Don't allow your mouth to lead you into sin. Don't protest before the messenger that this was a mistake. Why should Elohim be angry at your voice, and destroy the work of your hands?",
+      "final": "Don't allow your mouth to lead you into wrongdoing. Don't protest before the messenger that this was a mistake. Why should Elohim be angry at your voice, and destroy the work of your hands?",
+      "rationale": "Hebrew poetry/wisdom: preserve figurative images and address culpability without permanent human labels."
+    },
+    {
+      "reference": "Ecclesiastes 7:20",
+      "slug": "ecclesiastes",
+      "chapter": 7,
+      "verse": 20,
+      "original": "Surely there is not a righteous person on earth, who does good and doesn't sin.",
+      "final": "Surely there is not a righteous person on earth, who does good and does not fail morally.",
+      "rationale": "Hebrew poetry/wisdom: preserve figurative images and address culpability without permanent human labels."
+    },
+    {
+      "reference": "Ecclesiastes 7:26",
+      "slug": "ecclesiastes",
+      "chapter": 7,
+      "verse": 26,
+      "original": "I find more bitter than death the woman whose heart is snares and traps, whose hands are chains. Whoever pleases Elohim shall escape from her; but the sinner will be ensnared by her.",
+      "final": "I find more bitter than death the woman whose heart is snares and traps, whose hands are chains. Whoever pleases Elohim shall escape from her; but the one who does wrong will be ensnared by her.",
+      "rationale": "Hebrew poetry/wisdom: preserve figurative images and address culpability without permanent human labels."
+    },
+    {
+      "reference": "Ecclesiastes 8:12",
+      "slug": "ecclesiastes",
+      "chapter": 8,
+      "verse": 12,
+      "original": "Though a sinner commits crimes a hundred times, and lives long, yet surely I know that it will be better with those who revere Elohim, who are reverent before Elohim.",
+      "final": "Though someone commits wrongdoing a hundred times, and lives long, yet surely I know that it will be better with those who revere Elohim, who are reverent before Elohim.",
+      "rationale": "Hebrew poetry/wisdom: preserve figurative images and address culpability without permanent human labels."
+    },
+    {
+      "reference": "Ecclesiastes 9:2",
+      "slug": "ecclesiastes",
+      "chapter": 9,
+      "verse": 2,
+      "original": "All things come alike to all. There is one event to the righteous and to the wicked; to the good, to the clean, to the unclean, to the one who sacrifices, and to the one who doesn't sacrifice. As is the good, so is the sinner; the one who takes an oath, as the one who fears an oath.",
+      "final": "All things come alike to all. There is one event to the righteous and to the wicked; to the good, to the clean, to the unclean, to the one who sacrifices, and to the one who doesn't sacrifice. As is the good, so is the one who does wrong; the one who takes an oath, as the one who fears an oath.",
+      "rationale": "Hebrew poetry/wisdom: preserve figurative images and address culpability without permanent human labels."
+    },
+    {
+      "reference": "Ecclesiastes 9:18",
+      "slug": "ecclesiastes",
+      "chapter": 9,
+      "verse": 18,
+      "original": "Wisdom is better than weapons of war; but one sinner destroys much good.",
+      "final": "Wisdom is better than weapons of war; but one person doing wrong destroys much good.",
+      "rationale": "Hebrew poetry/wisdom: preserve figurative images and address culpability without permanent human labels."
+    }
+  ]
+}
