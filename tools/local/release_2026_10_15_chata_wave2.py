@@ -23,6 +23,14 @@ LEDGER=ROOT/"tools/local/chata-wave2-exact-verse-ledger.json"
 REPORT=ROOT/"change-logs/reports/2026-10-15-chata-wave2-666-verse-release.json"
 NOTE=ROOT/"editor-notes/consistency/2026-10-15-chata-wave2-666-verse-release.md"
 SIN=re.compile(r"\b(?:sin(?:s|ned|ning|ful(?:ness|ly)?|less)?|sinner(?:s)?)\b",re.I)
+EXPECTED_HELD={
+ ("exodus",16,1),("exodus",17,1),("numbers",33,11),("numbers",33,12),
+ ("ezekiel",30,15),("ezekiel",30,16),
+ ("psalms",51,5),("1-samuel",15,18),("amos",8,14),
+ ("2-corinthians",5,21),("2-thessalonians",2,3),
+ ("hebrews",9,28),("revelation",21,8),
+}
+PREVIOUS=ROOT/"change-logs/reports/2026-10-15-chata-first-54-verse-release.json"
 PROTECTED={
  ("romans",4,21):"and being fully assured that what God had promised, God was able also to perform.",
  ("romans",9,18):"So then, God has mercy on whom God desires, and God hardens whom God desires.",
@@ -49,6 +57,7 @@ def main():
  for r in rows:
   if not SIN.search(r["original"]) or r["original"]==r["final"]:
    raise RuntimeError("Invalid lexical candidate: "+r["reference"])
+  if SIN.search(r["final"]):raise RuntimeError("Unexpected lexical word in updated verse: "+r["reference"])
   if "  " in r["final"] or re.search(r"\s+[,.!?;:]",r["final"]):
    raise RuntimeError("Punctuation or spacing issue: "+r["reference"])
  if base.sha256(EPUB)!=BASE_SHA:
@@ -61,6 +70,13 @@ def main():
    raise RuntimeError("Full-verse baseline mismatch: "+r["reference"])
  for k,text in PROTECTED.items():
   if before.get(k)!=text: raise RuntimeError("October 14 pronoun guard mismatch: "+repr(k))
+ old_report=json.loads(PREVIOUS.read_text(encoding="utf-8"))
+ if old_report["releasedEpubSha256"]!=BASE_SHA or old_report["changedVerseCount"]!=54:
+  raise RuntimeError("Earlier 54-verse Chata canonical release drift")
+ for old in old_report["changes"]:
+  key=(old["slug"],old["chapter"],old["verse"])
+  if before.get(key)!=old["final"]:
+   raise RuntimeError("Earlier 54-verse Chata regression before release: "+old["reference"])
  preissues,exceptions=rel.grammar.audit_epub(EPUB)
  if preissues:raise RuntimeError("Baseline grammar issue; stop")
  if dry:
@@ -110,7 +126,9 @@ def main():
  after=collect()
  diff={k for k in before if after.get(k)!=before[k]}
  remaining=sum(len(SIN.findall(t)) for t in after.values())
- if remaining!=15: raise RuntimeError(f"Residual lexical token mismatch: {remaining} != 15")
+ retained={key for key,value in after.items() if SIN.search(value)}
+ if remaining!=15 or retained!=EXPECTED_HELD:
+  raise RuntimeError("Unexpected sin-family residuals: tokens "+str(remaining)+" references "+str(retained ^ EXPECTED_HELD))
  if len(after)!=31102 or diff!=keys:
   raise RuntimeError("Whole-Bible diff is not exactly 666 approved verses")
  for r in rows:
@@ -118,8 +136,12 @@ def main():
   if after.get(k)!=r["final"]:raise RuntimeError("Changed verse does not match ledger "+r["reference"])
  for k,text in PROTECTED.items():
   if after[k]!=text:raise RuntimeError("October 14 pronoun regression")
+ for old in old_report["changes"]:
+  key=(old["slug"],old["chapter"],old["verse"])
+  if key not in keys and after.get(key)!=old["final"]:
+   raise RuntimeError("Earlier 54-verse Chata revision unexpectedly changed: "+old["reference"])
  postissues,postexceptions=rel.grammar.audit_epub(EPUB)
- if postissues or len(postexceptions)>len(exceptions):
+ if postissues or len(postexceptions)!=len(exceptions):
   raise RuntimeError("English article grammar regression")
  newsha=base.sha256(EPUB)
  reg=json.loads(REG.read_text(encoding="utf-8"))
