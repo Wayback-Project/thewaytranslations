@@ -1,0 +1,2058 @@
+{
+  "baselineEpubSha256": "b5500415431a339ba10c7021e9b091b7af38f0badb2a4d9e1e7cc0e15f46b943",
+  "status": "Candidate OT morphological/source-context revisions; no claim all lexemes independently aligned",
+  "edits": [
+    {
+      "reference": "Genesis 13:13",
+      "slug": "genesis",
+      "chapter": 13,
+      "verse": 13,
+      "original": "Now the men of Sedom were exceedingly wicked and sinners against YHWH.",
+      "final": "Now the men of Sedom were exceedingly wicked and those who do wrong against YHWH.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Genesis 20:6",
+      "slug": "genesis",
+      "chapter": 20,
+      "verse": 6,
+      "original": "Elohim said to him in the dream, “Yes, I know that in the integrity of your heart you have done this, and I also withheld you from sinning against me. Therefore I didn’t allow you to touch her.",
+      "final": "Elohim said to him in the dream, “Yes, I know that in the integrity of your heart you have done this, and I also withheld you from acting wrongly against me. Therefore I didn’t allow you to touch her.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Genesis 42:22",
+      "slug": "genesis",
+      "chapter": 42,
+      "verse": 22,
+      "original": "Reuven answered them, saying, “Didn’t I tell you, saying, ‘Don’t sin against the child,’ and you wouldn’t listen? Therefore also, look, his blood is required.”",
+      "final": "Reuven answered them, saying, “Didn’t I tell you, saying, ‘Don’t do wrong to the child,’ and you wouldn’t listen? Therefore also, look, his blood is required.”",
+      "notes": [
+        "Phrase anchored in passage/source action context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Leviticus 26:18",
+      "slug": "leviticus",
+      "chapter": 26,
+      "verse": 18,
+      "original": "\"'If you in spite of these things will not listen to me, then I will chastise you seven times more for your sins.",
+      "final": "\"'If you in spite of these things will not listen to me, then I will chastise you seven times more for your moral failures.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Leviticus 26:21",
+      "slug": "leviticus",
+      "chapter": 26,
+      "verse": 21,
+      "original": "\"'If you walk contrary to me, and won't listen to me, then I will bring seven times more plagues on you according to your sins.",
+      "final": "\"'If you walk contrary to me, and won't listen to me, then I will bring seven times more plagues on you according to your moral failures.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Leviticus 26:24",
+      "slug": "leviticus",
+      "chapter": 26,
+      "verse": 24,
+      "original": "then I will also walk contrary to you; and I will strike you, even I, seven times for your sins.",
+      "final": "then I will also walk contrary to you; and I will strike you, even I, seven times for your moral failures.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Leviticus 26:28",
+      "slug": "leviticus",
+      "chapter": 26,
+      "verse": 28,
+      "original": "then I will walk contrary to you in wrath; and I also will chastise you seven times for your sins.",
+      "final": "then I will walk contrary to you in wrath; and I also will chastise you seven times for your moral failures.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Deuteronomy 1:41",
+      "slug": "deuteronomy",
+      "chapter": 1,
+      "verse": 41,
+      "original": "Then you answered and said to me, We have sinned against YHWH, we will go up and fight, according to all that YHWH our God commanded us. You girded on everyone their weapons of war, and were forward to go up into the hill country.",
+      "final": "Then you answered and said to me, We have acted wrongly against YHWH, we will go up and fight, according to all that YHWH our God commanded us. You girded on everyone their weapons of war, and were forward to go up into the hill country.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Deuteronomy 9:16",
+      "slug": "deuteronomy",
+      "chapter": 9,
+      "verse": 16,
+      "original": "I looked, and behold, you had sinned against YHWH your God; you had made you a molten calf: you had turned aside quickly out of the way which YHWH had commanded you.",
+      "final": "I looked, and behold, you had acted wrongly against YHWH your God; you had made you a molten calf: you had turned aside quickly out of the way which YHWH had commanded you.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Deuteronomy 9:18",
+      "slug": "deuteronomy",
+      "chapter": 9,
+      "verse": 18,
+      "original": "I fell down before YHWH, as at the first, forty days and forty nights; I did neither eat bread nor drink water; because of all your sin which you sinned, in doing what was broken in the sight of YHWH, to provoke YHWH to anger.",
+      "final": "I fell down before YHWH, as at the first, forty days and forty nights; I did neither eat bread nor drink water; because of all your sin which you acted wrongly, in doing what was broken in the sight of YHWH, to provoke YHWH to anger.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Deuteronomy 9:21",
+      "slug": "deuteronomy",
+      "chapter": 9,
+      "verse": 21,
+      "original": "I took your sin, the calf which you had made, and burnt it with fire, and stamped it, grinding it very small, until it was as fine as dust: and I cast the dust of it into the brook that descended out of the mountain.",
+      "final": "I took the object of your wrongdoing, the calf you had made, and burnt it with fire, and stamped it, grinding it very small, until it was as fine as dust: and I cast the dust of it into the brook that descended out of the mountain.",
+      "notes": [
+        "Phrase anchored in passage/source action context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Deuteronomy 19:15",
+      "slug": "deuteronomy",
+      "chapter": 19,
+      "verse": 15,
+      "original": "One witness shall not rise up against a person for any iniquity, or for any sin, in any sin that they sins: at the mouth of two witnesses, or at the mouth of three witnesses, shall a matter be established.",
+      "final": "One witness shall not rise up against a person for any iniquity, or any wrongdoing they have committed: at the mouth of two witnesses, or at the mouth of three witnesses, shall a matter be established.",
+      "notes": [
+        "Phrase anchored in passage/source action context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Joshua 7:11",
+      "slug": "joshua",
+      "chapter": 7,
+      "verse": 11,
+      "original": "Israel has sinned; yes, they have even transgressed my covenant which I commanded them: yes, they have even taken of the devoted thing, and have also stolen, and dissembled also; and they have even put it among their own stuff.",
+      "final": "Israel has acted wrongly; yes, they have even transgressed my covenant which I commanded them: yes, they have even taken of the devoted thing, and have also stolen, and dissembled also; and they have even put it among their own stuff.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Joshua 7:20",
+      "slug": "joshua",
+      "chapter": 7,
+      "verse": 20,
+      "original": "Achan answered Yehoshua, and said, Of a truth I have sinned against YHWH, the God of Israel, and thus and thus have I done:",
+      "final": "Achan answered Yehoshua, and said, Of a truth I have acted wrongly against YHWH, the God of Israel, and thus and thus have I done:",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Joshua 24:19",
+      "slug": "joshua",
+      "chapter": 24,
+      "verse": 19,
+      "original": "Yehoshua said to the people, You can't serve YHWH; for YHWH is a holy Elohim; YHWH is a jealous Elohim; YHWH will not forgive your disobedience nor your sins.",
+      "final": "Yehoshua said to the people, You can't serve YHWH; for YHWH is a holy Elohim; YHWH is a jealous Elohim; YHWH will not forgive your disobedience nor your moral failures.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Judges 10:10",
+      "slug": "judges",
+      "chapter": 10,
+      "verse": 10,
+      "original": "The children of Israel cried to YHWH, saying, We have sinned against you, even because we have forsaken our God, and have served the Baals.",
+      "final": "The children of Israel cried to YHWH, saying, We have acted wrongly against you, even because we have forsaken our God, and have served the Baals.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Judges 10:15",
+      "slug": "judges",
+      "chapter": 10,
+      "verse": 15,
+      "original": "The children of Israel said to YHWH, We have sinned: do you to us whatever seems good to you; only deliver us, we pray you, this day.",
+      "final": "The children of Israel said to YHWH, We have acted wrongly: do you to us whatever seems good to you; only deliver us, we pray you, this day.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Judges 11:27",
+      "slug": "judges",
+      "chapter": 11,
+      "verse": 27,
+      "original": "I therefore have not sinned against you, but you do me wrong to war against me: YHWH, the Judge, be judge this day between the children of Israel and the children of Ammon.",
+      "final": "I therefore have not acted wrongly against you, but you do me wrong to war against me: YHWH, the Judge, be judge this day between the children of Israel and the children of Ammon.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "1 Samuel 7:6",
+      "slug": "1-samuel",
+      "chapter": 7,
+      "verse": 6,
+      "original": "They gathered together to Mizpah, and drew water, and poured it out before YHWH, and fasted on that day, and said there, \"We have sinned against YHWH.\" Shmuel judged the children of Israel in Mizpah.",
+      "final": "They gathered together to Mizpah, and drew water, and poured it out before YHWH, and fasted on that day, and said there, \"We have acted wrongly against YHWH.\" Shmuel judged the children of Israel in Mizpah.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "1 Samuel 12:10",
+      "slug": "1-samuel",
+      "chapter": 12,
+      "verse": 10,
+      "original": "They cried to YHWH, and said, We have sinned, because we have forsaken YHWH, and have served the Baals and the Ashtaroth: but now deliver us out of the hand of our enemies, and we will serve you.",
+      "final": "They cried to YHWH, and said, We have acted wrongly, because we have forsaken YHWH, and have served the Baals and the Ashtaroth: but now deliver us out of the hand of our enemies, and we will serve you.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "1 Samuel 12:19",
+      "slug": "1-samuel",
+      "chapter": 12,
+      "verse": 19,
+      "original": "All the people said to Shmuel, Pray for your servants to YHWH your God, that we not die; for we have added to all our sins [this] brokenness, to ask us a king.",
+      "final": "All the people said to Shmuel, Pray for your servants to YHWH your God, that we not die; for we have added to all our moral failures [this] brokenness, to ask us a king.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "1 Samuel 15:24",
+      "slug": "1-samuel",
+      "chapter": 15,
+      "verse": 24,
+      "original": "Shaul said to Shmuel, I have sinned; for I have transgressed the commandment of YHWH, and your words, because I feared the people, and obeyed their voice.",
+      "final": "Shaul said to Shmuel, I have acted wrongly; for I have transgressed the commandment of YHWH, and your words, because I feared the people, and obeyed their voice.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "1 Samuel 15:30",
+      "slug": "1-samuel",
+      "chapter": 15,
+      "verse": 30,
+      "original": "Then he said, I have sinned: yet honor me now, Please, before the elders of my people, and before Israel, and turn again with me, that I may worship YHWH your God.",
+      "final": "Then he said, I have acted wrongly: yet honor me now, Please, before the elders of my people, and before Israel, and turn again with me, that I may worship YHWH your God.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "1 Samuel 19:4",
+      "slug": "1-samuel",
+      "chapter": 19,
+      "verse": 4,
+      "original": "Yonatan spoke good of Dawid to Shaul his father, and said to him, Don't let the king sin against his servant, against Dawid; because he has not sinned against you, and because his works have been very good toward you:",
+      "final": "Yonatan spoke good of Dawid to Shaul his father, and said to him, Don't let the king sin against his servant, against Dawid; because he has not acted wrongly against you, and because his works have been very good toward you:",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "1 Samuel 19:5",
+      "slug": "1-samuel",
+      "chapter": 19,
+      "verse": 5,
+      "original": "for he put his life in his hand, and struck the Philistine, and YHWH worked a great victory for all Israel: you saw it, and did rejoice; why then will you sin against innocent blood, to kill Dawid without a cause?",
+      "final": "for he put his life in his hand, and struck the Philistine, and YHWH worked a great victory for all Israel: you saw it, and did rejoice; why then will you shed innocent blood wrongfully, to kill Dawid without a cause?",
+      "notes": [
+        "Phrase anchored in passage/source action context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "1 Samuel 24:11",
+      "slug": "1-samuel",
+      "chapter": 24,
+      "verse": 11,
+      "original": "Moreover, my father, behold, yes, see the skirt of your robe in my hand; for in that I cut off the skirt of your robe, and didn't kill you, know you and see that there is neither brokenness nor disobedience in my hand, and I have not sinned against you, though you hunt after my life to take it.",
+      "final": "Moreover, my father, behold, yes, see the skirt of your robe in my hand; for in that I cut off the skirt of your robe, and didn't kill you, know you and see that there is neither brokenness nor disobedience in my hand, and I have not acted wrongly against you, though you hunt after my life to take it.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "1 Samuel 26:21",
+      "slug": "1-samuel",
+      "chapter": 26,
+      "verse": 21,
+      "original": "Then said Shaul, I have sinned: return, my son Dawid; for I will no more do you harm, because my life was precious in your eyes this day: behold, I have played the fool, and have erred exceedingly.",
+      "final": "Then said Shaul, I have acted wrongly: return, my son Dawid; for I will no more do you harm, because my life was precious in your eyes this day: behold, I have played the fool, and have erred exceedingly.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "1 Kings 8:31",
+      "slug": "1-kings",
+      "chapter": 8,
+      "verse": 31,
+      "original": "If someone sins against their neighbor, and an oath is laid on them to cause them to swear, and they come and swear before your altar in this house;",
+      "final": "If someone moral failures against their neighbor, and an oath is laid on them to cause them to swear, and they come and swear before your altar in this house;",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "1 Kings 8:33",
+      "slug": "1-kings",
+      "chapter": 8,
+      "verse": 33,
+      "original": "When your people Israel are struck down before the enemy, because they have sinned against you; if they turn again to you, and confess your name, and pray and make supplication to you in this house:",
+      "final": "When your people Israel are struck down before the enemy, because they have acted wrongly against you; if they turn again to you, and confess your name, and pray and make supplication to you in this house:",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "1 Kings 8:35",
+      "slug": "1-kings",
+      "chapter": 8,
+      "verse": 35,
+      "original": "When the heavens is shut up, and there is no rain, because they have sinned against you; if they pray toward this place, and confess your name, and turn from their sin, when you do afflict them:",
+      "final": "When the heavens is shut up, and there is no rain, because they have acted wrongly against you; if they pray toward this place, and confess your name, and turn from their sin, when you do afflict them:",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "1 Kings 8:46",
+      "slug": "1-kings",
+      "chapter": 8,
+      "verse": 46,
+      "original": "If they sin against you (for there is no one who doesn't sin), and you are angry with them, and deliver them to the enemy, so that they carry them away captive to the land of the enemy, far off or near;",
+      "final": "If they do wrong against you (for there is no one who never does wrong), and you are angry with them, and deliver them to the enemy, so that they carry them away captive to the land of the enemy, far off or near;",
+      "notes": [
+        "Phrase anchored in passage/source action context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "1 Kings 8:47",
+      "slug": "1-kings",
+      "chapter": 8,
+      "verse": 47,
+      "original": "yet if they turn back in the land where they are carried captive, and turn again, and make supplication to you in the land of those who carried them captive, saying, We have sinned, and have done perversely, we have dealt wickedly;",
+      "final": "yet if they turn back in the land where they are carried captive, and turn again, and make supplication to you in the land of those who carried them captive, saying, We have acted wrongly, and have done perversely, we have dealt wickedly;",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "1 Kings 8:50",
+      "slug": "1-kings",
+      "chapter": 8,
+      "verse": 50,
+      "original": "and forgive your people who have sinned against you, and all their transgressions in which they have transgressed against you; and give them compassion before those who carried them captive, that they may have compassion on them",
+      "final": "and forgive your people who have acted wrongly against you, and all their transgressions in which they have transgressed against you; and give them compassion before those who carried them captive, that they may have compassion on them",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "1 Kings 14:22",
+      "slug": "1-kings",
+      "chapter": 14,
+      "verse": 22,
+      "original": "Yehudah did what was broken in the sight of YHWH, and they provoked YHWH to jealousy with their sins which they committed, above all that their fathers had done.",
+      "final": "Yehudah did what was broken in the sight of YHWH, and they provoked YHWH to jealousy with their moral failures which they committed, above all that their fathers had done.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "1 Kings 15:3",
+      "slug": "1-kings",
+      "chapter": 15,
+      "verse": 3,
+      "original": "He walked in all the sins of his father, which he had done before him; and his heart was not perfect with YHWH his God, as the heart of Dawid his father.",
+      "final": "He walked in all the moral failures of his father, which he had done before him; and his heart was not perfect with YHWH his God, as the heart of Dawid his father.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "1 Kings 18:9",
+      "slug": "1-kings",
+      "chapter": 18,
+      "verse": 9,
+      "original": "He said, Wherein have I sinned, that you would deliver your servant into the hand of Achav, to kill me?",
+      "final": "He said, Wherein have I acted wrongly, that you would deliver your servant into the hand of Achav, to kill me?",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "2 Kings 17:7",
+      "slug": "2-kings",
+      "chapter": 17,
+      "verse": 7,
+      "original": "It was so, because the children of Israel had sinned against YHWH their God, who brought them up out of the land of Mitzrayim from under the hand of Pharaoh king of Mitzrayim, and had revered other gods,",
+      "final": "It was so, because the children of Israel had acted wrongly against YHWH their God, who brought them up out of the land of Mitzrayim from under the hand of Pharaoh king of Mitzrayim, and had revered other gods,",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "2 Kings 21:16",
+      "slug": "2-kings",
+      "chapter": 21,
+      "verse": 16,
+      "original": "Moreover Menashe shed innocent blood very much, until he had filled Yerushalayim from one end to another; besides his sin with which he made Yehudah to sin, in doing what was broken in the sight of YHWH.",
+      "final": "Moreover Menashe shed innocent blood very much, until he had filled Yerushalayim from one end to another; besides his wrongdoing by which he led Yehudah into wrongdoing, in doing what was broken in the sight of YHWH.",
+      "notes": [
+        "Phrase anchored in passage/source action context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "2 Kings 21:17",
+      "slug": "2-kings",
+      "chapter": 21,
+      "verse": 17,
+      "original": "Now the rest of the acts of Menashe, and all that he did, and his sin that he sinned, aren't they written in the book of the chronicles of the kings of Yehudah?",
+      "final": "Now the rest of the acts of Menashe, and all that he did, and his sin that he acted wrongly, aren't they written in the book of the chronicles of the kings of Yehudah?",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "2 Kings 24:3",
+      "slug": "2-kings",
+      "chapter": 24,
+      "verse": 3,
+      "original": "Surely at the commandment of YHWH came this on Yehudah, to remove them out of his sight, for the sins of Menashe, according to all that he did,",
+      "final": "Surely at the commandment of YHWH came this on Yehudah, to remove them out of his sight, for the moral failures of Menashe, according to all that he did,",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "1 Chronicles 21:8",
+      "slug": "1-chronicles",
+      "chapter": 21,
+      "verse": 8,
+      "original": "Dawid said to Elohim, I have sinned greatly, in that I have done this thing: but now, put away, I beg you, the iniquity of your servant; for I have done very foolishly.",
+      "final": "Dawid said to Elohim, I have acted wrongly greatly, in that I have done this thing: but now, put away, I beg you, the iniquity of your servant; for I have done very foolishly.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "1 Chronicles 21:17",
+      "slug": "1-chronicles",
+      "chapter": 21,
+      "verse": 17,
+      "original": "Dawid said to Elohim, Isn't it I who commanded the people to be numbered? It is even I who have sinned and done very wickedly; but these sheep, what have they done? Please let your hand, O YHWH my God, be against me, and against my father's house; but not against your people, that they should be plagued.",
+      "final": "Dawid said to Elohim, Isn't it I who commanded the people to be numbered? It is even I who have acted wrongly and done very wickedly; but these sheep, what have they done? Please let your hand, O YHWH my God, be against me, and against my father's house; but not against your people, that they should be plagued.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "2 Chronicles 6:22",
+      "slug": "2-chronicles",
+      "chapter": 6,
+      "verse": 22,
+      "original": "If someone sins against their neighbor, and an oath is laid on them to cause them to swear, and they come and swear before your altar in this house;",
+      "final": "If someone moral failures against their neighbor, and an oath is laid on them to cause them to swear, and they come and swear before your altar in this house;",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "2 Chronicles 6:24",
+      "slug": "2-chronicles",
+      "chapter": 6,
+      "verse": 24,
+      "original": "If your people Israel be struck down before the enemy, because they have sinned against you, and shall turn again and confess your name, and pray and make supplication before you in this house;",
+      "final": "If your people Israel be struck down before the enemy, because they have acted wrongly against you, and shall turn again and confess your name, and pray and make supplication before you in this house;",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "2 Chronicles 6:26",
+      "slug": "2-chronicles",
+      "chapter": 6,
+      "verse": 26,
+      "original": "When the heavens is shut up, and there is no rain, because they have sinned against you; if they pray toward this place, and confess your name, and turn from their sin, when you do afflict them:",
+      "final": "When the heavens is shut up, and there is no rain, because they have acted wrongly against you; if they pray toward this place, and confess your name, and turn from their sin, when you do afflict them:",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "2 Chronicles 6:37",
+      "slug": "2-chronicles",
+      "chapter": 6,
+      "verse": 37,
+      "original": "yet if they turn back in the land where they are carried captive, and turn again, and make supplication to you in the land of their captivity, saying, We have sinned, we have done perversely, and have dealt wickedly;",
+      "final": "yet if they turn back in the land where they are carried captive, and turn again, and make supplication to you in the land of their captivity, saying, We have acted wrongly, we have done perversely, and have dealt wickedly;",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "2 Chronicles 6:39",
+      "slug": "2-chronicles",
+      "chapter": 6,
+      "verse": 39,
+      "original": "then hear from heavens, even from your dwelling place, their prayer and their petitions, and maintain their cause, and forgive your people who have sinned against you.",
+      "final": "then hear from heavens, even from your dwelling place, their prayer and their petitions, and maintain their cause, and forgive your people who have acted wrongly against you.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "2 Chronicles 28:13",
+      "slug": "2-chronicles",
+      "chapter": 28,
+      "verse": 13,
+      "original": "and said to them, You shall not bring in the captives here: for you purpose that which will bring on us a trespass against YHWH, to add to our sins and to our trespass; for our trespass is great, and there is fierce wrath against Israel.",
+      "final": "and said to them, You shall not bring in the captives here: for you purpose that which will bring on us a trespass against YHWH, to add to our moral failures and to our trespass; for our trespass is great, and there is fierce wrath against Israel.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Nehemiah 1:6",
+      "slug": "nehemiah",
+      "chapter": 1,
+      "verse": 6,
+      "original": "Let your ear now be attentive, and your eyes open, that you may listen to the prayer of your servant, which I pray before you at this time, day and night, for the children of Israel your servants while I confess the sins of the children of Israel, which we have sinned against you. Yes, I and my father's house have sinned:",
+      "final": "Let your ear now be attentive, and your eyes open, that you may listen to the prayer of your servant, which I pray before you at this time, day and night, for the children of Israel your servants while I confess the moral failures of the children of Israel, which we have acted wrongly against you. Yes, I and my father's house have acted wrongly:",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Nehemiah 9:2",
+      "slug": "nehemiah",
+      "chapter": 9,
+      "verse": 2,
+      "original": "The seed of Israel separated themselves from all foreigners, and stood and confessed their sins, and the iniquities of their fathers.",
+      "final": "The seed of Israel separated themselves from all foreigners, and stood and confessed their moral failures, and the iniquities of their fathers.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Nehemiah 9:29",
+      "slug": "nehemiah",
+      "chapter": 9,
+      "verse": 29,
+      "original": "and testified against them, that you might bring them again to your law. Yet they dealt proudly, and didn't listen to your commandments, but sinned against your ordinances, (which if someone do, they shall live in them), and withdrew the shoulder, and hardened their neck, and would not hear.",
+      "final": "and testified against them, that you might bring them again to your law. Yet they dealt proudly, and didn't listen to your commandments, but acted wrongly against your ordinances, (which if someone do, they shall live in them), and withdrew the shoulder, and hardened their neck, and would not hear.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Nehemiah 9:37",
+      "slug": "nehemiah",
+      "chapter": 9,
+      "verse": 37,
+      "original": "It yields much increase to the kings whom you have set over us because of our sins: also they have power over our bodies, and over our livestock, at their pleasure, and we are in great distress.",
+      "final": "It yields much increase to the kings whom you have set over us because of our moral failures: also they have power over our bodies, and over our livestock, at their pleasure, and we are in great distress.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Job 1:5",
+      "slug": "job",
+      "chapter": 1,
+      "verse": 5,
+      "original": "It was so, when the days of their feasting had run their course, that Job sent and sanctified them, and rose up early in the morning, and offered burnt offerings according to the number of them all. For Job said, \"It may be that my sons have sinned, and renounced Elohim in their hearts.\" Thus did Job continually.",
+      "final": "It was so, when the days of their feasting had run their course, that Job sent and sanctified them, and rose up early in the morning, and offered burnt offerings according to the number of them all. For Job said, \"It may be that my sons have acted wrongly, and renounced Elohim in their hearts.\" Thus did Job continually.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Job 7:20",
+      "slug": "job",
+      "chapter": 7,
+      "verse": 20,
+      "original": "If I have sinned, what do I do to you, you watcher of people? Why have you set me as a mark for you, so that I am a burden to myself?",
+      "final": "If I have acted wrongly, what do I do to you, you watcher of people? Why have you set me as a mark for you, so that I am a burden to myself?",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Job 8:4",
+      "slug": "job",
+      "chapter": 8,
+      "verse": 4,
+      "original": "If your children have sinned against him, He has delivered them into the hand of their disobedience.",
+      "final": "If your children have acted wrongly against him, He has delivered them into the hand of their disobedience.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Job 13:23",
+      "slug": "job",
+      "chapter": 13,
+      "verse": 23,
+      "original": "How many are my iniquities and sins? Make me know my disobedience and my sin.",
+      "final": "How many are my iniquities and moral failures? Make me know my disobedience and my sin.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Job 24:19",
+      "slug": "job",
+      "chapter": 24,
+      "verse": 19,
+      "original": "Drought and heat consume the snow waters, so does Sheol those who have sinned.",
+      "final": "Drought and heat consume the snow waters, so does Sheol those who have acted wrongly.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Job 33:27",
+      "slug": "job",
+      "chapter": 33,
+      "verse": 27,
+      "original": "He sings before men, and says, 'I have sinned, and perverted that which was right, and it didn't profit me.",
+      "final": "He sings before men, and says, 'I have acted wrongly, and perverted that which was right, and it didn't profit me.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Job 35:3",
+      "slug": "job",
+      "chapter": 35,
+      "verse": 3,
+      "original": "That you ask, 'What advantage will it be to you? What profit shall I have, more than if I had sinned?'",
+      "final": "That you ask, 'What advantage will it be to you? What profit shall I have, more than if I had acted wrongly?'",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Job 35:6",
+      "slug": "job",
+      "chapter": 35,
+      "verse": 6,
+      "original": "If you have sinned, what effect do you have against him? If your transgressions are multiplied, what do you do to him?",
+      "final": "If you have acted wrongly, what effect do you have against him? If your transgressions are multiplied, what do you do to him?",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Psalms 1:1",
+      "slug": "psalms",
+      "chapter": 1,
+      "verse": 1,
+      "original": "Blessed is the one who doesn't walk in the counsel of the wicked, nor stand in the way of sinners, nor sit in the seat of scoffers;",
+      "final": "Blessed is the one who doesn't walk in the counsel of the wicked, nor stand in the way of those who do wrong, nor sit in the seat of scoffers;",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Psalms 1:5",
+      "slug": "psalms",
+      "chapter": 1,
+      "verse": 5,
+      "original": "Therefore the wicked shall not stand in the judgment, nor sinners in the congregation of the righteous.",
+      "final": "Therefore the wicked shall not stand in the judgment, nor those who do wrong in the congregation of the righteous.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Psalms 19:13",
+      "slug": "psalms",
+      "chapter": 19,
+      "verse": 13,
+      "original": "Keep back your servant also from presumptuous sins. Let them not have dominion over me. Then I will be upright. I will be blameless and innocent of great transgression.",
+      "final": "Keep back your servant also from presumptuous moral failures. Let them not have dominion over me. Then I will be upright. I will be blameless and innocent of great transgression.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Psalms 25:7",
+      "slug": "psalms",
+      "chapter": 25,
+      "verse": 7,
+      "original": "Don't remember the sins of my youth, nor my transgressions. Remember me according to your loving kindness, for your goodness' sake, YHWH.",
+      "final": "Don't remember the moral failures of my youth, nor my transgressions. Remember me according to your loving kindness, for your goodness' sake, YHWH.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Psalms 25:8",
+      "slug": "psalms",
+      "chapter": 25,
+      "verse": 8,
+      "original": "Good and upright is YHWH, therefore YHWH will instruct sinners in the way.",
+      "final": "Good and upright is YHWH, therefore YHWH will instruct those who do wrong in the way.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Psalms 25:18",
+      "slug": "psalms",
+      "chapter": 25,
+      "verse": 18,
+      "original": "Consider my affliction and my travail. Forgive all my sins.",
+      "final": "Consider my affliction and my travail. Forgive all my moral failures.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Psalms 26:9",
+      "slug": "psalms",
+      "chapter": 26,
+      "verse": 9,
+      "original": "Don't gather my soul with sinners, nor my life with bloodthirsty men;",
+      "final": "Don't gather my soul with those who do wrong, nor my life with bloodthirsty men;",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Psalms 32:5",
+      "slug": "psalms",
+      "chapter": 32,
+      "verse": 5,
+      "original": "I acknowledged my moral failure to you. I didn't hide my iniquity. I said, I will confess my transgressions to YHWH, and you forgave the iniquity of my sin. Selah.",
+      "final": "I acknowledged my moral failure to you. I didn't hide my iniquity. I said, I will confess my transgressions to YHWH, and you forgave the guilt of my wrongdoing. Selah.",
+      "notes": [
+        "Phrase anchored in passage/source action context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Psalms 41:4",
+      "slug": "psalms",
+      "chapter": 41,
+      "verse": 4,
+      "original": "I said, \"YHWH, have mercy on me! Heal me, for I have sinned against you.\"",
+      "final": "I said, \"YHWH, have mercy on me! Heal me, for I have acted wrongly against you.\"",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Psalms 51:4",
+      "slug": "psalms",
+      "chapter": 51,
+      "verse": 4,
+      "original": "Against you, and you only, have I sinned, and done that which is broken in your sight; that you may be proved right when you speak, and justified when you judge.",
+      "final": "Against you, and you only, have I acted wrongly, and done that which is broken in your sight; that you may be proved right when you speak, and justified when you judge.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Psalms 51:9",
+      "slug": "psalms",
+      "chapter": 51,
+      "verse": 9,
+      "original": "Hide your face from my sins, and blot out all of my iniquities.",
+      "final": "Hide your face from my moral failures, and blot out all of my iniquities.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Psalms 51:13",
+      "slug": "psalms",
+      "chapter": 51,
+      "verse": 13,
+      "original": "Then I will teach transgressors your ways. Sinners shall be converted to you.",
+      "final": "Then I will teach transgressors your ways. those who do wrong shall be converted to you.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Psalms 65:3",
+      "slug": "psalms",
+      "chapter": 65,
+      "verse": 3,
+      "original": "Sins overwhelmed me, but you atoned for our transgressions.",
+      "final": "moral failures overwhelmed me, but you atoned for our transgressions.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Psalms 69:5",
+      "slug": "psalms",
+      "chapter": 69,
+      "verse": 5,
+      "original": "Elohim, you know my foolishness. My sins aren't hidden from you.",
+      "final": "Elohim, you know my foolishness. My moral failures aren't hidden from you.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Psalms 78:32",
+      "slug": "psalms",
+      "chapter": 78,
+      "verse": 32,
+      "original": "For all this they still sinned, and didn't believe in Elohim’s wondrous works.",
+      "final": "For all this they still acted wrongly, and didn't believe in Elohim’s wondrous works.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Psalms 79:9",
+      "slug": "psalms",
+      "chapter": 79,
+      "verse": 9,
+      "original": "Help us, God of our salvation, for the glory of your name. Deliver us, and forgive our sins, for your name's sake.",
+      "final": "Help us, God of our salvation, for the glory of your name. Deliver us, and forgive our moral failures, for your name's sake.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Psalms 90:8",
+      "slug": "psalms",
+      "chapter": 90,
+      "verse": 8,
+      "original": "You have set our iniquities before you, our secret sins in the light of your presence.",
+      "final": "You have set our iniquities before you, our secret moral failures in the light of your presence.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Psalms 103:3",
+      "slug": "psalms",
+      "chapter": 103,
+      "verse": 3,
+      "original": "who forgives all your sins; who heals all your diseases;",
+      "final": "who forgives all your moral failures; who heals all your diseases;",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Psalms 104:35",
+      "slug": "psalms",
+      "chapter": 104,
+      "verse": 35,
+      "original": "Let sinners be consumed out of the earth. Let the wicked be no more. Bless YHWH, my soul. Praise Yah!",
+      "final": "Let those who do wrong be consumed out of the earth. Let the wicked be no more. Bless YHWH, my soul. Praise Yah!",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Psalms 106:6",
+      "slug": "psalms",
+      "chapter": 106,
+      "verse": 6,
+      "original": "We have sinned with our fathers. We have committed iniquity. We have done wickedly.",
+      "final": "We have acted wrongly with our fathers. We have committed iniquity. We have done wickedly.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Psalms 130:3",
+      "slug": "psalms",
+      "chapter": 130,
+      "verse": 3,
+      "original": "If you, Yah, kept a record of sins, YHWH, who could stand?",
+      "final": "If you, Yah, kept a record of moral failures, YHWH, who could stand?",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Psalms 130:8",
+      "slug": "psalms",
+      "chapter": 130,
+      "verse": 8,
+      "original": "YHWH will redeem Israel from all their sins.",
+      "final": "YHWH will redeem Israel from all their moral failures.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Proverbs 1:10",
+      "slug": "proverbs",
+      "chapter": 1,
+      "verse": 10,
+      "original": "My child, if sinners entice you, don't consent.",
+      "final": "My child, if those who do wrong entice you, don't consent.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Proverbs 11:31",
+      "slug": "proverbs",
+      "chapter": 11,
+      "verse": 31,
+      "original": "Behold, the righteous shall be repaid in the earth; how much more the wicked and the sinner!",
+      "final": "Behold, the righteous shall be repaid in the earth; how much more the wicked and the person who does wrong!",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Proverbs 13:6",
+      "slug": "proverbs",
+      "chapter": 13,
+      "verse": 6,
+      "original": "Righteousness guards the way of integrity, but wickedness overthrows the sinner.",
+      "final": "Righteousness guards the way of integrity, but wickedness overthrows the person who does wrong.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Proverbs 13:21",
+      "slug": "proverbs",
+      "chapter": 13,
+      "verse": 21,
+      "original": "Misfortune pursues sinners, but prosperity rewards the righteous.",
+      "final": "Misfortune pursues those who do wrong, but prosperity rewards the righteous.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Proverbs 13:22",
+      "slug": "proverbs",
+      "chapter": 13,
+      "verse": 22,
+      "original": "A good person leaves an inheritance to their children's children, but the wealth of the sinner is stored for the righteous.",
+      "final": "A good person leaves an inheritance to their children's children, but the wealth of the person who does wrong is stored for the righteous.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Proverbs 14:9",
+      "slug": "proverbs",
+      "chapter": 14,
+      "verse": 9,
+      "original": "Fools mock at making atonement for sins, but among the upright there is good will.",
+      "final": "Fools mock at making atonement for moral failures, but among the upright there is good will.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Proverbs 14:21",
+      "slug": "proverbs",
+      "chapter": 14,
+      "verse": 21,
+      "original": "The one who despises their neighbor sins, but blessed is the one who has pity on the poor.",
+      "final": "The one who despises their neighbor moral failures, but blessed is the one who has pity on the poor.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Proverbs 23:17",
+      "slug": "proverbs",
+      "chapter": 23,
+      "verse": 17,
+      "original": "Don't let your heart envy sinners; but rather revere YHWH all the day long.",
+      "final": "Don't let your heart envy those who do wrong; but rather revere YHWH all the day long.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Proverbs 28:13",
+      "slug": "proverbs",
+      "chapter": 28,
+      "verse": 13,
+      "original": "The one who conceals their sins doesn't prosper, but whoever confesses and renounces them finds mercy.",
+      "final": "The one who conceals their moral failures doesn't prosper, but whoever confesses and renounces them finds mercy.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Ecclesiastes 2:26",
+      "slug": "ecclesiastes",
+      "chapter": 2,
+      "verse": 26,
+      "original": "For to the one who pleases Elohim, Elohim gives wisdom, knowledge, and joy; but to the sinner Elohim gives travail, to gather and to heap up, that they may give to the one who pleases Elohim. This also is vanity and a chasing after wind.",
+      "final": "For to the one who pleases Elohim, Elohim gives wisdom, knowledge, and joy; but to the person who does wrong Elohim gives travail, to gather and to heap up, that they may give to the one who pleases Elohim. This also is vanity and a chasing after wind.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Ecclesiastes 7:26",
+      "slug": "ecclesiastes",
+      "chapter": 7,
+      "verse": 26,
+      "original": "I find more bitter than death the woman whose heart is snares and traps, whose hands are chains. Whoever pleases Elohim shall escape from her; but the sinner will be ensnared by her.",
+      "final": "I find more bitter than death the woman whose heart is snares and traps, whose hands are chains. Whoever pleases Elohim shall escape from her; but the person who does wrong will be ensnared by her.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Ecclesiastes 8:12",
+      "slug": "ecclesiastes",
+      "chapter": 8,
+      "verse": 12,
+      "original": "Though a sinner commits crimes a hundred times, and lives long, yet surely I know that it will be better with those who revere Elohim, who are reverent before Elohim.",
+      "final": "Though a person who does wrong commits crimes a hundred times, and lives long, yet surely I know that it will be better with those who revere Elohim, who are reverent before Elohim.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Ecclesiastes 9:2",
+      "slug": "ecclesiastes",
+      "chapter": 9,
+      "verse": 2,
+      "original": "All things come alike to all. There is one event to the righteous and to the wicked; to the good, to the clean, to the unclean, to the one who sacrifices, and to the one who doesn't sacrifice. As is the good, so is the sinner; the one who takes an oath, as the one who fears an oath.",
+      "final": "All things come alike to all. There is one event to the righteous and to the wicked; to the good, to the clean, to the unclean, to the one who sacrifices, and to the one who doesn't sacrifice. As is the good, so is the person who does wrong; the one who takes an oath, as the one who fears an oath.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Ecclesiastes 9:18",
+      "slug": "ecclesiastes",
+      "chapter": 9,
+      "verse": 18,
+      "original": "Wisdom is better than weapons of war; but one sinner destroys much good.",
+      "final": "Wisdom is better than weapons of war; but one person who does wrong destroys much good.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Isaiah 1:28",
+      "slug": "isaiah",
+      "chapter": 1,
+      "verse": 28,
+      "original": "But the destruction of transgressors and sinners shall be together, and those who forsake YHWH shall be consumed.",
+      "final": "But the destruction of transgressors and those who do wrong shall be together, and those who forsake YHWH shall be consumed.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Isaiah 13:9",
+      "slug": "isaiah",
+      "chapter": 13,
+      "verse": 9,
+      "original": "Behold, the day of YHWH comes, cruel, with wrath and fierce anger; to make the land a desolation, and to destroy its sinners out of it.",
+      "final": "Behold, the day of YHWH comes, cruel, with wrath and fierce anger; to make the land a desolation, and to destroy its those who do wrong out of it.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Isaiah 33:14",
+      "slug": "isaiah",
+      "chapter": 33,
+      "verse": 14,
+      "original": "The sinners in Tzion are afraid. Trembling has seized the godless ones. Who among us can live with the devouring fire? Who among us can live with everlasting burning?",
+      "final": "Those who do wrong in Tzion are afraid. Trembling has seized the godless ones. Who among us can live with the devouring fire? Who among us can live with everlasting burning?",
+      "notes": [
+        "Phrase anchored in passage/source action context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Isaiah 38:17",
+      "slug": "isaiah",
+      "chapter": 38,
+      "verse": 17,
+      "original": "Behold, for peace I had great anguish, but you have in love for my soul delivered it from the pit of corruption; for you have cast all my sins behind your back.",
+      "final": "Behold, for peace I had great anguish, but you have in love for my soul delivered it from the pit of corruption; for you have cast all my moral failures behind your back.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Isaiah 40:2",
+      "slug": "isaiah",
+      "chapter": 40,
+      "verse": 2,
+      "original": "\"Speak comfortably to Yerushalayim; and call out to her that her warfare is accomplished, that her iniquity is pardoned, that she has received of YHWH's hand double for all her sins.\"",
+      "final": "\"Speak comfortably to Yerushalayim; and call out to her that her warfare is accomplished, that her iniquity is pardoned, that she has received of YHWH's hand double for all her moral failures.\"",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Isaiah 42:24",
+      "slug": "isaiah",
+      "chapter": 42,
+      "verse": 24,
+      "original": "Who gave Ya'akov as plunder, and Israel to the robbers? Didn't YHWH, against whom we have sinned? For they would not walk in YHWH’s ways, and they disobeyed YHWH’s law.",
+      "final": "Who gave Ya'akov as plunder, and Israel to the robbers? Didn't YHWH, against whom we have acted wrongly? For they would not walk in YHWH’s ways, and they disobeyed YHWH’s law.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Isaiah 43:24",
+      "slug": "isaiah",
+      "chapter": 43,
+      "verse": 24,
+      "original": "You have bought me no sweet cane with money, nor have you filled me with the fat of your sacrifices; but you have burdened me with your sins. You have wearied me with your iniquities.",
+      "final": "You have bought me no sweet cane with money, nor have you filled me with the fat of your sacrifices; but you have burdened me with your moral failures. You have wearied me with your iniquities.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Isaiah 43:25",
+      "slug": "isaiah",
+      "chapter": 43,
+      "verse": 25,
+      "original": "I, even I, am the one who blots out your transgressions for my own sake; and I will not remember your sins.",
+      "final": "I, even I, am the one who blots out your transgressions for my own sake; and I will not remember your moral failures.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Isaiah 43:27",
+      "slug": "isaiah",
+      "chapter": 43,
+      "verse": 27,
+      "original": "Your first father sinned, and your teachers have transgressed against me.",
+      "final": "Your first father acted wrongly, and your teachers have transgressed against me.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Isaiah 44:22",
+      "slug": "isaiah",
+      "chapter": 44,
+      "verse": 22,
+      "original": "I have blotted out, as a thick cloud, your transgressions, and, as a cloud, your sins. Return to me, for I have redeemed you.",
+      "final": "I have blotted out, as a thick cloud, your transgressions, and, as a cloud, your moral failures. Return to me, for I have redeemed you.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Isaiah 58:1",
+      "slug": "isaiah",
+      "chapter": 58,
+      "verse": 1,
+      "original": "Cry aloud, don't spare, lift up your voice like a trumpet, and declare to my people their disobedience, and to the house of Ya'akov their sins.",
+      "final": "Cry aloud, don't spare, lift up your voice like a trumpet, and declare to my people their disobedience, and to the house of Ya'akov their moral failures.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Isaiah 59:2",
+      "slug": "isaiah",
+      "chapter": 59,
+      "verse": 2,
+      "original": "but your iniquities have separated between you and your God, and your sins have hidden God’s face from you, so that God will not hear.",
+      "final": "but your iniquities have separated between you and your God, and your moral failures have hidden God’s face from you, so that God will not hear.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Isaiah 59:12",
+      "slug": "isaiah",
+      "chapter": 59,
+      "verse": 12,
+      "original": "For our transgressions are multiplied before you, and our sins testify against us; for our transgressions are with us, and as for our iniquities, we know them:",
+      "final": "For our transgressions are multiplied before you, and our moral failures testify against us; for our transgressions are with us, and as for our iniquities, we know them:",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Isaiah 64:5",
+      "slug": "isaiah",
+      "chapter": 64,
+      "verse": 5,
+      "original": "You meet the one who rejoices and works righteousness, those who remember you in your ways: behold, you were angry, and we sinned: in them [have we been] of long time; and shall we be saved?",
+      "final": "You meet the one who rejoices and works righteousness, those who remember you in your ways: behold, you were angry, and we acted wrongly: in them [have we been] of long time; and shall we be saved?",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Isaiah 65:20",
+      "slug": "isaiah",
+      "chapter": 65,
+      "verse": 20,
+      "original": "There shall be no more there an infant of days, nor an old man who has not filled his days; for the child shall die one hundred years old, and the sinner being one hundred years old shall be accursed.",
+      "final": "There shall be no more there an infant of days, nor an old man who has not filled his days; for the child shall die one hundred years old, and the person who does wrong being one hundred years old shall be accursed.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Jeremiah 2:35",
+      "slug": "jeremiah",
+      "chapter": 2,
+      "verse": 35,
+      "original": "Yet you said, I am innocent; surely his anger is turned away from me. Behold, I will enter into judgment with you, because you say, I have not sinned.",
+      "final": "Yet you said, I am innocent; surely his anger is turned away from me. Behold, I will enter into judgment with you, because you say, I have not acted wrongly.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Jeremiah 3:25",
+      "slug": "jeremiah",
+      "chapter": 3,
+      "verse": 25,
+      "original": "Let us lie down in our shame, and let our confusion cover us; for we have sinned against YHWH our God, we and our fathers, from our youth even to this day; and we have not obeyed the voice of YHWH our God.",
+      "final": "Let us lie down in our shame, and let our confusion cover us; for we have acted wrongly against YHWH our God, we and our fathers, from our youth even to this day; and we have not obeyed the voice of YHWH our God.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Jeremiah 5:25",
+      "slug": "jeremiah",
+      "chapter": 5,
+      "verse": 25,
+      "original": "Your iniquities have turned away these things, and your sins have withheld good from you.",
+      "final": "Your iniquities have turned away these things, and your moral failures have withheld good from you.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Jeremiah 8:14",
+      "slug": "jeremiah",
+      "chapter": 8,
+      "verse": 14,
+      "original": "Why do we sit still? Assemble yourselves, and let us enter into the fortified cities, and let us be silent there; for YHWH our God has put us to silence, and given us water of gall to drink, because we have sinned against YHWH.",
+      "final": "Why do we sit still? Assemble yourselves, and let us enter into the fortified cities, and let us be silent there; for YHWH our God has put us to silence, and given us water of gall to drink, because we have acted wrongly against YHWH.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Jeremiah 14:7",
+      "slug": "jeremiah",
+      "chapter": 14,
+      "verse": 7,
+      "original": "Though our iniquities testify against us, work you for your name's sake, YHWH; for our backslidings are many; we have sinned against you.",
+      "final": "Though our iniquities testify against us, work you for your name's sake, YHWH; for our backslidings are many; we have acted wrongly against you.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Jeremiah 14:10",
+      "slug": "jeremiah",
+      "chapter": 14,
+      "verse": 10,
+      "original": "Thus says YHWH to this people, Even so have they loved to wander; they have not refrained their feet: therefore YHWH does not accept them; now YHWH will remember their iniquity, and visit their sins.",
+      "final": "Thus says YHWH to this people, Even so have they loved to wander; they have not refrained their feet: therefore YHWH does not accept them; now YHWH will remember their iniquity, and visit their moral failures.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Jeremiah 14:20",
+      "slug": "jeremiah",
+      "chapter": 14,
+      "verse": 20,
+      "original": "We acknowledge, YHWH, our wickedness, and the iniquity of our fathers; for we have sinned against you.",
+      "final": "We acknowledge, YHWH, our wickedness, and the iniquity of our fathers; for we have acted wrongly against you.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Jeremiah 15:13",
+      "slug": "jeremiah",
+      "chapter": 15,
+      "verse": 13,
+      "original": "Your substance and your treasures will I give for a spoil without price, and that for all your sins, even in all your borders.",
+      "final": "Your substance and your treasures will I give for a spoil without price, and that for all your moral failures, even in all your borders.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Jeremiah 30:14",
+      "slug": "jeremiah",
+      "chapter": 30,
+      "verse": 14,
+      "original": "All your lovers have forgotten you; they don't seek you: for I have wounded you with the wound of an enemy, with the chastisement of a cruel one, for the greatness of your iniquity, because your sins were increased.",
+      "final": "All your lovers have forgotten you; they don't seek you: for I have wounded you with the wound of an enemy, with the chastisement of a cruel one, for the greatness of your iniquity, because your moral failures were increased.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Jeremiah 30:15",
+      "slug": "jeremiah",
+      "chapter": 30,
+      "verse": 15,
+      "original": "Why cry you for your hurt? your pain is incurable: for the greatness of your iniquity, because your sins were increased, I have done these things to you.",
+      "final": "Why cry you for your hurt? your pain is incurable: for the greatness of your iniquity, because your moral failures were increased, I have done these things to you.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Jeremiah 33:8",
+      "slug": "jeremiah",
+      "chapter": 33,
+      "verse": 8,
+      "original": "I will cleanse them from all their iniquity, by which they have sinned against me; and I will pardon all their iniquities, by which they have sinned against me, and by which they have transgressed against me.",
+      "final": "I will cleanse them from all their iniquity, by which they have acted wrongly against me; and I will pardon all their iniquities, by which they have acted wrongly against me, and by which they have transgressed against me.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Jeremiah 37:18",
+      "slug": "jeremiah",
+      "chapter": 37,
+      "verse": 18,
+      "original": "Moreover Yirmeyahu said to king Tzidkiyahu, Wherein have I sinned against you, or against your servants, or against this people, that you have put me in prison?",
+      "final": "Moreover Yirmeyahu said to king Tzidkiyahu, Wherein have I acted wrongly against you, or against your servants, or against this people, that you have put me in prison?",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Jeremiah 40:3",
+      "slug": "jeremiah",
+      "chapter": 40,
+      "verse": 3,
+      "original": "and YHWH has brought it, and done according as YHWH spoke: because you have sinned against YHWH, and have not obeyed YHWH’s voice, therefore this thing is come on you.",
+      "final": "and YHWH has brought it, and done according as YHWH spoke: because you have acted wrongly against YHWH, and have not obeyed YHWH’s voice, therefore this thing is come on you.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Jeremiah 44:23",
+      "slug": "jeremiah",
+      "chapter": 44,
+      "verse": 23,
+      "original": "Because you have burned incense, and because you have sinned against YHWH, and have not obeyed the voice of YHWH, nor walked in YHWH’s law, nor in YHWH’s statutes, nor in YHWH’s testimonies; therefore this calamity has happened to you, as it is this day.",
+      "final": "Because you have burned incense, and because you have acted wrongly against YHWH, and have not obeyed the voice of YHWH, nor walked in YHWH’s law, nor in YHWH’s statutes, nor in YHWH’s testimonies; therefore this calamity has happened to you, as it is this day.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Jeremiah 50:7",
+      "slug": "jeremiah",
+      "chapter": 50,
+      "verse": 7,
+      "original": "All who found them have devoured them; and their adversaries said, We are not guilty, because they have sinned against YHWH, the habitation of righteousness, even YHWH, the hope of their fathers.",
+      "final": "All who found them have devoured them; and their adversaries said, We are not guilty, because they have acted wrongly against YHWH, the habitation of righteousness, even YHWH, the hope of their fathers.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Jeremiah 50:14",
+      "slug": "jeremiah",
+      "chapter": 50,
+      "verse": 14,
+      "original": "Set yourselves in array against Bavel round about, all you who bend the bow; shoot at her, spare no arrows: for she has sinned against YHWH.",
+      "final": "Set yourselves in array against Bavel round about, all you who bend the bow; shoot at her, spare no arrows: for she has acted wrongly against YHWH.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Jeremiah 50:20",
+      "slug": "jeremiah",
+      "chapter": 50,
+      "verse": 20,
+      "original": "In those days, and in that time, says YHWH, the iniquity of Israel shall be sought for, and there shall be none; and the sins of Yehudah, and they shall not be found: for I will pardon them whom I leave as a remnant.",
+      "final": "In those days, and in that time, says YHWH, the iniquity of Israel shall be sought for, and there shall be none; and the moral failures of Yehudah, and they shall not be found: for I will pardon them whom I leave as a remnant.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Lamentations 1:8",
+      "slug": "lamentations",
+      "chapter": 1,
+      "verse": 8,
+      "original": "Yerushalayim has grievously sinned; therefore she is become as an unclean thing; all who honored her despise her, because they have seen her nakedness: yes, she sighs, and turns backward.",
+      "final": "Yerushalayim has grievously acted wrongly; therefore she is become as an unclean thing; all who honored her despise her, because they have seen her nakedness: yes, she sighs, and turns backward.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Lamentations 3:39",
+      "slug": "lamentations",
+      "chapter": 3,
+      "verse": 39,
+      "original": "Why does a living man complain, a person for the punishment of their sins?",
+      "final": "Why does a living man complain, a person for the punishment of their moral failures?",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Lamentations 4:13",
+      "slug": "lamentations",
+      "chapter": 4,
+      "verse": 13,
+      "original": "[It is] because of the sins of her prophets, [and] the iniquities of her priests, That have shed the blood of the just in the midst of her.",
+      "final": "[It is] because of the wrongdoings of her prophets, [and] the iniquities of her priests, That have shed the blood of the just in the midst of her.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Lamentations 4:22",
+      "slug": "lamentations",
+      "chapter": 4,
+      "verse": 22,
+      "original": "The punishment of your iniquity is accomplished, daughter of Tzion; he will no more carry you away into captivity: He will visit your iniquity, daughter of Edom; he will uncover your sins.",
+      "final": "The punishment of your iniquity is accomplished, daughter of Tzion; he will no more carry you away into captivity: He will visit your iniquity, daughter of Edom; he will uncover your moral failures.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Lamentations 5:7",
+      "slug": "lamentations",
+      "chapter": 5,
+      "verse": 7,
+      "original": "Our fathers sinned, and are no more; We have borne their iniquities.",
+      "final": "Our fathers acted wrongly, and are no more; We have borne their iniquities.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Lamentations 5:16",
+      "slug": "lamentations",
+      "chapter": 5,
+      "verse": 16,
+      "original": "The crown is fallen from our head: Woe to us! for we have sinned.",
+      "final": "The crown is fallen from our head: Woe to us! for we have acted wrongly.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Ezekiel 14:13",
+      "slug": "ezekiel",
+      "chapter": 14,
+      "verse": 13,
+      "original": "Child of humanity, when a land sins against me by committing a trespass, and I stretch out my hand on it, and break the staff of the bread of it, and send famine on it, and cut off from it man and animal;",
+      "final": "Child of humanity, when a land moral failures against me by committing a trespass, and I stretch out my hand on it, and break the staff of the bread of it, and send famine on it, and cut off from it man and animal;",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Ezekiel 16:51",
+      "slug": "ezekiel",
+      "chapter": 16,
+      "verse": 51,
+      "original": "Neither has Shomron committed half of your sins; but you have multiplied your abominations more than they, and have justified your sisters by all your abominations which you have done.",
+      "final": "Neither has Shomron committed half of your moral failures; but you have multiplied your abominations more than they, and have justified your sisters by all your abominations which you have done.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Ezekiel 16:52",
+      "slug": "ezekiel",
+      "chapter": 16,
+      "verse": 52,
+      "original": "You also, bear you your own shame, in that you have given judgment for your sisters; through your sins that you have committed more abominable than they, they are more righteous that you: yes, be also confounded, and bear your shame, in that you have justified your sisters.",
+      "final": "You also, bear you your own shame, in that you have given judgment for your sisters; through your moral failures that you have committed more abominable than they, they are more righteous that you: yes, be also confounded, and bear your shame, in that you have justified your sisters.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Ezekiel 18:4",
+      "slug": "ezekiel",
+      "chapter": 18,
+      "verse": 4,
+      "original": "Behold, all souls are mine; as the soul of the father, so also the soul of the son is mine: the soul who sins, he shall die.",
+      "final": "Behold, all souls are mine; as the soul of the father, so also the soul of the son is mine: the person who does wrong, he shall die.",
+      "notes": [
+        "Phrase anchored in passage/source action context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Ezekiel 18:14",
+      "slug": "ezekiel",
+      "chapter": 18,
+      "verse": 14,
+      "original": "Now, behold, if he fathers a son, who sees all his father's sins, which he has done, and fears, and does not such like;",
+      "final": "Now, behold, if he fathers a son, who sees all his father's moral failures, which he has done, and fears, and does not such like;",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Ezekiel 18:21",
+      "slug": "ezekiel",
+      "chapter": 18,
+      "verse": 21,
+      "original": "But if the wicked turn from all his sins that he has committed, and keep all my statutes, and do that which is lawful and right, he shall surely live, he shall not die.",
+      "final": "But if the wicked turn from all his wrongdoings that he has committed, and keep all my statutes, and do that which is lawful and right, he shall surely live, he shall not die.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Ezekiel 18:24",
+      "slug": "ezekiel",
+      "chapter": 18,
+      "verse": 24,
+      "original": "But when the righteous turns away from their righteousness, and commits iniquity, and does according to all the abominations that the wicked person does, shall they live? None of his righteous deeds that he has done shall be remembered: in his trespass that he has trespassed, and in his sin that he has sinned, in them shall he die.",
+      "final": "But when the righteous turns away from their righteousness, and commits iniquity, and does according to all the abominations that the wicked person does, shall they live? None of his righteous deeds that he has done shall be remembered: in his trespass that he has trespassed, and in his sin that he has acted wrongly, in them shall he die.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Ezekiel 21:24",
+      "slug": "ezekiel",
+      "chapter": 21,
+      "verse": 24,
+      "original": "Therefore thus says YHWH God: Because you have made your iniquity to be remembered, in that your transgressions are uncovered, so that in all your doings your sins do appear; because you have come to memory, you shall be taken with the hand.",
+      "final": "Therefore thus says YHWH God: Because you have made your iniquity to be remembered, in that your transgressions are uncovered, so that in all your doings your moral failures do appear; because you have come to memory, you shall be taken with the hand.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Ezekiel 23:49",
+      "slug": "ezekiel",
+      "chapter": 23,
+      "verse": 49,
+      "original": "They shall recompense your lewdness on you, and you shall bear the sins of your idols; and you shall know that I am YHWH God.",
+      "final": "They shall recompense your lewdness on you, and you shall bear the moral failures of your idols; and you shall know that I am YHWH God.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Ezekiel 28:16",
+      "slug": "ezekiel",
+      "chapter": 28,
+      "verse": 16,
+      "original": "By the abundance of your traffic they filled the midst of you with violence, and you have sinned: therefore I have cast you as profane out of the mountain of Elohim; and I have destroyed you, covering cherub, from the midst of the stones of fire.",
+      "final": "By the abundance of your traffic they filled the midst of you with violence, and you have acted wrongly: therefore I have cast you as profane out of the mountain of Elohim; and I have destroyed you, covering cherub, from the midst of the stones of fire.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Ezekiel 33:10",
+      "slug": "ezekiel",
+      "chapter": 33,
+      "verse": 10,
+      "original": "You, child of humanity, tell the house of Israel: Thus you speak, saying, Our transgressions and our sins are on us, and we pine away in them; how then can we live?",
+      "final": "You, child of humanity, tell the house of Israel: Thus you speak, saying, Our transgressions and our moral failures are on us, and we pine away in them; how then can we live?",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Ezekiel 33:12",
+      "slug": "ezekiel",
+      "chapter": 33,
+      "verse": 12,
+      "original": "You, child of humanity, tell the children of your people, The righteousness of the righteous shall not deliver him in the day of his disobedience; and as for the wickedness of the wicked, he shall not fall thereby in the day that he turns from his wickedness; neither shall the one who is righteous be able to live thereby in the day that they sins.",
+      "final": "You, child of humanity, tell the children of your people, The righteousness of the righteous shall not deliver him in the day of his disobedience; and as for the wickedness of the wicked, he shall not fall thereby in the day that he turns from his wickedness; neither shall the one who is righteous be able to live thereby in the day that they wrongdoings.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Ezekiel 33:16",
+      "slug": "ezekiel",
+      "chapter": 33,
+      "verse": 16,
+      "original": "None of his sins that he has committed shall be remembered against him: he has done that which is lawful and right; he shall surely live.",
+      "final": "None of his moral failures that he has committed shall be remembered against him: he has done that which is lawful and right; he shall surely live.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Ezekiel 37:23",
+      "slug": "ezekiel",
+      "chapter": 37,
+      "verse": 23,
+      "original": "neither shall they defile themselves any more with their idols, nor with their detestable things, nor with any of their transgressions; but I will save them out of all their dwelling places, in which they have sinned, and will cleanse them: so shall they be my people, and I will be their God.",
+      "final": "neither shall they defile themselves any more with their idols, nor with their detestable things, nor with any of their transgressions; but I will save them out of all their dwelling places, in which they have acted wrongly, and will cleanse them: so shall they be my people, and I will be their God.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Daniel 4:27",
+      "slug": "daniel",
+      "chapter": 4,
+      "verse": 27,
+      "original": "Therefore, O king, let my counsel be acceptable to you, and break off your sins by righteousness, and your iniquities by showing mercy to the poor; if there may be a lengthening of your tranquility.",
+      "final": "Therefore, O king, let my counsel be acceptable to you, and break off your moral failures by righteousness, and your iniquities by showing mercy to the poor; if there may be a lengthening of your tranquility.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Daniel 9:5",
+      "slug": "daniel",
+      "chapter": 9,
+      "verse": 5,
+      "original": "we have sinned, and have dealt perversely, and have done wickedly, and have rebelled, even turning aside from your precepts and from your ordinances;",
+      "final": "we have acted wrongly, and have dealt perversely, and have done wickedly, and have rebelled, even turning aside from your precepts and from your ordinances;",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Daniel 9:8",
+      "slug": "daniel",
+      "chapter": 9,
+      "verse": 8,
+      "original": "YHWH, to us belongs confusion of face, to our kings, to our princes, and to our fathers, because we have sinned against you.",
+      "final": "YHWH, to us belongs confusion of face, to our kings, to our princes, and to our fathers, because we have acted wrongly against you.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Daniel 9:11",
+      "slug": "daniel",
+      "chapter": 9,
+      "verse": 11,
+      "original": "Yes, all Israel have transgressed your law, even turning aside, that they should not obey your voice: therefore has the curse been poured out on us, and the oath that is written in the law of Moshe the servant of Elohim; for we have sinned against him.",
+      "final": "Yes, all Israel have transgressed your law, even turning aside, that they should not obey your voice: therefore has the curse been poured out on us, and the oath that is written in the law of Moshe the servant of Elohim; for we have acted wrongly against him.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Daniel 9:15",
+      "slug": "daniel",
+      "chapter": 9,
+      "verse": 15,
+      "original": "Now, YHWH our God, who has brought your people forth out of the land of Mitzrayim with a mighty hand, and have gotten you renown, as at this day; we have sinned, we have done wickedly.",
+      "final": "Now, YHWH our God, who has brought your people forth out of the land of Mitzrayim with a mighty hand, and have gotten you renown, as at this day; we have acted wrongly, we have done wickedly.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Daniel 9:16",
+      "slug": "daniel",
+      "chapter": 9,
+      "verse": 16,
+      "original": "YHWH, according to all your righteousness, let your anger and please let your wrath be turned away from your city Yerushalayim, your holy mountain; because for our sins, and for the iniquities of our fathers, Yerushalayim and your people are become a reproach to all who are round about us.",
+      "final": "YHWH, according to all your righteousness, let your anger and please let your wrath be turned away from your city Yerushalayim, your holy mountain; because for our moral failures, and for the iniquities of our fathers, Yerushalayim and your people are become a reproach to all who are round about us.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Daniel 9:24",
+      "slug": "daniel",
+      "chapter": 9,
+      "verse": 24,
+      "original": "Seventy weeks are decreed on your people and on your holy city, to finish disobedience, and to make an end of sins, and to make reconciliation for iniquity, and to bring in everlasting righteousness, and to seal up vision and prophecy, and to anoint the most holy.",
+      "final": "Seventy weeks are decreed on your people and on your holy city, to finish disobedience, and to make an end of moral failures, and to make reconciliation for iniquity, and to bring in everlasting righteousness, and to seal up vision and prophecy, and to anoint the most holy.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Hosea 4:7",
+      "slug": "hosea",
+      "chapter": 4,
+      "verse": 7,
+      "original": "As they were multiplied, so they sinned against me. I will change their glory into shame.",
+      "final": "As they were multiplied, so they acted wrongly against me. I will change their glory into shame.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Hosea 8:11",
+      "slug": "hosea",
+      "chapter": 8,
+      "verse": 11,
+      "original": "Because Efrayim has multiplied altars for sinning, they became for him altars for sinning.",
+      "final": "Because Efrayim has multiplied altars for acting wrongly, they became for him altars for acting wrongly.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Hosea 8:13",
+      "slug": "hosea",
+      "chapter": 8,
+      "verse": 13,
+      "original": "As for the sacrifices of my offerings, they sacrifice flesh and eat it; But YHWH doesn't accept them. Now he will remember their iniquity, and punish their sins. They will return to Mitzrayim.",
+      "final": "As for the sacrifices of my offerings, they sacrifice flesh and eat it; But YHWH doesn't accept them. Now he will remember their iniquity, and punish their moral failures. They will return to Mitzrayim.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Hosea 9:7",
+      "slug": "hosea",
+      "chapter": 9,
+      "verse": 7,
+      "original": "The days of visitation have come. The days of reckoning have come. Israel will consider the prophet to be a fool, and the one who is inspired to be insane, because of the abundance of your sins, and because your hostility is great.",
+      "final": "The days of visitation have come. The days of reckoning have come. Israel will consider the prophet to be a fool, and the one who is inspired to be insane, because of the abundance of your moral failures, and because your hostility is great.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Hosea 9:9",
+      "slug": "hosea",
+      "chapter": 9,
+      "verse": 9,
+      "original": "They have deeply corrupted themselves, as in the days of Gibeah. He will remember their iniquity. He will punish them for their sins.",
+      "final": "They have deeply corrupted themselves, as in the days of Gibeah. He will remember their iniquity. He will punish them for their moral failures.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Hosea 10:9",
+      "slug": "hosea",
+      "chapter": 10,
+      "verse": 9,
+      "original": "\"Israel, you have sinned from the days of Gibeah. There they remained. The battle against the children of iniquity doesn't overtake them in Gibeah.",
+      "final": "\"Israel, you have acted wrongly from the days of Gibeah. There they remained. The battle against the children of iniquity doesn't overtake them in Gibeah.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Hosea 14:2",
+      "slug": "hosea",
+      "chapter": 14,
+      "verse": 2,
+      "original": "Take words with you, and return to YHWH. Tell him, \"Forgive all our sins, and accept that which is good: so we offer our lips like bulls.",
+      "final": "Take words with you, and return to YHWH. Tell him, \"Forgive all our moral failures, and accept that which is good: so we offer our lips like bulls.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Amos 3:2",
+      "slug": "amos",
+      "chapter": 3,
+      "verse": 2,
+      "original": "\"You only have I chosen of all the families of the earth. Therefore I will punish you for all of your sins.\"",
+      "final": "\"You only have I chosen of all the families of the earth. Therefore I will punish you for all of your moral failures.\"",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Amos 5:12",
+      "slug": "amos",
+      "chapter": 5,
+      "verse": 12,
+      "original": "For I know how many your offenses, and how great are your sins-- you who afflict the just, who take a bribe, and who turn aside the needy in the courts.",
+      "final": "For I know how many your offenses, and how great are your moral failures-- you who afflict the just, who take a bribe, and who turn aside the needy in the courts.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Amos 9:10",
+      "slug": "amos",
+      "chapter": 9,
+      "verse": 10,
+      "original": "All the sinners of my people will die by the sword, who say, 'Disaster won't overtake nor meet us.'",
+      "final": "All those of my people who do wrong will die by the sword, who say, 'Disaster won't overtake nor meet us.'",
+      "notes": [
+        "Phrase anchored in passage/source action context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Micah 1:5",
+      "slug": "micah",
+      "chapter": 1,
+      "verse": 5,
+      "original": "\"All this is for the disobedience of Ya'akov, and for the sins of the house of Israel. What is the disobedience of Ya'akov? Isn't it Shomron? And what are the high places of Yehudah? Aren't they Yerushalayim?",
+      "final": "\"All this is for the disobedience of Ya'akov, and for the moral failures of the house of Israel. What is the disobedience of Ya'akov? Isn't it Shomron? And what are the high places of Yehudah? Aren't they Yerushalayim?",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Micah 6:13",
+      "slug": "micah",
+      "chapter": 6,
+      "verse": 13,
+      "original": "Therefore I also have struck you with a grievous wound. I have made you desolate because of your sins.",
+      "final": "Therefore I also have struck you with a grievous wound. I have made you desolate because of your moral failures.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Micah 7:9",
+      "slug": "micah",
+      "chapter": 7,
+      "verse": 9,
+      "original": "I will bear the indignation of YHWH, because I have sinned against YHWH, until YHWH pleads my case, and executes judgment for me. YHWH will bring me forth to the light. I will see YHWH’s righteousness.",
+      "final": "I will bear the indignation of YHWH, because I have acted wrongly against YHWH, until YHWH pleads my case, and executes judgment for me. YHWH will bring me forth to the light. I will see YHWH’s righteousness.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Micah 7:19",
+      "slug": "micah",
+      "chapter": 7,
+      "verse": 19,
+      "original": "Elohim will again have compassion on us. Elohim will tread our iniquities under foot; and you will cast all their sins into the depths of the sea.",
+      "final": "Elohim will again have compassion on us. Elohim will tread our iniquities under foot; and you will cast all their moral failures into the depths of the sea.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Habakkuk 2:10",
+      "slug": "habakkuk",
+      "chapter": 2,
+      "verse": 10,
+      "original": "You have devised shame to your house, by cutting off many peoples, and have sinned against your soul.",
+      "final": "You have devised shame to your house, by cutting off many peoples, and have acted wrongly against your soul.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    },
+    {
+      "reference": "Zephaniah 1:17",
+      "slug": "zephaniah",
+      "chapter": 1,
+      "verse": 17,
+      "original": "I will bring distress on men, that they will walk like blind men, because they have sinned against YHWH, and their blood will be poured out like dust, and their flesh like dung.",
+      "final": "I will bring distress on men, that they will walk like blind men, because they have acted wrongly against YHWH, and their blood will be poured out like dust, and their flesh like dung.",
+      "notes": [
+        "Inflected action / person label / plural noun; check source lexeme and rhetorical context"
+      ],
+      "stagedForSourceReview": true
+    }
+  ]
+}
