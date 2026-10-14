@@ -1,15 +1,38 @@
-# Chata — context-sensitive restoration of “sin” language
+# Chata — moral failure, failure, and context-sensitive restoration of “sin” language
 
 **Status:** PROPOSAL ONLY — translation review required; no Scripture changes authorized  
-**Date:** 2026-10-14 UTC  
+**Opened:** 2026-10-14 UTC  
+**Updated:** 2026-10-15 — editor preference: **moral failure / failure first**  
 **Scope:** Genesis–Revelation, The Way Version, all 66 books  
-**Proposed term policy:** Prefer clear, accountable English that expresses the specific wrongdoing, failed responsibility, error, guilt, rebellion, or path imagery in the source context. Do not silently modernize away ethical seriousness.
+**Proposed term policy:** Treat **moral failure** as the first expression to evaluate for moral uses of “sin,” with **failure / failed** when a genuine falling-short or human limitation is in view. Use **wrongdoing / wronged** for concrete injuries, deliberate violations, or where grammar and literary imagery demand it. Keep ritual, guilt, rebellion, and proper-name usages distinct; never weaken accountability.
 
 ## Why this matters
 
-English *sin*, *sinner*, and *sinful* can carry inherited institutional, shame-centered, or identity-fixing connotations that may distract readers, including those harmed by religious institutions. A restorative edition can often communicate the text more directly as **wrongdoing**, **doing wrong**, **wronged**, **moral failure**, **error**, **wandering**, or **turning back**. This is an editorial accessibility rationale, **not** a claim that the biblical authors thought all wrongdoing was accidental, or that “missing the mark” is the full dictionary meaning in every instance. Nor does replacing language erase culpability, victim harm, or restorative justice.
+English *sin*, *sinner*, and *sinful* can carry inherited institutional, shame-centered, or identity-fixing connotations that may distract readers, including those harmed by religious institutions. A restorative edition can often communicate the text more directly as **moral failure**, **failure**, **failed morally**, **wrongdoing**, **wronged**, **error**, **wandering**, or **turning back**, chosen by source meaning and natural English. This is an editorial accessibility rationale, **not** a claim that the biblical authors thought all wrongdoing was accidental, or that “missing the mark” is the full dictionary meaning in every instance. Nor does replacing language erase culpability, victim harm, or restorative justice.
 
 Current project methodology: [README](../../README.md), [skill/SKILL.md](../../skill/SKILL.md), and the established proposal/release review paths. Source Greek is the textual starting point for New Testament lexical decisions; Semitic context may illuminate them but is not an attested original Hebrew autograph of a Greek letter.
+
+## Editorial preference update — 2026-10-15
+
+The editor's preferred **voice** is **moral failure**, and, where the meaning genuinely fits, **failure**. The previous draft used *wrongdoing* as its default. **This revision supersedes that default**; *wrongdoing* remains a purposeful contextual exception and is not removed from the vocabulary.
+
+### Ordered selection, NOT a global substitution
+
+1. **Moral failure / moral failures** — the normal **first candidate** for a moral noun where the passage speaks of human falling short, moral responsibility, confession, forgiveness, or restoration. This wording communicates an action or state without making “sinner” someone's permanent identity. *Example: “forgiveness of moral failures.”*
+2. **Fail morally / failed morally / failing morally** — a first candidate for verbal uses, subject to natural English, tense, agency, and syntactic arguments. Sometimes “acted wrongly” reads better than a literal construction. *Example: “We have failed morally,”* not the ungrammatical “we have moral failed.”
+3. **Failure / failed / failings** (without *moral*) — use **only** where the passage genuinely emphasizes falling short, weakness, an omission, or an inadvertent error, and the omission of “moral” does not disguise harm. This is **not** an automatic shortening of “moral failure”; check original-language meaning. *“Everyone has failed”* may be a readable alternative in Romans 3:23, but should be compared with *“everyone has failed morally”* because that verse separately says “fall short.”
+4. **Wrongdoing / wrongdoings / wrong(s) / wronged** — choose when the text describes concrete mistreatment of another person, corruption, exploitation, intentional harm, legal-ethical offenses, wrongdoing as a ruling/predatory force, or when **moral failure** would distort or awkwardly soften what is described. This is not a less-preferred ethical verdict: it is sometimes simply the most faithful English.
+5. **Error / mistake / wandering** — reserve for an *actual* involuntary, mistaken, or wayward context supported by the source, such as `planē` in James 5:20. A deliberate act does not become “a mistake” merely because we want non-shaming language.
+6. **Guilt / rebellion / transgression / breach** — preserve specific source nuances, legal liability, and covenant relationship when those are the main point; don't collapse every Hebrew or Greek source term into `moral failure`.
+7. **Purification offering** for ritual `ḥaṭṭāʾt` where source check supports it, and **Sin** unchanged for the place name. Neither should become “moral failure offering” or “wilderness of Failure.”
+
+**Editing test:** For each proposed verse ask (a) Who did what? (b) Who was affected? (c) Was this intended, negligent, or inadvertent? (d) Is the passage naming a person, an action, guilt, a sacrifice, a force, or a direction of life? (e) Does “moral failure” sound like real contemporary English in that grammar? (f) Does it preserve the original metaphor and urgency? If not, choose a more concrete rendering and record why.
+
+**Trauma-sensitive, not trivializing:** Avoid treating anyone as permanently defective, but **do not** describe abuse, violence, exploitation, or injustice as merely an unfortunate personal “failure.” Let the harm remain visible. Some readers may also find the word *failure* shaming; reader testing should therefore evaluate both accuracy and impact. No theological or ethical reality is removed by euphemism.
+
+### Source-meaning constraint
+
+Hebrew `ḥṭʾ` and Greek `hamartia / hamartanō` do **not** universally and literally mean “failure.” The root's physical *miss* sense does not turn all moral violations into inability or an accident. **Moral failure is an English editorial option**, not a rediscovered one-to-one ancient-language equivalent. Both **moral failure** and **wrongdoing** can be wrong for a particular verse. In all cases source syntax and literary context outrank a house vocabulary target.
 
 ## Data and audit boundary
 
@@ -27,14 +50,14 @@ A word-boundary, case-insensitive whole-Bible scan of the **existing English run
 
 | Language/context | Source forms to verify | Translational direction | Pitfall |
 |---|---|---|---|
-| Hebrew moral wrongdoing | חטא, חטאת (ḥṭʾ / ḥaṭṭāʾt) | wrongdoing, do wrong, offense, fail morally | “miss the mark” is an illustration of one root sense, not an automatic rendering |
+| Hebrew moral wrongdoing | חטא, חטאת (ḥṭʾ / ḥaṭṭāʾt) | moral failure / fail morally (first candidate); wrongdoing where concrete offense | “miss the mark” is an illustration of one root sense, not an automatic rendering |
 | Hebrew ritual sacrifice | חטאת (ḥaṭṭāʾt) when naming the rite | purification offering / sin offering with glossary note | A different usage of the same form; not “wrongdoing offering” |
 | Hebrew guilt/liability | עָוֹן (`ʿavon`) | guilt, iniquity, responsibility for wrong | Do not flatten guilt and wrongdoing into one English noun |
 | Hebrew deliberate breach | פֶּשַׁע (`peshaʿ`) | rebellion, breach, transgression | Do not soften betrayal or intentional violation to “mistake” |
 | Hebrew inadvertence | שגג / שגגה (`šggh` / `šegagah`) | done unknowingly, unintentional wrong, mistake | Must retain accountability and context where the law assigns it |
 | Hebrew wandering / returning | תעה / שוב (`taʿah` / `shuv`) | wandered, went astray / turn back, return | Keep path image when present; don't import it to every ḥṭʾ |
-| Greek moral action/noun | ἁμαρτάνω / ἁμαρτία (`hamartanō` / `hamartia`) | do wrong / wrongdoing, moral failure | In Romans and elsewhere “sin” can be personified as a ruling power |
-| Greek person label | ἁμαρτωλός (`hamartōlos`) | person who does wrong; person known for wrongdoing, by context | Don't fix a whole person's identity as intrinsically bad if text allows an action-focused phrase |
+| Greek moral action/noun | ἁμαρτάνω / ἁμαρτία (`hamartanō` / `hamartia`) | moral failure / fail morally (first candidate); wrongdoing where needed | In Romans and elsewhere “sin” can be personified as a ruling power |
+| Greek person label | ἁμαρτωλός (`hamartōlos`) | person who has failed morally; person who does wrong, by context | Don't fix a whole person's identity as intrinsically bad if text allows an action-focused phrase |
 | Greek deviation | πλάνη (`planē`) | error, wandering, going astray | Distinct lexeme; James 5:20 has both “sinner” and “error” |
 | Greek distinct wrongs | παράπτωμα, ἀδικία, ἀνομία | offense / injustice / lawlessness | Do not retroactively replace these with a one-size-fits-all “sin” label |
 
@@ -42,48 +65,49 @@ For every disputed passage record: original lemma and inflection, source witness
 
 ## Proposed rendering rules
 
-1. **Noun**: normally `sin` → **wrongdoing**, sometimes *moral failure*, *offense*, *wrong*, *guilt*, or *rebellion* when source and context support it. `sins` → **wrongdoings** or **wrongs** in plural-noun uses.
-2. **Verb**: `sin` → **do wrong / act wrongly / wrong someone**. `sinned` → **did wrong / acted wrongly / wronged**. `sinning` → **doing wrong**; make tense, aspect, negation, and object grammatical. `sins` may be a *third-person verb*, not a plural noun.
-3. **Human label**: `sinner(s)` → **person/people who do wrong**, **wrongdoer(s)** where succinctness matters, or a more precise description grounded in the context. Avoid implying that harm was imaginary.
-4. **Adjective**: `sinful` → **marked by wrongdoing**, **morally compromised**, or **wrongful** after syntactic review. Do not use “failure” to trivialize abuse, injustice, or cruelty.
-5. **Accidental vs deliberate**: use **error**, **mistake**, **unintentional wrong**, or **failure** only when textual context supports inadvertence, omission, uncertainty, or inability. Reserve **rebellion**, **injustice**, or **betrayal** for contexts demanding them.
-6. **Ritual `sin offering`**: review as **purification offering** where ḥaṭṭāʾt identifies the rite; preserve distinction between an offering and the wrong for which it is brought. Never globally replace the embedded word in the same verse.
-7. **Named place**: **wilderness of Sin** (Exodus 16:1 and related mentions) remains *Sin*. It is a geographical name, not wrongdoing.
-8. **Literary imagery**: retain *crouching at the door* (Genesis 4:7), *scarlet becoming white* (Isaiah 1:18), *enslavement / reigning* (John 8:34; Romans 6), *covering* (James 5:20), and the theological argument, changing only language that can be changed faithfully.
-9. **Search & notes**: reader text uses approved rendering, but glossary and search metadata retain traditional `sin`, `sinned`, `sinners`, etc. as discoverable aliases. Search aliases must never rewrite Scripture snippets or reader content; follow the reader's [alias-search display contract](https://github.com/drafthead/waywebsitenetlify/blob/netlify/app/ALIAS-SEARCH-UX.md).
-10. **Review-first release**: no live text edit, regenerated JSON, EPUB, mobile feed, or `main` merge without a signed-off verse ledger and standard QA.
+1. **Noun:** Start by trying `sin` → **moral failure** and plural `sins` → **moral failures**. Prefer **wrongdoing / wrongs** when intentional harm or force-personification calls for them; prefer *guilt*, *offense*, or *rebellion* only where supported by the source. Do not assume English `sins` is always a noun: it can be a third-person singular verb.
+2. **Verb:** Try `sin` → **fail morally**; `sinned` → **failed morally**; `sinning` → **failing morally**; `sins` as verb → **fails morally**. Where English requires an object, say **wronged [someone]**, **acted wrongly toward [someone]**, or **did wrong**. Preserve tense, aspect, idiom, and interpersonal responsibility.
+3. **Human label:** Try `sinner(s)` → **someone / people who have failed morally**, or **those who fail morally** for a habitual or general statement. Where conduct concretely harms others, **people who do wrong / wrongdoers** may be clearer. Avoid turning a person's actions into an essentialized identity. Never soften serial or deliberate abuse.
+4. **Adjective/abstract:** `sinful` → **marked by moral failure**, **morally compromised**, **wrongful** depending on grammar; `sinfulness` → **moral failure** or **pattern of wrongdoing** depending on whether a state or practice is meant. Preserve meaningful distinctions from weakness or sickness.
+5. **Unqualified failure:** Choose **failure**, **failed**, or **failings** only when this conveys a shortfall, omission, limited ability, or genuinely inadvertent action; it is not the universal replacement for culpable wrong.
+6. **Ritual and places:** `sin offering` requires source review and may become **purification offering** (not *moral failure offering*); **wilderness of Sin** stays *Sin*.
+7. **Source-specific divergence:** Keep *error/wandering* (especially Greek `planē`), *guilt* (`ʿavon` as context warrants), *rebellion* (`peshaʿ`), and other distinct concepts, rather than importing a preferred label.
+8. **Literary imagery:** retain *crouching at the door* (Genesis 4:7), *scarlet becoming white* (Isaiah 1:18), *enslavement / reigning* (John 8:34; Romans 6), *covering* (James 5:20), and the theological argument. In personification passages, **wrongdoing** may be more precise than **moral failure**.
+9. **Search & notes:** preserve `sin / sins / sinner / sinners / sinned / sinning` as legacy **search metadata** only, while the reader displays approved canonical wording. Follow the reader's [alias-search display contract](https://github.com/drafthead/waywebsitenetlify/blob/netlify/app/ALIAS-SEARCH-UX.md).
+10. **Release:** every occurrence remains an **unreviewed candidate** until source-context review. No bulk Scripture edits, generated JSON edits, EPUB publishing, or `main` merging under this draft PR.
 
 ## Passage-level draft comparisons (editorial candidates, not approved text)
 
-Each *candidate* is deliberately a working phrase or sentence, not a claim to have retranslated the entire verse from original-language witnesses.
+This table applies the **new preferred voice** to specific passages. Where *wrongdoing* or a ritual expression reads better, that is a reasoned exception, not a failure to follow the editor's preference. These are **English revision candidates**, not certified fresh translations from the original witnesses.
 
-| Ref | Currently problematic wording / feature | Suggested contextual direction | Review reason |
+| Reference | Existing focus | New proposed direction | Editorial reason / alternative |
 |---|---|---|---|
-| Genesis 4:7 | “sin crouches at the door” | “wrongdoing crouches at the door” | Keep powerful personification, not merely a mistake |
-| Genesis 20:9 | “How have I sinned against you … a great sin?” | “How have I wronged you … such a grave wrong?” | Two different grammatical functions in one verse |
-| Genesis 39:9 | “sin against Elohim” | “act wrongly against Elohim” / “do wrong before Elohim” | Personal and relational wrong |
-| Exodus 16:1 | “wilderness of Sin” | **keep `Sin`** | Proper geographical name |
-| Leviticus 4:3 | “priest sins … his sin … sinned … sin offering” | “priest does wrong … wrongdoing … did wrong … purification offering” | Four tokens in different grammatical/ritual roles |
-| Numbers 15:27 | “sins unwittingly … sin offering” | “does wrong unintentionally … purification offering” | Explicit inadvertence and separate offering |
-| Psalm 51:3 | “My sin is constantly before me” | “My wrongdoing is always before me” | Confession and responsibility |
-| Psalm 51:5 | “In sin my mother conceived me” | Explore “amid wrongdoing” while retaining poetry; **DO NOT auto-replace** | Contested anthropology and parallelism, avoid implicating mother without textual support |
-| Isaiah 1:18 | “Though your sins be as scarlet” | “Though your wrongdoings are scarlet” | Preserve the metaphor |
-| Matthew 26:28 | “remission of sins” | “forgiveness of wrongdoings” | Testament/covenant and forgiveness |
-| Mark 2:17 | “call … sinners to turning back” | “call … those who do wrong to turn back” | Person label and invitation |
-| Luke 15:7 | “one sinner who turns back” | “one person who has done wrong and turns back” | Keep restored course of life |
-| John 8:34 | “commits sin … bondservant of sin” | “continues doing wrong … enslaved to wrongdoing” | Greek verbal aspect and bondage metaphor need checking |
-| Romans 6:1 | “continue in sin” | “continue in wrongdoing” | Preserve debate over grace, not mere slip |
-| Romans 6:12 | “let sin reign” | “let wrongdoing reign” | Maintain personification |
-| 1 Corinthians 15:3 | “died for our sins” | “died for our wrongdoings” | Check received creedal formula and doctrinal ambiguity |
-| Hebrews 10:18 | “no more offering for sin” | “no further offering for wrongdoing” | Relationship of sacrifice and forgiveness |
-| James 5:20 | “turns a sinner from the error of their way … cover a multitude of sins” | “turns someone who has done wrong back from the error of their way … cover many wrongdoings” | Greek `hamartōlos` and distinct `planē`; retain turning/path image |
-| 1 John 1:8 | “we have no sin” | “we have no wrongdoing” / “we are free of wrongdoing” | Claim about moral state, not a one-off error |
-| Revelation 18:5 | “sins have reached to the sky” | “wrongdoings have reached to the sky” | Collective wrongdoing and judgment |
-| Revelation 21:8 | “sinners” in vice list | “people who do wrong” (review idiom in full list) | Avoid defining a person by a label without weakening moral import |
+| Genesis 4:7 | “sin crouches at the door” | **“wrongdoing crouches at the door”** | Retain force and personification; “moral failure crouches” is less idiomatic. |
+| Genesis 20:9 | “How have I sinned against you … a great sin?” | **“How have I wronged you … such a serious wrong?”** | Direct harm toward someone, two distinct grammatical uses. |
+| Genesis 39:9 | “sin against Elohim” | **“fail morally before Elohim”** / “do wrong against Elohim” | Compare whether this softens the serious act; retain context of betrayal. |
+| Exodus 16:1 | “wilderness of Sin” | **Keep “Sin”** | Proper place name. |
+| Leviticus 4:3 | “priest sins … his sin … sinned … sin offering” | **“priest fails morally … moral failure … failed morally … purification offering”** | First three are actions/liability; fourth is a distinct ritual noun. Review unintentional nature of priestly violation. |
+| Numbers 15:27 | “sins unwittingly … sin offering” | **“does wrong unknowingly … purification offering”** | Inadvertence is explicitly present; “failure” without qualification might lose guilt/remedy. |
+| Psalm 51:3 | “My sin is constantly before me” | **“My moral failure is always before me”** | Confession, not identity. |
+| Psalm 51:5 | “In sin my mother conceived me” | **Defer: evaluate “moral failure” in full parallelism** | High-risk; avoid inventing blame of the mother or a doctrine of inherited guilt. |
+| Isaiah 1:18 | “Though your sins be as scarlet” | **“Though your moral failures are as scarlet”** | Preserve the poetic contrast and responsibility. |
+| Matthew 26:28 | “remission of sins” | **“forgiveness of moral failures”** | Readable and appropriate first candidate; validate covenant and forgiveness vocabulary. |
+| Mark 2:17 | “call … sinners to turning back” | **“call … those who have failed morally to turn back”** | Invite change, not fixed identity; test naturalness in context. |
+| Luke 15:7 | “one sinner who turns back” | **“one person who has failed morally and turns back”** | Keep the return/rejoicing image. |
+| John 8:34 | “commits sin … bondservant of sin” | **“practices wrongdoing … enslaved to wrongdoing”** | Repeated harmful action / bondage image needs force; not a harmless shortfall. |
+| Romans 3:23 | “all have sinned and fall short” | **“all have failed morally and fall short”** | Alternative: “all have failed,” but it may duplicate “fall short”; compare Greek clauses. |
+| Romans 6:1 | “continue in sin” | **“continue in moral failure”** | Conveys ongoing practice and contrast with grace. |
+| Romans 6:12 | “let sin reign” | **“let wrongdoing reign”** | Keep the governing-force metaphor; first-choice term would be less vivid here. |
+| 1 Corinthians 15:3 | “died for our sins” | **“died for our moral failures”** | Keep received formula and theological claim open to source review. |
+| Hebrews 10:18 | “no more offering for sin” | **“no further offering for moral failure”** | Sacrificial context: distinguish sacrifice *for* moral failure from named `ḥaṭṭāʾt` ritual. |
+| James 5:20 | “turns a sinner from the error of their way … cover a multitude of sins” | **“turns a person who has failed morally back from the error of their way … cover many moral failures”** | `hamartōlos` (person label) and `planē` (error/going astray) are different, preserve both. |
+| 1 John 1:8 | “we have no sin” | **“there is no moral failure in us”** | Review fuller syntax: “If we claim there is no moral failure in us…” |
+| Revelation 18:5 | “her sins have reached to the sky” | **“her wrongdoings have reached to the sky”** | Corporate exploitation and judgment; “failures” might minimize harm. |
+| Revelation 21:8 | “sinners” within a vice list | **“those who persist in wrongdoing”** (subject to source review) | Serious conduct, not a permanent metaphysical label; ensure habituality is supported. |
 
 ## Review queues and required judgments
 
-**A — straightforward action/grammar:** individual past and participle forms, many plural nouns, personal wrongs; favor minimally invasive text diffs. **B — source-sensitive:** ambiguous `sin` / `sins`, moral state/identity, forgiveness, poems, covenant themes. **C — high-risk:** ritual offerings, inadvertent wrongdoing, Pauline personification, inherited-guilt constructions, contested manuscripts, and the proper noun *Sin*. A “wrongdoing” default is never grounds for silently passing Queue C.
+**A — straightforward action/grammar:** individual past and participle forms, many plural nouns, personal wrongs; favor minimally invasive text diffs. **B — source-sensitive:** ambiguous `sin` / `sins`, moral state/identity, forgiveness, poems, covenant themes. **C — high-risk:** ritual offerings, inadvertent wrongdoing, Pauline personification, inherited-guilt constructions, contested manuscripts, and the proper noun *Sin*. A “moral failure” preference never overrides Queue C source-sensitive analysis.
 
 A translator and second reviewer should evaluate Hebrew/Aramaic or Greek lemmas, context, manuscript issue if relevant, and alternatives. Keep reviewers' source notes and decisions alongside a row-level accepted wording rather than bulk-generating canonical text.
 
@@ -97,6 +121,6 @@ A translator and second reviewer should evaluate Hebrew/Aramaic or Greek lemmas,
 
 ## Explicit non-goals
 
-No global find-and-replace. No rewriting Hebrew/Greek evidence to fit the desired English. No claim that `sin` originally means *only* “missing the mark.” No doctrinal erasure, smoothing of violent injustice into “error,” live translation release, or app code changes within this proposal branch.
+No global find-and-replace and no misleading claim that “moral failure” is the literal source word everywhere. No rewriting Hebrew/Greek evidence to fit the desired English. No claim that `sin` originally means *only* “missing the mark.” No doctrinal erasure, smoothing of violent injustice into “error,” live translation release, or app code changes within this proposal branch.
 
 **Approval gate:** source-audited ledger + specific edits + diff inspection + canonical rebase + website search compatibility tests. All CSV candidates remain **UNREVIEWED** until that gate is met.
