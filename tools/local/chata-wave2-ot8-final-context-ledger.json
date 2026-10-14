@@ -1,0 +1,77 @@
+{
+  "baselineEpubSha256": "b5500415431a339ba10c7021e9b091b7af38f0badb2a4d9e1e7cc0e15f46b943",
+  "edits": [
+    {
+      "reference": "Leviticus 26:18",
+      "slug": "leviticus",
+      "chapter": 26,
+      "verse": 18,
+      "original": "\"'If you in spite of these things will not listen to me, then I will chastise you seven times more for your sins.",
+      "final": "\"'If you in spite of these things will not listen to me, then I will chastise you seven times more for your wrongdoings.",
+      "rationale": "Source context of responsibility, governing power, or plural moral failure; does not alter proper names."
+    },
+    {
+      "reference": "Leviticus 26:21",
+      "slug": "leviticus",
+      "chapter": 26,
+      "verse": 21,
+      "original": "\"'If you walk contrary to me, and won't listen to me, then I will bring seven times more plagues on you according to your sins.",
+      "final": "\"'If you walk contrary to me, and won't listen to me, then I will bring seven times more plagues on you according to your wrongdoings.",
+      "rationale": "Source context of responsibility, governing power, or plural moral failure; does not alter proper names."
+    },
+    {
+      "reference": "Leviticus 26:24",
+      "slug": "leviticus",
+      "chapter": 26,
+      "verse": 24,
+      "original": "then I will also walk contrary to you; and I will strike you, even I, seven times for your sins.",
+      "final": "then I will also walk contrary to you; and I will strike you, even I, seven times for your wrongdoings.",
+      "rationale": "Source context of responsibility, governing power, or plural moral failure; does not alter proper names."
+    },
+    {
+      "reference": "Leviticus 26:28",
+      "slug": "leviticus",
+      "chapter": 26,
+      "verse": 28,
+      "original": "then I will walk contrary to you in wrath; and I also will chastise you seven times for your sins.",
+      "final": "then I will walk contrary to you in wrath; and I also will chastise you seven times for your wrongdoings.",
+      "rationale": "Source context of responsibility, governing power, or plural moral failure; does not alter proper names."
+    },
+    {
+      "reference": "Numbers 32:14",
+      "slug": "numbers",
+      "chapter": 32,
+      "verse": 14,
+      "original": "Behold, you are risen up in your fathers' place, an increase of sinful men, to augment yet the fierce anger of YHWH toward Israel.",
+      "final": "Behold, you are risen up in your fathers' place, a new generation acting wrongly, to augment yet the fierce anger of YHWH toward Israel.",
+      "rationale": "Source context of responsibility, governing power, or plural moral failure; does not alter proper names."
+    },
+    {
+      "reference": "1 Corinthians 15:56",
+      "slug": "1-corinthians",
+      "chapter": 15,
+      "verse": 56,
+      "original": "The sting of death is sin, and the power of sin is the law.",
+      "final": "The sting of death is wrongdoing, and the power of wrongdoing is the law.",
+      "rationale": "Source context of responsibility, governing power, or plural moral failure; does not alter proper names."
+    },
+    {
+      "reference": "Galatians 1:4",
+      "slug": "galatians",
+      "chapter": 1,
+      "verse": 4,
+      "original": "who gave himself for our sins, that he might deliver us out of this present unripeness age, according to the will of our God and Cosmic Parent--",
+      "final": "who gave himself for our moral failures, that he might deliver us out of this present unripeness age, according to the will of our God and Cosmic Parent--",
+      "rationale": "Source context of responsibility, governing power, or plural moral failure; does not alter proper names."
+    },
+    {
+      "reference": "Galatians 3:22",
+      "slug": "galatians",
+      "chapter": 3,
+      "verse": 22,
+      "original": "But the Scriptures imprisoned all things under sin, that the promise by faith in Yeshua the Messiah might be given to those who trust.",
+      "final": "But the Scriptures imprisoned all things under wrongdoing, that the promise by faith in Yeshua the Messiah might be given to those who trust.",
+      "rationale": "Source context of responsibility, governing power, or plural moral failure; does not alter proper names."
+    }
+  ]
+}
