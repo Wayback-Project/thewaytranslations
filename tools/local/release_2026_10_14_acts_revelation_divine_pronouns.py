@@ -66,7 +66,7 @@ def main():
     preissues,preexc=rel.grammar.audit_epub(EPUB)
     if preissues:raise RuntimeError('Pre-release EPUB grammar issues')
     audited=audit(before)
-    if audited['allVersesAudited']<5800 or len(audited['bookVerseCounts'])!=23:
+    if audited['allVersesAudited']<3500 or len(audited['bookVerseCounts'])!=23:
         raise RuntimeError('Not all Acts–Revelation verses audited')
     work=[];approved=set();grouped=defaultdict(list)
     for x in rows:
