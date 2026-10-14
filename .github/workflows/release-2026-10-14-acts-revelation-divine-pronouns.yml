@@ -2,7 +2,7 @@ name: Release Acts Revelation God pronoun cleanup 2026-10-14
 on:
   push:
     branches: [main]
-    paths: ['.github/workflows/release-2026-10-14-acts-revelation-divine-pronouns.yml']
+    paths: ['.github/workflows/release-2026-10-14-acts-revelation-divine-pronouns.yml', 'tools/local/release_2026_10_14_acts_revelation_divine_pronouns.py']
   workflow_dispatch:
 permissions:
   contents: write
