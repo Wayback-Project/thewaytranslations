@@ -95,3 +95,7 @@ Additional 4 contextual God/pronoun verses after 66-verse Acts–Revelation rele
 ## 2026-10-15 Chata 54-verse finite release
 
 Exactly 54 context-sensitive edits from approved finite ledger. New canonical SHA-256: b5500415431a339ba10c7021e9b091b7af38f0badb2a4d9e1e7cc0e15f46b943. Remaining Chata instances pending contextual review. No earlier God-pronoun revisions changed.
+
+## 2026-10-15 Chata 666-verse finite release
+
+Exactly 666 context-sensitive edits from approved finite ledger. New canonical SHA-256: b1775a6ba98b7fbbef2a733890b5087e0835bcb4d647e520610704c6afdfb73e. Remaining Chata instances pending contextual review. No earlier God-pronoun revisions changed.
