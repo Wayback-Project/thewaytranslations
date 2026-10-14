@@ -81,15 +81,6 @@
       ]
     },
     {
-      "reference": "1 John 2:29",
-      "patches": [
-        [
-          "If you know that they are righteous, you know that everyone who practices righteousness is born of him",
-          "If you know that God is righteous, you know that everyone who practices righteousness is born of God"
-        ]
-      ]
-    },
-    {
       "reference": "1 John 3:19",
       "patches": [
         [
@@ -641,7 +632,8 @@
     "Revelation 22:3–4—God and Lamb joint throne",
     "2 Peter 3:9,13–14—Master's identity requires further manual interpretation",
     "1 Corinthians 8:6—Yeshua explicitly",
-    "Revelation 1:1—ambiguous divine/messianic pronoun"
+    "Revelation 1:1—ambiguous divine/messianic pronoun",
+    "1 John 2:29—shifting Jesus/God pronoun in transition from appearing Christ to born of God; requires detailed source-language editorial signoff"
   ],
   "textualNote": "James 1:12 earliest witnesses omit explicit subject; other witnesses add Lord or God. Adopt contextual God, explain not a uniform Greek God token; see https://www.biblegateway.com/passage/?search=James+1%3A12&version=NET.",
   "printStatus": "New canonical text to be recorded in Google Docs print handoff; physical Word master/PDF need separate reconciliation and proof."
