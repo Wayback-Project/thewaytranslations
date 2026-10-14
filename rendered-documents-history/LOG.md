@@ -47,3 +47,5 @@
 - 2026-10-14_115044UTC — complete Acts–Revelation lexical audit, 66 exact divine-referent verse corrections in 16 books; archived rendered-documents-history/2026-10-14_115044UTC/the-way-current.epub; new SHA 58ccf8deb2f65ecaa0b35ce7b35137221c95998cee23d6461d98e250c297b4fc.
 
 - 2026-10-14_120844UTC — Four extra Romans God-referent 4:21, 9:18, 15:10–11 exact changes; prior rendered-documents-history/2026-10-14_120844UTC/the-way-current.epub, SHA 094be0ae8786e2e407515b5485946fc8ce35162fc4d0e62815b7983cf3ec4ffa.
+
+- 2026-10-14_181639UTC — Chata 54 exact moral-failure / wrongdoing verses; previous EPUB archived: rendered-documents-history/2026-10-14_181639UTC/the-way-current.epub; new SHA-256 b5500415431a339ba10c7021e9b091b7af38f0badb2a4d9e1e7cc0e15f46b943.
