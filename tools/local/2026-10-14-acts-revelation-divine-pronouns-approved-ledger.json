@@ -1,0 +1,648 @@
+{
+  "releaseDate": "2026-10-14",
+  "release": "Acts to Revelation divine masculine reference residuals after Romans 11:34–36",
+  "baselineCanonicalEpubSha256": "66dd3351d1f4d79b35d50f167e6f311fc39ee73f3c7c9266ee779d25308aefef",
+  "scope": "Exact editorial reviewed verse fragment substitutions, canonically verified after release; no gender-neutralization of Jesus or human males.",
+  "patches": [
+    {
+      "reference": "James 1:12",
+      "patches": [
+        [
+          "which the Master promised to those who love him",
+          "which God promised to those who love God"
+        ]
+      ]
+    },
+    {
+      "reference": "James 1:18",
+      "patches": [
+        [
+          "Of his own will he brought us forth",
+          "Of God's own will God brought us forth"
+        ],
+        [
+          "first fruits of his creatures",
+          "first fruits of God's creatures"
+        ]
+      ]
+    },
+    {
+      "reference": "1 Peter 1:17",
+      "patches": [
+        [
+          "If you call on him as Cosmic Parent",
+          "If you call on the Cosmic Parent"
+        ]
+      ]
+    },
+    {
+      "reference": "1 Peter 5:7",
+      "patches": [
+        [
+          "casting all your worries on him, because he cares for you",
+          "casting all your worries on God, because God cares for you"
+        ]
+      ]
+    },
+    {
+      "reference": "2 Peter 2:5",
+      "patches": [
+        [
+          "when he brought a flood on the world of the ungodly",
+          "when God brought a flood on the world of the ungodly"
+        ]
+      ]
+    },
+    {
+      "reference": "1 John 1:7",
+      "patches": [
+        [
+          "as he is in the light",
+          "as God is in the light"
+        ]
+      ]
+    },
+    {
+      "reference": "1 John 1:9",
+      "patches": [
+        [
+          "he is faithful and righteous to forgive us the sins",
+          "God is faithful and righteous to forgive us the sins"
+        ]
+      ]
+    },
+    {
+      "reference": "1 John 1:10",
+      "patches": [
+        [
+          "we make him a liar, and his word is not in us",
+          "we make God a liar, and God's word is not in us"
+        ]
+      ]
+    },
+    {
+      "reference": "1 John 2:29",
+      "patches": [
+        [
+          "If you know that they are righteous, you know that everyone who practices righteousness is born of him",
+          "If you know that God is righteous, you know that everyone who practices righteousness is born of God"
+        ]
+      ]
+    },
+    {
+      "reference": "1 John 3:19",
+      "patches": [
+        [
+          "persuade our hearts before him",
+          "persuade our hearts before God"
+        ]
+      ]
+    },
+    {
+      "reference": "1 John 3:22",
+      "patches": [
+        [
+          "we receive from him, because we keep his commandments and do the things that are pleasing in his sight",
+          "we receive from God, because we keep God's commandments and do the things that are pleasing in God's sight"
+        ]
+      ]
+    },
+    {
+      "reference": "1 John 3:23",
+      "patches": [
+        [
+          "This is his commandment",
+          "This is God's commandment"
+        ],
+        [
+          "even as he commanded",
+          "even as God commanded"
+        ]
+      ]
+    },
+    {
+      "reference": "1 John 3:24",
+      "patches": [
+        [
+          "The one who keeps their commandments remains in him, and they in him. By this we know that he remains in us, by the Ruach which he gave us.",
+          "The one who keeps God's commandments remains in God, and God remains in them. By this we know that God remains in us, by the Ruach which God gave us."
+        ]
+      ]
+    },
+    {
+      "reference": "1 John 4:13",
+      "patches": [
+        [
+          "we remain in him and he in us, because he has given us of his Ruach",
+          "we remain in God and God remains in us, because God has given us of the Ruach"
+        ]
+      ]
+    },
+    {
+      "reference": "1 John 5:1",
+      "patches": [
+        [
+          "Whoever loves the father also loves the child who is born of him",
+          "Whoever loves the Cosmic Parent also loves the child who is born of the Cosmic Parent"
+        ]
+      ]
+    },
+    {
+      "reference": "2 John 1:6",
+      "patches": [
+        [
+          "we should walk according to his commandments",
+          "we should walk according to God's commandments"
+        ]
+      ]
+    },
+    {
+      "reference": "Revelation 11:15",
+      "patches": [
+        [
+          "the Reign of our Master, and of his Messiah. He will reign forever and ever",
+          "the Reign of our Master, and of God's Messiah. God will reign forever and ever"
+        ]
+      ]
+    },
+    {
+      "reference": "Revelation 12:10",
+      "patches": [
+        [
+          "the authority of his Messiah",
+          "the authority of God's Messiah"
+        ]
+      ]
+    },
+    {
+      "reference": "Revelation 21:4",
+      "patches": [
+        [
+          "He will wipe away from them every tear",
+          "God will wipe away from them every tear"
+        ]
+      ]
+    },
+    {
+      "reference": "Revelation 21:5",
+      "patches": [
+        [
+          "The one who sits on the throne said",
+          "God, who sits on the throne, said"
+        ],
+        [
+          "He said, \"Write, for these words of God are faithful and true.\"",
+          "God said, \"Write, for these words of God are faithful and true.\""
+        ]
+      ]
+    },
+    {
+      "reference": "Revelation 21:6",
+      "patches": [
+        [
+          "He said to me, \"It is done!",
+          "God said to me, \"It is done!"
+        ]
+      ]
+    },
+    {
+      "reference": "Hebrews 1:7",
+      "patches": [
+        [
+          "Of the angels he says",
+          "Of the angels God says"
+        ],
+        [
+          "Who makes his angels winds, and his servants a flame of fire",
+          "Who makes God's angels winds, and God's servants a flame of fire"
+        ]
+      ]
+    },
+    {
+      "reference": "Hebrews 1:13",
+      "patches": [
+        [
+          "But which of the angels has he told at any time",
+          "But which of the angels has God told at any time"
+        ]
+      ]
+    },
+    {
+      "reference": "Hebrews 2:5",
+      "patches": [
+        [
+          "For he didn't subject the world to come",
+          "For God didn't subject the world to come"
+        ]
+      ]
+    },
+    {
+      "reference": "Hebrews 2:10",
+      "patches": [
+        [
+          "For it became him, for whom are all things, and through whom are all things",
+          "For it was fitting for God, for whom are all things, and through whom are all things"
+        ]
+      ]
+    },
+    {
+      "reference": "Hebrews 3:15",
+      "patches": [
+        [
+          "Today if you will hear his voice",
+          "Today if you will hear God's voice"
+        ]
+      ]
+    },
+    {
+      "reference": "Hebrews 3:17",
+      "patches": [
+        [
+          "With whom was he displeased forty years",
+          "With whom was God displeased forty years"
+        ]
+      ]
+    },
+    {
+      "reference": "Hebrews 3:18",
+      "patches": [
+        [
+          "To whom did he swear that they wouldn't enter into his rest",
+          "To whom did God swear that they wouldn't enter into God's rest"
+        ]
+      ]
+    },
+    {
+      "reference": "Hebrews 4:3",
+      "patches": [
+        [
+          "even as he has said",
+          "even as God has said"
+        ]
+      ]
+    },
+    {
+      "reference": "Hebrews 4:7",
+      "patches": [
+        [
+          "he again defines a certain day",
+          "God again defines a certain day"
+        ],
+        [
+          "Today if you will hear his voice",
+          "Today if you will hear God's voice"
+        ]
+      ]
+    },
+    {
+      "reference": "Hebrews 4:13",
+      "patches": [
+        [
+          "There is no creature that is hidden from his sight, but all things are naked and laid open before the eyes of him with whom we have to do",
+          "There is no creature hidden from God's sight, but all things are naked and laid open before the eyes of God, to whom we must give account"
+        ]
+      ]
+    },
+    {
+      "reference": "Hebrews 8:5",
+      "patches": [
+        [
+          "for he said, \"See, you shall make everything",
+          "for God said, \"See, you shall make everything"
+        ]
+      ]
+    },
+    {
+      "reference": "Hebrews 8:8",
+      "patches": [
+        [
+          "For finding fault with them, he said",
+          "For finding fault with them, God said"
+        ]
+      ]
+    },
+    {
+      "reference": "Hebrews 8:13",
+      "patches": [
+        [
+          "In that he says, \"A new covenant,\" he has made the first old",
+          "By saying, \"A new covenant,\" God has made the first old"
+        ]
+      ]
+    },
+    {
+      "reference": "Hebrews 10:16",
+      "patches": [
+        [
+          "then he says",
+          "then the Master says"
+        ]
+      ]
+    },
+    {
+      "reference": "Hebrews 11:11",
+      "patches": [
+        [
+          "since she counted him faithful who had promised",
+          "since she counted God faithful who had promised"
+        ]
+      ]
+    },
+    {
+      "reference": "Hebrews 12:5",
+      "patches": [
+        [
+          "nor faint when you are reproved by him",
+          "nor faint when you are reproved by the Master"
+        ]
+      ]
+    },
+    {
+      "reference": "Hebrews 12:6",
+      "patches": [
+        [
+          "For whom the Master loves, he chastens, and scourges every son whom he receives",
+          "For whom the Master loves, the Master chastens, and scourges every child whom the Master receives"
+        ]
+      ]
+    },
+    {
+      "reference": "Hebrews 12:10",
+      "patches": [
+        [
+          "but he for our profit, that we may be partakers of his holiness",
+          "but the Cosmic Parent for our profit, that we may be partakers of the Cosmic Parent's holiness"
+        ]
+      ]
+    },
+    {
+      "reference": "Hebrews 12:26",
+      "patches": [
+        [
+          "but now he has promised",
+          "but now God has promised"
+        ]
+      ]
+    },
+    {
+      "reference": "Hebrews 13:5",
+      "patches": [
+        [
+          "for he has said",
+          "for God has said"
+        ]
+      ]
+    },
+    {
+      "reference": "Hebrews 13:21",
+      "patches": [
+        [
+          "to do his will, working in you that which is well pleasing in his sight",
+          "to do God's will, working in you that which is well pleasing in God's sight"
+        ]
+      ]
+    },
+    {
+      "reference": "Romans 1:2",
+      "patches": [
+        [
+          "which he promised before through his prophets",
+          "which God promised before through God's prophets"
+        ]
+      ]
+    },
+    {
+      "reference": "Romans 1:20",
+      "patches": [
+        [
+          "invisible things of him since the creation",
+          "invisible things of God since the creation"
+        ],
+        [
+          "even his everlasting power and divinity",
+          "even God's everlasting power and divinity"
+        ]
+      ]
+    },
+    {
+      "reference": "Romans 2:18",
+      "patches": [
+        [
+          "and know his will",
+          "and know God's will"
+        ]
+      ]
+    },
+    {
+      "reference": "Romans 3:20",
+      "patches": [
+        [
+          "no flesh will be justified in his sight",
+          "no flesh will be justified in God's sight"
+        ]
+      ]
+    },
+    {
+      "reference": "Romans 3:24",
+      "patches": [
+        [
+          "being justified freely by his grace",
+          "being justified freely by God's grace"
+        ]
+      ]
+    },
+    {
+      "reference": "Romans 8:3",
+      "patches": [
+        [
+          "he condemned sin in the flesh",
+          "God condemned sin in the flesh"
+        ]
+      ]
+    },
+    {
+      "reference": "Romans 9:15",
+      "patches": [
+        [
+          "For he said to Moshe",
+          "For God said to Moshe"
+        ]
+      ]
+    },
+    {
+      "reference": "Romans 9:19",
+      "patches": [
+        [
+          "Why does he still find fault? For who withstands his will?",
+          "Why does God still find fault? For who withstands God's will?"
+        ]
+      ]
+    },
+    {
+      "reference": "Romans 9:24",
+      "patches": [
+        [
+          "us, whom he also called",
+          "us, whom God also called"
+        ]
+      ]
+    },
+    {
+      "reference": "Romans 9:25",
+      "patches": [
+        [
+          "As he says also in Hoshea",
+          "As God says also in Hoshea"
+        ]
+      ]
+    },
+    {
+      "reference": "1 Corinthians 15:27",
+      "patches": [
+        [
+          "\"He put all things in subjection under his feet.\" But when he says, \"All things are put in subjection,\" it is evident that he is excepted who subjected all things to him",
+          "\"God put all things in subjection under the Messiah's feet.\" But when Scripture says, \"All things are put in subjection,\" it is evident that God is excepted, who subjected all things to the Messiah"
+        ]
+      ]
+    },
+    {
+      "reference": "2 Corinthians 1:10",
+      "patches": [
+        [
+          "on whom we have set our hope that he will also still deliver us",
+          "on God we have set our hope that God will also still deliver us"
+        ]
+      ]
+    },
+    {
+      "reference": "2 Corinthians 6:2",
+      "patches": [
+        [
+          "for he says, \"At an acceptable time",
+          "for God says, \"At an acceptable time"
+        ]
+      ]
+    },
+    {
+      "reference": "2 Corinthians 8:19",
+      "patches": [
+        [
+          "to the glory of God himself",
+          "to the glory of God"
+        ]
+      ]
+    },
+    {
+      "reference": "Galatians 3:5",
+      "patches": [
+        [
+          "He therefore who supplies the Ruach to you, and works miracles among you, does he do it",
+          "Does God, who supplies the Ruach to you and works miracles among you, do it"
+        ]
+      ]
+    },
+    {
+      "reference": "Ephesians 2:7",
+      "patches": [
+        [
+          "he might show the exceeding riches of his grace",
+          "God might show the exceeding riches of God's grace"
+        ]
+      ]
+    },
+    {
+      "reference": "Ephesians 2:10",
+      "patches": [
+        [
+          "For we are his workmanship",
+          "For we are God's workmanship"
+        ]
+      ]
+    },
+    {
+      "reference": "Ephesians 3:11",
+      "patches": [
+        [
+          "the age-enduring purpose which he purposed in Messiah Yeshua",
+          "the age-enduring purpose which God purposed in Messiah Yeshua"
+        ]
+      ]
+    },
+    {
+      "reference": "Colossians 1:9",
+      "patches": [
+        [
+          "knowledge of his will",
+          "knowledge of God's will"
+        ]
+      ]
+    },
+    {
+      "reference": "Colossians 1:11",
+      "patches": [
+        [
+          "according to the might of his glory",
+          "according to the might of God's glory"
+        ]
+      ]
+    },
+    {
+      "reference": "Colossians 1:26",
+      "patches": [
+        [
+          "revealed to his saints",
+          "revealed to God's saints"
+        ]
+      ]
+    },
+    {
+      "reference": "Colossians 2:13",
+      "patches": [
+        [
+          "He made you alive together with him",
+          "God made you alive together with him"
+        ]
+      ]
+    },
+    {
+      "reference": "1 Thessalonians 1:10",
+      "patches": [
+        [
+          "whom he raised from the dead--Yeshua",
+          "whom God raised from the dead--Yeshua"
+        ]
+      ]
+    },
+    {
+      "reference": "2 Thessalonians 2:14",
+      "patches": [
+        [
+          "to which he called you through our good news",
+          "to which God called you through our good news"
+        ]
+      ]
+    },
+    {
+      "reference": "Titus 1:16",
+      "patches": [
+        [
+          "by their works they deny him",
+          "by their works they deny God"
+        ]
+      ]
+    }
+  ],
+  "protectedExamples": [
+    "James 2:21–23—Avraham and Yitzhak",
+    "Acts 20:28—complex God/Master and blood antecedent",
+    "1 John 2:3–6—Yeshua or shifting referent",
+    "1 John 3:2—Yeshua's appearance",
+    "1 John 5:14–15—Son or God ambiguous",
+    "Revelation 22:3–4—God and Lamb joint throne",
+    "2 Peter 3:9,13–14—Master's identity requires further manual interpretation",
+    "1 Corinthians 8:6—Yeshua explicitly",
+    "Revelation 1:1—ambiguous divine/messianic pronoun"
+  ],
+  "textualNote": "James 1:12 earliest witnesses omit explicit subject; other witnesses add Lord or God. Adopt contextual God, explain not a uniform Greek God token; see https://www.biblegateway.com/passage/?search=James+1%3A12&version=NET.",
+  "printStatus": "New canonical text to be recorded in Google Docs print handoff; physical Word master/PDF need separate reconciliation and proof."
+}
