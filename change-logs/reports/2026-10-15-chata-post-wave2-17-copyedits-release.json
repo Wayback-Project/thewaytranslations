@@ -1,0 +1,199 @@
+{
+  "date": "2026-10-15",
+  "release": "Chata 17 post-wave2 copyedits, natural grammar and faithful referents",
+  "priorEpubSha256": "b1775a6ba98b7fbbef2a733890b5087e0835bcb4d647e520610704c6afdfb73e",
+  "releasedEpubSha256": "4fbfbd979b9f6a37397ac21c17ad25bcae4d7743559fd8454abdfcd6d819df98",
+  "changedVerseCount": 17,
+  "changes": [
+    {
+      "reference": "Genesis 13:13",
+      "slug": "genesis",
+      "chapter": 13,
+      "verse": 13,
+      "original": "Now the men of Sedom were exceedingly wicked and those who do wrong against YHWH.",
+      "final": "Now the men of Sedom were exceedingly wicked, committing grave wrongs against YHWH.",
+      "rationale": "Copyedit: preserve source-sensitive wrongdoing concept and agency while repairing grammar and idiom in the published Chata wave 2 verse."
+    },
+    {
+      "reference": "Exodus 23:33",
+      "slug": "exodus",
+      "chapter": 23,
+      "verse": 33,
+      "original": "They shall not dwell in your land, lest they lead you into wrongdoing against me, for if you serve their gods, it will surely be a snare to you.\"",
+      "final": "They shall not dwell in your land, lest they lead you to act unfaithfully toward me, for if you serve their gods, it will surely be a snare to you.\"",
+      "rationale": "Copyedit: preserve source-sensitive wrongdoing concept and agency while repairing grammar and idiom in the published Chata wave 2 verse."
+    },
+    {
+      "reference": "Exodus 32:33",
+      "slug": "exodus",
+      "chapter": 32,
+      "verse": 33,
+      "original": "YHWH said to Moshe, \"Whoever has done wrong against me, him will I blot out of my book.",
+      "final": "YHWH said to Moshe, \"Whoever has acted wrongly toward me, I will blot that person out of my book.",
+      "rationale": "Copyedit: preserve source-sensitive wrongdoing concept and agency while repairing grammar and idiom in the published Chata wave 2 verse."
+    },
+    {
+      "reference": "Numbers 5:6",
+      "slug": "numbers",
+      "chapter": 5,
+      "verse": 6,
+      "original": "\"Speak to the children of Israel: When someone or woman commits a wrongdoing of the kind people commit, so as to trespass against YHWH, and that soul is guilty;",
+      "final": "\"Speak to the children of Israel: When anyone commits wrongdoing and so acts unfaithfully toward YHWH, that person is guilty;",
+      "rationale": "Copyedit: preserve source-sensitive wrongdoing concept and agency while repairing grammar and idiom in the published Chata wave 2 verse."
+    },
+    {
+      "reference": "Numbers 15:28",
+      "slug": "numbers",
+      "chapter": 15,
+      "verse": 28,
+      "original": "The priest shall make atonement for the soul who errs, when he acts wrongly unknowingly, before YHWH, to make atonement for him; and he shall be forgiven.",
+      "final": "The priest shall make atonement for the soul who errs, when that person has done wrong unintentionally, before YHWH, to make atonement for him; and he shall be forgiven.",
+      "rationale": "Copyedit: preserve source-sensitive wrongdoing concept and agency while repairing grammar and idiom in the published Chata wave 2 verse."
+    },
+    {
+      "reference": "Numbers 32:23",
+      "slug": "numbers",
+      "chapter": 32,
+      "verse": 23,
+      "original": "But if you will not do so, behold, you have done wrong against YHWH; and be sure your wrongdoing will find you out.",
+      "final": "But if you will not do so, behold, you have acted wrongly toward YHWH; and be sure your wrongdoing will find you out.",
+      "rationale": "Copyedit: preserve source-sensitive wrongdoing concept and agency while repairing grammar and idiom in the published Chata wave 2 verse."
+    },
+    {
+      "reference": "Deuteronomy 20:18",
+      "slug": "deuteronomy",
+      "chapter": 20,
+      "verse": 18,
+      "original": "that they not teach you to do after all their abominations, which they have done to their gods; so would you do wrong against YHWH your God.",
+      "final": "that they not teach you to do after all their abominations, which they have done to their gods; so would you act wrongly toward YHWH your God.",
+      "rationale": "Copyedit: preserve source-sensitive wrongdoing concept and agency while repairing grammar and idiom in the published Chata wave 2 verse."
+    },
+    {
+      "reference": "1 Samuel 2:25",
+      "slug": "1-samuel",
+      "chapter": 2,
+      "verse": 25,
+      "original": "If one person wrongs another, Elohim shall judge him; but if someone does wrong against YHWH, who shall entreat for them? Notwithstanding, they didn't listen to the voice of their father, because YHWH was minded to kill them.",
+      "final": "If one person wrongs another, Elohim shall judge him; but if someone acts wrongly toward YHWH, who shall entreat for them? Notwithstanding, they didn't listen to the voice of their father, because YHWH was minded to kill them.",
+      "rationale": "Copyedit: preserve source-sensitive wrongdoing concept and agency while repairing grammar and idiom in the published Chata wave 2 verse."
+    },
+    {
+      "reference": "1 Samuel 14:33",
+      "slug": "1-samuel",
+      "chapter": 14,
+      "verse": 33,
+      "original": "Then they told Shaul, saying, Behold, the people do wrong against YHWH, in that they eat with the blood. He said, you have dealt treacherously: roll a great stone to me this day.",
+      "final": "Then they told Shaul, saying, Behold, the people act wrongly toward YHWH, in that they eat with the blood. He said, you have dealt treacherously: roll a great stone to me this day.",
+      "rationale": "Copyedit: preserve source-sensitive wrongdoing concept and agency while repairing grammar and idiom in the published Chata wave 2 verse."
+    },
+    {
+      "reference": "1 Samuel 14:34",
+      "slug": "1-samuel",
+      "chapter": 14,
+      "verse": 34,
+      "original": "Shaul said, Disperse yourselves among the people, and tell them, Bring me here everyone their ox, and everyone their sheep, and kill them here, and eat; and don't do wrong against YHWH in eating with the blood. All the people brought everyone their ox with him that night, and killed them there.",
+      "final": "Shaul said, Disperse yourselves among the people, and tell them, Bring me here everyone their ox, and everyone their sheep, and kill them here, and eat; and don't act wrongly toward YHWH in eating with the blood. All the people brought everyone their ox with him that night, and killed them there.",
+      "rationale": "Copyedit: preserve source-sensitive wrongdoing concept and agency while repairing grammar and idiom in the published Chata wave 2 verse."
+    },
+    {
+      "reference": "2 Samuel 12:13",
+      "slug": "2-samuel",
+      "chapter": 12,
+      "verse": 13,
+      "original": "Dawid said to Natan, \"I have done wrong against YHWH.\" Natan said to Dawid, \"YHWH also has put away your wrongdoing. You will not die.",
+      "final": "Dawid said to Natan, \"I have committed wrongdoing before YHWH.\" Natan said to Dawid, \"YHWH also has put away your wrongdoing. You will not die.",
+      "rationale": "Copyedit: preserve source-sensitive wrongdoing concept and agency while repairing grammar and idiom in the published Chata wave 2 verse."
+    },
+    {
+      "reference": "1 Kings 8:46",
+      "slug": "1-kings",
+      "chapter": 8,
+      "verse": 46,
+      "original": "If they do wrong against you (for there is no one who never does wrong), and you are angry with them, and deliver them to the enemy, so that they carry them away captive to the land of the enemy, far off or near;",
+      "final": "If they act wrongly toward you (for there is no one who never does wrong), and you are angry with them, and deliver them to the enemy, so that they carry them away captive to the land of the enemy, far off or near;",
+      "rationale": "Copyedit: preserve source-sensitive wrongdoing concept and agency while repairing grammar and idiom in the published Chata wave 2 verse."
+    },
+    {
+      "reference": "2 Chronicles 6:36",
+      "slug": "2-chronicles",
+      "chapter": 6,
+      "verse": 36,
+      "original": "If they do wrong against you (for there is no one who never does wrong), and you are angry with them, and deliver them to the enemy, so that they carry them away captive to a land far off or near;",
+      "final": "If they act wrongly toward you (for there is no one who never does wrong), and you are angry with them, and deliver them to the enemy, so that they carry them away captive to a land far off or near;",
+      "rationale": "Copyedit: preserve source-sensitive wrongdoing concept and agency while repairing grammar and idiom in the published Chata wave 2 verse."
+    },
+    {
+      "reference": "Psalms 78:17",
+      "slug": "psalms",
+      "chapter": 78,
+      "verse": 17,
+      "original": "Yet they still went on to do wrong against the Most High, to rebel against the Most High in the desert.",
+      "final": "Yet they still went on to act wrongly toward the Most High, to rebel against the Most High in the desert.",
+      "rationale": "Copyedit: preserve source-sensitive wrongdoing concept and agency while repairing grammar and idiom in the published Chata wave 2 verse."
+    },
+    {
+      "reference": "Psalms 119:11",
+      "slug": "psalms",
+      "chapter": 119,
+      "verse": 11,
+      "original": "I have hidden your word in my heart, that I might not do wrong against you.",
+      "final": "I have hidden your word in my heart, that I might not act wrongly toward you.",
+      "rationale": "Copyedit: preserve source-sensitive wrongdoing concept and agency while repairing grammar and idiom in the published Chata wave 2 verse."
+    },
+    {
+      "reference": "1 Corinthians 6:18",
+      "slug": "1-corinthians",
+      "chapter": 6,
+      "verse": 18,
+      "original": "Flee sexual immorality! \"Every moral failure that a person commits is outside the body,\" but the one who commits sexual immorality does wrong against their own body.",
+      "final": "Flee sexual immorality! \"Every moral failure that a person commits is outside the body,\" but the one who commits sexual immorality wrongs their own body.",
+      "rationale": "Copyedit: preserve source-sensitive wrongdoing concept and agency while repairing grammar and idiom in the published Chata wave 2 verse."
+    },
+    {
+      "reference": "Hebrews 12:3",
+      "slug": "hebrews",
+      "chapter": 12,
+      "verse": 3,
+      "original": "For consider the one who has endured such hostility from people who do wrong against themselves, that you don't grow weary, fainting in your souls.",
+      "final": "Consider the one who endured such hostility from people who acted wrongly toward him, so that you will not grow weary or lose heart.",
+      "rationale": "Copyedit: preserve source-sensitive wrongdoing concept and agency while repairing grammar and idiom in the published Chata wave 2 verse."
+    }
+  ],
+  "archivedPriorEpub": "rendered-documents-history/2026-10-15_032959UTC/the-way-current.epub",
+  "changedEpubMembers": [
+    "OEBPS/Text/1-corinthians.xhtml",
+    "OEBPS/Text/1-kings.xhtml",
+    "OEBPS/Text/1-samuel.xhtml",
+    "OEBPS/Text/2-chronicles.xhtml",
+    "OEBPS/Text/2-samuel.xhtml",
+    "OEBPS/Text/deuteronomy.xhtml",
+    "OEBPS/Text/exodus.xhtml",
+    "OEBPS/Text/genesis.xhtml",
+    "OEBPS/Text/hebrews.xhtml",
+    "OEBPS/Text/numbers.xhtml",
+    "OEBPS/Text/psalms.xhtml"
+  ],
+  "canonicalFallback": {
+    "schemaVersion": 1,
+    "releaseId": "canonical-4fbfbd979b9f6a37",
+    "canonicalEpubSha256": "4fbfbd979b9f6a37397ac21c17ad25bcae4d7743559fd8454abdfcd6d819df98",
+    "generatedAt": "2026-10-15T03:29:59Z",
+    "contentSha256": "0ec79f10ba5599730e069279c75eadb424bac62dfcff57b409427f00db8802df",
+    "contentBytes": 30154292,
+    "contentUrl": "https://raw.githubusercontent.com/Wayback-Project/thewaytranslations/main/current-form-documents/mobile-reader/content.json",
+    "source": "canonical-github-fallback",
+    "bookCount": 66,
+    "chapterCount": 1189,
+    "verseSearchCount": 31102
+  },
+  "qa": {
+    "expectedVerses": 31102,
+    "afterVerses": 31102,
+    "exactDiffVerses": 17,
+    "priorMasculinePronounReleasePreserved": true,
+    "epubZipXmlLinks": "pass",
+    "articleGrammar": "pass"
+  },
+  "remainingSinFamily": "Six proper Sin place names and seven held source cases remain unchanged; full audit documents residuals",
+  "printStatus": "Google Doc print ledger and Word handoff need update; printed PDF/full print master separate"
+}

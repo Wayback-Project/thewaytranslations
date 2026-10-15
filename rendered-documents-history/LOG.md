@@ -51,3 +51,5 @@
 - 2026-10-14_181639UTC — Chata 54 exact moral-failure / wrongdoing verses; previous EPUB archived: rendered-documents-history/2026-10-14_181639UTC/the-way-current.epub; new SHA-256 b5500415431a339ba10c7021e9b091b7af38f0badb2a4d9e1e7cc0e15f46b943.
 
 - 2026-10-14_200201UTC — Chata 666 exact moral-failure / wrongdoing verses; previous EPUB archived: rendered-documents-history/2026-10-14_200201UTC/the-way-current.epub; new SHA-256 b1775a6ba98b7fbbef2a733890b5087e0835bcb4d647e520610704c6afdfb73e.
+
+- 2026-10-15_032959UTC — Chata 17 post-wave2 careful grammar/referent corrections; previous EPUB archived: rendered-documents-history/2026-10-15_032959UTC/the-way-current.epub; new SHA-256 4fbfbd979b9f6a37397ac21c17ad25bcae4d7743559fd8454abdfcd6d819df98.

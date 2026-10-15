@@ -99,3 +99,7 @@ Exactly 54 context-sensitive edits from approved finite ledger. New canonical SH
 ## 2026-10-15 Chata 666-verse finite release
 
 Exactly 666 context-sensitive edits from approved finite ledger. New canonical SHA-256: b1775a6ba98b7fbbef2a733890b5087e0835bcb4d647e520610704c6afdfb73e. Remaining Chata instances pending contextual review. No earlier God-pronoun revisions changed.
+
+## 2026-10-15 Chata 17 post-wave2 copyedits
+
+Exactly 17 idiomatic grammar and semantic copyedits, preserving previous 666 verse corrections. New canonical SHA-256: 4fbfbd979b9f6a37397ac21c17ad25bcae4d7743559fd8454abdfcd6d819df98. Remaining Chata instances pending contextual review. No earlier God-pronoun revisions changed.
