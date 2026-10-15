@@ -1,0 +1,54 @@
+name: Genesis human and woman language — canonical release
+on:
+  pull_request:
+    paths:
+      - 'editor-notes/proposals/2026-10-15-genesis-human-woman-consistency.md'
+      - 'tools/local/genesis-human-woman-consistency-2026-10-15.json'
+      - 'tools/local/release_2026_10_15_genesis_human_woman.py'
+      - '.github/workflows/release-2026-10-15-genesis-human-woman.yml'
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/release-2026-10-15-genesis-human-woman.yml'
+permissions:
+  contents: write
+concurrency:
+  group: way-genesis-person-language-2026-10-15
+  cancel-in-progress: false
+jobs:
+  preview:
+    if: github.event_name == 'pull_request'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: '3.12'}
+      - name: Validate release script syntax and exact approved ledger
+        run: |
+          python -m py_compile tools/local/release_2026_10_15_genesis_human_woman.py
+          python tools/local/release_2026_10_15_genesis_human_woman.py --check-only
+  release:
+    if: github.event_name == 'push'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: {ref: main, fetch-depth: 0}
+      - uses: actions/setup-python@v5
+        with: {python-version: '3.12'}
+      - name: Reverify live baseline and exact 10 Genesis verses
+        run: python tools/local/release_2026_10_15_genesis_human_woman.py --check-only
+      - name: Archive old EPUB, release exact edits, generate GitHub mobile fallback
+        run: python tools/local/release_2026_10_15_genesis_human_woman.py
+      - name: Commit only validated canonical release artifacts
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add current-form-documents/the-way-current.epub current-form-documents/mobile-reader current-form-documents/original-name-registry.json
+          git add current-form-documents/README.md current-form-documents/EPUB-REFRESH-INSTRUCTIONS.md README.md
+          git add rendered-documents-history/ change-logs/reports/2026-10-15-genesis-human-woman-consistency-release.json
+          git add editor-notes/consistency/2026-10-15-genesis-human-woman-consistency-release.md
+          git diff --cached --quiet && { echo 'Missing generated Scripture release' >&2; exit 1; }
+          git commit -m 'Release Genesis 2–5 man and woman terminology, exact 10 verses'
+          git push origin HEAD:main
