@@ -1,0 +1,54 @@
+name: Chata post-wave-2 17 contextual copyedits
+on:
+  pull_request:
+    paths:
+      - '.github/workflows/release-2026-10-15-chata-polish.yml'
+      - 'tools/local/release_2026_10_15_chata_post_wave2_copyedits.py'
+      - 'tools/local/chata-wave2-post-qa-copyedits.json'
+  push:
+    branches: [main]
+    paths: ['.github/workflows/release-2026-10-15-chata-polish.yml']
+permissions:
+  contents: write
+concurrency:
+  group: chata-wave2-2026-10-15-release
+  cancel-in-progress: false
+jobs:
+  preview:
+    if: github.event_name == 'pull_request'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: '3.12'}
+      - name: Syntax validate canonical release runner
+        run: python -m py_compile tools/local/release_2026_10_15_chata_post_wave2_copyedits.py
+      - name: Verify latest canonical SHA, every full verse, all 17 XHTML edits, historical pronouns
+        run: python tools/local/release_2026_10_15_chata_post_wave2_copyedits.py --check-only
+  release:
+    if: github.event_name == 'push'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: {ref: main, fetch-depth: 0}
+      - uses: actions/setup-python@v5
+        with: {python-version: '3.12'}
+      - name: Verify the immutable baseline and 17 exact copyedits
+        run: python tools/local/release_2026_10_15_chata_post_wave2_copyedits.py --check-only
+      - name: Publish exactly 17 verses and canonical public mobile fallback
+        run: python tools/local/release_2026_10_15_chata_post_wave2_copyedits.py
+      - name: Commit the canonical EPUB and release artifacts atomically
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add current-form-documents/the-way-current.epub current-form-documents/mobile-reader current-form-documents/original-name-registry.json
+          git add current-form-documents/README.md current-form-documents/EPUB-REFRESH-INSTRUCTIONS.md
+          git add rendered-documents-history/
+          git add change-logs/reports/2026-10-15-chata-post-wave2-17-copyedits-release.json
+          git add editor-notes/consistency/2026-10-15-chata-wave2-666-verse-release.md
+          git add README.md
+          git diff --cached --quiet && { echo 'No canonical changes generated' >&2; exit 1; }
+          git commit -m 'Release Chata post-wave2: 17 exact contextual copyedits'
+          git push origin HEAD:main
