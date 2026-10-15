@@ -1,0 +1,118 @@
+{
+  "release": "Genesis human/man/woman/Havvah consistency",
+  "date": "2026-10-15",
+  "status": "user-approved-exact-scope-pending-validation",
+  "canonicalBaselineEpubSha256": "4fbfbd979b9f6a37397ac21c17ad25bcae4d7743559fd8454abdfcd6d819df98",
+  "canonicalBaselineCommit": "72d48341089c0d791243bd8732c1b9755e36f4c5",
+  "changedVerseCount": 10,
+  "edits": [
+    {
+      "slug": "genesis",
+      "chapter": 2,
+      "verse": 20,
+      "reference": "Genesis 2:20",
+      "original": "The man gave names to all livestock, and to the birds of the heavens, and to every animal of the field; but for the human there was not found a helper comparable to the human.",
+      "final": "The man gave names to all livestock, and to the birds of the heavens, and to every animal of the field; but no helper corresponding to him was found.",
+      "reason": "Hebrew ezer kenegdo: corresponding counterpart, not inferior helper."
+    },
+    {
+      "slug": "genesis",
+      "chapter": 2,
+      "verse": 21,
+      "reference": "Genesis 2:21",
+      "original": "YHWH Elohim caused the human to fall into a deep sleep. As the human slept, YHWH Elohim took one of the human’s ribs, and closed up the flesh in its place.",
+      "final": "YHWH Elohim caused the man to fall into a deep sleep. As he slept, YHWH Elohim took one of his ribs, and closed up the flesh in its place.",
+      "reason": "Distinguish the specific male person once the companion is introduced."
+    },
+    {
+      "slug": "genesis",
+      "chapter": 2,
+      "verse": 22,
+      "reference": "Genesis 2:22",
+      "original": "YHWH Elohim made a woman from the rib which YHWH Elohim had taken from the human, and brought her to the human.",
+      "final": "YHWH Elohim made a woman from the rib which YHWH Elohim had taken from the man, and brought her to him.",
+      "reason": "The woman is equally human; translated human/ground wordplay was already established."
+    },
+    {
+      "slug": "genesis",
+      "chapter": 2,
+      "verse": 25,
+      "reference": "Genesis 2:25",
+      "original": "The man and his wife were both naked, and they were not ashamed.",
+      "final": "The man and the woman were both naked, and they were not ashamed.",
+      "reason": "Approved symmetric naming; Hebrew is literally the man and his wife."
+    },
+    {
+      "slug": "genesis",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "Genesis 3:8",
+      "original": "They heard the voice of YHWH Elohim walking in the garden in the wind of the day, and the man and his wife hid themselves from the face of YHWH Elohim among the trees of the garden.",
+      "final": "They heard the voice of YHWH Elohim walking in the garden in the wind of the day, and the man and the woman hid themselves from the face of YHWH Elohim among the trees of the garden.",
+      "reason": "Approved symmetric naming in joint action; Hebrew literally the man and his wife."
+    },
+    {
+      "slug": "genesis",
+      "chapter": 3,
+      "verse": 20,
+      "reference": "Genesis 3:20",
+      "original": "The man named his wife Havvah, because she became the mother of all the living.",
+      "final": "The man called his wife Havvah, because she became the mother of all the living.",
+      "reason": "Approved naming wording; Hebrew wayyiqra ha-adam shem ishto chavvah."
+    },
+    {
+      "slug": "genesis",
+      "chapter": 3,
+      "verse": 21,
+      "reference": "Genesis 3:21",
+      "original": "YHWH Elohim made garments of animal skins for Adam and for his wife, and clothed them.",
+      "final": "YHWH Elohim made garments of animal skins for Adam and Havvah, and clothed them.",
+      "reason": "Approved balanced personal names after 3:20 names Havvah."
+    },
+    {
+      "slug": "genesis",
+      "chapter": 4,
+      "verse": 1,
+      "reference": "Genesis 4:1",
+      "original": "Adam knew Havvah his wife. She conceived, and gave birth to Qayin, and said, “I have gotten a person with YHWH’s help.”",
+      "final": "Adam knew Havvah. She conceived, and gave birth to Qayin, and said, “I have gotten a person with YHWH’s help.”",
+      "reason": "Preserve Hebrew knew while not reducing already-named woman to relationship alone."
+    },
+    {
+      "slug": "genesis",
+      "chapter": 4,
+      "verse": 25,
+      "reference": "Genesis 4:25",
+      "original": "Adam knew his wife again. She gave birth to a son, and named him Seth, saying, “for Elohim has given me another child instead of Hevel, for Qayin killed him.”",
+      "final": "Adam knew Havvah again. She gave birth to a son, and named him Seth, saying, “for Elohim has given me another child instead of Hevel, for Qayin killed him.”",
+      "reason": "Use prior-established personal name instead of unnamed spouse."
+    },
+    {
+      "slug": "genesis",
+      "chapter": 5,
+      "verse": 2,
+      "reference": "Genesis 5:2",
+      "original": "The Elohim created them male and female, and blessed them. On the day they were created, Elohim named them Adam.",
+      "final": "Elohim created them male and female, and blessed them. On the day they were created, Elohim called them humankind.",
+      "reason": "Collective adam refers to both male and female in 5:2; distinguish from personal Adam in 5:1 and 5:3."
+    }
+  ],
+  "protectedUnchanged": [
+    "Genesis 1:26",
+    "Genesis 1:27",
+    "Genesis 2:7",
+    "Genesis 2:18",
+    "Genesis 2:19",
+    "Genesis 2:23",
+    "Genesis 2:24",
+    "Genesis 3:6",
+    "Genesis 3:16",
+    "Genesis 3:17",
+    "Genesis 4:17",
+    "Genesis 5:1",
+    "Genesis 5:3",
+    "Genesis 6:5",
+    "Genesis 8:21",
+    "Genesis 9:5"
+  ]
+}
