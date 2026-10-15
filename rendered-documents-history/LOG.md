@@ -53,3 +53,5 @@
 - 2026-10-14_200201UTC — Chata 666 exact moral-failure / wrongdoing verses; previous EPUB archived: rendered-documents-history/2026-10-14_200201UTC/the-way-current.epub; new SHA-256 b1775a6ba98b7fbbef2a733890b5087e0835bcb4d647e520610704c6afdfb73e.
 
 - 2026-10-15_032959UTC — Chata 17 post-wave2 careful grammar/referent corrections; previous EPUB archived: rendered-documents-history/2026-10-15_032959UTC/the-way-current.epub; new SHA-256 4fbfbd979b9f6a37397ac21c17ad25bcae4d7743559fd8454abdfcd6d819df98.
+
+- 2026-10-15_084452UTC — Genesis 2–5 person-language 10-verse release; archive rendered-documents-history/2026-10-15_084452UTC/the-way-current.epub; new SHA-256 785a21b93491ca5433f0bfaff849cfd7eb6f42957072cd5fe722a60dfb0d0a90.

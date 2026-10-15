@@ -103,3 +103,7 @@ Exactly 666 context-sensitive edits from approved finite ledger. New canonical S
 ## 2026-10-15 Chata 17 post-wave2 copyedits
 
 Exactly 17 idiomatic grammar and semantic copyedits, preserving previous 666 verse corrections. New canonical SHA-256: 4fbfbd979b9f6a37397ac21c17ad25bcae4d7743559fd8454abdfcd6d819df98. Remaining Chata instances pending contextual review. No earlier God-pronoun revisions changed.
+
+## 2026-10-15 Genesis person-language release
+
+10 context-sensitive Genesis 2–5 verse changes; canonical SHA-256: 785a21b93491ca5433f0bfaff849cfd7eb6f42957072cd5fe722a60dfb0d0a90. See exact editorial ledger and original Hebrew rationale.
