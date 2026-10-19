@@ -1,0 +1,31 @@
+name: Proposal QA — Acts 13:9 distinct names and other NT glosses
+on:
+  pull_request:
+    paths:
+      - 'editor-notes/proposals/2026-10-19-acts-13-9-alias-collision-audit.md'
+      - 'tools/local/2026-10-19-name-alias-collision-candidates.json'
+      - 'tools/local/audit_2026_10_19_name_alias_collisions.py'
+      - '.github/workflows/proposal-2026-10-19-name-alias-collisions.yml'
+permissions:
+  contents: read
+jobs:
+  editorial-source-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: '3.12'}
+      - name: Validate read-only script and exact canonical candidate baselines
+        run: |
+          python -m py_compile tools/local/audit_2026_10_19_name_alias_collisions.py
+          python tools/local/audit_2026_10_19_name_alias_collisions.py
+      - name: Forbid accidental Scripture or publishing artifact changes in this proposal PR
+        shell: bash
+        run: |
+          set -euo pipefail
+          git fetch origin main
+          if git diff --name-only origin/main...HEAD | grep -E '^(current-form-documents/|rendered-documents-history/|change-logs/reports/.*release\.json$|original-documents/)'; then
+            echo 'ERROR: this is a proposal-only PR and must not edit Scripture or publish artifacts.' >&2
+            exit 1
+          fi
+          echo 'PASS: no production/Scripture artifacts changed by this proposal.'
