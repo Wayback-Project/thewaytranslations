@@ -107,3 +107,7 @@ Exactly 17 idiomatic grammar and semantic copyedits, preserving previous 666 ver
 ## 2026-10-15 Genesis person-language release
 
 10 context-sensitive Genesis 2–5 verse changes; canonical SHA-256: 785a21b93491ca5433f0bfaff849cfd7eb6f42957072cd5fe722a60dfb0d0a90. See exact editorial ledger and original Hebrew rationale.
+
+## 2026-10-20 Nine NT source-name / Greek gloss corrections
+
+Exact 9 verses across Acts, John, Matthew, Mark and Luke; new canonical SHA-256 34d774bf0ed3a5e1f628adca9da3bcb9b91db5d247fd41d435447496694aaba1. Greek alias / apostle-list fidelity and whole-Bible QA verified.

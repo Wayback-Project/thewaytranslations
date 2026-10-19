@@ -1,0 +1,121 @@
+{
+  "release": "Nine source-sensitive original-name / alias / Greek-gloss repairs",
+  "date": "2026-10-19T15:38:56Z",
+  "priorEpubSha256": "785a21b93491ca5433f0bfaff849cfd7eb6f42957072cd5fe722a60dfb0d0a90",
+  "releasedEpubSha256": "34d774bf0ed3a5e1f628adca9da3bcb9b91db5d247fd41d435447496694aaba1",
+  "changedVerseCount": 9,
+  "changes": [
+    {
+      "slug": "acts",
+      "chapter": 13,
+      "verse": 9,
+      "reference": "acts 13:9",
+      "original": "But Shaul, who is also called Shaul, filled with the Ruach of Elohim, fastened his eyes on him,",
+      "final": "But Shaul, who is also called Paul, filled with the Ruach of Elohim, fastened his eyes on him,",
+      "reason": "Greek Σαῦλος...Παῦλος distinguishes Shaul from Paul; user's preferred English Roman name is Paul."
+    },
+    {
+      "slug": "acts",
+      "chapter": 11,
+      "verse": 13,
+      "reference": "acts 11:13",
+      "original": "He told us how he had seen the angel standing in his house, and saying to him, 'Send to Yafo, and get Shimon, whose surname is Shimon (called Kepha),",
+      "final": "He told us how he had seen the angel standing in his house, and saying to him, 'Send to Yafo, and get Shimon, who is called Kepha,",
+      "reason": "Removes nonsensical surname is Shimon (called Kepha); the Greek names Simon and Peter distinctly."
+    },
+    {
+      "slug": "john",
+      "chapter": 1,
+      "verse": 42,
+      "reference": "john 1:42",
+      "original": "He brought him to Yeshua. Yeshua looked at him, and said, \"You are Shimon the son of Yonah. You shall be called Kepha\" (which is by interpretation, Shimon (called Kepha)).",
+      "final": "He brought him to Yeshua. Yeshua looked at him, and said, \"You are Shimon the son of Yonah. You shall be called Kepha\" (which is rendered Petros in Greek, meaning \"Rock\").",
+      "reason": "Preserve Kepha and Greek Petros rather than substituting Shimon (called Kepha) into the explanatory gloss. Yonah variant separately retained."
+    },
+    {
+      "slug": "john",
+      "chapter": 4,
+      "verse": 25,
+      "reference": "john 4:25",
+      "original": "The woman said to him, \"I know that Messiah comes,\" (the one who is called Messiah). \"When he has come, he will declare to us all things.\"",
+      "final": "The woman said to him, \"I know that Messiah comes\" (the one called Christos in Greek, meaning the Anointed One). \"When he has come, he will declare to us all things.\"",
+      "reason": "Greek Μεσσίας...Χριστός is an intentional cross-language explanation, not Messiah = Messiah."
+    },
+    {
+      "slug": "matthew",
+      "chapter": 10,
+      "verse": 3,
+      "reference": "matthew 10:3",
+      "original": "Pilipos; Nethanel (called Bar-Tolmai); Ta'oma; Matai the tax collector; Ya'akov the son of Alphaeus; Lebbaeus, whose surname was Taddai;",
+      "final": "Pilipos; Bar-Tolmai; Ta'oma; Matai the tax collector; Ya'akov the son of Alphaeus; Lebbaeus, whose surname was Taddai;",
+      "reason": "Greek Bartholomaios refers to Bar-Tolmai. Nathanael identification is a theory not a stated fact."
+    },
+    {
+      "slug": "mark",
+      "chapter": 3,
+      "verse": 18,
+      "reference": "mark 3:18",
+      "original": "Andreas; Pilipos; Nethanel; Matai; Ta'oma; Ya'akov, the son of Alphaeus; Taddai; Shimon the Zealot;",
+      "final": "Andreas; Pilipos; Bar-Tolmai; Matai; Ta'oma; Ya'akov, the son of Alphaeus; Taddai; Shimon the Zealot;",
+      "reason": "The Greek names Bartholomaios, not Nathanael. Do not insert an unconfirmed equation."
+    },
+    {
+      "slug": "luke",
+      "chapter": 6,
+      "verse": 14,
+      "reference": "luke 6:14",
+      "original": "Shimon, whom he also named Kepha; Andreas, his brother; Ya'akov; Yochanan; Pilipos; Nethanel (called Bar-Tolmai);",
+      "final": "Shimon, whom he also named Kepha; Andreas, his brother; Ya'akov; Yochanan; Pilipos; Bar-Tolmai;",
+      "reason": "The Greek list names Bartholomaios; Nathanael does not occur in this list."
+    },
+    {
+      "slug": "acts",
+      "chapter": 1,
+      "verse": 13,
+      "reference": "acts 1:13",
+      "original": "When they had come in, they went up into the upper room, where they were staying; that is Shimon (called Kepha), Yochanan, Ya'akov, Andreas, Pilipos, Ta'oma, Nethanel (called Bar-Tolmai), Matai, Ya'akov the son of Alphaeus, Shimon the Zealot, and Yehuda the son of Ya'akov.",
+      "final": "When they had come in, they went up into the upper room, where they were staying; that is Shimon (called Kepha), Yochanan, Ya'akov, Andreas, Pilipos, Ta'oma, Bar-Tolmai, Matai, Ya'akov the son of Alphaeus, Shimon the Zealot, and Yehuda the son of Ya'akov.",
+      "reason": "The Greek names Bartholomaios. Keep the separate traditional identification out of the source verse."
+    },
+    {
+      "slug": "matthew",
+      "chapter": 16,
+      "verse": 18,
+      "reference": "matthew 16:18",
+      "original": "I also tell you that you are Shimon (called Kepha), and on this rock I will build my assembly, and the gates of Hades will not prevail against it.",
+      "final": "I also tell you that you are Kepha, and on this rock I will build my assembly, and the gates of Hades will not prevail against it.",
+      "reason": "The Greek address is 'you are Petros'; restored name Kepha preserves the rock wordplay more naturally than 'you are Shimon (called Kepha)'."
+    }
+  ],
+  "changedEpubMembers": [
+    "OEBPS/Text/acts.xhtml",
+    "OEBPS/Text/john.xhtml",
+    "OEBPS/Text/luke.xhtml",
+    "OEBPS/Text/mark.xhtml",
+    "OEBPS/Text/matthew.xhtml"
+  ],
+  "archivedPriorEpub": "rendered-documents-history/2026-10-19_153856UTC/the-way-current.epub",
+  "canonicalFallback": {
+    "schemaVersion": 1,
+    "releaseId": "canonical-34d774bf0ed3a5e1",
+    "canonicalEpubSha256": "34d774bf0ed3a5e1f628adca9da3bcb9b91db5d247fd41d435447496694aaba1",
+    "generatedAt": "2026-10-19T15:38:56Z",
+    "contentSha256": "d8ab803e6f6db53f30355a5c9b23591ef15ad0db16e76f290c2bc3ce8ea2baca",
+    "contentBytes": 30153687,
+    "contentUrl": "https://raw.githubusercontent.com/Wayback-Project/thewaytranslations/main/current-form-documents/mobile-reader/content.json",
+    "source": "canonical-github-fallback",
+    "bookCount": 66,
+    "chapterCount": 1189,
+    "verseSearchCount": 31102
+  },
+  "qa": {
+    "exactDiffOnlyApproved": true,
+    "verseCount": 31102,
+    "noUnrelatedScriptureChanges": true,
+    "epubZipXmlLinks": "pass",
+    "grammar": "pass",
+    "sourceAliasControls": "pass"
+  },
+  "siteAndMobileStatus": "Website netlify, main and native must sync separately from this release",
+  "printStatus": "Google Doc register handoff only; physical Word master/PDF/proof not updated"
+}

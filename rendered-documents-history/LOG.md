@@ -55,3 +55,5 @@
 - 2026-10-15_032959UTC — Chata 17 post-wave2 careful grammar/referent corrections; previous EPUB archived: rendered-documents-history/2026-10-15_032959UTC/the-way-current.epub; new SHA-256 4fbfbd979b9f6a37397ac21c17ad25bcae4d7743559fd8454abdfcd6d819df98.
 
 - 2026-10-15_084452UTC — Genesis 2–5 person-language 10-verse release; archive rendered-documents-history/2026-10-15_084452UTC/the-way-current.epub; new SHA-256 785a21b93491ca5433f0bfaff849cfd7eb6f42957072cd5fe722a60dfb0d0a90.
+
+- 2026-10-19_153856UTC — Nine NT source-name/Greek gloss verse fixes; prior EPUB archive rendered-documents-history/2026-10-19_153856UTC/the-way-current.epub; new SHA-256 34d774bf0ed3a5e1f628adca9da3bcb9b91db5d247fd41d435447496694aaba1.
