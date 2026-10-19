@@ -64,10 +64,10 @@ def main() -> None:
     duplicate_candidates = [
         "%s %s:%s" % key
         for key, value in corpus.items()
-        if re.search(r"\\b([A-Z][a-z]{2,})\\b.{0,80}\\bwho (?:is|was) also called\\s+\\1\\b", value)
+        if re.search(r"\b([A-Z][a-z]{2,})\b.{0,80}\bwho (?:is|was) also called\s+\1\b", value)
     ]
-    if ("acts",13,9) not in seen:
-        raise RuntimeError("Missing Acts collision")
+    if "acts 13:9" not in duplicate_candidates:
+        raise RuntimeError("Alias-collision regex missed the known Shaul/Shaul case")
     print(json.dumps({
         "status": "READ_ONLY_PROPOSAL_BASELINE_VALIDATED",
         "canonicalEpubSha256": current_sha,
