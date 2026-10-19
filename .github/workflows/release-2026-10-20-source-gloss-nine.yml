@@ -1,0 +1,52 @@
+name: Release 9 Greek name and explanatory gloss corrections
+on:
+  pull_request:
+    paths:
+      - 'tools/local/2026-10-20-source-gloss-nine-verse-release.json'
+      - 'tools/local/release_2026_10_20_source_gloss_nine_verses.py'
+      - '.github/workflows/release-2026-10-20-source-gloss-nine.yml'
+  push:
+    branches: [main]
+    paths: ['.github/workflows/release-2026-10-20-source-gloss-nine.yml']
+permissions:
+  contents: write
+concurrency:
+  group: way-20261020-source-gloss-nine
+  cancel-in-progress: false
+jobs:
+  preview:
+    if: github.event_name == 'pull_request'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: '3.12'}
+      - name: Byte-exact original-name/Greek-gloss EPUB preview
+        run: |
+          python3 -m py_compile tools/local/release_2026_10_20_source_gloss_nine_verses.py
+          python3 tools/local/release_2026_10_20_source_gloss_nine_verses.py --check-only
+  release:
+    if: github.event_name == 'push'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: {ref: main, fetch-depth: 0}
+      - uses: actions/setup-python@v5
+        with: {python-version: '3.12'}
+      - name: Fail on wrong canonical EPUB, other verse diffs or bad XML
+        run: python3 tools/local/release_2026_10_20_source_gloss_nine_verses.py --check-only
+      - name: Archive source and release validated 9 verses and fallback mobile data
+        run: python3 tools/local/release_2026_10_20_source_gloss_nine_verses.py
+      - name: Commit only generated canonical Scripture release artifacts
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add current-form-documents/the-way-current.epub current-form-documents/mobile-reader current-form-documents/original-name-registry.json
+          git add current-form-documents/README.md current-form-documents/EPUB-REFRESH-INSTRUCTIONS.md README.md
+          git add rendered-documents-history/ change-logs/reports/2026-10-20-original-names-nine-verse-release.json
+          git add editor-notes/consistency/2026-10-20-source-gloss-nine-verse-release.md
+          git diff --cached --quiet && { echo 'Generated release has no changes' >&2; exit 1; }
+          git commit -m 'Release nine source-faithful names and Greek glossary Scripture corrections'
+          git push origin HEAD:main
