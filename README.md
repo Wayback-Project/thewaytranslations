@@ -4,11 +4,40 @@
 > **Learn more:** [TheWayVersion.com](https://thewayversion.com)  
 > **Download:** [Current whole-Bible EPUB](current-form-documents/the-way-current.epub)
 
-The Way Version is a contemporary English Bible translation that retains selected Hebrew and Aramaic forms of biblical names and terms in the running text. Readers will encounter forms such as **Yeshua, Yochanan, Ya’akov, Yosef, Maryam, Dawid, Avraham, YHWH, Elohim**, and **Ruach**.
+The Way Version is a contemporary English Bible translation that approaches Scripture through the languages, relationships, history and cultural world of the people who first received it. It retains selected Hebrew and Aramaic names—including **Yeshua, Yochanan, Ya’akov, Maryam, YHWH, Elohim** and **Ruach**—but its work extends beyond names to the meanings and associations carried by the ancient languages.
 
-The project is intended for readers interested in the Bible, the history of biblical names, and the languages and settings in which the texts developed. Familiar English forms such as Jesus, John, James, Mary, and David reflect their normal transmission through several languages and remain useful in English. The Way Version uses selected earlier-language forms to make that history more visible. Beyond personal names, the translation also examines whether familiar English wording preserves the contextual range of terms involving turning and returning, active rule or reign, breath/wind/spirit, community address, and human references that are not gender-specific in the source.
+## Why language and historical context shape our translation
 
-This repository is the public editorial and release workspace for the translation. It contains the current EPUB, editable source documents, historical renders, methodology, research notes, and change records.
+**A language carries more than vocabulary.** It carries cultural habits, relationships, imagery, and ways of understanding time, nature, human responsibility and the divine. An English word may accurately represent one sense of an ancient term while leaving its other associations and its place in the original community less visible.
+
+In Hebrew and Aramaic, many words develop from consonantal **roots and patterns**. Related forms can connect a family of actions and images across passages. Jewish traditions of **midrash** and other Semitic interpretive practices also return to a text repeatedly, examining wordplay, related roots and multiple levels of meaning; some traditions attend to the forms, sounds and symbolic associations of individual letters. These are real features of particular languages and their reading traditions that cannot simply be transferred word for word into Greek, Latin or English.
+
+Neil Douglas-Klotz explains this framework in his academic paper [*Midrash and Postmodern Inquiry: Suggestions Toward a Hermeneutics of Indeterminacy*](https://abwoon.org/wp-content/uploads/2013/10/Midrash.pdf) (presented at the Society of Biblical Literature, 1998; published in *Currents in Research: Biblical Studies*, 1999). Drawing on historical Jewish interpretation, he describes reading as an ongoing encounter between words, hearers and communities. This method is one influence on The Way Version's work, though our English text and editorial judgments are our own.
+
+Our central question is practical: **what would the people who first heard a teaching have understood?** We study their speech, family life, economic obligations, religious practices, landscape and political circumstances. Language about debt, forgiveness, the reign of God, harvests, bread or breathing belonged to daily life. Those contexts inform how we translate a passage today.
+
+### Hebrew, Aramaic, Greek and the history of interpretation
+
+The Hebrew Scriptures were composed primarily in Hebrew, with some Aramaic. Yeshua lived and taught in a Jewish society where Aramaic was spoken and Hebrew shaped scriptural life. The canonical Gospels were composed in Greek. Their Greek language is central textual evidence, but translating and preserving teaching from that Semitic-speaking environment required choices: the word families, imagery and cultural associations did not pass into Greek unchanged. Subsequent Latin and European translations, and later Western theological and philosophical categories, introduced further interpretive layers.
+
+This is why we study Greek Gospel wording alongside Hebrew and Aramaic expression, Jewish and Syriac Christian traditions, the social history of the eastern Mediterranean and the ways biblical texts were heard, remembered and interpreted. We revisit passages when a root, an image, a social practice or a relationship becomes clearer in context.
+
+### Examples from the current translation
+
+| Passage | What we examine | TWV approach |
+|---|---|---|
+| [Matthew 4:17](https://thewayversion.com/app/share/matthew-4-17) | Turning/returning and the exercise of divine kingship | “Turn back, for the reign of the heavens has drawn near.” |
+| [Matthew 6:12](https://thewayversion.com/app/share/matthew-6-12) | Debt as both a meaningful word in the Greek prayer and a social reality | “Release us from our debts, as we also release our debtors.” |
+| [Luke 17:21](https://thewayversion.com/app/share/luke-17-21) | The community hearing a saying about divine reign | “the reign of Elohim is among you.” |
+| [Genesis 1:2](https://thewayversion.com/app/share/genesis-1-1-2) | The Hebrew root and associated imagery of *ruach* | Retains “Ruach of Elohim.” |
+| [Matthew 6:9](https://thewayversion.com/app/share/matthew-6-9) | Parental imagery in the prayer; wider theological implications | “Cosmic Parent” is an intentional interpretive rendering of the familiar “Father.” |
+| [John 1:1](https://thewayversion.com/app/share/john-1-1) | Creative speech and the Greek *logos*, considered within the literary context | “Living Creative Vibration” is a poetic editorial rendering, not a direct lexical equivalent of *logos*. |
+
+**How the reader can take part:** This is a public, developing translation. We show the [current Bible](current-form-documents/the-way-current.epub), [the editorial method](skill/SKILL.md), [research and proposals](editor-notes/), [change history](change-logs/) and [open issues](https://github.com/Wayback-Project/thewaytranslations/issues). Readers can compare the verses, challenge a rendering with evidence, discuss a historical context or offer another interpretation.
+
+Familiar English forms such as Jesus, John, James, Mary and David remain meaningful English names. We retain selected earlier forms to keep their linguistic and historical setting visible. This repository is the public editorial and release workspace; it contains the current EPUB, editable source documents, methodology, research notes and change records.
+
+For a shorter explanation, see [How The Way Version translates Scripture](https://thewayversion.com/about/#why-language-matters).
 
 ## At a glance
 
@@ -88,7 +117,7 @@ The project uses a historical and text-based method:
 4. Distinguish what the surviving text says from proposals about historical speech, later interpretation, or reconstructed wording.
 5. Preserve meaningful ambiguity, grammatical force, social context, and imagery when the evidence supports doing so.
 6. Present debated decisions with appropriate qualification and record plausible alternatives when they materially affect the translation.
-7. Keep source-near translation separate from optional devotional or resonance language.
+7. Explain when a reading arises from the source language itself, when it develops from cultural and historical context, and when a poetic or symbolic English rendering explores additional interpretive possibilities.
 8. Record significant decisions so that revisions can be reviewed rather than silently introduced.
 
 The complete working specification is in [skill/SKILL.md](skill/SKILL.md). This is an active translation project, and difficult or debated choices remain open to documented review.
@@ -120,6 +149,21 @@ The complete working specification is in [skill/SKILL.md](skill/SKILL.md). This 
 Thoughtful review is welcome. For substantial translation or structural changes, open an issue describing the proposed scope, evidence, and rationale. Keep pull requests focused, preserve verse ordering and source integrity, and update the corresponding methodology or change record.
 
 The initial repository framework was created with AI assistance and is continually reviewed and corrected through an editor-directed workflow. AI output is not treated as authority; decisions are expected to remain evidence-based, reviewable, and documented.
+
+## Intellectual influences and further reading
+
+The Way Version's method has developed through biblical languages, historical research and traditions that approach a passage through multiple related meanings. These works inform questions we ask and areas of research; none is presented as an endorsement of this translation.
+
+- **Neil Douglas-Klotz:** [*Midrash and Postmodern Inquiry*](https://abwoon.org/wp-content/uploads/2013/10/Midrash.pdf) (1998/1999); [*Prayers of the Cosmos*](https://abwoon.org/prayers-of-the-cosmos/); [*Revelations of the Aramaic Jesus*](https://abwoon.org/books/revelations-of-the-aramaic-jesus/). His work brings Semitic root-and-pattern language, Jewish interpretive traditions, the Aramaic-speaking world of Yeshua, and the role of the listener and community into the study of biblical words.
+- **Jewish interpretation and language:** The tradition of midrash; *Sefer Yetzirah* and the *Zohar* as examples of interpretive attention to letters and their combinations; **Martin Buber** on Hebrew language and translation; **Shulamith Hareven** on Hebrew's literary and cultural context. Douglas-Klotz discusses these writers and sources in [his published paper](https://abwoon.org/wp-content/uploads/2013/10/Midrash.pdf).
+- **The first-century world:** **Richard Horsley**, *Archaeology, History and Society in Galilee* and *Bandits, Prophets and Messiahs*; **K. C. Hanson and Douglas E. Oakman**, *Palestine in the Time of Jesus*. Their work connects sayings to political power, families, land and ordinary social life.
+- **Debt, giving and community:** **Lewis Hyde**, *The Gift*; **David Graeber**, *Debt: The First 5,000 Years*. These broaden questions about obligation, reciprocity and the lived meaning of debt.
+- **Eastern Christian language and context:** **Abraham Rihbany**, *The Syrian Christ*; **George M. Lamsa**, writings on Syriac Christianity and Aramaic interpretation; **George Kiraz**, Syriac language and textual scholarship; **Stevan Davies**, *Jesus the Healer*. Eastern witnesses and their interpretive history remain important to our inquiries.
+- **Historical consciousness and interpretation:** **Owen Barfield**, *Saving the Appearances*. His proposals invite questions about how language, perception and inherited categories influence what a reader notices.
+
+Our primary references remain the biblical manuscripts and their scholarly study. The authors above help us investigate language and cultural memory more deeply; the textual evidence, historical interpretation and the final English rendering are documented as separate parts of the editorial process.
+
+The project's [public writing style guide](editor-notes/WRITING-STYLE-GUIDE.md) requires clear descriptive headings, direct explanations, evidence and attribution, and no slogans or promotional catchphrases.
 
 ## Copyright and quotation
 
