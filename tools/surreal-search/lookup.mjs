@@ -22,16 +22,16 @@ if (mode === 'person') {
   rows = unwrap(await db.query('SELECT ref,text FROM verse WHERE themes CONTAINS $t LIMIT 50;', { t: value }));
 } else {
   const term = value.toLowerCase();
-  const fieldMap = {
-    'elohim': 'hasElohim',
-    'yhwh': 'hasYHWH',
-    'cosmic-parent': 'hasCosmicParent',
-    'vibration': 'hasLivingCreativeVibration',
-    'spirit': 'hasRuachOrSpirit',
-    'wisdom': 'hasWisdom'
+  const queryMap = {
+    'elohim': 'SELECT ref,text FROM verse WHERE hasElohim = true LIMIT 50;',
+    'yhwh': 'SELECT ref,text FROM verse WHERE hasYHWH = true LIMIT 50;',
+    'cosmic-parent': 'SELECT ref,text FROM verse WHERE hasCosmicParent = true LIMIT 50;',
+    'vibration': 'SELECT ref,text FROM verse WHERE hasLivingCreativeVibration = true LIMIT 50;',
+    'spirit': 'SELECT ref,text FROM verse WHERE hasRuachOrSpirit = true LIMIT 50;',
+    'wisdom': 'SELECT ref,text FROM verse WHERE hasWisdom = true LIMIT 50;'
   };
-  if (fieldMap[term]) {
-    rows = unwrap(await db.query(`SELECT ref,text FROM verse WHERE ${fieldMap[term]} = true LIMIT 50;`));
+  if (queryMap[term]) {
+    rows = unwrap(await db.query(queryMap[term]));
   } else {
     rows = unwrap(await db.query('SELECT ref,text FROM verse WHERE string::contains(string::lowercase(text), $q) LIMIT 50;', { q: term }));
   }
