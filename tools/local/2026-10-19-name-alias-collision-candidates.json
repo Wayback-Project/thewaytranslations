@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-19",
+  "status": "UNAPPROVED_PROPOSAL_DO_NOT_RELEASE",
+  "type": "finite-source-sensitive-name-alias-collision-audit",
+  "canonicalRepository": "Wayback-Project/thewaytranslations",
+  "canonicalBranch": "main",
+  "canonicalBaselineCommit": "3d4666896d759958d3d7383f1ca71b17cf902ef7",
+  "canonicalBaselineEpubSha256": "785a21b93491ca5433f0bfaff849cfd7eb6f42957072cd5fe722a60dfb0d0a90",
+  "expectedBibleBooks": 66,
+  "expectedChapters": 1189,
+  "expectedVerses": 31102,
+  "auditMethod": "All 66 production-derived Netlify book JSON files inspected for name/alias/interpretation patterns; manual Greek contextual verification for these three identified source-gloss collapses.",
+  "candidateCount": 3,
+  "releaseAuthorization": false,
+  "scriptureChangesMade": 0,
+  "candidates": [
+    {
+      "slug": "acts",
+      "chapter": 13,
+      "verse": 9,
+      "reference": "Acts 13:9",
+      "current": "But Shaul, who is also called Shaul, filled with the Ruach of Elohim, fastened his eyes on him,",
+      "recommendation": "But Shaul, who is also called Paulos, filled with the Ruach of Elohim, fastened his eyes on him,",
+      "alternatives": [
+        "But Shaul, who is also called Paul, filled with the Ruach of Elohim, fastened his eyes on him,",
+        "But Shaul, who is also called Paulus, filled with the Ruach of Elohim, fastened his eyes on him,"
+      ],
+      "sourceGreek": "Σαῦλος δέ, ὁ καὶ Παῦλος",
+      "classification": "confirmed-distinct-name-collapse",
+      "status": "proposed-awaiting-editor-choice",
+      "rationale": "Saulos and Paulos are different designations of the apostle; preserve restored Shaul for the first and a distinct Greco-Roman form in the second."
+    },
+    {
+      "slug": "john",
+      "chapter": 1,
+      "verse": 42,
+      "reference": "John 1:42",
+      "current": "He brought him to Yeshua. Yeshua looked at him, and said, \"You are Shimon the son of Yonah. You shall be called Kepha\" (which is by interpretation, Shimon (called Kepha)).",
+      "recommendation": "He brought him to Yeshua. Yeshua looked at him, and said, \"You are Shimon the son of Yonah. You shall be called Kepha\" (which is rendered Petros in Greek, meaning Rock).",
+      "alternatives": [
+        "He brought him to Yeshua. Yeshua looked at him, and said, \"You are Shimon the son of Yonah. You shall be called Kepha\" (which is interpreted Petros in Greek)."
+      ],
+      "sourceGreek": "Κηφᾶς (ὃ ἑρμηνεύεται Πέτρος)",
+      "classification": "confirmed-cross-language-gloss-collapse",
+      "status": "proposed-awaiting-editor-choice",
+      "rationale": "Original gloss moves from Aramaic Kepha to Greek Petros; current secondary gloss repeats Shimon/Kepha."
+    },
+    {
+      "slug": "john",
+      "chapter": 4,
+      "verse": 25,
+      "reference": "John 4:25",
+      "current": "The woman said to him, \"I know that Messiah comes,\" (the one who is called Messiah). \"When he has come, he will declare to us all things.\"",
+      "recommendation": "The woman said to him, \"I know that Messiah comes\" (the one called Christos in Greek, meaning the Anointed One). \"When he has come, he will declare to us all things.\"",
+      "alternatives": [
+        "The woman said to him, \"I know that Messiah comes\" (the one called Christos). \"When he has come, he will declare to us all things.\""
+      ],
+      "sourceGreek": "Μεσσίας ἔρχεται, ὁ λεγόμενος Χριστός",
+      "classification": "confirmed-title-translation-gloss-collapse",
+      "status": "proposed-awaiting-editor-choice",
+      "rationale": "The Semitic term Messiah and the Greek translated title Christos must remain identifiable in the explicit gloss."
+    }
+  ],
+  "reviewOnly": [
+    {
+      "reference": "Luke 6:14",
+      "issue": "Nethanel (called Bar-Tolmai)",
+      "status": "not-approved-needs-identity-source-review"
+    },
+    {
+      "reference": "Acts 13:13",
+      "issue": "Shaul remains used after the Greek text introduces Paulos; naming policy question distinct from Acts 13:9",
+      "status": "protect-no-change"
+    },
+    {
+      "reference": "Romans 1:1",
+      "issue": "Shaul for apostle in epistle subscription/salutation follows current restoration policy",
+      "status": "protect-no-change"
+    },
+    {
+      "reference": "John 21:7",
+      "issue": "Shimon (called Kepha) gloss used where Greek has Petros; distinguish contextual reader explanation from Scripture",
+      "status": "review-only"
+    },
+    {
+      "reference": "Luke 22:61",
+      "issue": "Shimon (called Kepha) gloss used for Greek Petros; review only",
+      "status": "review-only"
+    },
+    {
+      "reference": "Acts 13:7",
+      "issue": "Sergius Paulus is Roman proconsul, NOT same person as Shaul",
+      "status": "protect-no-change"
+    },
+    {
+      "reference": "Acts 1:23",
+      "issue": "Yosef/Barsabbas/Justus distinct names, protect",
+      "status": "protect-no-change"
+    },
+    {
+      "reference": "John 11:16",
+      "issue": "Ta'oma/Didymus distinct names, protect",
+      "status": "protect-no-change"
+    },
+    {
+      "reference": "Daniel 2:26",
+      "issue": "Dani'el/Belteshazzar distinct names, protect",
+      "status": "protect-no-change"
+    }
+  ],
+  "editPolicy": "do not substitute source names globally; preserve the distinction between the first and second name in explicit dual-name / gloss clauses; do not change source without review; proposal does not update canonical EPUB, netlify, native or print."
+}
