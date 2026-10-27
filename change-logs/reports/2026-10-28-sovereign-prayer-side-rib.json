@@ -1,0 +1,56 @@
+{
+  "release": "2026-10-28 Sovereign / interpretive Aramaic-sensitive Lord's Prayer / Genesis side FINAL",
+  "stage": "rib",
+  "date": "2026-10-27T17:25:03Z",
+  "priorEpubSha256": "23f45131ddcf7e5dd420561ccb1057d2ca9871e895d818a0e0b049e3f41f2dde",
+  "releasedEpubSha256": "5fd2cbd9544e95e69abbb6fc74d9fde16553fa42cc95b4b79d196098486757e9",
+  "changedVerseCount": 2,
+  "changes": [
+    {
+      "slug": "genesis",
+      "chapter": 2,
+      "verse": 21,
+      "reference": "genesis 2:21",
+      "original": "YHWH Elohim caused the man to fall into a deep sleep. As he slept, YHWH Elohim took one of his ribs, and closed up the flesh in its place.",
+      "final": "YHWH Elohim caused the man to fall into a deep sleep. As he slept, YHWH Elohim took one of his sides, and closed up the flesh in its place.",
+      "rationale": "Hebrew tsela more broadly side; rib possible narrower sense but not certain. Preserve October 15 man/human decision and sleep/flesh imagery."
+    },
+    {
+      "slug": "genesis",
+      "chapter": 2,
+      "verse": 22,
+      "reference": "genesis 2:22",
+      "original": "YHWH Elohim made a woman from the rib which YHWH Elohim had taken from the man, and brought her to him.",
+      "final": "YHWH Elohim fashioned the side that had been taken from the man into a woman, and brought her to him.",
+      "rationale": "Hebrew tsela side; banah conveys building/fashioning. 'Eve' naming is later, Genesis 3:20."
+    }
+  ],
+  "archivedPriorEpub": "rendered-documents-history/2026-10-27_172503UTC/the-way-current.epub",
+  "canonicalFallback": {
+    "schemaVersion": 1,
+    "releaseId": "canonical-5fd2cbd9544e95e6",
+    "canonicalEpubSha256": "5fd2cbd9544e95e69abbb6fc74d9fde16553fa42cc95b4b79d196098486757e9",
+    "generatedAt": "2026-10-27T17:25:03Z",
+    "contentSha256": "27cd675e216dfe7ddd76549aea7b7dfe09d00e1129dde11f2de0d6e30b2f0d24",
+    "contentBytes": 30156255,
+    "contentUrl": "https://raw.githubusercontent.com/Wayback-Project/thewaytranslations/main/current-form-documents/mobile-reader/content.json",
+    "source": "canonical-github-fallback",
+    "bookCount": 66,
+    "chapterCount": 1189,
+    "verseSearchCount": 31102
+  },
+  "qa": {
+    "exactApprovedDiff": true,
+    "unchangedVerses": 31100,
+    "epubZipXmlLinks": "pass"
+  },
+  "methodology": [
+    "Peshitta Syriac Aramaic is a historical witness, not verifiable verbatim Galilean Aramaic.",
+    "Neil Douglas-Klotz Prayers of the Cosmos is interpretive poetic inspiration, not the exact lexical meaning of the Syriac.",
+    "Literal Greek/Syriac senses retained where practical; inner insight, purpose, mistakes binding, unripeness, surface delusion are intentional interpretive expansions.",
+    "King of Judeans historical inscriptions and political quotations are unchanged; God already Sovereign in previous editorial release.",
+    "Genesis side stage is LAST for current public canonical release and most recent public change-log entry."
+  ],
+  "printStatus": "Print Word/PDF not automatically updated",
+  "downstreamStatus": "Netlify reader and native mobile release must be verified separately"
+}

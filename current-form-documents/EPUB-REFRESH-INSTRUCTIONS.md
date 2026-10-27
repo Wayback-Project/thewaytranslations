@@ -119,3 +119,7 @@ Exact 9 verses across Acts, John, Matthew, Mark and Luke; new canonical SHA-256 
 ## 2026-10-28 prayer staged canonical release
 
 8 exact changed verses; canonical EPUB SHA-256 23f45131ddcf7e5dd420561ccb1057d2ca9871e895d818a0e0b049e3f41f2dde. See change-logs/reports/2026-10-28-sovereign-prayer-side-prayer.json.
+
+## 2026-10-28 rib staged canonical release
+
+2 exact changed verses; canonical EPUB SHA-256 5fd2cbd9544e95e69abbb6fc74d9fde16553fa42cc95b4b79d196098486757e9. See change-logs/reports/2026-10-28-sovereign-prayer-side-rib.json.

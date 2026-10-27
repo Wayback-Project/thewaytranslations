@@ -61,3 +61,5 @@
 - 2026-10-27_172442UTC — sovereign staged Scripture release; 4 verses; previous EPUB archived rendered-documents-history/2026-10-27_172442UTC/the-way-current.epub; SHA-256 8454b4676d3c1766755f59fa234bddea57a30062d6d405eb80f368ea526ad784.
 
 - 2026-10-27_172453UTC — prayer staged Scripture release; 8 verses; previous EPUB archived rendered-documents-history/2026-10-27_172453UTC/the-way-current.epub; SHA-256 23f45131ddcf7e5dd420561ccb1057d2ca9871e895d818a0e0b049e3f41f2dde.
+
+- 2026-10-27_172503UTC — rib staged Scripture release; 2 verses; previous EPUB archived rendered-documents-history/2026-10-27_172503UTC/the-way-current.epub; SHA-256 5fd2cbd9544e95e69abbb6fc74d9fde16553fa42cc95b4b79d196098486757e9.
