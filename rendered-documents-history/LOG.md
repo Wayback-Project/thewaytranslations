@@ -57,3 +57,5 @@
 - 2026-10-15_084452UTC — Genesis 2–5 person-language 10-verse release; archive rendered-documents-history/2026-10-15_084452UTC/the-way-current.epub; new SHA-256 785a21b93491ca5433f0bfaff849cfd7eb6f42957072cd5fe722a60dfb0d0a90.
 
 - 2026-10-19_153856UTC — Nine NT source-name/Greek gloss verse fixes; prior EPUB archive rendered-documents-history/2026-10-19_153856UTC/the-way-current.epub; new SHA-256 34d774bf0ed3a5e1f628adca9da3bcb9b91db5d247fd41d435447496694aaba1.
+
+- 2026-10-27_172442UTC — sovereign staged Scripture release; 4 verses; previous EPUB archived rendered-documents-history/2026-10-27_172442UTC/the-way-current.epub; SHA-256 8454b4676d3c1766755f59fa234bddea57a30062d6d405eb80f368ea526ad784.

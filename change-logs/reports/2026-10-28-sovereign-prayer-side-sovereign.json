@@ -1,0 +1,74 @@
+{
+  "release": "2026-10-28 Sovereign / interpretive Aramaic-sensitive Lord's Prayer / Genesis side FINAL",
+  "stage": "sovereign",
+  "date": "2026-10-27T17:24:42Z",
+  "priorEpubSha256": "34d774bf0ed3a5e1f628adca9da3bcb9b91db5d247fd41d435447496694aaba1",
+  "releasedEpubSha256": "8454b4676d3c1766755f59fa234bddea57a30062d6d405eb80f368ea526ad784",
+  "changedVerseCount": 4,
+  "changes": [
+    {
+      "slug": "matthew",
+      "chapter": 25,
+      "verse": 34,
+      "reference": "matthew 25:34",
+      "original": "Then the King will tell those on his right hand, 'Come, blessed of my Cosmic Parent, inherit the reign prepared for you from the foundation of the world;",
+      "final": "Then the Sovereign will tell those on his right hand, 'Come, blessed of my Cosmic Parent, inherit the reign prepared for you from the foundation of the world;",
+      "rationale": "Yeshua identified as the Human One in 25:31. Greek basileus means king; Sovereign is intentional TWV interpretive authority title, not removal of a God reference."
+    },
+    {
+      "slug": "matthew",
+      "chapter": 25,
+      "verse": 40,
+      "reference": "matthew 25:40",
+      "original": "\"The King will answer them, 'Most certainly I tell you, inasmuch as you did it to one of the least of these my brothers, you did it to me.'",
+      "final": "\"The Sovereign will answer them, 'Most certainly I tell you, inasmuch as you did it to one of the least of these my brothers, you did it to me.'",
+      "rationale": "Identical christological referent to 25:34; preserve brothers pending separate adelphoi review."
+    },
+    {
+      "slug": "revelation",
+      "chapter": 17,
+      "verse": 14,
+      "reference": "revelation 17:14",
+      "original": "These will war against the Lamb, and the Lamb will overcome them, for he is Master of masters, and King of kings. They also will overcome who are with him, called and chosen and faithful.\"",
+      "final": "These will war against the Lamb, and the Lamb will overcome them, for he is Master of masters, and Sovereign of sovereigns. They also will overcome who are with him, called and chosen and faithful.\"",
+      "rationale": "Greek kyrios/masters and basileus/kings each retained conceptually while aligning Yeshua sovereign title."
+    },
+    {
+      "slug": "revelation",
+      "chapter": 19,
+      "verse": 16,
+      "reference": "revelation 19:16",
+      "original": "He has on his garment and on his thigh a name written, \"KING OF KINGS AND SOVEREIGN OF SOVEREIGNS.\"",
+      "final": "He has on his garment and on his thigh a name written, \"SOVEREIGN OF SOVEREIGNS AND MASTER OF MASTERS.\"",
+      "rationale": "Greek basileus basileon kai kyrios kyrion source order restored; TWV Sovereign for basileus, Master for kyrios."
+    }
+  ],
+  "archivedPriorEpub": "rendered-documents-history/2026-10-27_172442UTC/the-way-current.epub",
+  "canonicalFallback": {
+    "schemaVersion": 1,
+    "releaseId": "canonical-8454b4676d3c1766",
+    "canonicalEpubSha256": "8454b4676d3c1766755f59fa234bddea57a30062d6d405eb80f368ea526ad784",
+    "generatedAt": "2026-10-27T17:24:42Z",
+    "contentSha256": "d8d0071bec4e1c421d2e34faf918ad9b7024165040ace1ded2f0fcfc0bd8b787",
+    "contentBytes": 30153807,
+    "contentUrl": "https://raw.githubusercontent.com/Wayback-Project/thewaytranslations/main/current-form-documents/mobile-reader/content.json",
+    "source": "canonical-github-fallback",
+    "bookCount": 66,
+    "chapterCount": 1189,
+    "verseSearchCount": 31102
+  },
+  "qa": {
+    "exactApprovedDiff": true,
+    "unchangedVerses": 31098,
+    "epubZipXmlLinks": "pass"
+  },
+  "methodology": [
+    "Peshitta Syriac Aramaic is a historical witness, not verifiable verbatim Galilean Aramaic.",
+    "Neil Douglas-Klotz Prayers of the Cosmos is interpretive poetic inspiration, not the exact lexical meaning of the Syriac.",
+    "Literal Greek/Syriac senses retained where practical; inner insight, purpose, mistakes binding, unripeness, surface delusion are intentional interpretive expansions.",
+    "King of Judeans historical inscriptions and political quotations are unchanged; God already Sovereign in previous editorial release.",
+    "Genesis side stage is LAST for current public canonical release and most recent public change-log entry."
+  ],
+  "printStatus": "Print Word/PDF not automatically updated",
+  "downstreamStatus": "Netlify reader and native mobile release must be verified separately"
+}

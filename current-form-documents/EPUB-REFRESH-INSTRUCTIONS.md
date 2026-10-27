@@ -111,3 +111,7 @@ Exactly 17 idiomatic grammar and semantic copyedits, preserving previous 666 ver
 ## 2026-10-20 Nine NT source-name / Greek gloss corrections
 
 Exact 9 verses across Acts, John, Matthew, Mark and Luke; new canonical SHA-256 34d774bf0ed3a5e1f628adca9da3bcb9b91db5d247fd41d435447496694aaba1. Greek alias / apostle-list fidelity and whole-Bible QA verified.
+
+## 2026-10-28 sovereign staged canonical release
+
+4 exact changed verses; canonical EPUB SHA-256 8454b4676d3c1766755f59fa234bddea57a30062d6d405eb80f368ea526ad784. See change-logs/reports/2026-10-28-sovereign-prayer-side-sovereign.json.
