@@ -1,0 +1,110 @@
+{
+  "release": "2026-10-28 Sovereign / interpretive Aramaic-sensitive Lord's Prayer / Genesis side FINAL",
+  "stage": "prayer",
+  "date": "2026-10-27T17:24:53Z",
+  "priorEpubSha256": "8454b4676d3c1766755f59fa234bddea57a30062d6d405eb80f368ea526ad784",
+  "releasedEpubSha256": "23f45131ddcf7e5dd420561ccb1057d2ca9871e895d818a0e0b049e3f41f2dde",
+  "changedVerseCount": 8,
+  "changes": [
+    {
+      "slug": "matthew",
+      "chapter": 6,
+      "verse": 9,
+      "reference": "matthew 6:9",
+      "original": "Pray, then, in this way: \"Our Cosmic Parent in the heavens, let your living name be made holy.\"",
+      "final": "Pray, then, in this way: \"Our Cosmic Parent in the heavens, may your name be held holy, and your presence awaken within us and shine through the way we live.",
+      "rationale": "Greek/syriac holy name retained; awakening and lived radiance are interpretation not lexical equivalence."
+    },
+    {
+      "slug": "matthew",
+      "chapter": 6,
+      "verse": 10,
+      "reference": "matthew 6:10",
+      "original": "Let your reign of unity come. Let your desire be done, as in the heavens, so also on earth.",
+      "final": "May your reign of unity grow among us. May your purpose take shape through our hearts and willing hands, on earth as in the heavens.",
+      "rationale": "Greek basileia and thelema/Syriac malkutha and sebyana support reign and will/desire; unity/participation are spiritual interpretation."
+    },
+    {
+      "slug": "matthew",
+      "chapter": 6,
+      "verse": 11,
+      "reference": "matthew 6:11",
+      "original": "Give us today our daily bread and insight for the way.",
+      "final": "Give us today the bread we need, the insight to understand our way, and nourishment to grow into our purpose.",
+      "rationale": "Bread needed/daily grounded in Greek epiousios and Syriac d-sunqanan; insight/purpose are interpretive expansions."
+    },
+    {
+      "slug": "matthew",
+      "chapter": 6,
+      "verse": 12,
+      "reference": "matthew 6:12",
+      "original": "Release us from our debts, as we also release our debtors.",
+      "final": "Release us from the debts and mistakes that bind us, as we release others from what we hold against them.",
+      "rationale": "Greek opheilemata debts retained; mistakes/binding are pastoral explanatory expansions (Douglas-Klotz inspired)."
+    },
+    {
+      "slug": "matthew",
+      "chapter": 6,
+      "verse": 13,
+      "reference": "matthew 6:13",
+      "original": "Do not let us enter the trial that is too great for us, but free us from what has gone sour and corrupt in us and around us. For yours is the reign, the power, and the glory forever. Amen.'",
+      "final": "Do not let surface things delude us or the trials of life cause us to lose our way. Free us from unripeness, from harm within and around us, and from all that holds us back from becoming whole. For yours is the reign, the power, and the glory, from age to age. Amen.'",
+      "rationale": "Testing and evil source senses preserved in trials/harm; surface delusion, unripeness and wholeness are poetic resonance, not directly Syriac lexemes. Doxology retained as textual/liturgical variant, flagged for notes."
+    },
+    {
+      "slug": "luke",
+      "chapter": 11,
+      "verse": 2,
+      "reference": "luke 11:2",
+      "original": "He said to them, \"When you pray, say: Our Cosmic Parent in the heavens, let your name be made holy. Let your reign come.",
+      "final": "He said to them, \"When you pray, say: Our Cosmic Parent in the heavens, may your name be held holy, and your presence awaken within us and shine through the way we live. May your reign of unity grow among us.",
+      "rationale": "Luke's shorter parallel retained; spiritual expansions align with Matthew but distinguish Luke's textual witnesses."
+    },
+    {
+      "slug": "luke",
+      "chapter": 11,
+      "verse": 3,
+      "reference": "luke 11:3",
+      "original": "Give us day by day our daily bread.",
+      "final": "Give us each day the bread we need, with insight for the way and nourishment to grow in purpose.",
+      "rationale": "Daily provision retained; insight/growing purpose are explicitly poetic spiritual application."
+    },
+    {
+      "slug": "luke",
+      "chapter": 11,
+      "verse": 4,
+      "reference": "luke 11:4",
+      "original": "Forgive us our moral failures, for we ourselves also forgive everyone who is indebted to us. Do not let us enter the trial that is too great for us, but free us from what has gone sour and corrupt in us and around us.'\"",
+      "final": "Release us from our moral failures and the debts that bind us, for we also release all who are indebted to us. Do not let surface things delude us or testing lead us astray; free us from unripeness, from harm within and around us, and all that holds us back from becoming whole.'\"",
+      "rationale": "Luke Greek hamartias/sins and indebted people preserved. Longer deliverance clause in this TWV textual tradition; interpretive material disclosed."
+    }
+  ],
+  "archivedPriorEpub": "rendered-documents-history/2026-10-27_172453UTC/the-way-current.epub",
+  "canonicalFallback": {
+    "schemaVersion": 1,
+    "releaseId": "canonical-23f45131ddcf7e5d",
+    "canonicalEpubSha256": "23f45131ddcf7e5dd420561ccb1057d2ca9871e895d818a0e0b049e3f41f2dde",
+    "generatedAt": "2026-10-27T17:24:53Z",
+    "contentSha256": "350b1e0129271b623d8e91f9a8d8780211c3b8a3b5446253ddec248abcc03cc5",
+    "contentBytes": 30156260,
+    "contentUrl": "https://raw.githubusercontent.com/Wayback-Project/thewaytranslations/main/current-form-documents/mobile-reader/content.json",
+    "source": "canonical-github-fallback",
+    "bookCount": 66,
+    "chapterCount": 1189,
+    "verseSearchCount": 31102
+  },
+  "qa": {
+    "exactApprovedDiff": true,
+    "unchangedVerses": 31094,
+    "epubZipXmlLinks": "pass"
+  },
+  "methodology": [
+    "Peshitta Syriac Aramaic is a historical witness, not verifiable verbatim Galilean Aramaic.",
+    "Neil Douglas-Klotz Prayers of the Cosmos is interpretive poetic inspiration, not the exact lexical meaning of the Syriac.",
+    "Literal Greek/Syriac senses retained where practical; inner insight, purpose, mistakes binding, unripeness, surface delusion are intentional interpretive expansions.",
+    "King of Judeans historical inscriptions and political quotations are unchanged; God already Sovereign in previous editorial release.",
+    "Genesis side stage is LAST for current public canonical release and most recent public change-log entry."
+  ],
+  "printStatus": "Print Word/PDF not automatically updated",
+  "downstreamStatus": "Netlify reader and native mobile release must be verified separately"
+}
