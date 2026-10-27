@@ -1,5 +1,12 @@
 # The Way Version
 
+## Current approved Bible — October 28, 2026 (Genesis side LATEST)
+
+The **current canonical whole-Bible EPUB** is `current-form-documents/the-way-current.epub`, SHA-256 `5fd2cbd9544e95e69abbb6fc74d9fde16553fa42cc95b4b79d196098486757e9`. Approved source-sensitive edits were released in three successive, fully verified finite Scripture stages: **Sovereign titles for Yeshua (4 verses), Greek/Syriac-aware interpretive Lord's Prayer (8 verses), and Genesis 2:21–22 Hebrew `tsela` as “side” (2 verses) LAST**. The most recent Scripture release is Genesis side, retaining the earlier Shaul/Paul and Kepha fixes.
+
+The Lord's Prayer intentionally draws on Neil Douglas-Klotz's poetic Aramaic reflections but **does not assert that inner awakening, insight, unripeness, surface delusion or purpose are literal words in the ancient Syriac**. See `tools/local/2026-10-28-sovereign-prayer-side-ledger.json` and exact dated release reports in `change-logs/reports/`. The website's production reader and two downloadable EPUB copies are generated from this same canonical file; the mobile app's remote content feed uses it as its only Scripture source. Native signed offline bundles and print master/PDF editions have independent update and verification cycles.
+
+
 > **Read now:** [Open the free web reader](https://thewayversion.com/app)  
 > **Learn more:** [TheWayVersion.com](https://thewayversion.com)  
 > **Download:** [Current whole-Bible EPUB](current-form-documents/the-way-current.epub)
