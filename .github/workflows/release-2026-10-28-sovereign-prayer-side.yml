@@ -1,0 +1,44 @@
+name: Release Sovereign, poetic-restorative prayer, then Genesis side LAST
+on:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/release-2026-10-28-sovereign-prayer-side.yml']
+permissions:
+  contents: write
+concurrency:
+  group: canonical-2026-10-28-sovereign-prayer-side
+  cancel-in-progress: false
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: {ref: main, fetch-depth: 0}
+      - uses: actions/setup-python@v5
+        with: {python-version: '3.12'}
+      - name: Release exact Scripture stages, Genesis side LAST
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          python3 -m py_compile tools/local/release_2026_10_28_sovereign_prayer_side.py
+          for stage in sovereign prayer rib; do
+            python3 tools/local/release_2026_10_28_sovereign_prayer_side.py --stage "$stage" --check-only
+            python3 tools/local/release_2026_10_28_sovereign_prayer_side.py --stage "$stage"
+            git add current-form-documents/the-way-current.epub current-form-documents/mobile-reader/ current-form-documents/original-name-registry.json
+            git add README.md current-form-documents/README.md current-form-documents/EPUB-REFRESH-INSTRUCTIONS.md
+            git add rendered-documents-history/ change-logs/reports/2026-10-28-sovereign-prayer-side-"$stage".json
+            git add editor-notes/consistency/2026-10-28-sovereign-prayer-side-"$stage".md
+            git diff --cached --quiet && { echo "No changed Scripture release output"; exit 1; }
+            git commit -m "Release $stage in the canonical Way Version Bible"
+            git push origin HEAD:main
+          done
+          python3 - <<'PY'
+          import json,hashlib
+          from pathlib import Path
+          report=json.loads(Path('change-logs/reports/2026-10-28-sovereign-prayer-side-rib.json').read_text())
+          h=hashlib.sha256(Path('current-form-documents/the-way-current.epub').read_bytes()).hexdigest()
+          assert h==report['releasedEpubSha256']
+          print('LATEST CANONICAL CHANGE = GENESIS SIDE; FINAL EPUB',h)
+          PY
