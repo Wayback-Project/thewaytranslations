@@ -1,0 +1,35 @@
+name: Audit divine pronoun residuals 2026-11-25
+on:
+  push:
+    branches:
+      - proposal/divine-pronoun-residual-audit-2026-11-25
+    paths:
+      - tools/local/audit_divine_pronoun_residuals_2026_11_25.py
+      - .github/workflows/audit-divine-pronoun-residuals-2026-11-25.yml
+permissions:
+  contents: write
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: proposal/divine-pronoun-residual-audit-2026-11-25
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Run read-only whole-Bible audit
+        run: python tools/local/audit_divine_pronoun_residuals_2026_11_25.py
+      - name: Commit audit outputs to proposal branch
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add change-logs/reports/2026-11-25-divine-pronoun-residual-audit.json                   change-logs/reports/2026-11-25-divine-pronoun-residual-audit.md                   change-logs/reports/2026-11-25-divine-pronoun-residual-candidates.tsv
+          if git diff --cached --quiet; then
+            echo "No audit output changes"
+          else
+            git commit -m "Record 2026-11-25 divine-pronoun residual audit"
+            git push origin HEAD:proposal/divine-pronoun-residual-audit-2026-11-25
+          fi
