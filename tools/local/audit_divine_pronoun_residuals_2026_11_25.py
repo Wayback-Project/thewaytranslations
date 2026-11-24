@@ -9,9 +9,11 @@ referents remain masculine unless separately reviewed.
 """
 from __future__ import annotations
 
-import csv, hashlib, html, json, re, zipfile
-from collections import Counter, defaultdict
+import csv, hashlib, json, re
+from collections import Counter
 from pathlib import Path
+
+import release_2026_09_30_kingdom_residuals as rel
 
 ROOT = Path(__file__).resolve().parents[2]
 EPUB = ROOT / "current-form-documents" / "the-way-current.epub"
@@ -61,26 +63,19 @@ def sha256(path: Path) -> str:
             h.update(chunk)
     return h.hexdigest()
 
-def visible(s: str) -> str:
-    return html.unescape(re.sub(r"<[^>]+>", "", s)).replace("\u00a0"," ").strip()
-
 def parse():
+    extracted=rel.collect_verses(EPUB, slugs=rel.ALL_SLUGS)
     rows=[]
-    with zipfile.ZipFile(EPUB) as z:
-        for member in z.namelist():
-            m=re.fullmatch(r"OEBPS/Text/(.+)\.xhtml", member)
-            if not m: continue
-            slug=m.group(1); book=BOOKS.get(slug,slug); chapter=None
-            raw=z.read(member).decode("utf-8")
-            for pm in re.finditer(r"<p\b(?P<a>[^>]*)>(?P<i>.*?)</p>", raw, re.I|re.S):
-                cm=re.search(rf'id=["\']ch-{re.escape(slug)}-(\d+)["\']', pm.group("a"), re.I)
-                if cm:
-                    chapter=int(cm.group(1)); continue
-                txt=visible(pm.group("i"))
-                vm=re.match(r"^(\d+)\.\s*(.*)$", txt, re.S)
-                if vm and chapter is not None:
-                    rows.append({"slug":slug,"book":book,"testament":"NT" if slug in NT else "OT",
-                                 "chapter":chapter,"verse":int(vm.group(1)),"text":vm.group(2).strip()})
+    for (slug, chapter, verse), text in extracted.items():
+        rows.append({
+            "slug": slug,
+            "book": BOOKS.get(slug, slug),
+            "testament": "NT" if slug in NT else "OT",
+            "chapter": chapter,
+            "verse": verse,
+            "text": text,
+        })
+    rows.sort(key=lambda v:(list(BOOKS).index(v["slug"]) if v["slug"] in BOOKS else 999, v["chapter"], v["verse"]))
     return rows
 
 def ref(v): return f"{v['book']} {v['chapter']}:{v['verse']}"
