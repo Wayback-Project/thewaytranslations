@@ -1,0 +1,62 @@
+name: Divine Consistency Check
+on:
+  push:
+    branches:
+      - release/divine-consistency-check-2026-11-25
+      - main
+    paths:
+      - tools/local/2026-11-25-divine-consistency-check-ledger.json
+      - tools/local/release_2026_11_25_divine_consistency_check.py
+      - .github/workflows/release-2026-11-25-divine-consistency-check.yml
+permissions:
+  contents: write
+concurrency:
+  group: canonical-divine-consistency-check-2026-11-25
+  cancel-in-progress: false
+jobs:
+  divine-consistency-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Compile release script
+        run: python3 -m py_compile tools/local/release_2026_11_25_divine_consistency_check.py
+      - name: Proposal branch exact-diff validation
+        if: github.ref_name == 'release/divine-consistency-check-2026-11-25'
+        run: python3 tools/local/release_2026_11_25_divine_consistency_check.py --check-only
+      - name: Authorized canonical release on main
+        if: github.ref_name == 'main'
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          python3 tools/local/release_2026_11_25_divine_consistency_check.py --check-only
+          python3 tools/local/release_2026_11_25_divine_consistency_check.py
+          git add current-form-documents/the-way-current.epub
+          git add current-form-documents/mobile-reader/
+          git add current-form-documents/original-name-registry.json
+          git add README.md current-form-documents/README.md current-form-documents/EPUB-REFRESH-INSTRUCTIONS.md
+          git add rendered-documents-history/
+          git add change-logs/reports/2026-11-25-divine-consistency-check.json
+          git add editor-notes/consistency/2026-11-25-divine-consistency-check.md
+          git diff --cached --quiet && { echo 'STOP: no canonical release outputs'; exit 1; }
+          git commit -m "Divine Consistency Check"
+          git push origin HEAD:main
+      - name: Verify released artifact after commit
+        if: github.ref_name == 'main'
+        run: |
+          python3 - <<'PY'
+          import hashlib,json
+          from pathlib import Path
+          report=json.loads(Path('change-logs/reports/2026-11-25-divine-consistency-check.json').read_text())
+          digest=hashlib.sha256(Path('current-form-documents/the-way-current.epub').read_bytes()).hexdigest()
+          assert digest==report['releasedEpubSha256']
+          assert report['changedVerseCount']==5
+          print('DIVINE CONSISTENCY CHECK RELEASED',digest)
+          PY
