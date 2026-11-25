@@ -1,0 +1,96 @@
+{
+  "release": "Divine Consistency Check",
+  "releaseDate": "2026-11-25",
+  "generatedAt": "2026-11-25T07:16:32Z",
+  "priorEpubSha256": "5fd2cbd9544e95e69abbb6fc74d9fde16553fa42cc95b4b79d196098486757e9",
+  "releasedEpubSha256": "3e15eac8b67f5579f2df8c706f9269e7533a03c80e16872adc739a7ff35c4432",
+  "changedVerseCount": 5,
+  "changedBooks": [
+    "exodus"
+  ],
+  "changes": [
+    {
+      "slug": "exodus",
+      "chapter": 14,
+      "verse": 25,
+      "reference": "Exodus 14:25",
+      "original": "He took off their chariot wheels, and they drove them heavily; so that the Egyptians said, \"Let's flee from the face of Israel, for YHWH fights for them against the Egyptians!\"",
+      "final": "YHWH took off their chariot wheels, and they drove them heavily; so that the Egyptians said, \"Let's flee from the face of Israel, for YHWH fights for them against the Egyptians!\"",
+      "rationale": "Exodus 14:24 names YHWH as the acting subject. Repeating YHWH avoids a masculine default for the divine referent without changing the surrounding human references."
+    },
+    {
+      "slug": "exodus",
+      "chapter": 33,
+      "verse": 14,
+      "reference": "Exodus 33:14",
+      "original": "He said, \"My presence will go with you, and I will give you rest.\"",
+      "final": "YHWH said, \"My presence will go with you, and I will give you rest.\"",
+      "rationale": "This is YHWH's reply to Moshe. The narrative subject is explicitly divine in context."
+    },
+    {
+      "slug": "exodus",
+      "chapter": 33,
+      "verse": 19,
+      "reference": "Exodus 33:19",
+      "original": "He said, \"I will make all my goodness pass before you, and will proclaim the name of YHWH before you. I will be gracious to whom I will be gracious, and will show mercy on whom I will show mercy.\"",
+      "final": "YHWH said, \"I will make all my goodness pass before you, and will proclaim the name of YHWH before you. I will be gracious to whom I will be gracious, and will show mercy on whom I will show mercy.\"",
+      "rationale": "The first-person speaker is YHWH. Only the narrative 'He said' is recast; the quoted divine first-person speech is unchanged."
+    },
+    {
+      "slug": "exodus",
+      "chapter": 35,
+      "verse": 34,
+      "reference": "Exodus 35:34",
+      "original": "He has put in his heart that he may teach, both he, and Oholiab, the son of Ahisamach, of the tribe of Dan.",
+      "final": "YHWH has put in his heart that he may teach, both he, and Oholiab, the son of Ahisamach, of the tribe of Dan.",
+      "rationale": "Only the first 'He' refers to YHWH. The later 'his/he/he' forms refer to Bezalel and are deliberately preserved as masculine human references.",
+      "protectedTokens": [
+        "his heart",
+        "he may teach",
+        "both he"
+      ]
+    },
+    {
+      "slug": "exodus",
+      "chapter": 35,
+      "verse": 35,
+      "reference": "Exodus 35:35",
+      "original": "He has filled them with wisdom of heart, to work all manner of workmanship, of the engraver, of the skillful workman, and of the embroiderer, in blue, in purple, in scarlet, and in fine linen, and of the weaver, even of those who do any workmanship, and of those who make skillful works.",
+      "final": "YHWH has filled them with wisdom of heart, to work all manner of workmanship, of the engraver, of the skillful workman, and of the embroiderer, in blue, in purple, in scarlet, and in fine linen, and of the weaver, even of those who do any workmanship, and of those who make skillful works.",
+      "rationale": "The surrounding Bezalel/Oholiab commissioning identifies YHWH as the one filling them with wisdom/skill."
+    }
+  ],
+  "archivedPriorEpub": "rendered-documents-history/2026-11-25_071632UTC/the-way-current.epub",
+  "canonicalFallback": {
+    "schemaVersion": 1,
+    "releaseId": "canonical-3e15eac8b67f5579",
+    "canonicalEpubSha256": "3e15eac8b67f5579f2df8c706f9269e7533a03c80e16872adc739a7ff35c4432",
+    "generatedAt": "2026-11-25T07:16:32Z",
+    "contentSha256": "e28fe6c8e12e18e42b2f7f9756a3c317da104c41454b0a47fed8d11698601890",
+    "contentBytes": 30156365,
+    "contentUrl": "https://raw.githubusercontent.com/Wayback-Project/thewaytranslations/main/current-form-documents/mobile-reader/content.json",
+    "source": "canonical-github-fallback",
+    "bookCount": 66,
+    "chapterCount": 1189,
+    "verseSearchCount": 31102
+  },
+  "policy": [
+    "Where a masculine English pronoun unmistakably refers to YHWH/Elohim/God, recast with the established divine name or title rather than selecting a grammatical gender for God.",
+    "This is a reader-consistency choice, not a claim about divine biological sex or a mechanical gender-neutralization rule.",
+    "Yeshua remains a historical male referent and retains masculine pronouns.",
+    "Concrete male human referents retain appropriate masculine pronouns.",
+    "Mixed-reference verses change only the token whose antecedent is unmistakably divine; Exodus 35:34 is the protected model."
+  ],
+  "oversightExplanation": "Earlier audits were strong at same-verse divine markers but could miss a masculine pronoun whose divine antecedent is carried across verse boundaries. The five Exodus rows below were confirmed by contextual review. Historical regression checking found no rollback of prior approved divine-pronoun corrections.",
+  "qa": {
+    "exactApprovedDiff": true,
+    "changedReferencesExactlyApprovedFive": true,
+    "onlyExodusEpubMemberChanged": true,
+    "mixedReferenceExodus35_34Protected": true,
+    "wholeBibleVerseCount": 31102,
+    "epubZipXmlLinks": "pass",
+    "priorApprovedRegressionCheck": "0 exact reversions / 0 masculine-pronoun reappearances in 1,366 prior approved rows"
+  },
+  "printStatus": "Print handoff must be updated separately; physical Word/PDF/proof not automatically changed.",
+  "downstreamStatus": "Website/Netlify reader, downloadable EPUB and native mobile release pins must be regenerated and verified separately."
+}

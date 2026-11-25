@@ -123,3 +123,7 @@ Exact 9 verses across Acts, John, Matthew, Mark and Luke; new canonical SHA-256 
 ## 2026-10-28 rib staged canonical release
 
 2 exact changed verses; canonical EPUB SHA-256 5fd2cbd9544e95e69abbb6fc74d9fde16553fa42cc95b4b79d196098486757e9. See change-logs/reports/2026-10-28-sovereign-prayer-side-rib.json.
+
+## 2026-11-25 Divine Consistency Check
+
+Five exact Exodus divine-referent consistency corrections: 14:25, 33:14, 33:19, 35:34, 35:35. Yeshua and human male pronouns remain protected; Exodus 35:34 changes only the divine first pronoun. Canonical EPUB SHA-256: `3e15eac8b67f5579f2df8c706f9269e7533a03c80e16872adc739a7ff35c4432`. See `../change-logs/reports/2026-11-25-divine-consistency-check.json`.

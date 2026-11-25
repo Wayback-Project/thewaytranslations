@@ -12,16 +12,20 @@ This folder holds the current canonical reading edition of **The Way Version**.
 |---|---|
 | Artifact | [`the-way-current.epub`](the-way-current.epub) |
 | Coverage | 66 books / 1,189 chapters |
-| SHA-256 | `5fd2cbd9544e95e69abbb6fc74d9fde16553fa42cc95b4b79d196098486757e9` |
-| Verified | October 28, 2026 |
+| SHA-256 | `3e15eac8b67f5579f2df8c706f9269e7533a03c80e16872adc739a7ff35c4432` |
+| Verified | November 25, 2026 |
 | Previous release | Archived under `rendered-documents-history/2026-09-12_1630UTC/` |
 
 This EPUB includes the completed whole-Bible divine-pronoun consistency update, the 2026-09-11 original-name / Genesis narrative consistency update (39 reviewed verse-level edits), and the 2026-09-12 1 Corinthians divine-pronoun residual cleanup (4 reviewed verse-level edits), plus the 2026-09-12 high-priority original-name restoration release and crucifixion-inscription alignment (4 reviewed verse-level edits); see the [latest release notes](../editor-notes/consistency/2026-09-11-original-name-consistency.md). Website and application copies are verified separately when synchronized. It is suitable for Kindle, Apple Books, tablets, phones, and most EPUB-compatible e-readers.
 
 
+### Latest released Divine Consistency Check — November 25, 2026
+
+Five exact Exodus verses (14:25; 33:14; 33:19; 35:34; 35:35) were context-reviewed and released. Only unmistakable YHWH-referent masculine English pronouns were recast with YHWH; Yeshua and human male referents remain masculine. Exodus 35:34 is the mixed-reference QA case: only the first divine `He` changes, while Bezalel's `his/he/he` forms remain. Canonical SHA-256: `3e15eac8b67f5579f2df8c706f9269e7533a03c80e16872adc739a7ff35c4432`. See `../change-logs/reports/2026-11-25-divine-consistency-check.json`.
+
 ### Latest released source-correction wave — October 28, 2026
 
-The latest current whole-Bible EPUB SHA-256 is `5fd2cbd9544e95e69abbb6fc74d9fde16553fa42cc95b4b79d196098486757e9`. Source-reviewed releases were published in order: (1) Matthew 25:34/40 and Revelation 17:14/19:16 Sovereign-title consistency (4 verses); (2) interpretive, Douglas-Klotz-inspired, Greek/Syriac-aware prayer in Matthew 6:9–13 and Luke 11:2–4 (8 verses); **(3) Genesis 2:21–22 “side,” instead of limiting Hebrew `tsela` to “rib,” FINAL and LATEST** (2 verses). Each step archived the preceding EPUB and recorded a full exact verse-level diff. Old original-name, Genesis man/woman, and other prior releases remain preserved.
+The latest current whole-Bible EPUB SHA-256 is `3e15eac8b67f5579f2df8c706f9269e7533a03c80e16872adc739a7ff35c4432`. Source-reviewed releases were published in order: (1) Matthew 25:34/40 and Revelation 17:14/19:16 Sovereign-title consistency (4 verses); (2) interpretive, Douglas-Klotz-inspired, Greek/Syriac-aware prayer in Matthew 6:9–13 and Luke 11:2–4 (8 verses); **(3) Genesis 2:21–22 “side,” instead of limiting Hebrew `tsela` to “rib,” FINAL and LATEST** (2 verses). Each step archived the preceding EPUB and recorded a full exact verse-level diff. Old original-name, Genesis man/woman, and other prior releases remain preserved.
 
 **Translation disclosure:** Inner awakening, spiritual insight, purpose, surface delusion, and unripeness are interpretive spiritual resonances, not attested one-to-one literal Aramaic translations. The Peshitta is a Syriac-language witness, not a verbatim preserved Galilean transcript. Review the release-specific notes under `editor-notes/consistency/2026-10-28-sovereign-prayer-side-*.md` and reports under `change-logs/reports/2026-10-28-sovereign-prayer-side-*.json`.
 
